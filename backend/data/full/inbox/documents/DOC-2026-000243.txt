@@ -1,0 +1,23 @@
+From: billing@cobalt.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/01211 from Cobalt Trading LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Cobalt Trading LLC
+Vendor Tax ID: 11-1434613
+Invoice #: INV/2026/01211
+Invoice Date (DD/MM/YYYY): 17/02/2026
+Purchase Order: PO-2026-000060
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 112 | @ $15.25 | TX12 | $1,708.00
+
+Subtotal: $1,708.00
+Tax: $204.96
+Amount Due: $1,912.96
+
+Regards,
+Billing Team

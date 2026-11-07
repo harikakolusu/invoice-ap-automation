@@ -1,0 +1,26 @@
+From: billing@oakridge.example
+To: ap-inbox@buyer.example
+Subject: Invoice 042758 from Oakridge Maintenance Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Oakridge Maintenance Ltd
+Vendor Tax ID: 88-9073522
+Invoice #: 042758
+Invoice Date (DD/MM/YYYY): 24/05/2026
+Purchase Order: PO-2026-000751
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0001 | A4 Copy Paper 5 reams | qty 56 | @ $76.70 | TX12 | $4,295.20
+- SKU-MRO-0004 | V-Belt A42 | qty 58 | @ $52.10 | TX18 | $3,021.80
+- SKU-OFF-0002 | Ballpoint Pens 12pk | qty 117 | @ $38.40 | TX12 | $4,492.80
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 5 | @ $20.28 | TX18 | $101.40
+
+Subtotal: $11,911.20
+Tax: $1,616.73
+Amount Due: $13,527.93
+
+Regards,
+Billing Team

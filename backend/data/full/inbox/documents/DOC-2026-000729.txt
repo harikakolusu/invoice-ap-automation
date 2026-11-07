@@ -1,0 +1,19 @@
+Pinnacle Office Solutions Inc.
+Tax ID: 46-4970646
+Remit to: Accounts Receivable, Pinnacle Office Solutions Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/05283
+Invoice Date:    April 8, 2026
+PO Number:       PO-2026-000479
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0002   Ballpoint Pens 12pk                 55       34.98  TX12     1,923.90
+
+                                                  Subtotal:         1,923.90
+                                                  Tax:                230.87
+                                                  TOTAL DUE:        2,154.77

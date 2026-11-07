@@ -1,0 +1,19 @@
+Cobalt Trading GmbH
+Tax ID: 84-7599039
+Remit to: Accounts Receivable, Cobalt Trading GmbH
+
+                                INVOICE
+Invoice No:      COBA-51145
+Invoice Date:    2026-07-08
+PO Number:       PO-2026-001133
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0004   V-Belt A42                          13       49.10  TX18       638.30
+
+                                                  Subtotal:           638.30
+                                                  Tax:                114.89
+                                                  TOTAL DUE:          753.19

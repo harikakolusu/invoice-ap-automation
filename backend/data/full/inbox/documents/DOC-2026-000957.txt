@@ -1,0 +1,24 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/40766 from Summit Facility Services Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Facility Services Pvt Ltd
+Vendor Tax ID: 35-7534975
+Invoice #: INV/2026/40766
+Invoice Date (DD/MM/YYYY): 06/05/2026
+Purchase Order: PO-2026-000700
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 1 | @ $66.51 | TX18 | $66.51
+- SKU-ITH-0007 | SSD 1TB NVMe | qty 12 | @ $51.30 | TX18 | $615.60
+
+Subtotal: $682.11
+Tax: $122.78
+Amount Due: $804.89
+
+Regards,
+Billing Team

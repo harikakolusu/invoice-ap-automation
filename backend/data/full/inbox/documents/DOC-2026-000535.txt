@@ -1,0 +1,23 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/38741 from Keystone Materials Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Materials Inc.
+Vendor Tax ID: 91-6633517
+Invoice #: INV/2026/38741
+Invoice Date (DD/MM/YYYY): 18/03/2026
+Purchase Order: PO-2026-000354
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 12 | @ $4.91 | TX18 | $58.92
+
+Subtotal: $58.92
+Tax: $10.61
+Amount Due: $69.53
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice 037533 from Horizon Materials Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Materials Inc.
+Vendor Tax ID: 20-4998994
+Invoice #: 037533
+Invoice Date (DD/MM/YYYY): 05/07/2026
+Purchase Order: PO-2026-001273
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 713 | @ $19.78 | TX12 | $14,103.14
+
+Subtotal: $14,103.14
+Tax: $1,692.38
+Amount Due: $15,795.52
+
+Regards,
+Billing Team

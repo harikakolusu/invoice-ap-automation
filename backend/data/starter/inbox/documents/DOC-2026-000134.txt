@@ -1,0 +1,19 @@
+Apex Industrial Supply Ltd
+Tax ID: 28-4401299
+Remit to: Accounts Receivable, Apex Industrial Supply Ltd
+
+                                INVOICE
+Invoice No:      APEX53316
+Invoice Date:    June 16, 2026
+PO Number:       PO-2026-000093
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0001   Safety Gloves Nitrile              161        4.81  TX18       774.41
+
+                                                  Subtotal:           774.41
+                                                  Tax:                139.39
+                                                  TOTAL DUE:          913.80

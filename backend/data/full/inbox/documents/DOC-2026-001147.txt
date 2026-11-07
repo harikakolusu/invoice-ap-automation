@@ -1,0 +1,25 @@
+From: billing@lakeside.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/45609 from Lakeside Materials LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lakeside Materials LLC
+Vendor Tax ID: 78-3700831
+Invoice #: INV/2026/45609
+Invoice Date (DD/MM/YYYY): 27/05/2026
+Purchase Order: PO-2026-000862
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0005 | Epoxy Resin 5L | qty 17 | @ $9.80 | TX05 | $166.60
+- SKU-RAW-0004 | ABS Pellets 25kg | qty 101 | @ $5.83 | TX05 | $588.83
+- SKU-ITH-0008 | Server RAM 32GB | qty 3 | @ $64.31 | TX18 | $192.93
+
+Subtotal: $948.36
+Tax: $72.50
+Amount Due: $1,020.86
+
+Regards,
+Billing Team

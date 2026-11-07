@@ -1,0 +1,19 @@
+Lakeside Systems Inc.
+Tax ID: 19-3507758
+Remit to: Accounts Receivable, Lakeside Systems Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/48966
+Invoice Date:    July 14, 2026
+PO Number:       PO-2026-001245
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0005   USB-C Hub 7-port                     6       54.82  TX18       328.92
+
+                                                  Subtotal:           328.92
+                                                  Tax:                 59.21
+                                                  TOTAL DUE:          388.13

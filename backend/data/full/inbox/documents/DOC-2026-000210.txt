@@ -1,0 +1,23 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10108 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10108
+Invoice Date (DD/MM/YYYY): 17/02/2026
+Purchase Order: PO-2026-000195
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 7 | @ $18.36 | TX18 | $128.52
+
+Subtotal: $128.52
+Tax: $23.13
+Amount Due: $151.65
+
+Regards,
+Billing Team

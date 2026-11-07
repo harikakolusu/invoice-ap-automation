@@ -1,0 +1,23 @@
+From: billing@pinnacle.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/20444 from Pinnacle Materials LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Pinnacle Materials LLC
+Vendor Tax ID: 23-4525947
+Invoice #: INV/2026/20444
+Invoice Date (DD/MM/YYYY): 20/03/2026
+Purchase Order: PO-2026-000518
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 39 | @ $21.50 | TX12 | $838.50
+
+Subtotal: $838.50
+Tax: $100.62
+Amount Due: $939.12
+
+Regards,
+Billing Team

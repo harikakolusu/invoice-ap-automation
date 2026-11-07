@@ -1,0 +1,23 @@
+From: billing@granite.example
+To: ap-inbox@buyer.example
+Subject: Invoice GRAN33419 from Granite Metals Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Granite Metals Ltd
+Vendor Tax ID: 14-5381924
+Invoice #: GRAN33419
+Invoice Date (DD/MM/YYYY): 10/02/2026
+Purchase Order: PO-2026-000246
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 290 | @ $2.13 | TX12 | $617.70
+
+Subtotal: $617.70
+Tax: $74.12
+Amount Due: $691.82
+
+Regards,
+Billing Team

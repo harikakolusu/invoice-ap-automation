@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-17227 from Horizon Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Electronics GmbH
+Vendor Tax ID: 54-0965743
+Invoice #: HORI-17227
+Invoice Date (DD/MM/YYYY): 25/04/2026
+Purchase Order: PO-2026-000500
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0007 | Desk Organizer | qty 4 | @ $86.26 | TX12 | $345.04
+
+Subtotal: $345.04
+Tax: $41.40
+Amount Due: $386.44
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@delta.example
+To: ap-inbox@buyer.example
+Subject: Invoice DELT-35604 from Delta Systems LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Delta Systems LLC
+Vendor Tax ID: 87-5083825
+Invoice #: DELT-35604
+Invoice Date (DD/MM/YYYY): 12/03/2026
+Purchase Order: PO-2026-000292
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 141 | @ $8.67 | TX18 | $1,222.47
+
+Subtotal: $1,222.47
+Tax: $220.04
+Amount Due: $1,442.51
+
+Regards,
+Billing Team

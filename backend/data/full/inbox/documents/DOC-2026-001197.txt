@@ -1,0 +1,19 @@
+Quanta Equipment LLC
+Tax ID: 43-7543725
+Remit to: Accounts Receivable, Quanta Equipment LLC
+
+                                INVOICE
+Invoice No:      003653
+Invoice Date:    June 1, 2026
+PO Number:       PO-2026-000753
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0008   Air Filter Panel                     4        8.55  TX18        34.20
+
+                                                  Subtotal:            34.20
+                                                  Tax:                  6.16
+                                                  TOTAL DUE:           40.36

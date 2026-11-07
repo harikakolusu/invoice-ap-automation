@@ -1,0 +1,19 @@
+Crescent Equipment LLC
+Tax ID: 51-3791377
+Remit to: Accounts Receivable, Crescent Equipment LLC
+
+                                INVOICE
+Invoice No:      CRES-56859
+Invoice Date:    June 25, 2026
+PO Number:       PO-2026-001018
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0001   Laptop 14in i7                       2       55.14  TX18       110.28
+
+                                                  Subtotal:           110.28
+                                                  Tax:                 19.85
+                                                  TOTAL DUE:          130.13

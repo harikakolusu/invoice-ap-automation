@@ -1,0 +1,23 @@
+From: billing@vertex.example
+To: ap-inbox@buyer.example
+Subject: Invoice VERT-35099 from Vertex Facility Services Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Vertex Facility Services Inc.
+Vendor Tax ID: 46-5683378
+Invoice #: VERT-35099
+Invoice Date (DD/MM/YYYY): 25/03/2026
+Purchase Order: PO-2026-000288
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 6 | @ $65.40 | TX05 | $392.40
+
+Subtotal: $392.40
+Tax: $19.62
+Amount Due: $412.02
+
+Regards,
+Billing Team

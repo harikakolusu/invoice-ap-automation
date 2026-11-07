@@ -1,0 +1,23 @@
+From: billing@evergreen.example
+To: ap-inbox@buyer.example
+Subject: Invoice EVER-40686 from Evergreen Polymers GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Evergreen Polymers GmbH
+Vendor Tax ID: 34-6678999
+Invoice #: EVER-40686
+Invoice Date (DD/MM/YYYY): 27/03/2026
+Purchase Order: PO-2026-000397
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 56 | @ $146.48 | TX05 | $8,202.88
+
+Subtotal: $8,202.88
+Tax: $410.14
+Amount Due: $8,613.02
+
+Regards,
+Billing Team

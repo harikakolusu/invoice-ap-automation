@@ -1,0 +1,21 @@
+Orion Office Solutions LLC
+Tax ID: 30-0991923
+Remit to: Accounts Receivable, Orion Office Solutions LLC
+
+                                INVOICE
+Invoice No:      INV/2026/31144
+Invoice Date:    2026-03-31
+PO Number:       PO-2026-000411
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0006   Network Switch 24P                   1      411.40  TX18       411.40
+ 2  SKU-ITH-0001   Laptop 14in i7                       2       63.90  TX18       127.80
+ 3  SKU-OFF-0001   A4 Copy Paper 5 reams               10       72.21  TX12       722.10
+
+                                                  Subtotal:         1,261.30
+                                                  Tax:                183.70
+                                                  TOTAL DUE:        1,445.00

@@ -1,0 +1,24 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10181 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10181
+Invoice Date (DD/MM/YYYY): 17/05/2026
+Purchase Order: PO-2026-000877
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 21 | @ $7.86 | TX18 | $165.06
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 55 | @ $4.55 | TX18 | $250.25
+
+Subtotal: $415.31
+Tax: $74.76
+Amount Due: $490.07
+
+Regards,
+Billing Team

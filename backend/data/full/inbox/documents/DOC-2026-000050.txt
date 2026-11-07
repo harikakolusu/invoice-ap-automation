@@ -1,0 +1,19 @@
+Redwood Polymers Ltd
+Tax ID: 66-1332610
+Remit to: Accounts Receivable, Redwood Polymers Ltd
+
+                                INVOICE
+Invoice No:      018954
+Invoice Date:    January 28, 2026
+PO Number:       PO-2026-000003
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0005   Epoxy Resin 5L                      20       10.04  TX05       200.80
+
+                                                  Subtotal:           200.80
+                                                  Tax:                 10.04
+                                                  TOTAL DUE:          210.84

@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/35005 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/35005
+Invoice Date (DD/MM/YYYY): 11/07/2026
+Purchase Order: PO-2026-001270
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 100 | @ $277.20 | TX18 | $27,720.00
+
+Subtotal: $27,720.00
+Tax: $4,989.60
+Amount Due: $32,709.60
+
+Regards,
+Billing Team

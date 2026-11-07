@@ -1,0 +1,23 @@
+From: billing@delta.example
+To: ap-inbox@buyer.example
+Subject: Invoice DELT-35600 from Delta Systems LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Delta Systems LLC
+Vendor Tax ID: 87-5083825
+Invoice #: DELT-35600
+Invoice Date (DD/MM/YYYY): 05/02/2026
+Purchase Order: PO-2026-000100
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 136 | @ $230.45 | TX18 | $31,341.20
+
+Subtotal: $31,341.20
+Tax: $5,641.42
+Amount Due: $36,982.62
+
+Regards,
+Billing Team

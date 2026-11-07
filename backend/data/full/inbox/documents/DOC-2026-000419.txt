@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56707 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56707
+Invoice Date (DD/MM/YYYY): 04/03/2026
+Purchase Order: PO-2026-000232
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0001 | A4 Copy Paper 5 reams | qty 10 | @ $75.75 | TX12 | $757.50
+
+Subtotal: $757.50
+Tax: $90.90
+Amount Due: $848.40
+
+Regards,
+Billing Team

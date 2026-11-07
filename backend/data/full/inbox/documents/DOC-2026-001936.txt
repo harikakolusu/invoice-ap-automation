@@ -1,0 +1,19 @@
+Pinnacle Logistics Pvt Ltd
+Tax ID: 37-6744274
+Remit to: Accounts Receivable, Pinnacle Logistics Pvt Ltd
+
+                                INVOICE
+Invoice No:      PINN-32845
+Invoice Date:    2026-08-14
+PO Number:       PO-2026-001260
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0003   Copper Wire 2.5mm                    8      162.86  TX05     1,302.88
+
+                                                  Subtotal:         1,302.88
+                                                  Tax:                 65.14
+                                                  TOTAL DUE:        1,368.02

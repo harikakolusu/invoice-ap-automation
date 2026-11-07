@@ -1,0 +1,23 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/40774 from Summit Facility Services Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Facility Services Pvt Ltd
+Vendor Tax ID: 35-7534975
+Invoice #: INV/2026/40774
+Invoice Date (DD/MM/YYYY): 18/05/2026
+Purchase Order: PO-2026-000697
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 1 | @ $59.01 | TX18 | $59.01
+
+Subtotal: $59.01
+Tax: $10.62
+Amount Due: $69.63
+
+Regards,
+Billing Team

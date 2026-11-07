@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice 008139 from Quanta Trading Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Trading Pvt Ltd
+Vendor Tax ID: 56-7054910
+Invoice #: 008139
+Invoice Date (DD/MM/YYYY): 18/07/2026
+Purchase Order: PO-2026-001214
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 7 | @ $2.70 | TX05 | $18.90
+
+Subtotal: $18.90
+Tax: $0.95
+Amount Due: $19.85
+
+Regards,
+Billing Team

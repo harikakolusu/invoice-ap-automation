@@ -1,0 +1,23 @@
+From: billing@beacon.example
+To: ap-inbox@buyer.example
+Subject: Invoice BEAC-32067 from Beacon Trading Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Beacon Trading Inc.
+Vendor Tax ID: 73-4697372
+Invoice #: BEAC-32067
+Invoice Date (DD/MM/YYYY): 18/04/2026
+Purchase Order: PO-2026-000564
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 22 | @ $5.85 | TX18 | $128.70
+
+Subtotal: $128.70
+Tax: $23.17
+Amount Due: $151.87
+
+Regards,
+Billing Team

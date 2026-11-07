@@ -1,0 +1,25 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-43977 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-43977
+Invoice Date (DD/MM/YYYY): 20/03/2026
+Purchase Order: PO-2026-000513
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 31 | @ $4.27 | TX05 | $132.37
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 56 | @ $6.63 | TX18 | $371.28
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 256 | @ $8.53 | TX05 | $2,183.68
+
+Subtotal: $2,687.33
+Tax: $182.63
+Amount Due: $2,869.96
+
+Regards,
+Billing Team

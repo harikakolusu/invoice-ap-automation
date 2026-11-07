@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017135 from Horizon Tech Components Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Tech Components Co.
+Vendor Tax ID: 82-2670433
+Invoice #: 017135
+Invoice Date (DD/MM/YYYY): 12/07/2026
+Purchase Order: PO-2026-001147
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 4 | @ $52.57 | TX18 | $210.28
+- SKU-ITH-0004 | Wireless Keyboard | qty 3 | @ $43.60 | TX18 | $130.80
+
+Subtotal: $341.08
+Tax: $61.39
+Amount Due: $402.47
+
+Regards,
+Billing Team

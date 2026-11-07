@@ -1,0 +1,23 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice SUMM-29634 from Summit Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Trading Co.
+Vendor Tax ID: 87-3797160
+Invoice #: SUMM-29634
+Invoice Date (DD/MM/YYYY): 13/02/2026
+Purchase Order: PO-2026-000166
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0001 | Drinking Water 20L | qty 54 | @ $3.44 | TX05 | $185.76
+
+Subtotal: $185.76
+Tax: $9.29
+Amount Due: $195.05
+
+Regards,
+Billing Team

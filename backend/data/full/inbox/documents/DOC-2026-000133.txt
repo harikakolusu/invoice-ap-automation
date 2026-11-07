@@ -1,0 +1,19 @@
+Frontier Logistics GmbH
+Tax ID: 57-9728928
+Remit to: Accounts Receivable, Frontier Logistics GmbH
+
+                                INVOICE
+Invoice No:      FRON-48536
+Invoice Date:    2026-02-07
+PO Number:       PO-2026-000173
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0005   Packing Tape 36pk                   79       36.73  TX12     2,901.67
+
+                                                  Subtotal:         2,901.67
+                                                  Tax:                348.20
+                                                  TOTAL DUE:        3,249.87

@@ -1,0 +1,25 @@
+From: billing@lumen.example
+To: ap-inbox@buyer.example
+Subject: Invoice LUME-58038 from Lumen Logistics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lumen Logistics Pvt Ltd
+Vendor Tax ID: 28-6404535
+Invoice #: LUME-58038
+Invoice Date (DD/MM/YYYY): 26/04/2026
+Purchase Order: PO-2026-000615
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 6 | @ $18.22 | TX18 | $109.32
+- SKU-MRO-0006 | Welding Rods 5kg | qty 36 | @ $9.64 | TX18 | $347.04
+- SKU-PKG-0002 | Stretch Film Roll | qty 1308 | @ $2.07 | TX12 | $2,707.56
+
+Subtotal: $3,163.92
+Tax: $407.06
+Amount Due: $3,570.98
+
+Regards,
+Billing Team

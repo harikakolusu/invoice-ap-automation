@@ -1,0 +1,23 @@
+From: billing@sierra.example
+To: ap-inbox@buyer.example
+Subject: Invoice SIER-20099 from Sierra Office Solutions Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Sierra Office Solutions Inc.
+Vendor Tax ID: 51-8550157
+Invoice #: SIER-20099
+Invoice Date (DD/MM/YYYY): 21/03/2026
+Purchase Order: PO-2026-000401
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 7 | @ $4.61 | TX18 | $32.27
+
+Subtotal: $32.27
+Tax: $5.81
+Amount Due: $38.08
+
+Regards,
+Billing Team

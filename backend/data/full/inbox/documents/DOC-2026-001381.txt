@@ -1,0 +1,19 @@
+Orion Trading Inc.
+Tax ID: 92-6716082
+Remit to: Accounts Receivable, Orion Trading Inc.
+
+                                INVOICE
+Invoice No:      012020
+Invoice Date:    2026-06-17
+PO Number:       PO-2026-001143
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0007   Desk Organizer                     101       97.75  TX12     9,872.75
+
+                                                  Subtotal:         9,872.75
+                                                  Tax:              1,184.73
+                                                  TOTAL DUE:       11,057.48

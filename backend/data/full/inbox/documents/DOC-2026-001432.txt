@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44422 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44422
+Invoice Date (DD/MM/YYYY): 22/06/2026
+Purchase Order: PO-2026-001008
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0004 | ABS Pellets 25kg | qty 411 | @ $5.99 | TX00 | $2,461.89
+
+Subtotal: $2,461.89
+Tax: $0.00
+Amount Due: $2,461.89
+
+Regards,
+Billing Team

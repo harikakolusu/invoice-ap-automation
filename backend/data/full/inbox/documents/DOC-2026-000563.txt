@@ -1,0 +1,25 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice SUMM-29637 from Summit Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Trading Co.
+Vendor Tax ID: 87-3797160
+Invoice #: SUMM-29637
+Invoice Date (DD/MM/YYYY): 18/03/2026
+Purchase Order: PO-2026-000503
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0001 | Drinking Water 20L | qty 133 | @ $3.52 | TX05 | $468.16
+- SKU-ITH-0008 | Server RAM 32GB | qty 3 | @ $68.15 | TX18 | $204.45
+- SKU-ITH-0004 | Wireless Keyboard | qty 12 | @ $44.95 | TX18 | $539.40
+
+Subtotal: $1,212.01
+Tax: $157.30
+Amount Due: $1,369.31
+
+Regards,
+Billing Team

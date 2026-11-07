@@ -1,0 +1,23 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/38763 from Keystone Materials Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Materials Inc.
+Vendor Tax ID: 91-6633517
+Invoice #: INV/2026/38763
+Invoice Date (DD/MM/YYYY): 07/10/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0001 | IT Consulting Hour | qty 8 | @ $1,015.09 | TX18 | $8,120.72
+
+Subtotal: $8,120.72
+Tax: $1,461.73
+Amount Due: $9,582.45
+
+Regards,
+Billing Team

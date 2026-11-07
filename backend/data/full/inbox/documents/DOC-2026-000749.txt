@@ -1,0 +1,19 @@
+Keystone Packaging Pvt Ltd
+Tax ID: 98-2460041
+Remit to: Accounts Receivable, Keystone Packaging Pvt Ltd
+
+                                INVOICE
+Invoice No:      KEYS-34356
+Invoice Date:    April 9, 2026
+PO Number:       PO-2026-000315
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0004   Bubble Wrap Roll                   161        1.15  TX12       185.15
+
+                                                  Subtotal:           185.15
+                                                  Tax:                 22.22
+                                                  TOTAL DUE:          207.37

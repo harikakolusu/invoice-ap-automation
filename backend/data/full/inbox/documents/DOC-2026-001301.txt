@@ -1,0 +1,23 @@
+From: billing@boreal.example
+To: ap-inbox@buyer.example
+Subject: Invoice 037597 from Boreal Distribution LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Boreal Distribution LLC
+Vendor Tax ID: 64-4717804
+Invoice #: 037597
+Invoice Date (DD/MM/YYYY): 08/06/2026
+Purchase Order: PO-2026-001092
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-OFF-0002 | Ballpoint Pens 12pk | qty 5 | @ $38.08 | TX12 | $190.40
+
+Subtotal: $190.40
+Tax: $22.85
+Amount Due: $213.25
+
+Regards,
+Billing Team

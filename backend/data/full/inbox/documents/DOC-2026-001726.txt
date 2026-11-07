@@ -1,0 +1,23 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice UNIT-3014 from Unity Maintenance LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Maintenance LLC
+Vendor Tax ID: 12-6349454
+Invoice #: UNIT-3014
+Invoice Date (DD/MM/YYYY): 21/07/2026
+Purchase Order: PO-2026-001386
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 43 | @ $4.49 | TX18 | $193.07
+
+Subtotal: $193.07
+Tax: $34.75
+Amount Due: $227.82
+
+Regards,
+Billing Team

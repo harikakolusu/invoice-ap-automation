@@ -1,0 +1,23 @@
+From: billing@ironwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice IRON-33818 from Ironwood Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Ironwood Equipment Pvt Ltd
+Vendor Tax ID: 85-8745788
+Invoice #: IRON-33818
+Invoice Date (DD/MM/YYYY): 30/04/2026
+Purchase Order: PO-2026-000598
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 38 | @ $19.60 | TX18 | $744.80
+
+Subtotal: $744.80
+Tax: $134.06
+Amount Due: $878.86
+
+Regards,
+Billing Team

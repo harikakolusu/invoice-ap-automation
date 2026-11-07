@@ -1,0 +1,19 @@
+Monarch Distribution LLC
+Tax ID: 74-3357016
+Remit to: Accounts Receivable, Monarch Distribution LLC
+
+                                INVOICE
+Invoice No:      005947
+Invoice Date:    2026-02-15
+PO Number:       PO-2026-000096
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0001   Drinking Water 20L                  21        3.50  TX05        73.50
+
+                                                  Subtotal:            73.50
+                                                  Tax:                  3.68
+                                                  TOTAL DUE:           77.18

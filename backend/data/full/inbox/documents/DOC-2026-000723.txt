@@ -1,0 +1,23 @@
+From: billing@northstar.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/56689 from Northstar Metals Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Northstar Metals Inc.
+Vendor Tax ID: 66-6691131
+Invoice #: INV/2026/56689
+Invoice Date (DD/MM/YYYY): 08/04/2026
+Purchase Order: PO-2026-000573
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 340 | @ $7.66 | TX05 | $2,604.40
+
+Subtotal: $2,604.40
+Tax: $130.22
+Amount Due: $2,734.62
+
+Regards,
+Billing Team

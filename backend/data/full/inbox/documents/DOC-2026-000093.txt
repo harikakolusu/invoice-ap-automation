@@ -1,0 +1,19 @@
+Glacier Systems Co.
+Tax ID: 48-0419262
+Remit to: Accounts Receivable, Glacier Systems Co.
+
+                                INVOICE
+Invoice No:      INV/2026/36004
+Invoice Date:    February 4, 2026
+PO Number:       PO-2026-000031
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0005   Hex Bolts M10 100pk                 67       17.51  TX18     1,173.17
+
+                                                  Subtotal:         1,173.17
+                                                  Tax:                211.17
+                                                  TOTAL DUE:        1,384.34

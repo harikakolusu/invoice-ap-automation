@@ -1,0 +1,24 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44181 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44181
+Invoice Date (DD/MM/YYYY): 25/04/2026
+Purchase Order: PO-2026-000643
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 12 | @ $50.68 | TX18 | $608.16
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 16 | @ $8.06 | TX05 | $128.96
+
+Subtotal: $737.12
+Tax: $115.92
+Amount Due: $853.04
+
+Regards,
+Billing Team

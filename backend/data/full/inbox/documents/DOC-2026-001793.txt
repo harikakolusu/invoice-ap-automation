@@ -1,0 +1,19 @@
+Beacon Electronics Ltd
+Tax ID: 14-0488787
+Remit to: Accounts Receivable, Beacon Electronics Ltd
+
+                                INVOICE
+Invoice No:      BEAC-39359
+Invoice Date:    2026-07-26
+PO Number:       PO-2026-001313
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0006   Trash Bags 100pk                    18       13.82  TX05       248.76
+
+                                                  Subtotal:           248.76
+                                                  Tax:                 12.44
+                                                  TOTAL DUE:          261.20

@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017199 from Prairie Electronics Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Electronics Ltd
+Vendor Tax ID: 69-3025060
+Invoice #: 017199
+Invoice Date (DD/MM/YYYY): 18/06/2026
+Purchase Order: PO-2026-000895
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0007 | SSD 1TB NVMe | qty 13 | @ $47.84 | TX18 | $621.92
+
+Subtotal: $621.92
+Tax: $111.95
+Amount Due: $733.87
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@orion.example
+To: ap-inbox@buyer.example
+Subject: Invoice ORIO-37886 from Orion Equipment Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Orion Equipment Co.
+Vendor Tax ID: 12-7383664
+Invoice #: ORIO-37886
+Invoice Date (DD/MM/YYYY): 04/02/2026
+Purchase Order: PO-2026-000012
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 6 | @ $20.57 | TX18 | $123.42
+
+Subtotal: $123.42
+Tax: $22.22
+Amount Due: $145.64
+
+Regards,
+Billing Team

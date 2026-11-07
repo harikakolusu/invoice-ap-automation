@@ -1,0 +1,19 @@
+Glacier Distribution GmbH
+Tax ID: 11-3917320
+Remit to: Accounts Receivable, Glacier Distribution GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/33114
+Invoice Date:    2026-03-29
+PO Number:       PO-2026-000481
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0004   ABS Pellets 25kg                   184        5.48  TX05     1,008.32
+
+                                                  Subtotal:         1,008.32
+                                                  Tax:                 50.42
+                                                  TOTAL DUE:        1,058.74

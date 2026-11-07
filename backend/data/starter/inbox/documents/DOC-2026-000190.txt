@@ -1,0 +1,24 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice STRA-24106 from Strata Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Industrial Supply Pvt Ltd
+Vendor Tax ID: 70-9924066
+Invoice #: STRA-24106
+Invoice Date (DD/MM/YYYY): 04/08/2026
+Purchase Order: PO-2026-000137
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 33 | @ $52.15 | TX18 | $1,720.95
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 111 | @ $5.67 | TX05 | $629.37
+
+Subtotal: $2,350.32
+Tax: $341.24
+Amount Due: $2,691.56
+
+Regards,
+Billing Team

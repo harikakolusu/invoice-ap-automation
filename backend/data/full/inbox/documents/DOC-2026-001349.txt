@@ -1,0 +1,20 @@
+Monarch Logistics LLC
+Tax ID: 85-6725009
+Remit to: Accounts Receivable, Monarch Logistics LLC
+
+                                INVOICE
+Invoice No:      MONA-35867
+Invoice Date:    2026-06-12
+PO Number:       PO-2026-001015
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0008   Sticky Notes 24pk                   13       67.91  TX12       882.83
+ 2  SKU-PKG-0004   Bubble Wrap Roll                    86        1.17  TX12       100.62
+
+                                                  Subtotal:           983.45
+                                                  Tax:                118.01
+                                                  TOTAL DUE:        1,101.46

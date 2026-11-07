@@ -1,0 +1,19 @@
+Orion Electronics GmbH
+Tax ID: 28-0232261
+Remit to: Accounts Receivable, Orion Electronics GmbH
+
+                                INVOICE
+Invoice No:      037123
+Invoice Date:    February 27, 2026
+PO Number:       PO-2026-000101
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0006   Wooden Pallet EUR                  121       21.59  TX12     2,612.39
+
+                                                  Subtotal:         2,612.39
+                                                  Tax:                313.49
+                                                  TOTAL DUE:        2,925.88

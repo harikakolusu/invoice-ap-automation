@@ -1,0 +1,19 @@
+Cobalt Trading GmbH
+Tax ID: 84-7599039
+Remit to: Accounts Receivable, Cobalt Trading GmbH
+
+                                INVOICE
+Invoice No:      COBA-51112
+Invoice Date:    2026-03-23
+PO Number:       PO-2026-000353
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0007   Cable Ties 1000pk                   84      219.42  TX18    18,431.28
+
+                                                  Subtotal:        18,431.28
+                                                  Tax:              3,317.63
+                                                  TOTAL DUE:       21,748.91

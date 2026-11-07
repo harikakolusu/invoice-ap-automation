@@ -1,0 +1,23 @@
+From: billing@vertex.example
+To: ap-inbox@buyer.example
+Subject: Invoice VERT-35106 from Vertex Facility Services Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Vertex Facility Services Inc.
+Vendor Tax ID: 46-5683378
+Invoice #: VERT-35106
+Invoice Date (DD/MM/YYYY): 30/03/2026
+Purchase Order: PO-2026-000415
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 82 | @ $2.37 | TX05 | $194.34
+
+Subtotal: $194.34
+Tax: $9.72
+Amount Due: $204.06
+
+Regards,
+Billing Team

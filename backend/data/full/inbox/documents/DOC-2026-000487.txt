@@ -1,0 +1,23 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/42407 from Unity Trading Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Trading Pvt Ltd
+Vendor Tax ID: 20-9070105
+Invoice #: INV/2026/42407
+Invoice Date (DD/MM/YYYY): 15/03/2026
+Purchase Order: PO-2026-000340
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 44 | @ $2.33 | TX12 | $102.52
+
+Subtotal: $102.52
+Tax: $12.30
+Amount Due: $114.82
+
+Regards,
+Billing Team

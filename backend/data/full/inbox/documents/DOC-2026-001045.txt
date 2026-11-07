@@ -1,0 +1,24 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/42437 from Unity Trading Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Trading Pvt Ltd
+Vendor Tax ID: 20-9070105
+Invoice #: INV/2026/42437
+Invoice Date (DD/MM/YYYY): 16/05/2026
+Purchase Order: PO-2026-000810
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0006 | Trash Bags 100pk | qty 10 | @ $15.02 | TX05 | $150.20
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 152 | @ $17.27 | TX12 | $2,625.04
+
+Subtotal: $2,775.24
+Tax: $322.51
+Amount Due: $3,097.75
+
+Regards,
+Billing Team

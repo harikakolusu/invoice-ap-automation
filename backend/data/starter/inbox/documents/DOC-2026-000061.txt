@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice STRA-24027 from Strata Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Industrial Supply Pvt Ltd
+Vendor Tax ID: 70-9924066
+Invoice #: STRA-24027
+Invoice Date (DD/MM/YYYY): 05/04/2026
+Purchase Order: PO-2026-000054
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 42 | @ $8.79 | TX18 | $369.18
+
+Subtotal: $369.18
+Tax: $66.45
+Amount Due: $435.63
+
+Regards,
+Billing Team

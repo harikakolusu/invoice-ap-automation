@@ -1,0 +1,25 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59675 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59675
+Invoice Date (DD/MM/YYYY): 22/09/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0002 | Equipment Maintenance | qty 1 | @ $480.72 | TX18 | $480.72
+- SKU-SRV-0004 | Legal Advisory Hour | qty 1 | @ $859.92 | TX18 | $859.92
+- SKU-SRV-0005 | Software Subscription | qty 2 | @ $486.06 | TX18 | $972.12
+
+Subtotal: $2,312.76
+Tax: $416.30
+Amount Due: $2,729.06
+
+Regards,
+Billing Team

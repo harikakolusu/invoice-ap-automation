@@ -1,0 +1,19 @@
+Keystone Packaging Pvt Ltd
+Tax ID: 98-2460041
+Remit to: Accounts Receivable, Keystone Packaging Pvt Ltd
+
+                                INVOICE
+Invoice No:      KEYS-34331
+Invoice Date:    March 5, 2026
+PO Number:       PO-2026-000198
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0002   Stretch Film Roll                   26        2.24  TX12        58.24
+
+                                                  Subtotal:            58.24
+                                                  Tax:                  6.99
+                                                  TOTAL DUE:           65.23

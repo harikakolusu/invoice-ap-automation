@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44363 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44363
+Invoice Date (DD/MM/YYYY): 14/06/2026
+Purchase Order: PO-2026-000913
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0006 | PP Granules 25kg | qty 53 | @ $301.81 | TX05 | $15,995.93
+
+Subtotal: $15,995.93
+Tax: $799.80
+Amount Due: $16,795.73
+
+Regards,
+Billing Team

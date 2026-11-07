@@ -1,0 +1,25 @@
+From: billing@frontier.example
+To: ap-inbox@buyer.example
+Subject: Invoice FRON-1838 from Frontier Metals LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Frontier Metals LLC
+Vendor Tax ID: 57-9008691
+Invoice #: FRON-1838
+Invoice Date (DD/MM/YYYY): 01/06/2026
+Purchase Order: PO-2026-000841
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 86 | @ $8.04 | TX05 | $691.44
+- SKU-PKG-0001 | Corrugated Box Large | qty 135 | @ $9.07 | TX12 | $1,224.45
+- SKU-RAW-0006 | PP Granules 25kg | qty 19 | @ $329.94 | TX05 | $6,268.86
+
+Subtotal: $8,184.75
+Tax: $494.94
+Amount Due: $8,679.69
+
+Regards,
+Billing Team

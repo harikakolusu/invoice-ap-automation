@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/15638 from Strata Office Solutions Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Office Solutions Pvt Ltd
+Vendor Tax ID: 75-4538694
+Invoice #: INV/2026/15638
+Invoice Date (DD/MM/YYYY): 01/08/2026
+Purchase Order: PO-2026-001315
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0005 | Whiteboard Markers 8pk | qty 51 | @ $4.06 | TX12 | $207.06
+
+Subtotal: $207.06
+Tax: $24.85
+Amount Due: $231.91
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice MERI-28270 from Meridian Industrial Supply GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Industrial Supply GmbH
+Vendor Tax ID: 92-5275324
+Invoice #: MERI-28270
+Invoice Date (DD/MM/YYYY): 22/05/2026
+Purchase Order: PO-2026-000736
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-ITH-0004 | Wireless Keyboard | qty 15 | @ $44.27 | TX18 | $664.05
+
+Subtotal: $664.05
+Tax: $119.53
+Amount Due: $783.58
+
+Regards,
+Billing Team

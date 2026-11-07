@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/28408 from Strata Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Equipment Ltd
+Vendor Tax ID: 72-0960342
+Invoice #: INV/2026/28408
+Invoice Date (DD/MM/YYYY): 07/07/2026
+Purchase Order: PO-2026-000908
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 23 | @ $8.43 | TX18 | $193.89
+
+Subtotal: $193.89
+Tax: $34.90
+Amount Due: $228.79
+
+Regards,
+Billing Team

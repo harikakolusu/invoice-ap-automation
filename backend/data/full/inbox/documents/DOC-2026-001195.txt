@@ -1,0 +1,25 @@
+From: billing@lakeside.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/36644 from Lakeside Logistics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lakeside Logistics Pvt Ltd
+Vendor Tax ID: 28-4806367
+Invoice #: INV/2026/36644
+Invoice Date (DD/MM/YYYY): 31/05/2026
+Purchase Order: none
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-SRV-0006 | Freight Charges | qty 2 | @ $237.12 | TX18 | $474.24
+- SKU-SRV-0001 | IT Consulting Hour | qty 8 | @ $903.70 | TX18 | $7,229.60
+- SKU-SRV-0003 | Facility Cleaning Month | qty 1 | @ $122.56 | TX18 | $122.56
+
+Subtotal: $7,826.40
+Tax: $1,408.75
+Amount Due: $9,235.15
+
+Regards,
+Billing Team

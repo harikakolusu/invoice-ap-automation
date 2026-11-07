@@ -1,0 +1,19 @@
+Beacon Polymers Co.
+Tax ID: 96-9559318
+Remit to: Accounts Receivable, Beacon Polymers Co.
+
+                                INVOICE
+Invoice No:      BEAC-8221
+Invoice Date:    May 6, 2026
+PO Number:       PO-2026-000710
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0003   Copper Wire 2.5mm                  284      142.28  TX05    40,407.52
+
+                                                  Subtotal:        40,407.52
+                                                  Tax:              2,020.38
+                                                  TOTAL DUE:       42,427.90

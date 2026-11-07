@@ -1,0 +1,25 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/34988 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/34988
+Invoice Date (DD/MM/YYYY): 28/05/2026
+Purchase Order: PO-2026-000983
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 5 | @ $53.94 | TX18 | $269.70
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 31 | @ $4.25 | TX18 | $131.75
+- SKU-FAC-0006 | Trash Bags 100pk | qty 38 | @ $15.23 | TX05 | $578.74
+
+Subtotal: $980.19
+Tax: $101.21
+Amount Due: $1,081.40
+
+Regards,
+Billing Team

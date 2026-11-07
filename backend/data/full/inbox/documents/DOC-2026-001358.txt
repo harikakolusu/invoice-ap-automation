@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/55011 from Helios Materials Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Materials Pvt Ltd
+Vendor Tax ID: 18-1136223
+Invoice #: INV/2026/55011
+Invoice Date (DD/MM/YYYY): 17/06/2026
+Purchase Order: PO-2026-001107
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 41 | @ $4.20 | TX05 | $172.20
+
+Subtotal: $172.20
+Tax: $8.61
+Amount Due: $180.81
+
+Regards,
+Billing Team

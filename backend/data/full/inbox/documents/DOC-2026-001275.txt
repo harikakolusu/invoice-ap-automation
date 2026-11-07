@@ -1,0 +1,20 @@
+Sierra Industrial Supply Pvt Ltd
+Tax ID: 32-8469228
+Remit to: Accounts Receivable, Sierra Industrial Supply Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/32914
+Invoice Date:    June 5, 2026
+PO Number:       PO-2026-000884
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0002   Aluminium Rod 20mm                  24        4.33  TX05       103.92
+ 2  SKU-MRO-0004   V-Belt A42                          38       55.39  TX18     2,104.82
+
+                                                  Subtotal:         2,208.74
+                                                  Tax:                384.07
+                                                  TOTAL DUE:        2,592.81

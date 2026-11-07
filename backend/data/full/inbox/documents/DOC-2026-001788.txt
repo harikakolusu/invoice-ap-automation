@@ -1,0 +1,19 @@
+Delta Polymers Ltd
+Tax ID: 34-5330370
+Remit to: Accounts Receivable, Delta Polymers Ltd
+
+                                INVOICE
+Invoice No:      031193
+Invoice Date:    2026-07-26
+PO Number:       PO-2026-001275
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0008   Sticky Notes 24pk                   20       72.30  TX12     1,446.00
+
+                                                  Subtotal:         1,446.00
+                                                  Tax:                173.52
+                                                  TOTAL DUE:        1,619.52

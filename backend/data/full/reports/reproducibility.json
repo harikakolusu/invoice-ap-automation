@@ -1,0 +1,30 @@
+{
+ "seed": 20261022,
+ "scale": 1.0,
+ "files_compared": 44,
+ "identical": true,
+ "differences": [],
+ "row_counts": {
+  "ground_truth/ground_truth.csv": 2000,
+  "inbox/intake_manifest.csv": 2000,
+  "master/employee.csv": 34,
+  "master/goods_receipt.csv": 1800,
+  "master/goods_receipt_line.csv": 2501,
+  "master/lifecycle_event.csv": 3621,
+  "master/purchase_order.csv": 1500,
+  "master/purchase_order_line.csv": 2200,
+  "master/vendor.csv": 300,
+  "pipeline_output/approval.csv": 1487,
+  "pipeline_output/extracted_invoice.csv": 2000,
+  "pipeline_output/extracted_invoice_line.csv": 2794,
+  "pipeline_output/invoice_decision.csv": 2000,
+  "pipeline_output/invoice_event.csv": 11995,
+  "pipeline_output/invoice_exception.csv": 615,
+  "pipeline_output/invoice_match.csv": 2452,
+  "pipeline_output/payment.csv": 1400,
+  "source_truth/invoice.csv": 2000,
+  "source_truth/invoice_line.csv": 2794
+ },
+ "combined_checksum": "15aa985558d3b8f94b9a74899164968774a6838d108d1cd1c7d5ab8a266f8a49",
+ "matches_committed_dataset": true
+}

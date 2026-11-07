@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59586 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59586
+Invoice Date (DD/MM/YYYY): 29/06/2026
+Purchase Order: PO-2026-001176
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 2 | @ $60.79 | TX18 | $121.58
+- SKU-ITH-0004 | Wireless Keyboard | qty 8 | @ $45.46 | TX18 | $363.68
+
+Subtotal: $485.26
+Tax: $87.34
+Amount Due: $572.60
+
+Regards,
+Billing Team

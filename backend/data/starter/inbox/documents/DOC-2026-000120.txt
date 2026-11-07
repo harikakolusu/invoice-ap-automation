@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-10689 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 36-3581830
+Invoice #: NIMB-10689
+Invoice Date (DD/MM/YYYY): 15/06/2026
+Purchase Order: PO-2026-000102
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 132 | @ $8.64 | TX12 | $1,140.48
+
+Subtotal: $1,140.48
+Tax: $136.86
+Amount Due: $1,277.34
+
+Regards,
+Billing Team

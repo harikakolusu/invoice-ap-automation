@@ -1,0 +1,21 @@
+Westbrook Tech Components Ltd
+Tax ID: 63-3323679
+Remit to: Accounts Receivable, Westbrook Tech Components Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/22961
+Invoice Date:    2026-06-14
+PO Number:       PO-2026-000916
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0009   Wi-Fi Access Point                   3       34.01  TX18       102.03
+ 2  SKU-MRO-0003   Ball Bearing 6204                   15       19.54  TX18       293.10
+ 3  SKU-MRO-0005   Hex Bolts M10 100pk                273       17.50  TX18     4,777.50
+
+                                                  Subtotal:         5,172.63
+                                                  Tax:                931.08
+                                                  TOTAL DUE:        5,943.18

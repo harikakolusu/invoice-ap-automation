@@ -1,0 +1,23 @@
+From: billing@westbrook.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV-2026-22969 from Westbrook Tech Components Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Westbrook Tech Components Ltd
+Vendor Tax ID: 63-3323679
+Invoice #: INV-2026-22969
+Invoice Date (DD/MM/YYYY): 24/06/2026
+Purchase Order: PO-2026-001088
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 104 | @ $8.38 | TX18 | $871.52
+
+Subtotal: $871.52
+Tax: $156.87
+Amount Due: $1,028.39
+
+Regards,
+Billing Team

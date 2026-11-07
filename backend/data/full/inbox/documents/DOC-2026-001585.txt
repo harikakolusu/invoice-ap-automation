@@ -1,0 +1,24 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-32781 from Nimbus Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Trading Co.
+Vendor Tax ID: 48-4630922
+Invoice #: NIMB-32781
+Invoice Date (DD/MM/YYYY): 05/07/2026
+Purchase Order: PO-2026-001191
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 159 | @ $18.22 | TX18 | $2,896.98
+- SKU-ITH-0008 | Server RAM 32GB | qty 20 | @ $68.95 | TX18 | $1,379.00
+
+Subtotal: $4,275.98
+Tax: $769.68
+Amount Due: $5,045.66
+
+Regards,
+Billing Team

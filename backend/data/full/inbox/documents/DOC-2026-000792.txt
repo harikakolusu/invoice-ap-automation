@@ -1,0 +1,26 @@
+From: billing@lakeside.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/36643 from Lakeside Logistics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lakeside Logistics Pvt Ltd
+Vendor Tax ID: 28-4806367
+Invoice #: INV/2026/36643
+Invoice Date (DD/MM/YYYY): 16/04/2026
+Purchase Order: PO-2026-000566
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-OFF-0004 | Toner Cartridge BK | qty 50 | @ $3.54 | TX12 | $177.00
+- SKU-OFF-0002 | Ballpoint Pens 12pk | qty 5 | @ $33.29 | TX12 | $166.45
+- SKU-OFF-0007 | Desk Organizer | qty 172 | @ $93.92 | TX12 | $16,154.24
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 1022 | @ $20.84 | TX12 | $21,298.48
+
+Subtotal: $37,796.17
+Tax: $4,535.54
+Amount Due: $42,331.71
+
+Regards,
+Billing Team

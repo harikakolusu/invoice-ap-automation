@@ -1,0 +1,23 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice 041902 from Meridian Materials LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Materials LLC
+Vendor Tax ID: 68-8280626
+Invoice #: 041902
+Invoice Date (DD/MM/YYYY): 31/01/2026
+Purchase Order: PO-2026-000034
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 148 | @ $7.74 | TX05 | $1,145.52
+
+Subtotal: $1,145.52
+Tax: $57.28
+Amount Due: $1,202.80
+
+Regards,
+Billing Team

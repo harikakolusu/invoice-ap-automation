@@ -1,0 +1,19 @@
+Falcon Metals Inc.
+Tax ID: 61-1118766
+Remit to: Accounts Receivable, Falcon Metals Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/04528
+Invoice Date:    2026-04-03
+PO Number:       PO-2026-000461
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0005   Epoxy Resin 5L                      23       10.00  TX05       230.00
+
+                                                  Subtotal:           230.00
+                                                  Tax:                 11.50
+                                                  TOTAL DUE:          241.50

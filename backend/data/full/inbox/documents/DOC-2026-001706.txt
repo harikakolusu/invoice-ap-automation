@@ -1,0 +1,23 @@
+From: billing@harbor.example
+To: ap-inbox@buyer.example
+Subject: Invoice 049917 from Harbor Facility Services Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Harbor Facility Services Inc.
+Vendor Tax ID: 77-0059972
+Invoice #: 049917
+Invoice Date (DD/MM/YYYY): 17/07/2026
+Purchase Order: PO-2026-001364
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0008 | Sticky Notes 24pk | qty 46 | @ $68.04 | TX12 | $3,129.84
+
+Subtotal: $3,129.84
+Tax: $375.58
+Amount Due: $3,505.42
+
+Regards,
+Billing Team

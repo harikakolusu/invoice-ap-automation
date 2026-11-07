@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/44198 from Silver Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Industrial Supply Ltd
+Vendor Tax ID: 26-5859665
+Invoice #: INV/2026/44198
+Invoice Date (DD/MM/YYYY): 15/06/2026
+Purchase Order: PO-2026-000795
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0002 | Docking Station USB-C | qty 9 | @ $99.29 | TX18 | $893.61
+
+Subtotal: $893.61
+Tax: $160.85
+Amount Due: $1,054.46
+
+Regards,
+Billing Team

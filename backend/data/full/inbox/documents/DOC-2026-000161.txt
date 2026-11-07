@@ -1,0 +1,24 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054180 from Helios Maintenance Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Maintenance Inc.
+Vendor Tax ID: 94-1085891
+Invoice #: 054180
+Invoice Date (DD/MM/YYYY): 09/02/2026
+Purchase Order: PO-2026-000160
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 6 | @ $4.27 | TX18 | $25.62
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 243 | @ $243.78 | TX18 | $59,238.54
+
+Subtotal: $59,264.16
+Tax: $10,667.55
+Amount Due: $69,931.71
+
+Regards,
+Billing Team

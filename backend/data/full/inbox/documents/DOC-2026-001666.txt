@@ -1,0 +1,24 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054182 from Helios Maintenance Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Maintenance Inc.
+Vendor Tax ID: 94-1085891
+Invoice #: 054182
+Invoice Date (DD/MM/YYYY): 16/07/2026
+Purchase Order: PO-2026-001288
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 11 | @ $30.32 | TX18 | $333.52
+- SKU-ITH-0008 | Server RAM 32GB | qty 3 | @ $68.23 | TX18 | $204.69
+
+Subtotal: $538.21
+Tax: $96.87
+Amount Due: $635.08
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Crescent Equipment LLC
+Tax ID: 51-3791377
+Remit to: Accounts Receivable, Crescent Equipment LLC
+
+                                INVOICE
+Invoice No:      CRES-56861
+Invoice Date:    July 11, 2026
+PO Number:       PO-2026-001113
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0004   V-Belt A42                          23       49.60  TX18     1,140.80
+
+                                                  Subtotal:         1,140.80
+                                                  Tax:                205.34
+                                                  TOTAL DUE:        1,346.14

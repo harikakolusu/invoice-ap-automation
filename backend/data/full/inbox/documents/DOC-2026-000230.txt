@@ -1,0 +1,26 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice 050049 from Keystone Polymers Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Polymers Co.
+Vendor Tax ID: 76-5656738
+Invoice #: 050049
+Invoice Date (DD/MM/YYYY): 16/02/2026
+Purchase Order: PO-2026-000151
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 7 | @ $3.87 | TX05 | $27.09
+- SKU-RAW-0005 | Epoxy Resin 5L | qty 55 | @ $9.89 | TX05 | $543.95
+- SKU-FAC-0001 | Drinking Water 20L | qty 22 | @ $3.82 | TX05 | $84.04
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 14 | @ $8.54 | TX05 | $119.56
+
+Subtotal: $774.64
+Tax: $38.73
+Amount Due: $813.37
+
+Regards,
+Billing Team

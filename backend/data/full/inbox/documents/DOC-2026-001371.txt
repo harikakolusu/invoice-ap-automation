@@ -1,0 +1,23 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/27602 from Meridian Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Trading GmbH
+Vendor Tax ID: 90-1934468
+Invoice #: INV/2026/27602
+Invoice Date (DD/MM/YYYY): 17/06/2026
+Purchase Order: PO-2026-001080
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0006 | Network Switch 24P | qty 20 | @ $348.79 | TX18 | $6,975.80
+
+Subtotal: $6,975.80
+Tax: $1,255.64
+Amount Due: $8,231.44
+
+Regards,
+Billing Team

@@ -1,0 +1,25 @@
+From: billing@northstar.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/48800 from Northstar Tech Components Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Northstar Tech Components Pvt Ltd
+Vendor Tax ID: 12-4495388
+Invoice #: INV/2026/48800
+Invoice Date (DD/MM/YYYY): 29/03/2026
+Purchase Order: PO-2026-000591
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0005 | Epoxy Resin 5L | qty 182 | @ $10.04 | TX05 | $1,827.28
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 38 | @ $7.64 | TX05 | $290.32
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 114 | @ $4.28 | TX05 | $487.92
+
+Subtotal: $2,605.52
+Tax: $130.28
+Amount Due: $2,735.80
+
+Regards,
+Billing Team

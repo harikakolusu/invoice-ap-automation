@@ -1,0 +1,19 @@
+Keystone Logistics GmbH
+Tax ID: 63-5629931
+Remit to: Accounts Receivable, Keystone Logistics GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/27738
+Invoice Date:    2026-07-13
+PO Number:       PO-2026-001306
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0004   Wireless Keyboard                    9       50.01  TX18       450.09
+
+                                                  Subtotal:           450.09
+                                                  Tax:                 81.02
+                                                  TOTAL DUE:          531.11

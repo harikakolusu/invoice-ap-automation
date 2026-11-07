@@ -1,0 +1,19 @@
+Crescent Equipment LLC
+Tax ID: 51-3791377
+Remit to: Accounts Receivable, Crescent Equipment LLC
+
+                                INVOICE
+Invoice No:      CRES-56856
+Invoice Date:    June 17, 2026
+PO Number:       PO-2026-000918
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0001   Safety Gloves Nitrile               52        5.17  TX18       268.84
+
+                                                  Subtotal:           268.84
+                                                  Tax:                 48.39
+                                                  TOTAL DUE:          317.23

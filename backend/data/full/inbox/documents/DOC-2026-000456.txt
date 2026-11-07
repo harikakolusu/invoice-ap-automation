@@ -1,0 +1,19 @@
+Summit Logistics LLC
+Tax ID: 61-5446928
+Remit to: Accounts Receivable, Summit Logistics LLC
+
+                                INVOICE
+Invoice No:      INV/2026/54122
+Invoice Date:    March 8, 2026
+PO Number:       PO-2026-000251
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0005   USB-C Hub 7-port                     2       54.17  TX18       108.34
+
+                                                  Subtotal:           108.34
+                                                  Tax:                 19.50
+                                                  TOTAL DUE:          127.84

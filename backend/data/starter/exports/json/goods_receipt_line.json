@@ -1,0 +1,1938 @@
+[
+ {
+  "grn_line_id": "GRNL-GRN-2026-000001-01",
+  "grn_id": "GRN-2026-000001",
+  "po_line_id": "POL-PO-2026-000001-01",
+  "line_number": 1,
+  "quantity_received": 1,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000002-01",
+  "grn_id": "GRN-2026-000002",
+  "po_line_id": "POL-PO-2026-000003-01",
+  "line_number": 1,
+  "quantity_received": 76,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000003-01",
+  "grn_id": "GRN-2026-000003",
+  "po_line_id": "POL-PO-2026-000004-01",
+  "line_number": 1,
+  "quantity_received": 23,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000004-01",
+  "grn_id": "GRN-2026-000004",
+  "po_line_id": "POL-PO-2026-000006-01",
+  "line_number": 1,
+  "quantity_received": 57,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000005-01",
+  "grn_id": "GRN-2026-000005",
+  "po_line_id": "POL-PO-2026-000013-01",
+  "line_number": 1,
+  "quantity_received": 164,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000005-02",
+  "grn_id": "GRN-2026-000005",
+  "po_line_id": "POL-PO-2026-000013-03",
+  "line_number": 2,
+  "quantity_received": 80,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000006-01",
+  "grn_id": "GRN-2026-000006",
+  "po_line_id": "POL-PO-2026-000002-01",
+  "line_number": 1,
+  "quantity_received": 7,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000007-01",
+  "grn_id": "GRN-2026-000007",
+  "po_line_id": "POL-PO-2026-000008-01",
+  "line_number": 1,
+  "quantity_received": 17,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000008-01",
+  "grn_id": "GRN-2026-000008",
+  "po_line_id": "POL-PO-2026-000010-01",
+  "line_number": 1,
+  "quantity_received": 120,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000009-01",
+  "grn_id": "GRN-2026-000009",
+  "po_line_id": "POL-PO-2026-000009-01",
+  "line_number": 1,
+  "quantity_received": 82,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000009-02",
+  "grn_id": "GRN-2026-000009",
+  "po_line_id": "POL-PO-2026-000009-02",
+  "line_number": 2,
+  "quantity_received": 61,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000009-03",
+  "grn_id": "GRN-2026-000009",
+  "po_line_id": "POL-PO-2026-000009-03",
+  "line_number": 3,
+  "quantity_received": 750,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000010-01",
+  "grn_id": "GRN-2026-000010",
+  "po_line_id": "POL-PO-2026-000005-01",
+  "line_number": 1,
+  "quantity_received": 8,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000010-02",
+  "grn_id": "GRN-2026-000010",
+  "po_line_id": "POL-PO-2026-000005-02",
+  "line_number": 2,
+  "quantity_received": 107,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000010-03",
+  "grn_id": "GRN-2026-000010",
+  "po_line_id": "POL-PO-2026-000005-03",
+  "line_number": 3,
+  "quantity_received": 332,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000010-04",
+  "grn_id": "GRN-2026-000010",
+  "po_line_id": "POL-PO-2026-000005-04",
+  "line_number": 4,
+  "quantity_received": 16,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000011-01",
+  "grn_id": "GRN-2026-000011",
+  "po_line_id": "POL-PO-2026-000006-01",
+  "line_number": 1,
+  "quantity_received": 42,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000012-01",
+  "grn_id": "GRN-2026-000012",
+  "po_line_id": "POL-PO-2026-000007-01",
+  "line_number": 1,
+  "quantity_received": 119,
+  "receipt_type": "OVER"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000013-01",
+  "grn_id": "GRN-2026-000013",
+  "po_line_id": "POL-PO-2026-000001-01",
+  "line_number": 1,
+  "quantity_received": 4,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000014-01",
+  "grn_id": "GRN-2026-000014",
+  "po_line_id": "POL-PO-2026-000011-01",
+  "line_number": 1,
+  "quantity_received": 5,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000015-01",
+  "grn_id": "GRN-2026-000015",
+  "po_line_id": "POL-PO-2026-000021-01",
+  "line_number": 1,
+  "quantity_received": 88,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000016-01",
+  "grn_id": "GRN-2026-000016",
+  "po_line_id": "POL-PO-2026-000022-01",
+  "line_number": 1,
+  "quantity_received": 10,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000017-01",
+  "grn_id": "GRN-2026-000017",
+  "po_line_id": "POL-PO-2026-000005-01",
+  "line_number": 1,
+  "quantity_received": 21,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000018-01",
+  "grn_id": "GRN-2026-000018",
+  "po_line_id": "POL-PO-2026-000014-01",
+  "line_number": 1,
+  "quantity_received": 20,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000019-01",
+  "grn_id": "GRN-2026-000019",
+  "po_line_id": "POL-PO-2026-000013-01",
+  "line_number": 1,
+  "quantity_received": 157,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000019-02",
+  "grn_id": "GRN-2026-000019",
+  "po_line_id": "POL-PO-2026-000013-02",
+  "line_number": 2,
+  "quantity_received": 28,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000020-01",
+  "grn_id": "GRN-2026-000020",
+  "po_line_id": "POL-PO-2026-000020-01",
+  "line_number": 1,
+  "quantity_received": 211,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000021-01",
+  "grn_id": "GRN-2026-000021",
+  "po_line_id": "POL-PO-2026-000015-01",
+  "line_number": 1,
+  "quantity_received": 27,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000021-02",
+  "grn_id": "GRN-2026-000021",
+  "po_line_id": "POL-PO-2026-000015-02",
+  "line_number": 2,
+  "quantity_received": 339,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000021-03",
+  "grn_id": "GRN-2026-000021",
+  "po_line_id": "POL-PO-2026-000015-03",
+  "line_number": 3,
+  "quantity_received": 688,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000021-04",
+  "grn_id": "GRN-2026-000021",
+  "po_line_id": "POL-PO-2026-000015-04",
+  "line_number": 4,
+  "quantity_received": 52,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000022-01",
+  "grn_id": "GRN-2026-000022",
+  "po_line_id": "POL-PO-2026-000010-01",
+  "line_number": 1,
+  "quantity_received": 47,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000022-02",
+  "grn_id": "GRN-2026-000022",
+  "po_line_id": "POL-PO-2026-000010-02",
+  "line_number": 2,
+  "quantity_received": 20,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000023-01",
+  "grn_id": "GRN-2026-000023",
+  "po_line_id": "POL-PO-2026-000019-01",
+  "line_number": 1,
+  "quantity_received": 20,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000024-01",
+  "grn_id": "GRN-2026-000024",
+  "po_line_id": "POL-PO-2026-000024-01",
+  "line_number": 1,
+  "quantity_received": 38,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000025-01",
+  "grn_id": "GRN-2026-000025",
+  "po_line_id": "POL-PO-2026-000018-01",
+  "line_number": 1,
+  "quantity_received": 50,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000026-01",
+  "grn_id": "GRN-2026-000026",
+  "po_line_id": "POL-PO-2026-000031-01",
+  "line_number": 1,
+  "quantity_received": 32,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000026-02",
+  "grn_id": "GRN-2026-000026",
+  "po_line_id": "POL-PO-2026-000031-02",
+  "line_number": 2,
+  "quantity_received": 30,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000026-03",
+  "grn_id": "GRN-2026-000026",
+  "po_line_id": "POL-PO-2026-000031-03",
+  "line_number": 3,
+  "quantity_received": 36,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000027-01",
+  "grn_id": "GRN-2026-000027",
+  "po_line_id": "POL-PO-2026-000016-01",
+  "line_number": 1,
+  "quantity_received": 1,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000027-02",
+  "grn_id": "GRN-2026-000027",
+  "po_line_id": "POL-PO-2026-000016-02",
+  "line_number": 2,
+  "quantity_received": 3,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000027-03",
+  "grn_id": "GRN-2026-000027",
+  "po_line_id": "POL-PO-2026-000016-03",
+  "line_number": 3,
+  "quantity_received": 10,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000027-04",
+  "grn_id": "GRN-2026-000027",
+  "po_line_id": "POL-PO-2026-000016-04",
+  "line_number": 4,
+  "quantity_received": 256,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000028-01",
+  "grn_id": "GRN-2026-000028",
+  "po_line_id": "POL-PO-2026-000029-01",
+  "line_number": 1,
+  "quantity_received": 21,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000028-02",
+  "grn_id": "GRN-2026-000028",
+  "po_line_id": "POL-PO-2026-000029-02",
+  "line_number": 2,
+  "quantity_received": 271,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000029-01",
+  "grn_id": "GRN-2026-000029",
+  "po_line_id": "POL-PO-2026-000019-01",
+  "line_number": 1,
+  "quantity_received": 13,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000030-01",
+  "grn_id": "GRN-2026-000030",
+  "po_line_id": "POL-PO-2026-000017-01",
+  "line_number": 1,
+  "quantity_received": 547,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000031-01",
+  "grn_id": "GRN-2026-000031",
+  "po_line_id": "POL-PO-2026-000028-01",
+  "line_number": 1,
+  "quantity_received": 47,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000032-01",
+  "grn_id": "GRN-2026-000032",
+  "po_line_id": "POL-PO-2026-000036-01",
+  "line_number": 1,
+  "quantity_received": 55,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000033-01",
+  "grn_id": "GRN-2026-000033",
+  "po_line_id": "POL-PO-2026-000039-01",
+  "line_number": 1,
+  "quantity_received": 61,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000034-01",
+  "grn_id": "GRN-2026-000034",
+  "po_line_id": "POL-PO-2026-000023-01",
+  "line_number": 1,
+  "quantity_received": 7,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000035-01",
+  "grn_id": "GRN-2026-000035",
+  "po_line_id": "POL-PO-2026-000027-01",
+  "line_number": 1,
+  "quantity_received": 385,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000035-02",
+  "grn_id": "GRN-2026-000035",
+  "po_line_id": "POL-PO-2026-000027-02",
+  "line_number": 2,
+  "quantity_received": 23,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000036-01",
+  "grn_id": "GRN-2026-000036",
+  "po_line_id": "POL-PO-2026-000026-01",
+  "line_number": 1,
+  "quantity_received": 82,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000037-01",
+  "grn_id": "GRN-2026-000037",
+  "po_line_id": "POL-PO-2026-000033-01",
+  "line_number": 1,
+  "quantity_received": 94,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000038-01",
+  "grn_id": "GRN-2026-000038",
+  "po_line_id": "POL-PO-2026-000046-01",
+  "line_number": 1,
+  "quantity_received": 272,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000038-02",
+  "grn_id": "GRN-2026-000038",
+  "po_line_id": "POL-PO-2026-000046-02",
+  "line_number": 2,
+  "quantity_received": 16,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000038-03",
+  "grn_id": "GRN-2026-000038",
+  "po_line_id": "POL-PO-2026-000046-03",
+  "line_number": 3,
+  "quantity_received": 8,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000039-01",
+  "grn_id": "GRN-2026-000039",
+  "po_line_id": "POL-PO-2026-000041-01",
+  "line_number": 1,
+  "quantity_received": 44,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000040-01",
+  "grn_id": "GRN-2026-000040",
+  "po_line_id": "POL-PO-2026-000025-01",
+  "line_number": 1,
+  "quantity_received": 66,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000040-02",
+  "grn_id": "GRN-2026-000040",
+  "po_line_id": "POL-PO-2026-000025-02",
+  "line_number": 2,
+  "quantity_received": 51,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000041-01",
+  "grn_id": "GRN-2026-000041",
+  "po_line_id": "POL-PO-2026-000030-01",
+  "line_number": 1,
+  "quantity_received": 56,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000042-01",
+  "grn_id": "GRN-2026-000042",
+  "po_line_id": "POL-PO-2026-000045-01",
+  "line_number": 1,
+  "quantity_received": 19,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000043-01",
+  "grn_id": "GRN-2026-000043",
+  "po_line_id": "POL-PO-2026-000024-01",
+  "line_number": 1,
+  "quantity_received": 70,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000044-01",
+  "grn_id": "GRN-2026-000044",
+  "po_line_id": "POL-PO-2026-000034-01",
+  "line_number": 1,
+  "quantity_received": 13,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000044-02",
+  "grn_id": "GRN-2026-000044",
+  "po_line_id": "POL-PO-2026-000034-02",
+  "line_number": 2,
+  "quantity_received": 2,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000045-01",
+  "grn_id": "GRN-2026-000045",
+  "po_line_id": "POL-PO-2026-000032-01",
+  "line_number": 1,
+  "quantity_received": 16,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000046-01",
+  "grn_id": "GRN-2026-000046",
+  "po_line_id": "POL-PO-2026-000035-01",
+  "line_number": 1,
+  "quantity_received": 334,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000047-01",
+  "grn_id": "GRN-2026-000047",
+  "po_line_id": "POL-PO-2026-000029-01",
+  "line_number": 1,
+  "quantity_received": 18,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000047-02",
+  "grn_id": "GRN-2026-000047",
+  "po_line_id": "POL-PO-2026-000029-02",
+  "line_number": 2,
+  "quantity_received": 85,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000047-03",
+  "grn_id": "GRN-2026-000047",
+  "po_line_id": "POL-PO-2026-000029-03",
+  "line_number": 3,
+  "quantity_received": 17,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000048-01",
+  "grn_id": "GRN-2026-000048",
+  "po_line_id": "POL-PO-2026-000040-01",
+  "line_number": 1,
+  "quantity_received": 39,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000048-02",
+  "grn_id": "GRN-2026-000048",
+  "po_line_id": "POL-PO-2026-000040-02",
+  "line_number": 2,
+  "quantity_received": 54,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000049-01",
+  "grn_id": "GRN-2026-000049",
+  "po_line_id": "POL-PO-2026-000049-01",
+  "line_number": 1,
+  "quantity_received": 19,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000050-01",
+  "grn_id": "GRN-2026-000050",
+  "po_line_id": "POL-PO-2026-000028-01",
+  "line_number": 1,
+  "quantity_received": 108,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000051-01",
+  "grn_id": "GRN-2026-000051",
+  "po_line_id": "POL-PO-2026-000042-01",
+  "line_number": 1,
+  "quantity_received": 244,
+  "receipt_type": "OVER"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000052-01",
+  "grn_id": "GRN-2026-000052",
+  "po_line_id": "POL-PO-2026-000045-01",
+  "line_number": 1,
+  "quantity_received": 11,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000053-01",
+  "grn_id": "GRN-2026-000053",
+  "po_line_id": "POL-PO-2026-000037-01",
+  "line_number": 1,
+  "quantity_received": 60,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000054-01",
+  "grn_id": "GRN-2026-000054",
+  "po_line_id": "POL-PO-2026-000023-01",
+  "line_number": 1,
+  "quantity_received": 3,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000055-01",
+  "grn_id": "GRN-2026-000055",
+  "po_line_id": "POL-PO-2026-000047-01",
+  "line_number": 1,
+  "quantity_received": 143,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000056-01",
+  "grn_id": "GRN-2026-000056",
+  "po_line_id": "POL-PO-2026-000038-01",
+  "line_number": 1,
+  "quantity_received": 134,
+  "receipt_type": "OVER"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000057-01",
+  "grn_id": "GRN-2026-000057",
+  "po_line_id": "POL-PO-2026-000054-01",
+  "line_number": 1,
+  "quantity_received": 42,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000058-01",
+  "grn_id": "GRN-2026-000058",
+  "po_line_id": "POL-PO-2026-000044-01",
+  "line_number": 1,
+  "quantity_received": 29,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000058-02",
+  "grn_id": "GRN-2026-000058",
+  "po_line_id": "POL-PO-2026-000044-02",
+  "line_number": 2,
+  "quantity_received": 189,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000058-03",
+  "grn_id": "GRN-2026-000058",
+  "po_line_id": "POL-PO-2026-000044-03",
+  "line_number": 3,
+  "quantity_received": 20,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000058-04",
+  "grn_id": "GRN-2026-000058",
+  "po_line_id": "POL-PO-2026-000044-04",
+  "line_number": 4,
+  "quantity_received": 618,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000058-05",
+  "grn_id": "GRN-2026-000058",
+  "po_line_id": "POL-PO-2026-000044-05",
+  "line_number": 5,
+  "quantity_received": 10,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000059-01",
+  "grn_id": "GRN-2026-000059",
+  "po_line_id": "POL-PO-2026-000053-01",
+  "line_number": 1,
+  "quantity_received": 101,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000060-01",
+  "grn_id": "GRN-2026-000060",
+  "po_line_id": "POL-PO-2026-000043-01",
+  "line_number": 1,
+  "quantity_received": 21,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000061-01",
+  "grn_id": "GRN-2026-000061",
+  "po_line_id": "POL-PO-2026-000050-01",
+  "line_number": 1,
+  "quantity_received": 5,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000061-02",
+  "grn_id": "GRN-2026-000061",
+  "po_line_id": "POL-PO-2026-000050-02",
+  "line_number": 2,
+  "quantity_received": 22,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000062-01",
+  "grn_id": "GRN-2026-000062",
+  "po_line_id": "POL-PO-2026-000035-01",
+  "line_number": 1,
+  "quantity_received": 193,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000063-01",
+  "grn_id": "GRN-2026-000063",
+  "po_line_id": "POL-PO-2026-000056-01",
+  "line_number": 1,
+  "quantity_received": 246,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000064-01",
+  "grn_id": "GRN-2026-000064",
+  "po_line_id": "POL-PO-2026-000048-01",
+  "line_number": 1,
+  "quantity_received": 23,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000065-01",
+  "grn_id": "GRN-2026-000065",
+  "po_line_id": "POL-PO-2026-000052-01",
+  "line_number": 1,
+  "quantity_received": 417,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000065-02",
+  "grn_id": "GRN-2026-000065",
+  "po_line_id": "POL-PO-2026-000052-02",
+  "line_number": 2,
+  "quantity_received": 116,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000066-01",
+  "grn_id": "GRN-2026-000066",
+  "po_line_id": "POL-PO-2026-000055-01",
+  "line_number": 1,
+  "quantity_received": 31,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000067-01",
+  "grn_id": "GRN-2026-000067",
+  "po_line_id": "POL-PO-2026-000062-01",
+  "line_number": 1,
+  "quantity_received": 17,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000068-01",
+  "grn_id": "GRN-2026-000068",
+  "po_line_id": "POL-PO-2026-000057-01",
+  "line_number": 1,
+  "quantity_received": 200,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000069-01",
+  "grn_id": "GRN-2026-000069",
+  "po_line_id": "POL-PO-2026-000066-01",
+  "line_number": 1,
+  "quantity_received": 118,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000070-01",
+  "grn_id": "GRN-2026-000070",
+  "po_line_id": "POL-PO-2026-000060-01",
+  "line_number": 1,
+  "quantity_received": 6,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000070-02",
+  "grn_id": "GRN-2026-000070",
+  "po_line_id": "POL-PO-2026-000060-02",
+  "line_number": 2,
+  "quantity_received": 13,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000071-01",
+  "grn_id": "GRN-2026-000071",
+  "po_line_id": "POL-PO-2026-000050-01",
+  "line_number": 1,
+  "quantity_received": 4,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000072-01",
+  "grn_id": "GRN-2026-000072",
+  "po_line_id": "POL-PO-2026-000048-01",
+  "line_number": 1,
+  "quantity_received": 10,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000073-01",
+  "grn_id": "GRN-2026-000073",
+  "po_line_id": "POL-PO-2026-000072-01",
+  "line_number": 1,
+  "quantity_received": 149,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000074-01",
+  "grn_id": "GRN-2026-000074",
+  "po_line_id": "POL-PO-2026-000071-01",
+  "line_number": 1,
+  "quantity_received": 55,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000075-01",
+  "grn_id": "GRN-2026-000075",
+  "po_line_id": "POL-PO-2026-000074-01",
+  "line_number": 1,
+  "quantity_received": 32,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000075-02",
+  "grn_id": "GRN-2026-000075",
+  "po_line_id": "POL-PO-2026-000074-02",
+  "line_number": 2,
+  "quantity_received": 10,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000076-01",
+  "grn_id": "GRN-2026-000076",
+  "po_line_id": "POL-PO-2026-000069-01",
+  "line_number": 1,
+  "quantity_received": 354,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000077-01",
+  "grn_id": "GRN-2026-000077",
+  "po_line_id": "POL-PO-2026-000059-01",
+  "line_number": 1,
+  "quantity_received": 3,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000078-01",
+  "grn_id": "GRN-2026-000078",
+  "po_line_id": "POL-PO-2026-000065-01",
+  "line_number": 1,
+  "quantity_received": 9,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000079-01",
+  "grn_id": "GRN-2026-000079",
+  "po_line_id": "POL-PO-2026-000058-01",
+  "line_number": 1,
+  "quantity_received": 114,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000080-01",
+  "grn_id": "GRN-2026-000080",
+  "po_line_id": "POL-PO-2026-000059-01",
+  "line_number": 1,
+  "quantity_received": 5,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000081-01",
+  "grn_id": "GRN-2026-000081",
+  "po_line_id": "POL-PO-2026-000077-01",
+  "line_number": 1,
+  "quantity_received": 23,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000082-01",
+  "grn_id": "GRN-2026-000082",
+  "po_line_id": "POL-PO-2026-000084-01",
+  "line_number": 1,
+  "quantity_received": 1,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000083-01",
+  "grn_id": "GRN-2026-000083",
+  "po_line_id": "POL-PO-2026-000073-01",
+  "line_number": 1,
+  "quantity_received": 11,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000084-01",
+  "grn_id": "GRN-2026-000084",
+  "po_line_id": "POL-PO-2026-000068-01",
+  "line_number": 1,
+  "quantity_received": 4,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000085-01",
+  "grn_id": "GRN-2026-000085",
+  "po_line_id": "POL-PO-2026-000080-01",
+  "line_number": 1,
+  "quantity_received": 8,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000086-01",
+  "grn_id": "GRN-2026-000086",
+  "po_line_id": "POL-PO-2026-000083-01",
+  "line_number": 1,
+  "quantity_received": 49,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000086-02",
+  "grn_id": "GRN-2026-000086",
+  "po_line_id": "POL-PO-2026-000083-02",
+  "line_number": 2,
+  "quantity_received": 104,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000086-03",
+  "grn_id": "GRN-2026-000086",
+  "po_line_id": "POL-PO-2026-000083-03",
+  "line_number": 3,
+  "quantity_received": 5,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000086-04",
+  "grn_id": "GRN-2026-000086",
+  "po_line_id": "POL-PO-2026-000083-04",
+  "line_number": 4,
+  "quantity_received": 30,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000087-01",
+  "grn_id": "GRN-2026-000087",
+  "po_line_id": "POL-PO-2026-000065-01",
+  "line_number": 1,
+  "quantity_received": 21,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000088-01",
+  "grn_id": "GRN-2026-000088",
+  "po_line_id": "POL-PO-2026-000070-01",
+  "line_number": 1,
+  "quantity_received": 25,
+  "receipt_type": "OVER"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000089-01",
+  "grn_id": "GRN-2026-000089",
+  "po_line_id": "POL-PO-2026-000067-01",
+  "line_number": 1,
+  "quantity_received": 1,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000090-01",
+  "grn_id": "GRN-2026-000090",
+  "po_line_id": "POL-PO-2026-000087-01",
+  "line_number": 1,
+  "quantity_received": 109,
+  "receipt_type": "OVER"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000090-02",
+  "grn_id": "GRN-2026-000090",
+  "po_line_id": "POL-PO-2026-000087-02",
+  "line_number": 2,
+  "quantity_received": 7,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000090-03",
+  "grn_id": "GRN-2026-000090",
+  "po_line_id": "POL-PO-2026-000087-03",
+  "line_number": 3,
+  "quantity_received": 225,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000090-04",
+  "grn_id": "GRN-2026-000090",
+  "po_line_id": "POL-PO-2026-000087-04",
+  "line_number": 4,
+  "quantity_received": 6,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000090-05",
+  "grn_id": "GRN-2026-000090",
+  "po_line_id": "POL-PO-2026-000087-05",
+  "line_number": 5,
+  "quantity_received": 8,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000090-06",
+  "grn_id": "GRN-2026-000090",
+  "po_line_id": "POL-PO-2026-000087-06",
+  "line_number": 6,
+  "quantity_received": 150,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000091-01",
+  "grn_id": "GRN-2026-000091",
+  "po_line_id": "POL-PO-2026-000081-01",
+  "line_number": 1,
+  "quantity_received": 252,
+  "receipt_type": "OVER"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000091-02",
+  "grn_id": "GRN-2026-000091",
+  "po_line_id": "POL-PO-2026-000081-02",
+  "line_number": 2,
+  "quantity_received": 104,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000091-03",
+  "grn_id": "GRN-2026-000091",
+  "po_line_id": "POL-PO-2026-000081-03",
+  "line_number": 3,
+  "quantity_received": 30,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000092-01",
+  "grn_id": "GRN-2026-000092",
+  "po_line_id": "POL-PO-2026-000078-01",
+  "line_number": 1,
+  "quantity_received": 29,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000093-01",
+  "grn_id": "GRN-2026-000093",
+  "po_line_id": "POL-PO-2026-000088-01",
+  "line_number": 1,
+  "quantity_received": 12,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000094-01",
+  "grn_id": "GRN-2026-000094",
+  "po_line_id": "POL-PO-2026-000090-01",
+  "line_number": 1,
+  "quantity_received": 225,
+  "receipt_type": "OVER"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000094-02",
+  "grn_id": "GRN-2026-000094",
+  "po_line_id": "POL-PO-2026-000090-02",
+  "line_number": 2,
+  "quantity_received": 29,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000094-03",
+  "grn_id": "GRN-2026-000094",
+  "po_line_id": "POL-PO-2026-000090-03",
+  "line_number": 3,
+  "quantity_received": 8,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000094-04",
+  "grn_id": "GRN-2026-000094",
+  "po_line_id": "POL-PO-2026-000090-04",
+  "line_number": 4,
+  "quantity_received": 31,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000094-05",
+  "grn_id": "GRN-2026-000094",
+  "po_line_id": "POL-PO-2026-000090-05",
+  "line_number": 5,
+  "quantity_received": 226,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000095-01",
+  "grn_id": "GRN-2026-000095",
+  "po_line_id": "POL-PO-2026-000076-01",
+  "line_number": 1,
+  "quantity_received": 111,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000096-01",
+  "grn_id": "GRN-2026-000096",
+  "po_line_id": "POL-PO-2026-000077-01",
+  "line_number": 1,
+  "quantity_received": 54,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000097-01",
+  "grn_id": "GRN-2026-000097",
+  "po_line_id": "POL-PO-2026-000075-01",
+  "line_number": 1,
+  "quantity_received": 74,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000098-01",
+  "grn_id": "GRN-2026-000098",
+  "po_line_id": "POL-PO-2026-000096-01",
+  "line_number": 1,
+  "quantity_received": 73,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000099-01",
+  "grn_id": "GRN-2026-000099",
+  "po_line_id": "POL-PO-2026-000068-01",
+  "line_number": 1,
+  "quantity_received": 6,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000100-01",
+  "grn_id": "GRN-2026-000100",
+  "po_line_id": "POL-PO-2026-000079-01",
+  "line_number": 1,
+  "quantity_received": 66,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000100-02",
+  "grn_id": "GRN-2026-000100",
+  "po_line_id": "POL-PO-2026-000079-02",
+  "line_number": 2,
+  "quantity_received": 11,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000101-01",
+  "grn_id": "GRN-2026-000101",
+  "po_line_id": "POL-PO-2026-000086-01",
+  "line_number": 1,
+  "quantity_received": 978,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000102-01",
+  "grn_id": "GRN-2026-000102",
+  "po_line_id": "POL-PO-2026-000085-01",
+  "line_number": 1,
+  "quantity_received": 27,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000103-01",
+  "grn_id": "GRN-2026-000103",
+  "po_line_id": "POL-PO-2026-000082-01",
+  "line_number": 1,
+  "quantity_received": 12,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000104-01",
+  "grn_id": "GRN-2026-000104",
+  "po_line_id": "POL-PO-2026-000095-01",
+  "line_number": 1,
+  "quantity_received": 2,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000105-01",
+  "grn_id": "GRN-2026-000105",
+  "po_line_id": "POL-PO-2026-000083-01",
+  "line_number": 1,
+  "quantity_received": 75,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000105-02",
+  "grn_id": "GRN-2026-000105",
+  "po_line_id": "POL-PO-2026-000083-03",
+  "line_number": 2,
+  "quantity_received": 2,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000106-01",
+  "grn_id": "GRN-2026-000106",
+  "po_line_id": "POL-PO-2026-000084-01",
+  "line_number": 1,
+  "quantity_received": 3,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000107-01",
+  "grn_id": "GRN-2026-000107",
+  "po_line_id": "POL-PO-2026-000099-01",
+  "line_number": 1,
+  "quantity_received": 21,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000108-01",
+  "grn_id": "GRN-2026-000108",
+  "po_line_id": "POL-PO-2026-000102-01",
+  "line_number": 1,
+  "quantity_received": 132,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000109-01",
+  "grn_id": "GRN-2026-000109",
+  "po_line_id": "POL-PO-2026-000104-01",
+  "line_number": 1,
+  "quantity_received": 1,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000110-01",
+  "grn_id": "GRN-2026-000110",
+  "po_line_id": "POL-PO-2026-000107-01",
+  "line_number": 1,
+  "quantity_received": 55,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000111-01",
+  "grn_id": "GRN-2026-000111",
+  "po_line_id": "POL-PO-2026-000088-01",
+  "line_number": 1,
+  "quantity_received": 4,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000112-01",
+  "grn_id": "GRN-2026-000112",
+  "po_line_id": "POL-PO-2026-000093-01",
+  "line_number": 1,
+  "quantity_received": 161,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000113-01",
+  "grn_id": "GRN-2026-000113",
+  "po_line_id": "POL-PO-2026-000079-01",
+  "line_number": 1,
+  "quantity_received": 118,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000114-01",
+  "grn_id": "GRN-2026-000114",
+  "po_line_id": "POL-PO-2026-000092-01",
+  "line_number": 1,
+  "quantity_received": 20,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000115-01",
+  "grn_id": "GRN-2026-000115",
+  "po_line_id": "POL-PO-2026-000089-01",
+  "line_number": 1,
+  "quantity_received": 76,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000116-01",
+  "grn_id": "GRN-2026-000116",
+  "po_line_id": "POL-PO-2026-000094-01",
+  "line_number": 1,
+  "quantity_received": 38,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000116-02",
+  "grn_id": "GRN-2026-000116",
+  "po_line_id": "POL-PO-2026-000094-02",
+  "line_number": 2,
+  "quantity_received": 124,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000117-01",
+  "grn_id": "GRN-2026-000117",
+  "po_line_id": "POL-PO-2026-000097-01",
+  "line_number": 1,
+  "quantity_received": 182,
+  "receipt_type": "OVER"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000118-01",
+  "grn_id": "GRN-2026-000118",
+  "po_line_id": "POL-PO-2026-000091-01",
+  "line_number": 1,
+  "quantity_received": 7,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000118-02",
+  "grn_id": "GRN-2026-000118",
+  "po_line_id": "POL-PO-2026-000091-02",
+  "line_number": 2,
+  "quantity_received": 216,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000119-01",
+  "grn_id": "GRN-2026-000119",
+  "po_line_id": "POL-PO-2026-000098-01",
+  "line_number": 1,
+  "quantity_received": 506,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000120-01",
+  "grn_id": "GRN-2026-000120",
+  "po_line_id": "POL-PO-2026-000099-01",
+  "line_number": 1,
+  "quantity_received": 10,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000121-01",
+  "grn_id": "GRN-2026-000121",
+  "po_line_id": "POL-PO-2026-000101-01",
+  "line_number": 1,
+  "quantity_received": 510,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000122-01",
+  "grn_id": "GRN-2026-000122",
+  "po_line_id": "POL-PO-2026-000109-01",
+  "line_number": 1,
+  "quantity_received": 19,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000123-01",
+  "grn_id": "GRN-2026-000123",
+  "po_line_id": "POL-PO-2026-000103-01",
+  "line_number": 1,
+  "quantity_received": 79,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000124-01",
+  "grn_id": "GRN-2026-000124",
+  "po_line_id": "POL-PO-2026-000110-01",
+  "line_number": 1,
+  "quantity_received": 47,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000125-01",
+  "grn_id": "GRN-2026-000125",
+  "po_line_id": "POL-PO-2026-000086-01",
+  "line_number": 1,
+  "quantity_received": 1020,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000126-01",
+  "grn_id": "GRN-2026-000126",
+  "po_line_id": "POL-PO-2026-000106-01",
+  "line_number": 1,
+  "quantity_received": 83,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000127-01",
+  "grn_id": "GRN-2026-000127",
+  "po_line_id": "POL-PO-2026-000116-01",
+  "line_number": 1,
+  "quantity_received": 138,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000128-01",
+  "grn_id": "GRN-2026-000128",
+  "po_line_id": "POL-PO-2026-000126-01",
+  "line_number": 1,
+  "quantity_received": 106,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000129-01",
+  "grn_id": "GRN-2026-000129",
+  "po_line_id": "POL-PO-2026-000111-01",
+  "line_number": 1,
+  "quantity_received": 31,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000130-01",
+  "grn_id": "GRN-2026-000130",
+  "po_line_id": "POL-PO-2026-000119-01",
+  "line_number": 1,
+  "quantity_received": 11,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000131-01",
+  "grn_id": "GRN-2026-000131",
+  "po_line_id": "POL-PO-2026-000120-01",
+  "line_number": 1,
+  "quantity_received": 6,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000132-01",
+  "grn_id": "GRN-2026-000132",
+  "po_line_id": "POL-PO-2026-000100-01",
+  "line_number": 1,
+  "quantity_received": 135,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000133-01",
+  "grn_id": "GRN-2026-000133",
+  "po_line_id": "POL-PO-2026-000112-01",
+  "line_number": 1,
+  "quantity_received": 8,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000134-01",
+  "grn_id": "GRN-2026-000134",
+  "po_line_id": "POL-PO-2026-000095-01",
+  "line_number": 1,
+  "quantity_received": 4,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000135-01",
+  "grn_id": "GRN-2026-000135",
+  "po_line_id": "POL-PO-2026-000105-01",
+  "line_number": 1,
+  "quantity_received": 135,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000136-01",
+  "grn_id": "GRN-2026-000136",
+  "po_line_id": "POL-PO-2026-000108-01",
+  "line_number": 1,
+  "quantity_received": 9,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000137-01",
+  "grn_id": "GRN-2026-000137",
+  "po_line_id": "POL-PO-2026-000116-01",
+  "line_number": 1,
+  "quantity_received": 67,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000138-01",
+  "grn_id": "GRN-2026-000138",
+  "po_line_id": "POL-PO-2026-000089-01",
+  "line_number": 1,
+  "quantity_received": 22,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000139-01",
+  "grn_id": "GRN-2026-000139",
+  "po_line_id": "POL-PO-2026-000109-01",
+  "line_number": 1,
+  "quantity_received": 17,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000140-01",
+  "grn_id": "GRN-2026-000140",
+  "po_line_id": "POL-PO-2026-000113-01",
+  "line_number": 1,
+  "quantity_received": 93,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000141-01",
+  "grn_id": "GRN-2026-000141",
+  "po_line_id": "POL-PO-2026-000115-01",
+  "line_number": 1,
+  "quantity_received": 13,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000142-01",
+  "grn_id": "GRN-2026-000142",
+  "po_line_id": "POL-PO-2026-000123-01",
+  "line_number": 1,
+  "quantity_received": 15,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000143-01",
+  "grn_id": "GRN-2026-000143",
+  "po_line_id": "POL-PO-2026-000127-01",
+  "line_number": 1,
+  "quantity_received": 52,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000144-01",
+  "grn_id": "GRN-2026-000144",
+  "po_line_id": "POL-PO-2026-000128-01",
+  "line_number": 1,
+  "quantity_received": 19,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000145-01",
+  "grn_id": "GRN-2026-000145",
+  "po_line_id": "POL-PO-2026-000092-01",
+  "line_number": 1,
+  "quantity_received": 43,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000146-01",
+  "grn_id": "GRN-2026-000146",
+  "po_line_id": "POL-PO-2026-000106-01",
+  "line_number": 1,
+  "quantity_received": 160,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000147-01",
+  "grn_id": "GRN-2026-000147",
+  "po_line_id": "POL-PO-2026-000121-01",
+  "line_number": 1,
+  "quantity_received": 39,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000147-02",
+  "grn_id": "GRN-2026-000147",
+  "po_line_id": "POL-PO-2026-000121-02",
+  "line_number": 2,
+  "quantity_received": 18,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000148-01",
+  "grn_id": "GRN-2026-000148",
+  "po_line_id": "POL-PO-2026-000103-01",
+  "line_number": 1,
+  "quantity_received": 138,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000149-01",
+  "grn_id": "GRN-2026-000149",
+  "po_line_id": "POL-PO-2026-000105-01",
+  "line_number": 1,
+  "quantity_received": 36,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000150-01",
+  "grn_id": "GRN-2026-000150",
+  "po_line_id": "POL-PO-2026-000112-01",
+  "line_number": 1,
+  "quantity_received": 14,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000151-01",
+  "grn_id": "GRN-2026-000151",
+  "po_line_id": "POL-PO-2026-000118-01",
+  "line_number": 1,
+  "quantity_received": 133,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000152-01",
+  "grn_id": "GRN-2026-000152",
+  "po_line_id": "POL-PO-2026-000128-01",
+  "line_number": 1,
+  "quantity_received": 17,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000153-01",
+  "grn_id": "GRN-2026-000153",
+  "po_line_id": "POL-PO-2026-000135-01",
+  "line_number": 1,
+  "quantity_received": 90,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000154-01",
+  "grn_id": "GRN-2026-000154",
+  "po_line_id": "POL-PO-2026-000123-01",
+  "line_number": 1,
+  "quantity_received": 13,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000155-01",
+  "grn_id": "GRN-2026-000155",
+  "po_line_id": "POL-PO-2026-000124-01",
+  "line_number": 1,
+  "quantity_received": 838,
+  "receipt_type": "OVER"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000156-01",
+  "grn_id": "GRN-2026-000156",
+  "po_line_id": "POL-PO-2026-000129-01",
+  "line_number": 1,
+  "quantity_received": 110,
+  "receipt_type": "OVER"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000157-01",
+  "grn_id": "GRN-2026-000157",
+  "po_line_id": "POL-PO-2026-000114-01",
+  "line_number": 1,
+  "quantity_received": 26,
+  "receipt_type": "OVER"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000158-01",
+  "grn_id": "GRN-2026-000158",
+  "po_line_id": "POL-PO-2026-000130-01",
+  "line_number": 1,
+  "quantity_received": 22,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000159-01",
+  "grn_id": "GRN-2026-000159",
+  "po_line_id": "POL-PO-2026-000131-01",
+  "line_number": 1,
+  "quantity_received": 328,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000159-02",
+  "grn_id": "GRN-2026-000159",
+  "po_line_id": "POL-PO-2026-000131-02",
+  "line_number": 2,
+  "quantity_received": 42,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000160-01",
+  "grn_id": "GRN-2026-000160",
+  "po_line_id": "POL-PO-2026-000133-01",
+  "line_number": 1,
+  "quantity_received": 213,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000161-01",
+  "grn_id": "GRN-2026-000161",
+  "po_line_id": "POL-PO-2026-000110-01",
+  "line_number": 1,
+  "quantity_received": 34,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000162-01",
+  "grn_id": "GRN-2026-000162",
+  "po_line_id": "POL-PO-2026-000125-01",
+  "line_number": 1,
+  "quantity_received": 36,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000162-02",
+  "grn_id": "GRN-2026-000162",
+  "po_line_id": "POL-PO-2026-000125-02",
+  "line_number": 2,
+  "quantity_received": 5,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000163-01",
+  "grn_id": "GRN-2026-000163",
+  "po_line_id": "POL-PO-2026-000126-01",
+  "line_number": 1,
+  "quantity_received": 87,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000164-01",
+  "grn_id": "GRN-2026-000164",
+  "po_line_id": "POL-PO-2026-000136-01",
+  "line_number": 1,
+  "quantity_received": 48,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000165-01",
+  "grn_id": "GRN-2026-000165",
+  "po_line_id": "POL-PO-2026-000134-01",
+  "line_number": 1,
+  "quantity_received": 5,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000166-01",
+  "grn_id": "GRN-2026-000166",
+  "po_line_id": "POL-PO-2026-000138-01",
+  "line_number": 1,
+  "quantity_received": 12,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000166-02",
+  "grn_id": "GRN-2026-000166",
+  "po_line_id": "POL-PO-2026-000138-02",
+  "line_number": 2,
+  "quantity_received": 133,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000167-01",
+  "grn_id": "GRN-2026-000167",
+  "po_line_id": "POL-PO-2026-000127-01",
+  "line_number": 1,
+  "quantity_received": 21,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000168-01",
+  "grn_id": "GRN-2026-000168",
+  "po_line_id": "POL-PO-2026-000135-01",
+  "line_number": 1,
+  "quantity_received": 26,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000169-01",
+  "grn_id": "GRN-2026-000169",
+  "po_line_id": "POL-PO-2026-000132-01",
+  "line_number": 1,
+  "quantity_received": 34,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000170-01",
+  "grn_id": "GRN-2026-000170",
+  "po_line_id": "POL-PO-2026-000137-01",
+  "line_number": 1,
+  "quantity_received": 33,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000170-02",
+  "grn_id": "GRN-2026-000170",
+  "po_line_id": "POL-PO-2026-000137-02",
+  "line_number": 2,
+  "quantity_received": 111,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000171-01",
+  "grn_id": "GRN-2026-000171",
+  "po_line_id": "POL-PO-2026-000143-01",
+  "line_number": 1,
+  "quantity_received": 7,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000171-02",
+  "grn_id": "GRN-2026-000171",
+  "po_line_id": "POL-PO-2026-000143-02",
+  "line_number": 2,
+  "quantity_received": 458,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000171-03",
+  "grn_id": "GRN-2026-000171",
+  "po_line_id": "POL-PO-2026-000143-03",
+  "line_number": 3,
+  "quantity_received": 7,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000171-04",
+  "grn_id": "GRN-2026-000171",
+  "po_line_id": "POL-PO-2026-000143-04",
+  "line_number": 4,
+  "quantity_received": 7,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000171-05",
+  "grn_id": "GRN-2026-000171",
+  "po_line_id": "POL-PO-2026-000143-05",
+  "line_number": 5,
+  "quantity_received": 26,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000171-06",
+  "grn_id": "GRN-2026-000171",
+  "po_line_id": "POL-PO-2026-000143-06",
+  "line_number": 6,
+  "quantity_received": 235,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000172-01",
+  "grn_id": "GRN-2026-000172",
+  "po_line_id": "POL-PO-2026-000146-01",
+  "line_number": 1,
+  "quantity_received": 38,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000173-01",
+  "grn_id": "GRN-2026-000173",
+  "po_line_id": "POL-PO-2026-000140-01",
+  "line_number": 1,
+  "quantity_received": 8,
+  "receipt_type": "PARTIAL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000174-01",
+  "grn_id": "GRN-2026-000174",
+  "po_line_id": "POL-PO-2026-000145-01",
+  "line_number": 1,
+  "quantity_received": 7,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000175-01",
+  "grn_id": "GRN-2026-000175",
+  "po_line_id": "POL-PO-2026-000136-01",
+  "line_number": 1,
+  "quantity_received": 27,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000176-01",
+  "grn_id": "GRN-2026-000176",
+  "po_line_id": "POL-PO-2026-000144-01",
+  "line_number": 1,
+  "quantity_received": 12,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000177-01",
+  "grn_id": "GRN-2026-000177",
+  "po_line_id": "POL-PO-2026-000141-01",
+  "line_number": 1,
+  "quantity_received": 797,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000177-02",
+  "grn_id": "GRN-2026-000177",
+  "po_line_id": "POL-PO-2026-000141-02",
+  "line_number": 2,
+  "quantity_received": 209,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000178-01",
+  "grn_id": "GRN-2026-000178",
+  "po_line_id": "POL-PO-2026-000142-01",
+  "line_number": 1,
+  "quantity_received": 878,
+  "receipt_type": "OVER"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000179-01",
+  "grn_id": "GRN-2026-000179",
+  "po_line_id": "POL-PO-2026-000147-01",
+  "line_number": 1,
+  "quantity_received": 26,
+  "receipt_type": "FULL"
+ },
+ {
+  "grn_line_id": "GRNL-GRN-2026-000180-01",
+  "grn_id": "GRN-2026-000180",
+  "po_line_id": "POL-PO-2026-000140-01",
+  "line_number": 1,
+  "quantity_received": 6,
+  "receipt_type": "FULL"
+ }
+]

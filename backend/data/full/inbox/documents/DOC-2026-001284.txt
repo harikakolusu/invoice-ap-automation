@@ -1,0 +1,24 @@
+Frontier Logistics GmbH
+Tax ID: 57-9728928
+Remit to: Accounts Receivable, Frontier Logistics GmbH
+
+                                INVOICE
+Invoice No:      FRON-48588
+Invoice Date:    2026-06-09
+PO Number:       PO-2026-000972
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0004   V-Belt A42                         267       49.78  TX18    13,291.26
+ 2  SKU-PKG-0002   Stretch Film Roll                  159        2.23  TX12       354.57
+ 3  SKU-MRO-0008   Air Filter Panel                   198        8.64  TX18     1,710.72
+ 4  SKU-PKG-0003   Pallet Wrap 500m                  1002       15.99  TX12    16,021.98
+ 5  SKU-MRO-0005   Hex Bolts M10 100pk                 11       17.33  TX18       190.63
+ 6  SKU-MRO-0006   Welding Rods 5kg                     5        9.27  TX18        46.35
+
+                                                  Subtotal:        31,615.51
+                                                  Tax:              4,708.20
+                                                  TOTAL DUE:       36,323.71

@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054302 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054302
+Invoice Date (DD/MM/YYYY): 28/04/2026
+Purchase Order: PO-2026-000721
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 169 | @ $18.33 | TX18 | $3,097.77
+
+Subtotal: $3,097.77
+Tax: $557.60
+Amount Due: $3,655.37
+
+Regards,
+Billing Team

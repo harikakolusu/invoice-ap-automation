@@ -1,0 +1,20 @@
+Falcon Metals Inc.
+Tax ID: 61-1118766
+Remit to: Accounts Receivable, Falcon Metals Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/04561
+Invoice Date:    2026-07-13
+PO Number:       PO-2026-001192
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0003   Pallet Wrap 500m                   967       17.95  TX12    17,357.65
+ 2  SKU-RAW-0001   Steel Sheet 2mm                    137        8.58  TX05     1,175.46
+
+                                                  Subtotal:        18,533.11
+                                                  Tax:              2,141.69
+                                                  TOTAL DUE:       20,674.80

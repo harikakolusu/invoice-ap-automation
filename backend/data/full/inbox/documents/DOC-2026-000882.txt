@@ -1,0 +1,25 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054292 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054292
+Invoice Date (DD/MM/YYYY): 25/04/2026
+Purchase Order: PO-2026-000704
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 244 | @ $19.97 | TX18 | $4,872.68
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 19 | @ $5.22 | TX05 | $99.18
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 30 | @ $231.48 | TX18 | $6,944.40
+
+Subtotal: $11,916.26
+Tax: $2,132.03
+Amount Due: $14,048.29
+
+Regards,
+Billing Team

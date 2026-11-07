@@ -1,0 +1,1430 @@
+[
+ {
+  "match_id": "MAT-2026-000001",
+  "invoice_line_id": "INVL-INV-ATLA025-2026-000001-01",
+  "grn_line_id": "GRNL-GRN-2026-000001-01",
+  "matched_qty": 1
+ },
+ {
+  "match_id": "MAT-2026-000002",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000002-01",
+  "grn_line_id": "GRNL-GRN-2026-000004-01",
+  "matched_qty": 57
+ },
+ {
+  "match_id": "MAT-2026-000003",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000003-01",
+  "grn_line_id": "GRNL-GRN-2026-000002-01",
+  "matched_qty": 76
+ },
+ {
+  "match_id": "MAT-2026-000004",
+  "invoice_line_id": "INVL-INV-APEX027-2026-000004-01",
+  "grn_line_id": "GRNL-GRN-2026-000006-01",
+  "matched_qty": 7
+ },
+ {
+  "match_id": "MAT-2026-000005",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000005-01",
+  "grn_line_id": "GRNL-GRN-2026-000003-01",
+  "matched_qty": 23
+ },
+ {
+  "match_id": "MAT-2026-000006",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000006-01",
+  "grn_line_id": "GRNL-GRN-2026-000007-01",
+  "matched_qty": 17
+ },
+ {
+  "match_id": "MAT-2026-000007",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000008-01",
+  "grn_line_id": "GRNL-GRN-2026-000005-01",
+  "matched_qty": 164
+ },
+ {
+  "match_id": "MAT-2026-000008",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000008-02",
+  "grn_line_id": "GRNL-GRN-2026-000005-02",
+  "matched_qty": 80
+ },
+ {
+  "match_id": "MAT-2026-000009",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000009-01",
+  "grn_line_id": "GRNL-GRN-2026-000010-01",
+  "matched_qty": 8
+ },
+ {
+  "match_id": "MAT-2026-000010",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000009-02",
+  "grn_line_id": "GRNL-GRN-2026-000010-02",
+  "matched_qty": 107
+ },
+ {
+  "match_id": "MAT-2026-000011",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000009-03",
+  "grn_line_id": "GRNL-GRN-2026-000010-03",
+  "matched_qty": 332
+ },
+ {
+  "match_id": "MAT-2026-000012",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000009-04",
+  "grn_line_id": "GRNL-GRN-2026-000010-04",
+  "matched_qty": 16
+ },
+ {
+  "match_id": "MAT-2026-000013",
+  "invoice_line_id": "INVL-INV-ATLA025-2026-000010-01",
+  "grn_line_id": "GRNL-GRN-2026-000013-01",
+  "matched_qty": 4
+ },
+ {
+  "match_id": "MAT-2026-000014",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000011-01",
+  "grn_line_id": "GRNL-GRN-2026-000008-01",
+  "matched_qty": 120
+ },
+ {
+  "match_id": "MAT-2026-000015",
+  "invoice_line_id": "INVL-INV-CRES007-2026-000012-01",
+  "grn_line_id": "GRNL-GRN-2026-000009-01",
+  "matched_qty": 82
+ },
+ {
+  "match_id": "MAT-2026-000016",
+  "invoice_line_id": "INVL-INV-CRES007-2026-000012-02",
+  "grn_line_id": "GRNL-GRN-2026-000009-02",
+  "matched_qty": 61
+ },
+ {
+  "match_id": "MAT-2026-000017",
+  "invoice_line_id": "INVL-INV-CRES007-2026-000012-03",
+  "grn_line_id": "GRNL-GRN-2026-000009-03",
+  "matched_qty": 750
+ },
+ {
+  "match_id": "MAT-2026-000018",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000013-01",
+  "grn_line_id": "GRNL-GRN-2026-000011-01",
+  "matched_qty": 42
+ },
+ {
+  "match_id": "MAT-2026-000019",
+  "invoice_line_id": "INVL-INV-CRES007-2026-000014-01",
+  "grn_line_id": "GRNL-GRN-2026-000012-01",
+  "matched_qty": 119
+ },
+ {
+  "match_id": "MAT-2026-000020",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000016-01",
+  "grn_line_id": "GRNL-GRN-2026-000014-01",
+  "matched_qty": 5
+ },
+ {
+  "match_id": "MAT-2026-000021",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000018-01",
+  "grn_line_id": "GRNL-GRN-2026-000016-01",
+  "matched_qty": 10
+ },
+ {
+  "match_id": "MAT-2026-000022",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000019-01",
+  "grn_line_id": "GRNL-GRN-2026-000017-01",
+  "matched_qty": 21
+ },
+ {
+  "match_id": "MAT-2026-000023",
+  "invoice_line_id": "INVL-INV-SUMM006-2026-000020-01",
+  "grn_line_id": "GRNL-GRN-2026-000021-01",
+  "matched_qty": 27
+ },
+ {
+  "match_id": "MAT-2026-000024",
+  "invoice_line_id": "INVL-INV-SUMM006-2026-000020-02",
+  "grn_line_id": "GRNL-GRN-2026-000021-02",
+  "matched_qty": 339
+ },
+ {
+  "match_id": "MAT-2026-000025",
+  "invoice_line_id": "INVL-INV-SUMM006-2026-000020-03",
+  "grn_line_id": "GRNL-GRN-2026-000021-03",
+  "matched_qty": 688
+ },
+ {
+  "match_id": "MAT-2026-000026",
+  "invoice_line_id": "INVL-INV-SUMM006-2026-000020-04",
+  "grn_line_id": "GRNL-GRN-2026-000021-04",
+  "matched_qty": 52
+ },
+ {
+  "match_id": "MAT-2026-000027",
+  "invoice_line_id": "INVL-INV-JUNI014-2026-000021-01",
+  "grn_line_id": "GRNL-GRN-2026-000018-01",
+  "matched_qty": 20
+ },
+ {
+  "match_id": "MAT-2026-000028",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000022-01",
+  "grn_line_id": "GRNL-GRN-2026-000020-01",
+  "matched_qty": 211
+ },
+ {
+  "match_id": "MAT-2026-000029",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000023-01",
+  "grn_line_id": "GRNL-GRN-2026-000022-01",
+  "matched_qty": 47
+ },
+ {
+  "match_id": "MAT-2026-000030",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000023-02",
+  "grn_line_id": "GRNL-GRN-2026-000022-02",
+  "matched_qty": 20
+ },
+ {
+  "match_id": "MAT-2026-000031",
+  "invoice_line_id": "INVL-INV-SUMM006-2026-000024-01",
+  "grn_line_id": "GRNL-GRN-2026-000015-01",
+  "matched_qty": 88
+ },
+ {
+  "match_id": "MAT-2026-000032",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000025-01",
+  "grn_line_id": "GRNL-GRN-2026-000024-01",
+  "matched_qty": 38
+ },
+ {
+  "match_id": "MAT-2026-000033",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000026-01",
+  "grn_line_id": "GRNL-GRN-2026-000019-01",
+  "matched_qty": 157
+ },
+ {
+  "match_id": "MAT-2026-000034",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000026-02",
+  "grn_line_id": "GRNL-GRN-2026-000019-02",
+  "matched_qty": 28
+ },
+ {
+  "match_id": "MAT-2026-000035",
+  "invoice_line_id": "INVL-INV-APEX027-2026-000028-01",
+  "grn_line_id": "GRNL-GRN-2026-000023-01",
+  "matched_qty": 20
+ },
+ {
+  "match_id": "MAT-2026-000036",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000029-01",
+  "grn_line_id": "GRNL-GRN-2026-000028-01",
+  "matched_qty": 21
+ },
+ {
+  "match_id": "MAT-2026-000037",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000029-02",
+  "grn_line_id": "GRNL-GRN-2026-000028-02",
+  "matched_qty": 271
+ },
+ {
+  "match_id": "MAT-2026-000038",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000030-01",
+  "grn_line_id": "GRNL-GRN-2026-000025-01",
+  "matched_qty": 50
+ },
+ {
+  "match_id": "MAT-2026-000039",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000031-01",
+  "grn_line_id": "GRNL-GRN-2026-000026-01",
+  "matched_qty": 32
+ },
+ {
+  "match_id": "MAT-2026-000040",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000031-02",
+  "grn_line_id": "GRNL-GRN-2026-000026-02",
+  "matched_qty": 30
+ },
+ {
+  "match_id": "MAT-2026-000041",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000031-03",
+  "grn_line_id": "GRNL-GRN-2026-000026-03",
+  "matched_qty": 36
+ },
+ {
+  "match_id": "MAT-2026-000042",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000032-01",
+  "grn_line_id": "GRNL-GRN-2026-000032-01",
+  "matched_qty": 55
+ },
+ {
+  "match_id": "MAT-2026-000043",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000034-01",
+  "grn_line_id": "GRNL-GRN-2026-000031-01",
+  "matched_qty": 47
+ },
+ {
+  "match_id": "MAT-2026-000044",
+  "invoice_line_id": "INVL-INV-STRA015-2026-000035-01",
+  "grn_line_id": "GRNL-GRN-2026-000030-01",
+  "matched_qty": 547
+ },
+ {
+  "match_id": "MAT-2026-000045",
+  "invoice_line_id": "INVL-INV-APEX027-2026-000036-01",
+  "grn_line_id": "GRNL-GRN-2026-000029-01",
+  "matched_qty": 13
+ },
+ {
+  "match_id": "MAT-2026-000046",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000037-01",
+  "grn_line_id": "GRNL-GRN-2026-000027-01",
+  "matched_qty": 1
+ },
+ {
+  "match_id": "MAT-2026-000047",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000037-02",
+  "grn_line_id": "GRNL-GRN-2026-000027-02",
+  "matched_qty": 3
+ },
+ {
+  "match_id": "MAT-2026-000048",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000037-03",
+  "grn_line_id": "GRNL-GRN-2026-000027-03",
+  "matched_qty": 10
+ },
+ {
+  "match_id": "MAT-2026-000049",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000037-04",
+  "grn_line_id": "GRNL-GRN-2026-000027-04",
+  "matched_qty": 256
+ },
+ {
+  "match_id": "MAT-2026-000050",
+  "invoice_line_id": "INVL-INV-BORE030-2026-000038-01",
+  "grn_line_id": "GRNL-GRN-2026-000036-01",
+  "matched_qty": 82
+ },
+ {
+  "match_id": "MAT-2026-000051",
+  "invoice_line_id": "INVL-INV-JUNI014-2026-000039-01",
+  "grn_line_id": "GRNL-GRN-2026-000033-01",
+  "matched_qty": 61
+ },
+ {
+  "match_id": "MAT-2026-000052",
+  "invoice_line_id": "INVL-INV-ATLA025-2026-000040-01",
+  "grn_line_id": "GRNL-GRN-2026-000041-01",
+  "matched_qty": 56
+ },
+ {
+  "match_id": "MAT-2026-000053",
+  "invoice_line_id": "INVL-INV-STRA022-2026-000041-01",
+  "grn_line_id": "GRNL-GRN-2026-000037-01",
+  "matched_qty": 94
+ },
+ {
+  "match_id": "MAT-2026-000054",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000042-01",
+  "grn_line_id": "GRNL-GRN-2026-000038-01",
+  "matched_qty": 272
+ },
+ {
+  "match_id": "MAT-2026-000055",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000042-02",
+  "grn_line_id": "GRNL-GRN-2026-000038-02",
+  "matched_qty": 16
+ },
+ {
+  "match_id": "MAT-2026-000056",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000042-03",
+  "grn_line_id": "GRNL-GRN-2026-000038-03",
+  "matched_qty": 8
+ },
+ {
+  "match_id": "MAT-2026-000057",
+  "invoice_line_id": "INVL-INV-STRA015-2026-000043-01",
+  "grn_line_id": "GRNL-GRN-2026-000042-01",
+  "matched_qty": 19
+ },
+ {
+  "match_id": "MAT-2026-000058",
+  "invoice_line_id": "INVL-INV-BORE030-2026-000044-01",
+  "grn_line_id": "GRNL-GRN-2026-000039-01",
+  "matched_qty": 44
+ },
+ {
+  "match_id": "MAT-2026-000059",
+  "invoice_line_id": "INVL-INV-OAKR009-2026-000045-01",
+  "grn_line_id": "GRNL-GRN-2026-000035-01",
+  "matched_qty": 385
+ },
+ {
+  "match_id": "MAT-2026-000060",
+  "invoice_line_id": "INVL-INV-OAKR009-2026-000045-02",
+  "grn_line_id": "GRNL-GRN-2026-000035-02",
+  "matched_qty": 23
+ },
+ {
+  "match_id": "MAT-2026-000061",
+  "invoice_line_id": "INVL-INV-SUMM006-2026-000046-01",
+  "grn_line_id": "GRNL-GRN-2026-000046-01",
+  "matched_qty": 334
+ },
+ {
+  "match_id": "MAT-2026-000062",
+  "invoice_line_id": "INVL-INV-GLAC021-2026-000047-01",
+  "grn_line_id": "GRNL-GRN-2026-000040-01",
+  "matched_qty": 66
+ },
+ {
+  "match_id": "MAT-2026-000063",
+  "invoice_line_id": "INVL-INV-GLAC021-2026-000047-02",
+  "grn_line_id": "GRNL-GRN-2026-000040-02",
+  "matched_qty": 51
+ },
+ {
+  "match_id": "MAT-2026-000064",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000048-01",
+  "grn_line_id": "GRNL-GRN-2026-000048-01",
+  "matched_qty": 39
+ },
+ {
+  "match_id": "MAT-2026-000065",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000048-02",
+  "grn_line_id": "GRNL-GRN-2026-000048-02",
+  "matched_qty": 54
+ },
+ {
+  "match_id": "MAT-2026-000066",
+  "invoice_line_id": "INVL-INV-GLAC021-2026-000049-01",
+  "grn_line_id": "GRNL-GRN-2026-000034-01",
+  "matched_qty": 7
+ },
+ {
+  "match_id": "MAT-2026-000067",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000050-01",
+  "grn_line_id": "GRNL-GRN-2026-000043-01",
+  "matched_qty": 70
+ },
+ {
+  "match_id": "MAT-2026-000068",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000051-01",
+  "grn_line_id": "GRNL-GRN-2026-000045-01",
+  "matched_qty": 16
+ },
+ {
+  "match_id": "MAT-2026-000069",
+  "invoice_line_id": "INVL-INV-ATLA025-2026-000052-01",
+  "grn_line_id": "GRNL-GRN-2026-000044-01",
+  "matched_qty": 13
+ },
+ {
+  "match_id": "MAT-2026-000070",
+  "invoice_line_id": "INVL-INV-ATLA025-2026-000052-02",
+  "grn_line_id": "GRNL-GRN-2026-000044-02",
+  "matched_qty": 2
+ },
+ {
+  "match_id": "MAT-2026-000071",
+  "invoice_line_id": "INVL-INV-STRA015-2026-000053-01",
+  "grn_line_id": "GRNL-GRN-2026-000052-01",
+  "matched_qty": 11
+ },
+ {
+  "match_id": "MAT-2026-000072",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000054-01",
+  "grn_line_id": "GRNL-GRN-2026-000049-01",
+  "matched_qty": 19
+ },
+ {
+  "match_id": "MAT-2026-000073",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000055-01",
+  "grn_line_id": "GRNL-GRN-2026-000047-01",
+  "matched_qty": 18
+ },
+ {
+  "match_id": "MAT-2026-000074",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000055-02",
+  "grn_line_id": "GRNL-GRN-2026-000047-02",
+  "matched_qty": 85
+ },
+ {
+  "match_id": "MAT-2026-000075",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000055-03",
+  "grn_line_id": "GRNL-GRN-2026-000047-03",
+  "matched_qty": 17
+ },
+ {
+  "match_id": "MAT-2026-000076",
+  "invoice_line_id": "INVL-INV-GLAC021-2026-000056-01",
+  "grn_line_id": "GRNL-GRN-2026-000053-01",
+  "matched_qty": 60
+ },
+ {
+  "match_id": "MAT-2026-000077",
+  "invoice_line_id": "INVL-INV-GLAC021-2026-000057-01",
+  "grn_line_id": "GRNL-GRN-2026-000054-01",
+  "matched_qty": 3
+ },
+ {
+  "match_id": "MAT-2026-000078",
+  "invoice_line_id": "INVL-INV-SUMM006-2026-000059-01",
+  "grn_line_id": "GRNL-GRN-2026-000051-01",
+  "matched_qty": 244
+ },
+ {
+  "match_id": "MAT-2026-000079",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000060-01",
+  "grn_line_id": "GRNL-GRN-2026-000058-01",
+  "matched_qty": 29
+ },
+ {
+  "match_id": "MAT-2026-000080",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000060-02",
+  "grn_line_id": "GRNL-GRN-2026-000058-02",
+  "matched_qty": 189
+ },
+ {
+  "match_id": "MAT-2026-000081",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000060-03",
+  "grn_line_id": "GRNL-GRN-2026-000058-03",
+  "matched_qty": 20
+ },
+ {
+  "match_id": "MAT-2026-000082",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000060-04",
+  "grn_line_id": "GRNL-GRN-2026-000058-04",
+  "matched_qty": 618
+ },
+ {
+  "match_id": "MAT-2026-000083",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000060-05",
+  "grn_line_id": "GRNL-GRN-2026-000058-05",
+  "matched_qty": 10
+ },
+ {
+  "match_id": "MAT-2026-000084",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000061-01",
+  "grn_line_id": "GRNL-GRN-2026-000057-01",
+  "matched_qty": 42
+ },
+ {
+  "match_id": "MAT-2026-000085",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000062-01",
+  "grn_line_id": "GRNL-GRN-2026-000050-01",
+  "matched_qty": 108
+ },
+ {
+  "match_id": "MAT-2026-000086",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000063-01",
+  "grn_line_id": "GRNL-GRN-2026-000060-01",
+  "matched_qty": 21
+ },
+ {
+  "match_id": "MAT-2026-000087",
+  "invoice_line_id": "INVL-INV-WEST016-2026-000064-01",
+  "grn_line_id": "GRNL-GRN-2026-000055-01",
+  "matched_qty": 143
+ },
+ {
+  "match_id": "MAT-2026-000088",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000065-01",
+  "grn_line_id": "GRNL-GRN-2026-000056-01",
+  "matched_qty": 134
+ },
+ {
+  "match_id": "MAT-2026-000089",
+  "invoice_line_id": "INVL-INV-CRES007-2026-000066-01",
+  "grn_line_id": "GRNL-GRN-2026-000059-01",
+  "matched_qty": 101
+ },
+ {
+  "match_id": "MAT-2026-000090",
+  "invoice_line_id": "INVL-INV-BORE030-2026-000067-01",
+  "grn_line_id": "GRNL-GRN-2026-000063-01",
+  "matched_qty": 246
+ },
+ {
+  "match_id": "MAT-2026-000091",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000068-01",
+  "grn_line_id": "GRNL-GRN-2026-000061-01",
+  "matched_qty": 5
+ },
+ {
+  "match_id": "MAT-2026-000092",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000068-02",
+  "grn_line_id": "GRNL-GRN-2026-000061-02",
+  "matched_qty": 22
+ },
+ {
+  "match_id": "MAT-2026-000093",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000069-01",
+  "grn_line_id": "GRNL-GRN-2026-000064-01",
+  "matched_qty": 23
+ },
+ {
+  "match_id": "MAT-2026-000094",
+  "invoice_line_id": "INVL-INV-SUMM006-2026-000070-01",
+  "grn_line_id": "GRNL-GRN-2026-000062-01",
+  "matched_qty": 193
+ },
+ {
+  "match_id": "MAT-2026-000095",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000072-01",
+  "grn_line_id": "GRNL-GRN-2026-000065-01",
+  "matched_qty": 417
+ },
+ {
+  "match_id": "MAT-2026-000096",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000072-02",
+  "grn_line_id": "GRNL-GRN-2026-000065-02",
+  "matched_qty": 116
+ },
+ {
+  "match_id": "MAT-2026-000097",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000073-01",
+  "grn_line_id": "GRNL-GRN-2026-000066-01",
+  "matched_qty": 31
+ },
+ {
+  "match_id": "MAT-2026-000098",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000075-01",
+  "grn_line_id": "GRNL-GRN-2026-000069-01",
+  "matched_qty": 118
+ },
+ {
+  "match_id": "MAT-2026-000099",
+  "invoice_line_id": "INVL-INV-BORE030-2026-000076-01",
+  "grn_line_id": "GRNL-GRN-2026-000067-01",
+  "matched_qty": 17
+ },
+ {
+  "match_id": "MAT-2026-000100",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000078-01",
+  "grn_line_id": "GRNL-GRN-2026-000070-01",
+  "matched_qty": 6
+ },
+ {
+  "match_id": "MAT-2026-000101",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000078-02",
+  "grn_line_id": "GRNL-GRN-2026-000070-02",
+  "matched_qty": 13
+ },
+ {
+  "match_id": "MAT-2026-000102",
+  "invoice_line_id": "INVL-INV-GLAC021-2026-000081-01",
+  "grn_line_id": "GRNL-GRN-2026-000068-01",
+  "matched_qty": 200
+ },
+ {
+  "match_id": "MAT-2026-000103",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000082-01",
+  "grn_line_id": "GRNL-GRN-2026-000071-01",
+  "matched_qty": 4
+ },
+ {
+  "match_id": "MAT-2026-000104",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000083-01",
+  "grn_line_id": "GRNL-GRN-2026-000076-01",
+  "matched_qty": 354
+ },
+ {
+  "match_id": "MAT-2026-000105",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000084-01",
+  "grn_line_id": "GRNL-GRN-2026-000075-01",
+  "matched_qty": 32
+ },
+ {
+  "match_id": "MAT-2026-000106",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000084-02",
+  "grn_line_id": "GRNL-GRN-2026-000075-02",
+  "matched_qty": 10
+ },
+ {
+  "match_id": "MAT-2026-000107",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000085-01",
+  "grn_line_id": "GRNL-GRN-2026-000073-01",
+  "matched_qty": 149
+ },
+ {
+  "match_id": "MAT-2026-000108",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000086-01",
+  "grn_line_id": "GRNL-GRN-2026-000074-01",
+  "matched_qty": 55
+ },
+ {
+  "match_id": "MAT-2026-000109",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000087-01",
+  "grn_line_id": "GRNL-GRN-2026-000072-01",
+  "matched_qty": 10
+ },
+ {
+  "match_id": "MAT-2026-000110",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000088-01",
+  "grn_line_id": "GRNL-GRN-2026-000078-01",
+  "matched_qty": 9
+ },
+ {
+  "match_id": "MAT-2026-000111",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000090-01",
+  "grn_line_id": "GRNL-GRN-2026-000077-01",
+  "matched_qty": 3
+ },
+ {
+  "match_id": "MAT-2026-000112",
+  "invoice_line_id": "INVL-INV-IRON023-2026-000091-01",
+  "grn_line_id": "GRNL-GRN-2026-000079-01",
+  "matched_qty": 114
+ },
+ {
+  "match_id": "MAT-2026-000113",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000092-01",
+  "grn_line_id": "GRNL-GRN-2026-000080-01",
+  "matched_qty": 5
+ },
+ {
+  "match_id": "MAT-2026-000114",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000093-01",
+  "grn_line_id": "GRNL-GRN-2026-000082-01",
+  "matched_qty": 1
+ },
+ {
+  "match_id": "MAT-2026-000115",
+  "invoice_line_id": "INVL-INV-GLAC021-2026-000094-01",
+  "grn_line_id": "GRNL-GRN-2026-000081-01",
+  "matched_qty": 23
+ },
+ {
+  "match_id": "MAT-2026-000116",
+  "invoice_line_id": "INVL-INV-SUMM006-2026-000095-01",
+  "grn_line_id": "GRNL-GRN-2026-000083-01",
+  "matched_qty": 11
+ },
+ {
+  "match_id": "MAT-2026-000117",
+  "invoice_line_id": "INVL-INV-JUNI014-2026-000096-01",
+  "grn_line_id": "GRNL-GRN-2026-000088-01",
+  "matched_qty": 25
+ },
+ {
+  "match_id": "MAT-2026-000118",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000097-01",
+  "grn_line_id": "GRNL-GRN-2026-000090-01",
+  "matched_qty": 109
+ },
+ {
+  "match_id": "MAT-2026-000119",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000097-02",
+  "grn_line_id": "GRNL-GRN-2026-000090-02",
+  "matched_qty": 7
+ },
+ {
+  "match_id": "MAT-2026-000120",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000097-03",
+  "grn_line_id": "GRNL-GRN-2026-000090-03",
+  "matched_qty": 225
+ },
+ {
+  "match_id": "MAT-2026-000121",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000097-04",
+  "grn_line_id": "GRNL-GRN-2026-000090-04",
+  "matched_qty": 6
+ },
+ {
+  "match_id": "MAT-2026-000122",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000097-05",
+  "grn_line_id": "GRNL-GRN-2026-000090-05",
+  "matched_qty": 8
+ },
+ {
+  "match_id": "MAT-2026-000123",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000097-06",
+  "grn_line_id": "GRNL-GRN-2026-000090-06",
+  "matched_qty": 150
+ },
+ {
+  "match_id": "MAT-2026-000124",
+  "invoice_line_id": "INVL-INV-APEX027-2026-000098-01",
+  "grn_line_id": "GRNL-GRN-2026-000089-01",
+  "matched_qty": 1
+ },
+ {
+  "match_id": "MAT-2026-000125",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000099-01",
+  "grn_line_id": "GRNL-GRN-2026-000087-01",
+  "matched_qty": 21
+ },
+ {
+  "match_id": "MAT-2026-000126",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000100-01",
+  "grn_line_id": "GRNL-GRN-2026-000085-01",
+  "matched_qty": 8
+ },
+ {
+  "match_id": "MAT-2026-000127",
+  "invoice_line_id": "INVL-INV-JUNI014-2026-000101-01",
+  "grn_line_id": "GRNL-GRN-2026-000084-01",
+  "matched_qty": 4
+ },
+ {
+  "match_id": "MAT-2026-000128",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000102-01",
+  "grn_line_id": "GRNL-GRN-2026-000086-01",
+  "matched_qty": 49
+ },
+ {
+  "match_id": "MAT-2026-000129",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000102-02",
+  "grn_line_id": "GRNL-GRN-2026-000086-02",
+  "matched_qty": 104
+ },
+ {
+  "match_id": "MAT-2026-000130",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000102-03",
+  "grn_line_id": "GRNL-GRN-2026-000086-03",
+  "matched_qty": 5
+ },
+ {
+  "match_id": "MAT-2026-000131",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000102-04",
+  "grn_line_id": "GRNL-GRN-2026-000086-04",
+  "matched_qty": 30
+ },
+ {
+  "match_id": "MAT-2026-000132",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000104-01",
+  "grn_line_id": "GRNL-GRN-2026-000091-01",
+  "matched_qty": 252
+ },
+ {
+  "match_id": "MAT-2026-000133",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000104-02",
+  "grn_line_id": "GRNL-GRN-2026-000091-02",
+  "matched_qty": 104
+ },
+ {
+  "match_id": "MAT-2026-000134",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000104-03",
+  "grn_line_id": "GRNL-GRN-2026-000091-03",
+  "matched_qty": 30
+ },
+ {
+  "match_id": "MAT-2026-000135",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000105-01",
+  "grn_line_id": "GRNL-GRN-2026-000093-01",
+  "matched_qty": 12
+ },
+ {
+  "match_id": "MAT-2026-000136",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000107-01",
+  "grn_line_id": "GRNL-GRN-2026-000092-01",
+  "matched_qty": 29
+ },
+ {
+  "match_id": "MAT-2026-000137",
+  "invoice_line_id": "INVL-INV-GLAC021-2026-000108-01",
+  "grn_line_id": "GRNL-GRN-2026-000094-01",
+  "matched_qty": 225
+ },
+ {
+  "match_id": "MAT-2026-000138",
+  "invoice_line_id": "INVL-INV-GLAC021-2026-000108-02",
+  "grn_line_id": "GRNL-GRN-2026-000094-02",
+  "matched_qty": 29
+ },
+ {
+  "match_id": "MAT-2026-000139",
+  "invoice_line_id": "INVL-INV-GLAC021-2026-000108-03",
+  "grn_line_id": "GRNL-GRN-2026-000094-03",
+  "matched_qty": 8
+ },
+ {
+  "match_id": "MAT-2026-000140",
+  "invoice_line_id": "INVL-INV-GLAC021-2026-000108-04",
+  "grn_line_id": "GRNL-GRN-2026-000094-04",
+  "matched_qty": 31
+ },
+ {
+  "match_id": "MAT-2026-000141",
+  "invoice_line_id": "INVL-INV-GLAC021-2026-000108-05",
+  "grn_line_id": "GRNL-GRN-2026-000094-05",
+  "matched_qty": 226
+ },
+ {
+  "match_id": "MAT-2026-000142",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000109-01",
+  "grn_line_id": "GRNL-GRN-2026-000098-01",
+  "matched_qty": 73
+ },
+ {
+  "match_id": "MAT-2026-000143",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000110-01",
+  "grn_line_id": "GRNL-GRN-2026-000097-01",
+  "matched_qty": 74
+ },
+ {
+  "match_id": "MAT-2026-000144",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000111-01",
+  "grn_line_id": "GRNL-GRN-2026-000095-01",
+  "matched_qty": 111
+ },
+ {
+  "match_id": "MAT-2026-000145",
+  "invoice_line_id": "INVL-INV-STRA022-2026-000112-01",
+  "grn_line_id": "GRNL-GRN-2026-000101-01",
+  "matched_qty": 978
+ },
+ {
+  "match_id": "MAT-2026-000146",
+  "invoice_line_id": "INVL-INV-GLAC021-2026-000113-01",
+  "grn_line_id": "GRNL-GRN-2026-000096-01",
+  "matched_qty": 54
+ },
+ {
+  "match_id": "MAT-2026-000147",
+  "invoice_line_id": "INVL-INV-JUNI014-2026-000114-01",
+  "grn_line_id": "GRNL-GRN-2026-000099-01",
+  "matched_qty": 6
+ },
+ {
+  "match_id": "MAT-2026-000148",
+  "invoice_line_id": "INVL-INV-QUAN029-2026-000115-01",
+  "grn_line_id": "GRNL-GRN-2026-000100-01",
+  "matched_qty": 66
+ },
+ {
+  "match_id": "MAT-2026-000149",
+  "invoice_line_id": "INVL-INV-QUAN029-2026-000115-02",
+  "grn_line_id": "GRNL-GRN-2026-000100-02",
+  "matched_qty": 11
+ },
+ {
+  "match_id": "MAT-2026-000150",
+  "invoice_line_id": "INVL-INV-SUMM006-2026-000116-01",
+  "grn_line_id": "GRNL-GRN-2026-000102-01",
+  "matched_qty": 27
+ },
+ {
+  "match_id": "MAT-2026-000151",
+  "invoice_line_id": "INVL-INV-JUNI014-2026-000117-01",
+  "grn_line_id": "GRNL-GRN-2026-000107-01",
+  "matched_qty": 21
+ },
+ {
+  "match_id": "MAT-2026-000152",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000118-01",
+  "grn_line_id": "GRNL-GRN-2026-000111-01",
+  "matched_qty": 4
+ },
+ {
+  "match_id": "MAT-2026-000153",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000119-01",
+  "grn_line_id": "GRNL-GRN-2026-000106-01",
+  "matched_qty": 3
+ },
+ {
+  "match_id": "MAT-2026-000154",
+  "invoice_line_id": "INVL-INV-NIMB028-2026-000120-01",
+  "grn_line_id": "GRNL-GRN-2026-000108-01",
+  "matched_qty": 132
+ },
+ {
+  "match_id": "MAT-2026-000155",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000121-01",
+  "grn_line_id": "GRNL-GRN-2026-000103-01",
+  "matched_qty": 12
+ },
+ {
+  "match_id": "MAT-2026-000156",
+  "invoice_line_id": "INVL-INV-WEST016-2026-000122-01",
+  "grn_line_id": "GRNL-GRN-2026-000115-01",
+  "matched_qty": 76
+ },
+ {
+  "match_id": "MAT-2026-000157",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000123-01",
+  "grn_line_id": "GRNL-GRN-2026-000105-01",
+  "matched_qty": 75
+ },
+ {
+  "match_id": "MAT-2026-000158",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000123-02",
+  "grn_line_id": "GRNL-GRN-2026-000105-02",
+  "matched_qty": 2
+ },
+ {
+  "match_id": "MAT-2026-000159",
+  "invoice_line_id": "INVL-INV-APEX027-2026-000124-01",
+  "grn_line_id": "GRNL-GRN-2026-000112-01",
+  "matched_qty": 161
+ },
+ {
+  "match_id": "MAT-2026-000160",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000125-01",
+  "grn_line_id": "GRNL-GRN-2026-000104-01",
+  "matched_qty": 2
+ },
+ {
+  "match_id": "MAT-2026-000161",
+  "invoice_line_id": "INVL-INV-QUAN029-2026-000126-01",
+  "grn_line_id": "GRNL-GRN-2026-000113-01",
+  "matched_qty": 118
+ },
+ {
+  "match_id": "MAT-2026-000162",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000127-01",
+  "grn_line_id": "GRNL-GRN-2026-000117-01",
+  "matched_qty": 182
+ },
+ {
+  "match_id": "MAT-2026-000163",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000128-01",
+  "grn_line_id": "GRNL-GRN-2026-000116-01",
+  "matched_qty": 38
+ },
+ {
+  "match_id": "MAT-2026-000164",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000128-02",
+  "grn_line_id": "GRNL-GRN-2026-000116-02",
+  "matched_qty": 124
+ },
+ {
+  "match_id": "MAT-2026-000165",
+  "invoice_line_id": "INVL-INV-DELT001-2026-000129-01",
+  "grn_line_id": "GRNL-GRN-2026-000110-01",
+  "matched_qty": 55
+ },
+ {
+  "match_id": "MAT-2026-000166",
+  "invoice_line_id": "INVL-INV-ATLA025-2026-000131-01",
+  "grn_line_id": "GRNL-GRN-2026-000122-01",
+  "matched_qty": 19
+ },
+ {
+  "match_id": "MAT-2026-000167",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000132-01",
+  "grn_line_id": "GRNL-GRN-2026-000118-01",
+  "matched_qty": 7
+ },
+ {
+  "match_id": "MAT-2026-000168",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000132-02",
+  "grn_line_id": "GRNL-GRN-2026-000118-02",
+  "matched_qty": 216
+ },
+ {
+  "match_id": "MAT-2026-000169",
+  "invoice_line_id": "INVL-INV-IRON023-2026-000133-01",
+  "grn_line_id": "GRNL-GRN-2026-000123-01",
+  "matched_qty": 79
+ },
+ {
+  "match_id": "MAT-2026-000170",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000135-01",
+  "grn_line_id": "GRNL-GRN-2026-000121-01",
+  "matched_qty": 510
+ },
+ {
+  "match_id": "MAT-2026-000171",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000136-01",
+  "grn_line_id": "GRNL-GRN-2026-000114-01",
+  "matched_qty": 20
+ },
+ {
+  "match_id": "MAT-2026-000172",
+  "invoice_line_id": "INVL-INV-OAKR009-2026-000137-01",
+  "grn_line_id": "GRNL-GRN-2026-000119-01",
+  "matched_qty": 506
+ },
+ {
+  "match_id": "MAT-2026-000173",
+  "invoice_line_id": "INVL-INV-LAKE013-2026-000138-01",
+  "grn_line_id": "GRNL-GRN-2026-000109-01",
+  "matched_qty": 1
+ },
+ {
+  "match_id": "MAT-2026-000174",
+  "invoice_line_id": "INVL-INV-JUNI014-2026-000139-01",
+  "grn_line_id": "GRNL-GRN-2026-000120-01",
+  "matched_qty": 10
+ },
+ {
+  "match_id": "MAT-2026-000175",
+  "invoice_line_id": "INVL-INV-STRA022-2026-000140-01",
+  "grn_line_id": "GRNL-GRN-2026-000125-01",
+  "matched_qty": 1020
+ },
+ {
+  "match_id": "MAT-2026-000176",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000141-01",
+  "grn_line_id": "GRNL-GRN-2026-000124-01",
+  "matched_qty": 47
+ },
+ {
+  "match_id": "MAT-2026-000177",
+  "invoice_line_id": "INVL-INV-QUAN029-2026-000142-01",
+  "grn_line_id": "GRNL-GRN-2026-000128-01",
+  "matched_qty": 106
+ },
+ {
+  "match_id": "MAT-2026-000178",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000143-01",
+  "grn_line_id": "GRNL-GRN-2026-000127-01",
+  "matched_qty": 138
+ },
+ {
+  "match_id": "MAT-2026-000179",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000145-01",
+  "grn_line_id": "GRNL-GRN-2026-000129-01",
+  "matched_qty": 31
+ },
+ {
+  "match_id": "MAT-2026-000180",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000147-01",
+  "grn_line_id": "GRNL-GRN-2026-000131-01",
+  "matched_qty": 6
+ },
+ {
+  "match_id": "MAT-2026-000181",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000149-01",
+  "grn_line_id": "GRNL-GRN-2026-000126-01",
+  "matched_qty": 83
+ },
+ {
+  "match_id": "MAT-2026-000182",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000150-01",
+  "grn_line_id": "GRNL-GRN-2026-000132-01",
+  "matched_qty": 135
+ },
+ {
+  "match_id": "MAT-2026-000183",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000151-01",
+  "grn_line_id": "GRNL-GRN-2026-000133-01",
+  "matched_qty": 8
+ },
+ {
+  "match_id": "MAT-2026-000184",
+  "invoice_line_id": "INVL-INV-ORIO024-2026-000152-01",
+  "grn_line_id": "GRNL-GRN-2026-000130-01",
+  "matched_qty": 11
+ },
+ {
+  "match_id": "MAT-2026-000185",
+  "invoice_line_id": "INVL-INV-ATLA025-2026-000153-01",
+  "grn_line_id": "GRNL-GRN-2026-000139-01",
+  "matched_qty": 17
+ },
+ {
+  "match_id": "MAT-2026-000186",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000154-01",
+  "grn_line_id": "GRNL-GRN-2026-000136-01",
+  "matched_qty": 9
+ },
+ {
+  "match_id": "MAT-2026-000187",
+  "invoice_line_id": "INVL-INV-WEST016-2026-000155-01",
+  "grn_line_id": "GRNL-GRN-2026-000138-01",
+  "matched_qty": 22
+ },
+ {
+  "match_id": "MAT-2026-000188",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000156-01",
+  "grn_line_id": "GRNL-GRN-2026-000144-01",
+  "matched_qty": 19
+ },
+ {
+  "match_id": "MAT-2026-000189",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000157-01",
+  "grn_line_id": "GRNL-GRN-2026-000134-01",
+  "matched_qty": 4
+ },
+ {
+  "match_id": "MAT-2026-000190",
+  "invoice_line_id": "INVL-INV-STRA015-2026-000158-01",
+  "grn_line_id": "GRNL-GRN-2026-000140-01",
+  "matched_qty": 93
+ },
+ {
+  "match_id": "MAT-2026-000191",
+  "invoice_line_id": "INVL-INV-DELT001-2026-000159-01",
+  "grn_line_id": "GRNL-GRN-2026-000135-01",
+  "matched_qty": 135
+ },
+ {
+  "match_id": "MAT-2026-000192",
+  "invoice_line_id": "INVL-INV-IRON023-2026-000160-01",
+  "grn_line_id": "GRNL-GRN-2026-000148-01",
+  "matched_qty": 138
+ },
+ {
+  "match_id": "MAT-2026-000193",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000161-01",
+  "grn_line_id": "GRNL-GRN-2026-000152-01",
+  "matched_qty": 17
+ },
+ {
+  "match_id": "MAT-2026-000194",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000162-01",
+  "grn_line_id": "GRNL-GRN-2026-000147-01",
+  "matched_qty": 39
+ },
+ {
+  "match_id": "MAT-2026-000195",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000162-02",
+  "grn_line_id": "GRNL-GRN-2026-000147-02",
+  "matched_qty": 18
+ },
+ {
+  "match_id": "MAT-2026-000196",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000163-01",
+  "grn_line_id": "GRNL-GRN-2026-000137-01",
+  "matched_qty": 67
+ },
+ {
+  "match_id": "MAT-2026-000197",
+  "invoice_line_id": "INVL-INV-CRES007-2026-000164-01",
+  "grn_line_id": "GRNL-GRN-2026-000143-01",
+  "matched_qty": 52
+ },
+ {
+  "match_id": "MAT-2026-000198",
+  "invoice_line_id": "INVL-INV-DELT001-2026-000165-01",
+  "grn_line_id": "GRNL-GRN-2026-000149-01",
+  "matched_qty": 36
+ },
+ {
+  "match_id": "MAT-2026-000199",
+  "invoice_line_id": "INVL-INV-HARB017-2026-000166-01",
+  "grn_line_id": "GRNL-GRN-2026-000141-01",
+  "matched_qty": 13
+ },
+ {
+  "match_id": "MAT-2026-000200",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000167-01",
+  "grn_line_id": "GRNL-GRN-2026-000142-01",
+  "matched_qty": 15
+ },
+ {
+  "match_id": "MAT-2026-000201",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000168-01",
+  "grn_line_id": "GRNL-GRN-2026-000157-01",
+  "matched_qty": 26
+ },
+ {
+  "match_id": "MAT-2026-000202",
+  "invoice_line_id": "INVL-INV-STRA015-2026-000170-01",
+  "grn_line_id": "GRNL-GRN-2026-000151-01",
+  "matched_qty": 133
+ },
+ {
+  "match_id": "MAT-2026-000203",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000171-01",
+  "grn_line_id": "GRNL-GRN-2026-000145-01",
+  "matched_qty": 43
+ },
+ {
+  "match_id": "MAT-2026-000204",
+  "invoice_line_id": "INVL-INV-CRES007-2026-000172-01",
+  "grn_line_id": "GRNL-GRN-2026-000153-01",
+  "matched_qty": 90
+ },
+ {
+  "match_id": "MAT-2026-000205",
+  "invoice_line_id": "INVL-INV-JUNI014-2026-000174-01",
+  "grn_line_id": "GRNL-GRN-2026-000162-01",
+  "matched_qty": 36
+ },
+ {
+  "match_id": "MAT-2026-000206",
+  "invoice_line_id": "INVL-INV-JUNI014-2026-000174-02",
+  "grn_line_id": "GRNL-GRN-2026-000162-02",
+  "matched_qty": 5
+ },
+ {
+  "match_id": "MAT-2026-000207",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000175-01",
+  "grn_line_id": "GRNL-GRN-2026-000146-01",
+  "matched_qty": 160
+ },
+ {
+  "match_id": "MAT-2026-000208",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000176-01",
+  "grn_line_id": "GRNL-GRN-2026-000156-01",
+  "matched_qty": 110
+ },
+ {
+  "match_id": "MAT-2026-000209",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000177-01",
+  "grn_line_id": "GRNL-GRN-2026-000159-01",
+  "matched_qty": 328
+ },
+ {
+  "match_id": "MAT-2026-000210",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000177-02",
+  "grn_line_id": "GRNL-GRN-2026-000159-02",
+  "matched_qty": 42
+ },
+ {
+  "match_id": "MAT-2026-000211",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000178-01",
+  "grn_line_id": "GRNL-GRN-2026-000160-01",
+  "matched_qty": 213
+ },
+ {
+  "match_id": "MAT-2026-000212",
+  "invoice_line_id": "INVL-INV-JUNI014-2026-000179-01",
+  "grn_line_id": "GRNL-GRN-2026-000155-01",
+  "matched_qty": 838
+ },
+ {
+  "match_id": "MAT-2026-000213",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000180-01",
+  "grn_line_id": "GRNL-GRN-2026-000150-01",
+  "matched_qty": 14
+ },
+ {
+  "match_id": "MAT-2026-000214",
+  "invoice_line_id": "INVL-INV-QUAN029-2026-000181-01",
+  "grn_line_id": "GRNL-GRN-2026-000163-01",
+  "matched_qty": 87
+ },
+ {
+  "match_id": "MAT-2026-000215",
+  "invoice_line_id": "INVL-INV-GRAN008-2026-000182-01",
+  "grn_line_id": "GRNL-GRN-2026-000158-01",
+  "matched_qty": 22
+ },
+ {
+  "match_id": "MAT-2026-000216",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000183-01",
+  "grn_line_id": "GRNL-GRN-2026-000154-01",
+  "matched_qty": 13
+ },
+ {
+  "match_id": "MAT-2026-000217",
+  "invoice_line_id": "INVL-INV-GLAC020-2026-000184-01",
+  "grn_line_id": "GRNL-GRN-2026-000161-01",
+  "matched_qty": 34
+ },
+ {
+  "match_id": "MAT-2026-000218",
+  "invoice_line_id": "INVL-INV-DELT001-2026-000185-01",
+  "grn_line_id": "GRNL-GRN-2026-000164-01",
+  "matched_qty": 48
+ },
+ {
+  "match_id": "MAT-2026-000219",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000187-01",
+  "grn_line_id": "GRNL-GRN-2026-000166-01",
+  "matched_qty": 12
+ },
+ {
+  "match_id": "MAT-2026-000220",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000187-02",
+  "grn_line_id": "GRNL-GRN-2026-000166-02",
+  "matched_qty": 133
+ },
+ {
+  "match_id": "MAT-2026-000221",
+  "invoice_line_id": "INVL-INV-CRES007-2026-000188-01",
+  "grn_line_id": "GRNL-GRN-2026-000167-01",
+  "matched_qty": 21
+ },
+ {
+  "match_id": "MAT-2026-000222",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000189-01",
+  "grn_line_id": "GRNL-GRN-2026-000165-01",
+  "matched_qty": 5
+ },
+ {
+  "match_id": "MAT-2026-000223",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000190-01",
+  "grn_line_id": "GRNL-GRN-2026-000170-01",
+  "matched_qty": 33
+ },
+ {
+  "match_id": "MAT-2026-000224",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000190-02",
+  "grn_line_id": "GRNL-GRN-2026-000170-02",
+  "matched_qty": 111
+ },
+ {
+  "match_id": "MAT-2026-000225",
+  "invoice_line_id": "INVL-INV-QUAN029-2026-000191-01",
+  "grn_line_id": "GRNL-GRN-2026-000169-01",
+  "matched_qty": 34
+ },
+ {
+  "match_id": "MAT-2026-000226",
+  "invoice_line_id": "INVL-INV-CRES007-2026-000192-01",
+  "grn_line_id": "GRNL-GRN-2026-000168-01",
+  "matched_qty": 26
+ },
+ {
+  "match_id": "MAT-2026-000227",
+  "invoice_line_id": "INVL-INV-DELT001-2026-000194-01",
+  "grn_line_id": "GRNL-GRN-2026-000171-01",
+  "matched_qty": 7
+ },
+ {
+  "match_id": "MAT-2026-000228",
+  "invoice_line_id": "INVL-INV-DELT001-2026-000194-02",
+  "grn_line_id": "GRNL-GRN-2026-000171-02",
+  "matched_qty": 458
+ },
+ {
+  "match_id": "MAT-2026-000229",
+  "invoice_line_id": "INVL-INV-DELT001-2026-000194-03",
+  "grn_line_id": "GRNL-GRN-2026-000171-03",
+  "matched_qty": 7
+ },
+ {
+  "match_id": "MAT-2026-000230",
+  "invoice_line_id": "INVL-INV-DELT001-2026-000194-04",
+  "grn_line_id": "GRNL-GRN-2026-000171-04",
+  "matched_qty": 7
+ },
+ {
+  "match_id": "MAT-2026-000231",
+  "invoice_line_id": "INVL-INV-DELT001-2026-000194-05",
+  "grn_line_id": "GRNL-GRN-2026-000171-05",
+  "matched_qty": 26
+ },
+ {
+  "match_id": "MAT-2026-000232",
+  "invoice_line_id": "INVL-INV-DELT001-2026-000194-06",
+  "grn_line_id": "GRNL-GRN-2026-000171-06",
+  "matched_qty": 235
+ },
+ {
+  "match_id": "MAT-2026-000233",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000195-01",
+  "grn_line_id": "GRNL-GRN-2026-000173-01",
+  "matched_qty": 8
+ },
+ {
+  "match_id": "MAT-2026-000234",
+  "invoice_line_id": "INVL-INV-SUMM006-2026-000196-01",
+  "grn_line_id": "GRNL-GRN-2026-000177-01",
+  "matched_qty": 797
+ },
+ {
+  "match_id": "MAT-2026-000235",
+  "invoice_line_id": "INVL-INV-SUMM006-2026-000196-02",
+  "grn_line_id": "GRNL-GRN-2026-000177-02",
+  "matched_qty": 209
+ },
+ {
+  "match_id": "MAT-2026-000236",
+  "invoice_line_id": "INVL-INV-DELT001-2026-000197-01",
+  "grn_line_id": "GRNL-GRN-2026-000175-01",
+  "matched_qty": 27
+ },
+ {
+  "match_id": "MAT-2026-000237",
+  "invoice_line_id": "INVL-INV-STRA019-2026-000198-01",
+  "grn_line_id": "GRNL-GRN-2026-000180-01",
+  "matched_qty": 6
+ },
+ {
+  "match_id": "MAT-2026-000238",
+  "invoice_line_id": "INVL-INV-SILV026-2026-000199-01",
+  "grn_line_id": "GRNL-GRN-2026-000178-01",
+  "matched_qty": 878
+ }
+]

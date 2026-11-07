@@ -1,0 +1,19 @@
+Ironwood Polymers Co.
+Tax ID: 72-9274089
+Remit to: Accounts Receivable, Ironwood Polymers Co.
+
+                                INVOICE
+Invoice No:      IRON-34428
+Invoice Date:    June 23, 2026
+PO Number:       PO-2026-000103
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0005   Epoxy Resin 5L                      79       10.15  TX05       801.85
+
+                                                  Subtotal:           801.85
+                                                  Tax:                 40.09
+                                                  TOTAL DUE:          841.94

@@ -1,0 +1,23 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/42444 from Unity Trading Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Trading Pvt Ltd
+Vendor Tax ID: 20-9070105
+Invoice #: INV/2026/42444
+Invoice Date (DD/MM/YYYY): 01/06/2026
+Purchase Order: PO-2026-000981
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 11 | @ $61.72 | TX05 | $678.92
+
+Subtotal: $678.92
+Tax: $33.95
+Amount Due: $712.87
+
+Regards,
+Billing Team

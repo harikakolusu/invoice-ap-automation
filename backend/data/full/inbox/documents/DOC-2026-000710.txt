@@ -1,0 +1,23 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice 050061 from Keystone Polymers Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Polymers Co.
+Vendor Tax ID: 76-5656738
+Invoice #: 050061
+Invoice Date (DD/MM/YYYY): 03/04/2026
+Purchase Order: PO-2026-000532
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 73 | @ $61.35 | TX05 | $4,478.55
+
+Subtotal: $4,478.55
+Tax: $223.93
+Amount Due: $4,702.48
+
+Regards,
+Billing Team

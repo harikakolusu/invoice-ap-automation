@@ -1,0 +1,19 @@
+Horizon Logistics Pvt Ltd
+Tax ID: 61-1076078
+Remit to: Accounts Receivable, Horizon Logistics Pvt Ltd
+
+                                INVOICE
+Invoice No:      HORI-28117
+Invoice Date:    2026-03-29
+PO Number:       PO-2026-000512
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0003   Pallet Wrap 500m                   338       15.80  TX12     5,340.40
+
+                                                  Subtotal:         5,340.40
+                                                  Tax:                640.85
+                                                  TOTAL DUE:        5,981.25

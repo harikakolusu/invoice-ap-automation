@@ -1,0 +1,19 @@
+Silver Polymers LLC
+Tax ID: 97-2403119
+Remit to: Accounts Receivable, Silver Polymers LLC
+
+                                INVOICE
+Invoice No:      SILV-44114
+Invoice Date:    April 8, 2026
+PO Number:       PO-2026-000493
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0002   Hydraulic Oil 20L                  112        5.78  TX18       647.36
+
+                                                  Subtotal:           647.36
+                                                  Tax:                116.52
+                                                  TOTAL DUE:          763.88

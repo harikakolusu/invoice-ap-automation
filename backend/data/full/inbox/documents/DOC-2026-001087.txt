@@ -1,0 +1,26 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/58635 from Prairie Facility Services Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Facility Services Co.
+Vendor Tax ID: 16-6959276
+Invoice #: INV/2026/58635
+Invoice Date (DD/MM/YYYY): 18/05/2026
+Purchase Order: PO-2026-000811
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 87 | @ $60.60 | TX18 | $5,272.20
+- SKU-FAC-0004 | Paper Towels Case | qty 220 | @ $15.21 | TX05 | $3,346.20
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 2 | @ $32.84 | TX18 | $65.68
+- SKU-ITH-0003 | Monitor 27in QHD | qty 2 | @ $1,749.47 | TX18 | $3,498.94
+
+Subtotal: $12,183.02
+Tax: $1,757.94
+Amount Due: $13,940.96
+
+Regards,
+Billing Team

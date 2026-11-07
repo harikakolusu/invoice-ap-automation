@@ -1,0 +1,19 @@
+Tidewater Tech Components LLC
+Tax ID: 56-2187504
+Remit to: Accounts Receivable, Tidewater Tech Components LLC
+
+                                INVOICE
+Invoice No:      TIDE-5458
+Invoice Date:    2026-02-11
+PO Number:       PO-2026-000006
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0002   Aluminium Rod 20mm                  36        4.14  TX05       149.04
+
+                                                  Subtotal:           149.04
+                                                  Tax:                  7.45
+                                                  TOTAL DUE:          156.49

@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56859 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56859
+Invoice Date (DD/MM/YYYY): 23/07/2026
+Purchase Order: PO-2026-001428
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 177 | @ $8.14 | TX18 | $1,440.78
+
+Subtotal: $1,440.78
+Tax: $259.34
+Amount Due: $1,700.12
+
+Regards,
+Billing Team

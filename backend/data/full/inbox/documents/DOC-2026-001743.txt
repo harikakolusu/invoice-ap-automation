@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/35021 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/35021
+Invoice Date (DD/MM/YYYY): 24/07/2026
+Purchase Order: PO-2026-001210
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 87 | @ $5.38 | TX05 | $468.06
+- SKU-FAC-0006 | Trash Bags 100pk | qty 26 | @ $14.04 | TX05 | $365.04
+
+Subtotal: $833.10
+Tax: $41.65
+Amount Due: $874.75
+
+Regards,
+Billing Team

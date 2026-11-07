@@ -1,0 +1,19 @@
+Delta Logistics Pvt Ltd
+Tax ID: 84-8587906
+Remit to: Accounts Receivable, Delta Logistics Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/37760
+Invoice Date:    2026-07-14
+PO Number:       PO-2026-000105
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0008   Air Filter Panel                    36        8.71  TX18       313.56
+
+                                                  Subtotal:           313.56
+                                                  Tax:                 56.44
+                                                  TOTAL DUE:          370.00

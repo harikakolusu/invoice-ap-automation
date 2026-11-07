@@ -1,0 +1,19 @@
+Westbrook Materials GmbH
+Tax ID: 55-5821806
+Remit to: Accounts Receivable, Westbrook Materials GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/49733
+Invoice Date:    June 3, 2026
+PO Number:       PO-2026-000989
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0001   Steel Sheet 2mm                    452        8.12  TX05     3,670.24
+
+                                                  Subtotal:         3,670.24
+                                                  Tax:                183.51
+                                                  TOTAL DUE:        3,853.75

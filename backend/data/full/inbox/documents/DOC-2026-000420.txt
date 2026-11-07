@@ -1,0 +1,19 @@
+Silver Polymers LLC
+Tax ID: 97-2403119
+Remit to: Accounts Receivable, Silver Polymers LLC
+
+                                INVOICE
+Invoice No:      SILV43846
+Invoice Date:    February 23, 2026
+PO Number:       PO-2026-000126
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0003   Ball Bearing 6204                    7       20.05  TX18       140.35
+
+                                                  Subtotal:           140.35
+                                                  Tax:                 25.26
+                                                  TOTAL DUE:          165.61

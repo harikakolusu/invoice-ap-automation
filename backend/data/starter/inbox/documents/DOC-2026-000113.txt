@@ -1,0 +1,23 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 052053 from Glacier Industrial Supply GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Industrial Supply GmbH
+Vendor Tax ID: 89-9782441
+Invoice #: 052053
+Invoice Date (DD/MM/YYYY): 05/06/2026
+Purchase Order: PO-2026-000077
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 54 | @ $2.89 | TX05 | $156.06
+
+Subtotal: $156.06
+Tax: $7.80
+Amount Due: $163.86
+
+Regards,
+Billing Team

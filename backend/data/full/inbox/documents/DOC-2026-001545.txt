@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/52272 from Prairie Distribution Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Distribution Ltd
+Vendor Tax ID: 28-5918169
+Invoice #: INV/2026/52272
+Invoice Date (DD/MM/YYYY): 04/07/2026
+Purchase Order: PO-2026-001268
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-OFF-0008 | Sticky Notes 24pk | qty 42 | @ $75.10 | TX12 | $3,154.20
+
+Subtotal: $3,154.20
+Tax: $378.50
+Amount Due: $3,532.70
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Unity Packaging Ltd
+Tax ID: 36-3269963
+Remit to: Accounts Receivable, Unity Packaging Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/20342
+Invoice Date:    March 2, 2026
+PO Number:       PO-2026-000320
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0005   Packing Tape 36pk                  812       34.46  TX12    27,981.52
+
+                                                  Subtotal:        27,981.52
+                                                  Tax:              3,357.78
+                                                  TOTAL DUE:       31,339.30

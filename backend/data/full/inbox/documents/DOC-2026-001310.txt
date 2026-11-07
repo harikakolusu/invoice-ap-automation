@@ -1,0 +1,19 @@
+Falcon Metals Inc.
+Tax ID: 61-1118766
+Remit to: Accounts Receivable, Falcon Metals Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/04546
+Invoice Date:    2026-06-10
+PO Number:       PO-2026-000919
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0002   Stretch Film Roll                  103        2.77  TX12       285.31
+
+                                                  Subtotal:           285.31
+                                                  Tax:                 34.24
+                                                  TOTAL DUE:          319.55

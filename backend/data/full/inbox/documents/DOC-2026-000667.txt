@@ -1,0 +1,20 @@
+Atlas Materials Inc.
+Tax ID: 39-9978315
+Remit to: Accounts Receivable, Atlas Materials Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/36355
+Invoice Date:    March 29, 2026
+PO Number:       PO-2026-000544
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0001   Laptop 14in i7                       5       56.07  TX18       280.35
+ 2  SKU-ITH-0002   Docking Station USB-C                1       99.99  TX18        99.99
+
+                                                  Subtotal:           380.34
+                                                  Tax:                 68.46
+                                                  TOTAL DUE:          448.80

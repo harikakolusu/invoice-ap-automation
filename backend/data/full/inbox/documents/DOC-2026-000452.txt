@@ -1,0 +1,29 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10138 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10138
+Invoice Date (DD/MM/YYYY): 13/03/2026
+Purchase Order: PO-2026-000441
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 175 | @ $15.11 | TX12 | $2,644.25
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 321 | @ $21.57 | TX12 | $6,923.97
+- SKU-MRO-0008 | Air Filter Panel | qty 89 | @ $8.43 | TX18 | $750.27
+- SKU-PKG-0001 | Corrugated Box Large | qty 1600 | @ $7.94 | TX12 | $12,704.00
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 41 | @ $6.15 | TX18 | $252.15
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 254 | @ $1.18 | TX12 | $299.72
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 49 | @ $17.61 | TX18 | $862.89
+
+Subtotal: $24,437.25
+Tax: $3,044.40
+Amount Due: $27,481.65
+
+Regards,
+Billing Team

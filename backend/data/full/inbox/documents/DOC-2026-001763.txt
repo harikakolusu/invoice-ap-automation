@@ -1,0 +1,24 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice 045987 from Unity Electronics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Electronics Pvt Ltd
+Vendor Tax ID: 98-7473864
+Invoice #: 045987
+Invoice Date (DD/MM/YYYY): 21/07/2026
+Purchase Order: PO-2026-001304
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 105 | @ $16.07 | TX12 | $1,687.35
+- SKU-ITH-0007 | SSD 1TB NVMe | qty 1 | @ $46.65 | TX18 | $46.65
+
+Subtotal: $1,734.00
+Tax: $210.88
+Amount Due: $1,944.88
+
+Regards,
+Billing Team

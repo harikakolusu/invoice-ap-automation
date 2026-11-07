@@ -1,0 +1,23 @@
+From: billing@lumen.example
+To: ap-inbox@buyer.example
+Subject: Invoice LUME-58033 from Lumen Logistics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lumen Logistics Pvt Ltd
+Vendor Tax ID: 28-6404535
+Invoice #: LUME-58033
+Invoice Date (DD/MM/YYYY): 25/04/2026
+Purchase Order: PO-2026-000614
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 5 | @ $53.88 | TX18 | $269.40
+
+Subtotal: $269.40
+Tax: $48.49
+Amount Due: $317.89
+
+Regards,
+Billing Team

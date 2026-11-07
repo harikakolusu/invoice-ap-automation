@@ -1,0 +1,24 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice STRA-56234 from Strata Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Industrial Supply Pvt Ltd
+Vendor Tax ID: 88-2424791
+Invoice #: STRA-56234
+Invoice Date (DD/MM/YYYY): 05/07/2026
+Purchase Order: PO-2026-001160
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0005 | Packing Tape 36pk | qty 1167 | @ $37.91 | TX12 | $44,240.97
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 2 | @ $6.56 | TX18 | $13.12
+
+Subtotal: $44,254.09
+Tax: $5,311.28
+Amount Due: $49,565.37
+
+Regards,
+Billing Team

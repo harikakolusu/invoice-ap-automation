@@ -1,0 +1,19 @@
+Lumen Office Solutions LLC
+Tax ID: 25-8963637
+Remit to: Accounts Receivable, Lumen Office Solutions LLC
+
+                                INVOICE
+Invoice No:      001967
+Invoice Date:    2026-02-20
+PO Number:       PO-2026-000125
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0003   Heavy Duty Stapler                  26       92.20  TX12     2,397.20
+
+                                                  Subtotal:         2,397.20
+                                                  Tax:                287.66
+                                                  TOTAL DUE:        2,684.86

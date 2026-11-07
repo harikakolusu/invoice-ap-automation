@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017198 from Prairie Electronics Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Electronics Ltd
+Vendor Tax ID: 69-3025060
+Invoice #: 017198
+Invoice Date (DD/MM/YYYY): 18/04/2026
+Purchase Order: PO-2026-000580
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 5 | @ $8.67 | TX18 | $43.35
+
+Subtotal: $43.35
+Tax: $7.80
+Amount Due: $51.15
+
+Regards,
+Billing Team

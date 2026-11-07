@@ -1,0 +1,19 @@
+Strata Distribution Pvt Ltd
+Tax ID: 10-2071349
+Remit to: Accounts Receivable, Strata Distribution Pvt Ltd
+
+                                INVOICE
+Invoice No:      033015
+Invoice Date:    January 28, 2026
+PO Number:       PO-2026-000065
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0002   Aluminium Rod 20mm                 483        3.94  TX05     1,903.02
+
+                                                  Subtotal:         1,903.02
+                                                  Tax:                 95.15
+                                                  TOTAL DUE:        1,998.17

@@ -1,0 +1,25 @@
+From: billing@lumen.example
+To: ap-inbox@buyer.example
+Subject: Invoice 020957 from Lumen Metals LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lumen Metals LLC
+Vendor Tax ID: 99-4847723
+Invoice #: 020957
+Invoice Date (DD/MM/YYYY): 07/09/2026
+Purchase Order: none
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-SRV-0001 | IT Consulting Hour | qty 3 | @ $861.42 | TX18 | $2,584.26
+- SKU-SRV-0004 | Legal Advisory Hour | qty 10 | @ $989.78 | TX18 | $9,897.80
+- SKU-SRV-0002 | Equipment Maintenance | qty 2 | @ $485.31 | TX18 | $970.62
+
+Subtotal: $13,452.68
+Tax: $2,421.48
+Amount Due: $15,874.16
+
+Regards,
+Billing Team

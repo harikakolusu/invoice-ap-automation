@@ -1,0 +1,24 @@
+From: billing@crescent.example
+To: ap-inbox@buyer.example
+Subject: Invoice 024083 from Crescent Materials Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Crescent Materials Inc.
+Vendor Tax ID: 88-5871226
+Invoice #: 024083
+Invoice Date (DD/MM/YYYY): 05/02/2026
+Purchase Order: none
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-SRV-0002 | Equipment Maintenance | qty 1 | @ $424.28 | TX18 | $424.28
+- SKU-SRV-0003 | Facility Cleaning Month | qty 5 | @ $125.64 | TX18 | $628.20
+
+Subtotal: $1,052.48
+Tax: $189.45
+Amount Due: $1,241.93
+
+Regards,
+Billing Team

@@ -1,0 +1,27 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44515 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44515
+Invoice Date (DD/MM/YYYY): 21/07/2026
+Purchase Order: PO-2026-001073
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0006 | PP Granules 25kg | qty 3 | @ $321.72 | TX05 | $965.16
+- SKU-MRO-0006 | Welding Rods 5kg | qty 118 | @ $10.94 | TX18 | $1,290.92
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 208 | @ $22.98 | TX18 | $4,779.84
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 35 | @ $4.86 | TX18 | $170.10
+- SKU-RAW-0005 | Epoxy Resin 5L | qty 762 | @ $10.02 | TX05 | $7,635.24
+
+Subtotal: $14,841.26
+Tax: $1,553.38
+Amount Due: $16,394.64
+
+Regards,
+Billing Team

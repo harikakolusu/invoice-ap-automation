@@ -1,0 +1,19 @@
+Ironwood Polymers Co.
+Tax ID: 30-5198521
+Remit to: Accounts Receivable, Ironwood Polymers Co.
+
+                                INVOICE
+Invoice No:      IRON-36235
+Invoice Date:    July 11, 2026
+PO Number:       PO-2026-001110
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0005   Packing Tape 36pk                  278       34.38  TX12     9,557.64
+
+                                                  Subtotal:         9,557.64
+                                                  Tax:              1,146.92
+                                                  TOTAL DUE:       10,704.56

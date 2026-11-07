@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56751 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56751
+Invoice Date (DD/MM/YYYY): 19/04/2026
+Purchase Order: PO-2026-000600
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 31 | @ $6.71 | TX18 | $208.01
+
+Subtotal: $208.01
+Tax: $37.44
+Amount Due: $245.45
+
+Regards,
+Billing Team

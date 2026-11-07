@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-9801 from Horizon Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging Pvt Ltd
+Vendor Tax ID: 37-8463742
+Invoice #: HORI-9801
+Invoice Date (DD/MM/YYYY): 27/03/2026
+Purchase Order: PO-2026-000337
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0007 | SSD 1TB NVMe | qty 4 | @ $62.56 | TX18 | $250.24
+
+Subtotal: $250.24
+Tax: $45.04
+Amount Due: $295.28
+
+Regards,
+Billing Team

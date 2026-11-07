@@ -1,0 +1,23 @@
+From: billing@crescent.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017845 from Crescent Industrial Supply Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Crescent Industrial Supply Co.
+Vendor Tax ID: 83-1300706
+Invoice #: 017845
+Invoice Date (DD/MM/YYYY): 17/03/2026
+Purchase Order: PO-2026-000322
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 89 | @ $59.76 | TX18 | $5,318.64
+
+Subtotal: $5,318.64
+Tax: $957.36
+Amount Due: $6,276.00
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@lumen.example
+To: ap-inbox@buyer.example
+Subject: Invoice LUME-58012 from Lumen Logistics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lumen Logistics Pvt Ltd
+Vendor Tax ID: 28-6404535
+Invoice #: LUME-58012
+Invoice Date (DD/MM/YYYY): 24/03/2026
+Purchase Order: PO-2026-000464
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 36 | @ $15.84 | TX12 | $570.24
+
+Subtotal: $570.24
+Tax: $68.43
+Amount Due: $638.67
+
+Regards,
+Billing Team

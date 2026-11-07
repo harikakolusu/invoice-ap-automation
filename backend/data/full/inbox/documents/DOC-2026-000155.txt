@@ -1,0 +1,24 @@
+From: billing@delta.example
+To: ap-inbox@buyer.example
+Subject: Invoice 008194 from Delta Logistics LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Delta Logistics LLC
+Vendor Tax ID: 13-7920746
+Invoice #: 008194
+Invoice Date (DD/MM/YYYY): 11/02/2026
+Purchase Order: PO-2026-000171
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 8 | @ $53.86 | TX18 | $430.88
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 25 | @ $19.28 | TX18 | $482.00
+
+Subtotal: $912.88
+Tax: $164.32
+Amount Due: $1,077.20
+
+Regards,
+Billing Team

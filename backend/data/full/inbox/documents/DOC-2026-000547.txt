@@ -1,0 +1,20 @@
+Glacier Distribution Pvt Ltd
+Tax ID: 67-1680206
+Remit to: Accounts Receivable, Glacier Distribution Pvt Ltd
+
+                                INVOICE
+Invoice No:      GLAC-33339
+Invoice Date:    2026-03-19
+PO Number:       PO-2026-000378
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0003   Copper Wire 2.5mm                   38      162.79  TX05     6,186.02
+ 2  SKU-FAC-0006   Trash Bags 100pk                    33       14.84  TX05       489.72
+
+                                                  Subtotal:         6,675.74
+                                                  Tax:                333.79
+                                                  TOTAL DUE:        7,009.53

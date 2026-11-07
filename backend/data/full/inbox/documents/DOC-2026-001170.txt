@@ -1,0 +1,25 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/40777 from Summit Facility Services Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Facility Services Pvt Ltd
+Vendor Tax ID: 35-7534975
+Invoice #: INV/2026/40777
+Invoice Date (DD/MM/YYYY): 27/05/2026
+Purchase Order: PO-2026-000845
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 15 | @ $2.57 | TX05 | $38.55
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 229 | @ $65.66 | TX05 | $15,036.14
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 23 | @ $5.00 | TX05 | $115.00
+
+Subtotal: $15,189.69
+Tax: $759.49
+Amount Due: $15,949.18
+
+Regards,
+Billing Team

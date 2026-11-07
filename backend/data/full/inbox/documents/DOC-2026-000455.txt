@@ -1,0 +1,23 @@
+From: billing@tidewater.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/19132 from Tidewater Distribution Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Tidewater Distribution Pvt Ltd
+Vendor Tax ID: 38-2955157
+Invoice #: INV/2026/19132
+Invoice Date (DD/MM/YYYY): 08/03/2026
+Purchase Order: PO-2026-000305
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0003 | Heavy Duty Stapler | qty 63 | @ $102.06 | TX12 | $6,429.78
+
+Subtotal: $6,429.78
+Tax: $771.57
+Amount Due: $7,201.35
+
+Regards,
+Billing Team

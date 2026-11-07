@@ -1,0 +1,23 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/40782 from Summit Facility Services Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Facility Services Pvt Ltd
+Vendor Tax ID: 35-7534975
+Invoice #: INV/2026/40782
+Invoice Date (DD/MM/YYYY): 10/07/2026
+Purchase Order: PO-2026-001117
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0001 | Drinking Water 20L | qty 233 | @ $3.91 | TX05 | $911.03
+
+Subtotal: $911.03
+Tax: $45.55
+Amount Due: $956.58
+
+Regards,
+Billing Team

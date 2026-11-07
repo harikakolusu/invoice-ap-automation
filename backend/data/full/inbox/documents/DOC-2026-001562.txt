@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56819 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56819
+Invoice Date (DD/MM/YYYY): 03/07/2026
+Purchase Order: PO-2026-000970
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0007 | Desk Organizer | qty 13 | @ $92.65 | TX12 | $1,204.45
+
+Subtotal: $1,204.45
+Tax: $144.53
+Amount Due: $1,348.98
+
+Regards,
+Billing Team

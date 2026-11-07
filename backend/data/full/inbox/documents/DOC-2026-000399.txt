@@ -1,0 +1,24 @@
+From: billing@lumen.example
+To: ap-inbox@buyer.example
+Subject: Invoice 020955 from Lumen Metals LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lumen Metals LLC
+Vendor Tax ID: 99-4847723
+Invoice #: 020955
+Invoice Date (DD/MM/YYYY): 08/03/2026
+Purchase Order: PO-2026-000331
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 7 | @ $160.96 | TX05 | $1,126.72
+- SKU-RAW-0004 | ABS Pellets 25kg | qty 86 | @ $6.09 | TX05 | $523.74
+
+Subtotal: $1,650.46
+Tax: $82.53
+Amount Due: $1,732.99
+
+Regards,
+Billing Team

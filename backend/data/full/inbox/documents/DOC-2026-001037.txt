@@ -1,0 +1,20 @@
+Cobalt Trading GmbH
+Tax ID: 84-7599039
+Remit to: Accounts Receivable, Cobalt Trading GmbH
+
+                                INVOICE
+Invoice No:      COBA-51121
+Invoice Date:    2026-05-17
+PO Number:       PO-2026-000758
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0008   Air Filter Panel                     5        9.47  TX18        47.35
+ 2  SKU-MRO-0004   V-Belt A42                           6       49.20  TX18       295.20
+
+                                                  Subtotal:           342.55
+                                                  Tax:                 61.66
+                                                  TOTAL DUE:          404.21

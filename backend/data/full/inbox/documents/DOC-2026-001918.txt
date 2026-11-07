@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-9893 from Horizon Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging Pvt Ltd
+Vendor Tax ID: 37-8463742
+Invoice #: HORI-9893
+Invoice Date (DD/MM/YYYY): 11/08/2026
+Purchase Order: PO-2026-001322
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0004 | Wireless Keyboard | qty 10 | @ $47.69 | TX18 | $476.90
+
+Subtotal: $476.90
+Tax: $85.84
+Amount Due: $562.74
+
+Regards,
+Billing Team

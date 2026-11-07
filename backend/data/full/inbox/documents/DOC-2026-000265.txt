@@ -1,0 +1,23 @@
+From: billing@sierra.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV-2026-32896 from Sierra Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Sierra Industrial Supply Pvt Ltd
+Vendor Tax ID: 32-8469228
+Invoice #: INV-2026-32896
+Invoice Date (DD/MM/YYYY): 17/02/2026
+Purchase Order: PO-2026-000132
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0005 | Epoxy Resin 5L | qty 15 | @ $10.98 | TX05 | $164.70
+
+Subtotal: $164.70
+Tax: $8.24
+Amount Due: $172.94
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/53732 from Quanta Office Solutions LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Office Solutions LLC
+Vendor Tax ID: 80-8139672
+Invoice #: INV/2026/53732
+Invoice Date (DD/MM/YYYY): 06/08/2026
+Purchase Order: none
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-SRV-0002 | Equipment Maintenance | qty 5 | @ $440.71 | TX18 | $2,203.55
+
+Subtotal: $2,203.55
+Tax: $396.64
+Amount Due: $2,600.19
+
+Regards,
+Billing Team

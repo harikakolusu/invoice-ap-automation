@@ -1,0 +1,19 @@
+Beacon Electronics Ltd
+Tax ID: 14-0488787
+Remit to: Accounts Receivable, Beacon Electronics Ltd
+
+                                INVOICE
+Invoice No:      BEAC-39331
+Invoice Date:    2026-03-02
+PO Number:       PO-2026-000163
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0005   Coffee Beans 1kg                   190        5.21  TX05       989.90
+
+                                                  Subtotal:           989.90
+                                                  Tax:                 49.50
+                                                  TOTAL DUE:        1,039.40

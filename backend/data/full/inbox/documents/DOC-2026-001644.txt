@@ -1,0 +1,22 @@
+Lumen Maintenance Ltd
+Tax ID: 84-9867847
+Remit to: Accounts Receivable, Lumen Maintenance Ltd
+
+                                INVOICE
+Invoice No:      LUME-14121
+Invoice Date:    2026-07-10
+PO Number:       PO-2026-001058
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0003   Ball Bearing 6204                    2       20.16  TX18        40.32
+ 2  SKU-MRO-0008   Air Filter Panel                     1        7.70  TX18         7.70
+ 3  SKU-MRO-0002   Hydraulic Oil 20L                    1        7.71  TX18         7.71
+ 4  SKU-FAC-0002   Floor Detergent 5L                 114        2.58  TX05       294.12
+
+                                                  Subtotal:           349.85
+                                                  Tax:                 24.75
+                                                  TOTAL DUE:          374.60

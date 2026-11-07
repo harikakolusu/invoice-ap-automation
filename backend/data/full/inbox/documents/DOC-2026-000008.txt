@@ -1,0 +1,23 @@
+From: billing@lakeside.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/45585 from Lakeside Materials LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lakeside Materials LLC
+Vendor Tax ID: 78-3700831
+Invoice #: INV/2026/45585
+Invoice Date (DD/MM/YYYY): 19/01/2026
+Purchase Order: PO-2026-000005
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0004 | Wireless Keyboard | qty 19 | @ $44.25 | TX18 | $840.75
+
+Subtotal: $840.75
+Tax: $151.34
+Amount Due: $992.09
+
+Regards,
+Billing Team

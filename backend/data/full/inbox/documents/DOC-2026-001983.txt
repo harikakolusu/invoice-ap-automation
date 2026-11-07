@@ -1,0 +1,24 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice 050682 from Prairie Metals Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Metals Pvt Ltd
+Vendor Tax ID: 30-3545236
+Invoice #: 050682
+Invoice Date (DD/MM/YYYY): 10/09/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0005 | Software Subscription | qty 2 | @ $511.47 | TX18 | $1,022.94
+- SKU-SRV-0003 | Facility Cleaning Month | qty 2 | @ $130.21 | TX18 | $260.42
+
+Subtotal: $1,283.36
+Tax: $231.01
+Amount Due: $1,514.37
+
+Regards,
+Billing Team

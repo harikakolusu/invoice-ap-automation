@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice APEX-53294 from Apex Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Industrial Supply Ltd
+Vendor Tax ID: 28-4401299
+Invoice #: APEX-53294
+Invoice Date (DD/MM/YYYY): 07/02/2026
+Purchase Order: PO-2026-000002
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 7 | @ $7.91 | TX18 | $55.37
+
+Subtotal: $55.37
+Tax: $9.97
+Amount Due: $65.34
+
+Regards,
+Billing Team

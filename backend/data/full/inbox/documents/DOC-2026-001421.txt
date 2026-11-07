@@ -1,0 +1,23 @@
+From: billing@cobalt.example
+To: ap-inbox@buyer.example
+Subject: Invoice COBA-29164 from Cobalt Facility Services LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Cobalt Facility Services LLC
+Vendor Tax ID: 75-5620518
+Invoice #: COBA-29164
+Invoice Date (DD/MM/YYYY): 24/06/2026
+Purchase Order: PO-2026-001067
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-FAC-0004 | Paper Towels Case | qty 23 | @ $15.02 | TX05 | $345.46
+
+Subtotal: $345.46
+Tax: $17.27
+Amount Due: $362.73
+
+Regards,
+Billing Team

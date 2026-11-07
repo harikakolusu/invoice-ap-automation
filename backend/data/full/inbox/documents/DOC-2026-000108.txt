@@ -1,0 +1,23 @@
+From: billing@harbor.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/26467 from Harbor Office Solutions Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Harbor Office Solutions Inc.
+Vendor Tax ID: 80-1964520
+Invoice #: INV/2026/26467
+Invoice Date (DD/MM/YYYY): 08/02/2026
+Purchase Order: PO-2026-000021
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 2 | @ $19.38 | TX18 | $38.76
+
+Subtotal: $38.76
+Tax: $6.98
+Amount Due: $45.74
+
+Regards,
+Billing Team

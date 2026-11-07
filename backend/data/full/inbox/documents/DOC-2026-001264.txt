@@ -1,0 +1,23 @@
+From: billing@frontier.example
+To: ap-inbox@buyer.example
+Subject: Invoice FRON-1846 from Frontier Metals LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Frontier Metals LLC
+Vendor Tax ID: 57-9008691
+Invoice #: FRON-1846
+Invoice Date (DD/MM/YYYY): 09/06/2026
+Purchase Order: PO-2026-001004
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 290 | @ $21.43 | TX12 | $6,214.70
+
+Subtotal: $6,214.70
+Tax: $745.76
+Amount Due: $6,960.46
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/35003 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/35003
+Invoice Date (DD/MM/YYYY): 15/06/2026
+Purchase Order: PO-2026-000973
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0004 | Paper Towels Case | qty 217 | @ $16.04 | TX05 | $3,480.68
+
+Subtotal: $3,480.68
+Tax: $174.03
+Amount Due: $3,654.71
+
+Regards,
+Billing Team

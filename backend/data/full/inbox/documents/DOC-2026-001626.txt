@@ -1,0 +1,19 @@
+Cobalt Trading GmbH
+Tax ID: 84-7599039
+Remit to: Accounts Receivable, Cobalt Trading GmbH
+
+                                INVOICE
+Invoice No:      COBA-51139
+Invoice Date:    2026-07-08
+PO Number:       PO-2026-000951
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0003   Ball Bearing 6204                    3       18.46  TX18        55.38
+
+                                                  Subtotal:            55.38
+                                                  Tax:                  9.97
+                                                  TOTAL DUE:           65.35

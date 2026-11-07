@@ -1,0 +1,19 @@
+Boreal Metals Inc.
+Tax ID: 82-5662052
+Remit to: Accounts Receivable, Boreal Metals Inc.
+
+                                INVOICE
+Invoice No:      BORE-26836
+Invoice Date:    July 19, 2026
+PO Number:       PO-2026-001338
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0008   Air Filter Panel                    61        8.34  TX18       508.74
+
+                                                  Subtotal:           508.74
+                                                  Tax:                 91.57
+                                                  TOTAL DUE:          600.31

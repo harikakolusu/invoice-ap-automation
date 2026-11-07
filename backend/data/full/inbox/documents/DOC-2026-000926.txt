@@ -1,0 +1,23 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10174 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10174
+Invoice Date (DD/MM/YYYY): 02/05/2026
+Purchase Order: PO-2026-000690
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 214 | @ $4.96 | TX18 | $1,061.44
+
+Subtotal: $1,061.44
+Tax: $191.06
+Amount Due: $1,252.50
+
+Regards,
+Billing Team

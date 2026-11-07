@@ -1,0 +1,274 @@
+[
+ {
+  "employee_id": "EMP-0001",
+  "full_name": "Leila Tanaka",
+  "department": "OPERATIONS",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0002",
+  "full_name": "Isha Lindqvist",
+  "department": "OPERATIONS",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0003",
+  "full_name": "Ravi Moreau",
+  "department": "OPERATIONS",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0004",
+  "full_name": "Sofia Duarte",
+  "department": "IT",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0005",
+  "full_name": "Hana Iyer",
+  "department": "IT",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0006",
+  "full_name": "Hana Sharma",
+  "department": "IT",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0007",
+  "full_name": "Sofia Brennan",
+  "department": "FACILITIES",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0008",
+  "full_name": "Aarav Mensah",
+  "department": "FACILITIES",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0009",
+  "full_name": "Theo Sato",
+  "department": "FACILITIES",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0010",
+  "full_name": "Kenji Duarte",
+  "department": "MANUFACTURING",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0011",
+  "full_name": "Omar Moreau",
+  "department": "MANUFACTURING",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0012",
+  "full_name": "Hana Mensah",
+  "department": "MANUFACTURING",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0013",
+  "full_name": "Arjun Duarte",
+  "department": "MARKETING",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0014",
+  "full_name": "Lucas Moreau",
+  "department": "MARKETING",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0015",
+  "full_name": "Kenji Nair",
+  "department": "MARKETING",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0016",
+  "full_name": "Arjun Moreau",
+  "department": "FINANCE",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0017",
+  "full_name": "Ravi Reyes",
+  "department": "FINANCE",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0018",
+  "full_name": "Priya Sharma",
+  "department": "FINANCE",
+  "role": "REQUESTER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0019",
+  "full_name": "Vikram Patel",
+  "department": "OPERATIONS",
+  "role": "APPROVER_L1",
+  "approval_limit": 25000.0,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0020",
+  "full_name": "Noah Mensah",
+  "department": "IT",
+  "role": "APPROVER_L1",
+  "approval_limit": 25000.0,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0021",
+  "full_name": "Amara Patel",
+  "department": "FACILITIES",
+  "role": "APPROVER_L1",
+  "approval_limit": 25000.0,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0022",
+  "full_name": "Theo Moreau",
+  "department": "MANUFACTURING",
+  "role": "APPROVER_L1",
+  "approval_limit": 25000.0,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0023",
+  "full_name": "Vikram Haddad",
+  "department": "MARKETING",
+  "role": "APPROVER_L1",
+  "approval_limit": 25000.0,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0024",
+  "full_name": "Vikram Reyes",
+  "department": "FINANCE",
+  "role": "APPROVER_L1",
+  "approval_limit": 25000.0,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0025",
+  "full_name": "Kenji Moreau",
+  "department": "FINANCE",
+  "role": "APPROVER_L2",
+  "approval_limit": 1000000.0,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0026",
+  "full_name": "Elena Patel",
+  "department": "FINANCE",
+  "role": "APPROVER_L2",
+  "approval_limit": 1000000.0,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0027",
+  "full_name": "Liam Mensah",
+  "department": "FINANCE",
+  "role": "AP_ANALYST",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0028",
+  "full_name": "Elena Reyes",
+  "department": "FINANCE",
+  "role": "AP_ANALYST",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0029",
+  "full_name": "Omar Okafor",
+  "department": "FINANCE",
+  "role": "AP_ANALYST",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0030",
+  "full_name": "Maya Reyes",
+  "department": "FINANCE",
+  "role": "AP_ANALYST",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0031",
+  "full_name": "Arjun Quinn",
+  "department": "FINANCE",
+  "role": "PROCESS_OWNER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0032",
+  "full_name": "Hana Fischer",
+  "department": "OPERATIONS",
+  "role": "PROCESS_OWNER",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0033",
+  "full_name": "Theo Varga",
+  "department": "IT",
+  "role": "SYSTEM_ADMIN",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ },
+ {
+  "employee_id": "EMP-0034",
+  "full_name": "Lucas Patel",
+  "department": "IT",
+  "role": "SYSTEM_ADMIN",
+  "approval_limit": null,
+  "status": "ACTIVE"
+ }
+]

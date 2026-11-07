@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice STRA-24037 from Strata Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Industrial Supply Pvt Ltd
+Vendor Tax ID: 70-9924066
+Invoice #: STRA-24037
+Invoice Date (DD/MM/YYYY): 30/04/2026
+Purchase Order: PO-2026-000063
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0001 | Drinking Water 20L | qty 44 | @ $3.72 | TX05 | $163.68
+
+Subtotal: $163.68
+Tax: $8.18
+Amount Due: $171.86
+
+Regards,
+Billing Team

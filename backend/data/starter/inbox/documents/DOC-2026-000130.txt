@@ -1,0 +1,24 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/55921 from Summit Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Trading Co.
+Vendor Tax ID: 65-8611105
+Invoice #: INV/2026/55921
+Invoice Date (DD/MM/YYYY): 20/06/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0003 | Facility Cleaning Month | qty 2 | @ $132.13 | TX18 | $264.26
+- SKU-SRV-0002 | Equipment Maintenance | qty 1 | @ $430.18 | TX18 | $430.18
+
+Subtotal: $694.44
+Tax: $125.00
+Amount Due: $819.44
+
+Regards,
+Billing Team

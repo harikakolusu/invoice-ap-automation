@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-9828 from Horizon Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging Pvt Ltd
+Vendor Tax ID: 37-8463742
+Invoice #: HORI-9828
+Invoice Date (DD/MM/YYYY): 03/05/2026
+Purchase Order: PO-2026-000530
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 15 | @ $59.99 | TX18 | $899.85
+
+Subtotal: $899.85
+Tax: $161.97
+Amount Due: $1,061.82
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@kestrel.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEST-13401 from Kestrel Office Solutions Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Kestrel Office Solutions Ltd
+Vendor Tax ID: 26-0309910
+Invoice #: KEST-13401
+Invoice Date (DD/MM/YYYY): 09/05/2026
+Purchase Order: PO-2026-000668
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 237 | @ $58.06 | TX05 | $13,760.22
+
+Subtotal: $13,760.22
+Tax: $688.01
+Amount Due: $14,448.23
+
+Regards,
+Billing Team

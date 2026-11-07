@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/34958 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/34958
+Invoice Date (DD/MM/YYYY): 12/02/2026
+Purchase Order: PO-2026-000008
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 10 | @ $19.02 | TX18 | $190.20
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 189 | @ $4.92 | TX18 | $929.88
+
+Subtotal: $1,120.08
+Tax: $201.62
+Amount Due: $1,321.70
+
+Regards,
+Billing Team

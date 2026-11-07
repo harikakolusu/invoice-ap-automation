@@ -1,0 +1,23 @@
+From: billing@oakridge.example
+To: ap-inbox@buyer.example
+Subject: Invoice 042774 from Oakridge Maintenance Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Oakridge Maintenance Ltd
+Vendor Tax ID: 88-9073522
+Invoice #: 042774
+Invoice Date (DD/MM/YYYY): 12/07/2026
+Purchase Order: PO-2026-001167
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0002 | Ballpoint Pens 12pk | qty 6 | @ $37.27 | TX12 | $223.62
+
+Subtotal: $223.62
+Tax: $26.83
+Amount Due: $250.45
+
+Regards,
+Billing Team

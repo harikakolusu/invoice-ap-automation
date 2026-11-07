@@ -1,0 +1,24 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice 008158 from Prairie Logistics Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Logistics Ltd
+Vendor Tax ID: 28-3986519
+Invoice #: 008158
+Invoice Date (DD/MM/YYYY): 26/02/2026
+Purchase Order: PO-2026-000364
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 1822 | @ $1.19 | TX12 | $2,168.18
+- SKU-PKG-0001 | Corrugated Box Large | qty 911 | @ $8.06 | TX12 | $7,342.66
+
+Subtotal: $9,510.84
+Tax: $1,141.30
+Amount Due: $10,652.14
+
+Regards,
+Billing Team

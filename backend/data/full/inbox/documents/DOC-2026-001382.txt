@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/55007 from Helios Materials Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Materials Pvt Ltd
+Vendor Tax ID: 18-1136223
+Invoice #: INV/2026/55007
+Invoice Date (DD/MM/YYYY): 17/06/2026
+Purchase Order: PO-2026-000991
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 33 | @ $69.80 | TX18 | $2,303.40
+
+Subtotal: $2,303.40
+Tax: $414.61
+Amount Due: $2,718.01
+
+Regards,
+Billing Team

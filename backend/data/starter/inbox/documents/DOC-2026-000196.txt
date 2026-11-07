@@ -1,0 +1,24 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/55923 from Summit Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Trading Co.
+Vendor Tax ID: 65-8611105
+Invoice #: INV/2026/55923
+Invoice Date (DD/MM/YYYY): 19/08/2026
+Purchase Order: PO-2026-000141
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 797 | @ $156.10 | TX05 | $124,411.70
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 209 | @ $7.87 | TX05 | $1,644.83
+
+Subtotal: $126,056.53
+Tax: $6,302.83
+Amount Due: $132,359.36
+
+Regards,
+Billing Team

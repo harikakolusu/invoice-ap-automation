@@ -1,0 +1,19 @@
+Keystone Logistics GmbH
+Tax ID: 63-5629931
+Remit to: Accounts Receivable, Keystone Logistics GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/27730
+Invoice Date:    2026-07-12
+PO Number:       PO-2026-001095
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0002   Stretch Film Roll                  546        2.03  TX12     1,108.38
+
+                                                  Subtotal:         1,108.38
+                                                  Tax:                133.01
+                                                  TOTAL DUE:        1,241.39

@@ -1,0 +1,19 @@
+Unity Tech Components Pvt Ltd
+Tax ID: 10-4924132
+Remit to: Accounts Receivable, Unity Tech Components Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/43178
+Invoice Date:    2026-07-25
+PO Number:       PO-2026-001292
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0001   Steel Sheet 2mm                     22        8.74  TX05       192.28
+
+                                                  Subtotal:           192.28
+                                                  Tax:                  9.61
+                                                  TOTAL DUE:          201.89

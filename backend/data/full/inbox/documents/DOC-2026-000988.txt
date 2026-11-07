@@ -1,0 +1,25 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/34980 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/34980
+Invoice Date (DD/MM/YYYY): 09/05/2026
+Purchase Order: PO-2026-000651
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0006 | Trash Bags 100pk | qty 141 | @ $14.07 | TX05 | $1,983.87
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 103 | @ $18.10 | TX18 | $1,864.30
+- SKU-MRO-0004 | V-Belt A42 | qty 7 | @ $51.55 | TX18 | $360.85
+
+Subtotal: $4,209.02
+Tax: $499.71
+Amount Due: $4,708.73
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice 008161 from Prairie Logistics Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Logistics Ltd
+Vendor Tax ID: 28-3986519
+Invoice #: 008161
+Invoice Date (DD/MM/YYYY): 15/04/2026
+Purchase Order: PO-2026-000562
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 1310 | @ $2.29 | TX12 | $2,999.90
+
+Subtotal: $2,999.90
+Tax: $359.99
+Amount Due: $3,359.89
+
+Regards,
+Billing Team

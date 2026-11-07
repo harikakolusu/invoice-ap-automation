@@ -1,0 +1,19 @@
+Unity Metals Ltd
+Tax ID: 64-3272413
+Remit to: Accounts Receivable, Unity Metals Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/01292
+Invoice Date:    May 15, 2026
+PO Number:       PO-2026-000766
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0005   Epoxy Resin 5L                      56       11.94  TX05       668.64
+
+                                                  Subtotal:           668.64
+                                                  Tax:                 33.43
+                                                  TOTAL DUE:          702.07

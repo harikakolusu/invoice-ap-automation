@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice 013504 from Quanta Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Packaging LLC
+Vendor Tax ID: 89-4879755
+Invoice #: 013504
+Invoice Date (DD/MM/YYYY): 30/06/2026
+Purchase Order: PO-2026-001140
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 1 | @ $62.55 | TX18 | $62.55
+
+Subtotal: $62.55
+Tax: $11.26
+Amount Due: $73.81
+
+Regards,
+Billing Team

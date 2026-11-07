@@ -1,0 +1,23 @@
+From: billing@juniper.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/16576 from Juniper Facility Services Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Juniper Facility Services Inc.
+Vendor Tax ID: 79-8952187
+Invoice #: INV/2026/16576
+Invoice Date (DD/MM/YYYY): 27/07/2026
+Purchase Order: PO-2026-001417
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 17 | @ $2.59 | TX05 | $44.03
+
+Subtotal: $44.03
+Tax: $2.20
+Amount Due: $46.23
+
+Regards,
+Billing Team

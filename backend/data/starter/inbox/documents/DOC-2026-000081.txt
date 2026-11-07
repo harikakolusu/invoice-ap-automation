@@ -1,0 +1,23 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 052039 from Glacier Industrial Supply GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Industrial Supply GmbH
+Vendor Tax ID: 89-9782441
+Invoice #: 052039
+Invoice Date (DD/MM/YYYY): 29/04/2026
+Purchase Order: PO-2026-000057
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 200 | @ $5.98 | TX18 | $1,196.00
+
+Subtotal: $1,196.00
+Tax: $215.28
+Amount Due: $1,411.28
+
+Regards,
+Billing Team

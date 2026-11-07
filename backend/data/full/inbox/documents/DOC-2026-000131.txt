@@ -1,0 +1,19 @@
+Unity Tech Components Pvt Ltd
+Tax ID: 10-4924132
+Remit to: Accounts Receivable, Unity Tech Components Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/43156
+Invoice Date:    2026-02-10
+PO Number:       PO-2026-000018
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0004   ABS Pellets 25kg                    27        5.80  TX05       156.60
+
+                                                  Subtotal:           156.60
+                                                  Tax:                  7.83
+                                                  TOTAL DUE:          164.43

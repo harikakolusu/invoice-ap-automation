@@ -1,0 +1,20 @@
+Tidewater Electronics Co.
+Tax ID: 90-6238024
+Remit to: Accounts Receivable, Tidewater Electronics Co.
+
+                                INVOICE
+Invoice No:      009961
+Invoice Date:    2026-07-27
+PO Number:       N/A
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-SRV-0003   Facility Cleaning Month              2      142.30  TX18       284.60
+ 2  SKU-SRV-0005   Software Subscription                3      506.40  TX18     1,519.20
+
+                                                  Subtotal:         1,803.80
+                                                  Tax:                324.69
+                                                  TOTAL DUE:        2,128.49

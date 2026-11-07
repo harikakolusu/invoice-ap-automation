@@ -1,0 +1,24 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-43834 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-43834
+Invoice Date (DD/MM/YYYY): 21/02/2026
+Purchase Order: PO-2026-000176
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 9 | @ $153.71 | TX05 | $1,383.39
+- SKU-RAW-0006 | PP Granules 25kg | qty 289 | @ $309.93 | TX05 | $89,569.77
+
+Subtotal: $90,953.16
+Tax: $4,547.66
+Amount Due: $95,500.82
+
+Regards,
+Billing Team

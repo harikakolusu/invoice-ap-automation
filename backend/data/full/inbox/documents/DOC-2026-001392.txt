@@ -1,0 +1,25 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44389 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44389
+Invoice Date (DD/MM/YYYY): 16/06/2026
+Purchase Order: PO-2026-000925
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 130 | @ $4.89 | TX18 | $635.70
+- SKU-RAW-0005 | Epoxy Resin 5L | qty 16 | @ $11.38 | TX05 | $182.08
+- SKU-RAW-0006 | PP Granules 25kg | qty 10 | @ $326.37 | TX05 | $3,263.70
+
+Subtotal: $4,081.48
+Tax: $286.72
+Amount Due: $4,603.65
+
+Regards,
+Billing Team

@@ -1,0 +1,24 @@
+From: billing@beacon.example
+To: ap-inbox@buyer.example
+Subject: Invoice BEAC-32065 from Beacon Trading Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Beacon Trading Inc.
+Vendor Tax ID: 73-4697372
+Invoice #: BEAC-32065
+Invoice Date (DD/MM/YYYY): 27/02/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0005 | Software Subscription | qty 1 | @ $546.41 | TX18 | $546.41
+- SKU-SRV-0006 | Freight Charges | qty 10 | @ $268.69 | TX18 | $2,686.90
+
+Subtotal: $3,233.31
+Tax: $581.99
+Amount Due: $3,815.30
+
+Regards,
+Billing Team

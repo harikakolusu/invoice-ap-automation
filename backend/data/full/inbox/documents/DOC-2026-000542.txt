@@ -1,0 +1,24 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-43976 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-43976
+Invoice Date (DD/MM/YYYY): 20/03/2026
+Purchase Order: PO-2026-000413
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 24 | @ $3.99 | TX05 | $95.76
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 97 | @ $143.29 | TX05 | $13,899.13
+
+Subtotal: $13,994.89
+Tax: $699.75
+Amount Due: $14,694.64
+
+Regards,
+Billing Team

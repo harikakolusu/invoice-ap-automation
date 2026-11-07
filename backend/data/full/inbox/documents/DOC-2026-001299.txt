@@ -1,0 +1,19 @@
+Orion Distribution Inc.
+Tax ID: 80-7545385
+Remit to: Accounts Receivable, Orion Distribution Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/46065
+Invoice Date:    June 11, 2026
+PO Number:       PO-2026-000923
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0007   Cable Ties 1000pk                   82      258.75  TX18    21,217.50
+
+                                                  Subtotal:        21,217.50
+                                                  Tax:              3,819.15
+                                                  TOTAL DUE:       25,036.65

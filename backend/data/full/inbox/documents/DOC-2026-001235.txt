@@ -1,0 +1,24 @@
+From: billing@northstar.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/48819 from Northstar Tech Components Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Northstar Tech Components Pvt Ltd
+Vendor Tax ID: 12-4495388
+Invoice #: INV/2026/48819
+Invoice Date (DD/MM/YYYY): 02/06/2026
+Purchase Order: PO-2026-000955
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 21 | @ $55.12 | TX18 | $1,157.52
+- SKU-ITH-0003 | Monitor 27in QHD | qty 5 | @ $1,760.22 | TX18 | $8,801.10
+
+Subtotal: $9,958.62
+Tax: $1,792.55
+Amount Due: $11,751.17
+
+Regards,
+Billing Team

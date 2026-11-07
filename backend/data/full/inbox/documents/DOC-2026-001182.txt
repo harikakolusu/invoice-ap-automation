@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice 050679 from Prairie Metals Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Metals Pvt Ltd
+Vendor Tax ID: 30-3545236
+Invoice #: 050679
+Invoice Date (DD/MM/YYYY): 31/05/2026
+Purchase Order: PO-2026-000994
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 77 | @ $4.44 | TX05 | $341.88
+
+Subtotal: $341.88
+Tax: $17.09
+Amount Due: $358.97
+
+Regards,
+Billing Team

@@ -1,0 +1,27 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/42427 from Unity Trading Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Trading Pvt Ltd
+Vendor Tax ID: 20-9070105
+Invoice #: INV/2026/42427
+Invoice Date (DD/MM/YYYY): 23/04/2026
+Purchase Order: PO-2026-000593
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0006 | Trash Bags 100pk | qty 19 | @ $14.46 | TX05 | $274.74
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 9 | @ $58.79 | TX05 | $529.11
+- SKU-PKG-0002 | Stretch Film Roll | qty 89 | @ $2.16 | TX12 | $192.24
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 16 | @ $5.27 | TX05 | $84.32
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 169 | @ $21.43 | TX12 | $3,621.67
+
+Subtotal: $4,702.08
+Tax: $502.09
+Amount Due: $5,204.17
+
+Regards,
+Billing Team

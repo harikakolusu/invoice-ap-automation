@@ -1,0 +1,27 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44230 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44230
+Invoice Date (DD/MM/YYYY): 06/05/2026
+Purchase Order: PO-2026-000729
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 204 | @ $8.52 | TX05 | $1,738.08
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 148 | @ $18.96 | TX18 | $2,806.08
+- SKU-RAW-0005 | Epoxy Resin 5L | qty 685 | @ $10.84 | TX05 | $7,425.40
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 5 | @ $270.17 | TX18 | $1,350.85
+- SKU-RAW-0006 | PP Granules 25kg | qty 518 | @ $325.75 | TX05 | $168,738.50
+
+Subtotal: $182,058.91
+Tax: $9,643.34
+Amount Due: $191,702.25
+
+Regards,
+Billing Team

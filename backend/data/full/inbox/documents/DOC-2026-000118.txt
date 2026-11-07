@@ -1,0 +1,25 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-9774 from Horizon Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging Pvt Ltd
+Vendor Tax ID: 37-8463742
+Invoice #: HORI-9774
+Invoice Date (DD/MM/YYYY): 10/02/2026
+Purchase Order: none
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-SRV-0002 | Equipment Maintenance | qty 5 | @ $439.86 | TX18 | $2,199.30
+- SKU-SRV-0004 | Legal Advisory Hour | qty 1 | @ $978.50 | TX18 | $978.50
+- SKU-SRV-0001 | IT Consulting Hour | qty 8 | @ $976.15 | TX18 | $7,809.20
+
+Subtotal: $10,987.00
+Tax: $1,977.66
+Amount Due: $12,964.66
+
+Regards,
+Billing Team

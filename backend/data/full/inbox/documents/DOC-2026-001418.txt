@@ -1,0 +1,23 @@
+From: billing@lakeside.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/45628 from Lakeside Materials LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lakeside Materials LLC
+Vendor Tax ID: 78-3700831
+Invoice #: INV/2026/45628
+Invoice Date (DD/MM/YYYY): 21/06/2026
+Purchase Order: PO-2026-000943
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 11 | @ $68.09 | TX18 | $748.99
+
+Subtotal: $748.99
+Tax: $134.82
+Amount Due: $883.81
+
+Regards,
+Billing Team

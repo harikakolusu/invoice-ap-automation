@@ -1,0 +1,24 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034603 from Atlas Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Trading GmbH
+Vendor Tax ID: 13-6292349
+Invoice #: 034603
+Invoice Date (DD/MM/YYYY): 08/06/2026
+Purchase Order: PO-2026-000876
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0005 | Packing Tape 36pk | qty 55 | @ $35.96 | TX12 | $1,977.80
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 83 | @ $6.51 | TX18 | $540.33
+
+Subtotal: $2,518.13
+Tax: $334.60
+Amount Due: $2,852.73
+
+Regards,
+Billing Team

@@ -1,0 +1,24 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034580 from Atlas Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Trading GmbH
+Vendor Tax ID: 13-6292349
+Invoice #: 034580
+Invoice Date (DD/MM/YYYY): 28/02/2026
+Purchase Order: PO-2026-000225
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 65 | @ $9.24 | TX12 | $600.60
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 1453 | @ $1.57 | TX12 | $2,281.21
+
+Subtotal: $2,881.81
+Tax: $345.82
+Amount Due: $3,227.63
+
+Regards,
+Billing Team

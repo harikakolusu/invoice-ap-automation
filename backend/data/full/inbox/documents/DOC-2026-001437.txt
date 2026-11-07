@@ -1,0 +1,23 @@
+From: billing@crescent.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017854 from Crescent Industrial Supply Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Crescent Industrial Supply Co.
+Vendor Tax ID: 83-1300706
+Invoice #: 017854
+Invoice Date (DD/MM/YYYY): 25/06/2026
+Purchase Order: PO-2026-001025
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0002 | Docking Station USB-C | qty 30 | @ $123.34 | TX18 | $3,700.20
+
+Subtotal: $3,700.20
+Tax: $666.04
+Amount Due: $4,366.24
+
+Regards,
+Billing Team

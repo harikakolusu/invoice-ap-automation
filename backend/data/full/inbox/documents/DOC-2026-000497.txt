@@ -1,0 +1,23 @@
+From: billing@lumen.example
+To: ap-inbox@buyer.example
+Subject: Invoice LUME-58007 from Lumen Logistics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lumen Logistics Pvt Ltd
+Vendor Tax ID: 28-6404535
+Invoice #: LUME-58007
+Invoice Date (DD/MM/YYYY): 12/03/2026
+Purchase Order: PO-2026-000326
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 225 | @ $1.24 | TX12 | $279.00
+
+Subtotal: $279.00
+Tax: $33.48
+Amount Due: $312.48
+
+Regards,
+Billing Team

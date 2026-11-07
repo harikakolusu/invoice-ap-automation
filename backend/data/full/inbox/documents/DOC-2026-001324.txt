@@ -1,0 +1,21 @@
+Tidewater Systems Ltd
+Tax ID: 76-7633712
+Remit to: Accounts Receivable, Tidewater Systems Ltd
+
+                                INVOICE
+Invoice No:      014380
+Invoice Date:    June 14, 2026
+PO Number:       PO-2026-000866
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0003   Monitor 27in QHD                     1    1,764.56  TX18     1,764.56
+ 2  SKU-ITH-0001   Laptop 14in i7                       1       59.63  TX18        59.63
+ 3  SKU-FAC-0002   Floor Detergent 5L                  50        2.42  TX05       121.00
+
+                                                  Subtotal:         1,945.19
+                                                  Tax:                334.40
+                                                  TOTAL DUE:        2,279.59

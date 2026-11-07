@@ -1,0 +1,19 @@
+Granite Metals Ltd
+Tax ID: 14-5381924
+Remit to: Accounts Receivable, Granite Metals Ltd
+
+                                INVOICE
+Invoice No:      GRAN-33423
+Invoice Date:    February 20, 2026
+PO Number:       PO-2026-000263
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0001   Steel Sheet 2mm                    176        8.09  TX05     1,423.84
+
+                                                  Subtotal:         1,423.84
+                                                  Tax:                 71.19
+                                                  TOTAL DUE:        1,495.03

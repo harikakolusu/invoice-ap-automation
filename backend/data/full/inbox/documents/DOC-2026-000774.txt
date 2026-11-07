@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44138 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44138
+Invoice Date (DD/MM/YYYY): 13/04/2026
+Purchase Order: PO-2026-000585
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 15 | @ $6.58 | TX18 | $98.70
+
+Subtotal: $98.70
+Tax: $17.77
+Amount Due: $116.47
+
+Regards,
+Billing Team

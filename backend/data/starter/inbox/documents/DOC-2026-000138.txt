@@ -1,0 +1,19 @@
+Lakeside Industrial Supply LLC
+Tax ID: 35-6076221
+Remit to: Accounts Receivable, Lakeside Industrial Supply LLC
+
+                                INVOICE
+Invoice No:      INV/2026/06087
+Invoice Date:    June 22, 2026
+PO Number:       PO-2026-000104
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0006   Network Switch 24P                   1      318.61  TX18       318.61
+
+                                                  Subtotal:           318.61
+                                                  Tax:                 57.35
+                                                  TOTAL DUE:          375.96

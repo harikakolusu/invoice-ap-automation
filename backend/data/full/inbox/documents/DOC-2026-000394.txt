@@ -1,0 +1,23 @@
+From: billing@oakridge.example
+To: ap-inbox@buyer.example
+Subject: Invoice 042725 from Oakridge Maintenance Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Oakridge Maintenance Ltd
+Vendor Tax ID: 88-9073522
+Invoice #: 042725
+Invoice Date (DD/MM/YYYY): 06/03/2026
+Purchase Order: PO-2026-000180
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 31 | @ $222.64 | TX18 | $6,901.84
+
+Subtotal: $6,901.84
+Tax: $1,242.33
+Amount Due: $8,144.17
+
+Regards,
+Billing Team

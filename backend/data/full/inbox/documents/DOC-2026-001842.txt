@@ -1,0 +1,25 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice SUMM-37193 from Summit Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Packaging LLC
+Vendor Tax ID: 22-5946783
+Invoice #: SUMM-37193
+Invoice Date (DD/MM/YYYY): 01/08/2026
+Purchase Order: PO-2026-001429
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 204 | @ $8.29 | TX05 | $1,691.16
+- SKU-RAW-0004 | ABS Pellets 25kg | qty 386 | @ $5.69 | TX05 | $2,196.34
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 205 | @ $150.14 | TX05 | $30,778.70
+
+Subtotal: $34,666.20
+Tax: $1,733.32
+Amount Due: $36,399.52
+
+Regards,
+Billing Team

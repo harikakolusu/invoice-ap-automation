@@ -1,0 +1,21 @@
+Boreal Metals Inc.
+Tax ID: 82-5662052
+Remit to: Accounts Receivable, Boreal Metals Inc.
+
+                                INVOICE
+Invoice No:      BORE-26810
+Invoice Date:    March 2, 2026
+PO Number:       PO-2026-000387
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0004   ABS Pellets 25kg                     9        5.65  TX18        50.85
+ 2  SKU-MRO-0008   Air Filter Panel                   139        7.89  TX18     1,096.71
+ 3  SKU-RAW-0001   Steel Sheet 2mm                    599        7.98  TX05     4,780.02
+
+                                                  Subtotal:         5,927.58
+                                                  Tax:                445.56
+                                                  TOTAL DUE:        6,373.14

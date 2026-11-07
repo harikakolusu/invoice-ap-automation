@@ -1,0 +1,23 @@
+From: billing@oakridge.example
+To: ap-inbox@buyer.example
+Subject: Invoice 022650 from Oakridge Metals GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Oakridge Metals GmbH
+Vendor Tax ID: 59-3859316
+Invoice #: 022650
+Invoice Date (DD/MM/YYYY): 25/07/2026
+Purchase Order: PO-2026-001267
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0006 | PP Granules 25kg | qty 10 | @ $303.82 | TX05 | $3,038.20
+
+Subtotal: $3,038.20
+Tax: $151.91
+Amount Due: $3,190.11
+
+Regards,
+Billing Team

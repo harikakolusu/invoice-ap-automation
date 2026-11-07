@@ -1,0 +1,23 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice MERI-50401 from Meridian Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Electronics GmbH
+Vendor Tax ID: 26-1856640
+Invoice #: MERI-50401
+Invoice Date (DD/MM/YYYY): 17/07/2026
+Purchase Order: PO-2026-001291
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-OFF-0001 | A4 Copy Paper 5 reams | qty 26 | @ $82.73 | TX12 | $2,150.98
+
+Subtotal: $2,150.98
+Tax: $258.12
+Amount Due: $2,409.10
+
+Regards,
+Billing Team

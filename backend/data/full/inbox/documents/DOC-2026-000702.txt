@@ -1,0 +1,19 @@
+Frontier Polymers LLC
+Tax ID: 21-3488925
+Remit to: Accounts Receivable, Frontier Polymers LLC
+
+                                INVOICE
+Invoice No:      FRON-35256
+Invoice Date:    2026-04-06
+PO Number:       PO-2026-000475
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0003   Ball Bearing 6204                   32       19.77  TX18       632.64
+
+                                                  Subtotal:           632.64
+                                                  Tax:                113.88
+                                                  TOTAL DUE:          746.52

@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/45806 from Helios Office Solutions Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Office Solutions Ltd
+Vendor Tax ID: 14-4453195
+Invoice #: INV/2026/45806
+Invoice Date (DD/MM/YYYY): 19/04/2026
+Purchase Order: PO-2026-000553
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 6 | @ $30.48 | TX18 | $182.88
+
+Subtotal: $182.88
+Tax: $32.92
+Amount Due: $215.80
+
+Regards,
+Billing Team

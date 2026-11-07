@@ -1,0 +1,23 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice REDW-36286 from Redwood Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Equipment Pvt Ltd
+Vendor Tax ID: 38-6307431
+Invoice #: REDW-36286
+Invoice Date (DD/MM/YYYY): 28/07/2026
+Purchase Order: PO-2026-001271
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 1630 | @ $1.18 | TX12 | $1,923.40
+
+Subtotal: $1,923.40
+Tax: $230.81
+Amount Due: $2,154.21
+
+Regards,
+Billing Team

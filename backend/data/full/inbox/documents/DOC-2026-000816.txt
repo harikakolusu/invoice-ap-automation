@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-32762 from Nimbus Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Trading Co.
+Vendor Tax ID: 48-4630922
+Invoice #: NIMB-32762
+Invoice Date (DD/MM/YYYY): 17/04/2026
+Purchase Order: PO-2026-000545
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 179 | @ $8.10 | TX18 | $1,449.90
+
+Subtotal: $1,449.90
+Tax: $260.98
+Amount Due: $1,710.88
+
+Regards,
+Billing Team

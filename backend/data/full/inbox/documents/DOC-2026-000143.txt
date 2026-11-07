@@ -1,0 +1,23 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice 050043 from Keystone Polymers Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Polymers Co.
+Vendor Tax ID: 76-5656738
+Invoice #: 050043
+Invoice Date (DD/MM/YYYY): 09/02/2026
+Purchase Order: PO-2026-000242
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 12 | @ $2.47 | TX05 | $29.64
+
+Subtotal: $29.64
+Tax: $1.48
+Amount Due: $31.12
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@zenith.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/43493 from Zenith Distribution Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Zenith Distribution Co.
+Vendor Tax ID: 41-0835163
+Invoice #: INV/2026/43493
+Invoice Date (DD/MM/YYYY): 26/03/2026
+Purchase Order: PO-2026-000392
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0001 | Drinking Water 20L | qty 113 | @ $3.47 | TX05 | $392.11
+
+Subtotal: $392.11
+Tax: $19.61
+Amount Due: $411.72
+
+Regards,
+Billing Team

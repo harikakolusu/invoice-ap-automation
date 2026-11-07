@@ -1,0 +1,24 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 059928 from Atlas Industrial Supply GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Industrial Supply GmbH
+Vendor Tax ID: 72-4221383
+Invoice #: 059928
+Invoice Date (DD/MM/YYYY): 17/04/2026
+Purchase Order: PO-2026-000607
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 99 | @ $5.87 | TX18 | $581.13
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 15 | @ $7.90 | TX05 | $118.50
+
+Subtotal: $699.63
+Tax: $110.53
+Amount Due: $810.16
+
+Regards,
+Billing Team

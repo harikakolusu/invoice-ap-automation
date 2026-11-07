@@ -1,0 +1,23 @@
+From: billing@cobalt.example
+To: ap-inbox@buyer.example
+Subject: Invoice COBA-50311 from Cobalt Metals LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Cobalt Metals LLC
+Vendor Tax ID: 31-0995879
+Invoice #: COBA-50311
+Invoice Date (DD/MM/YYYY): 31/05/2026
+Purchase Order: PO-2026-000814
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 11 | @ $2.39 | TX05 | $26.29
+
+Subtotal: $26.29
+Tax: $1.31
+Amount Due: $27.60
+
+Regards,
+Billing Team

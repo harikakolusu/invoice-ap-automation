@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice STRA-24101 from Strata Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Industrial Supply Pvt Ltd
+Vendor Tax ID: 70-9924066
+Invoice #: STRA-24101
+Invoice Date (DD/MM/YYYY): 20/07/2026
+Purchase Order: PO-2026-000123
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 13 | @ $8.74 | TX18 | $113.62
+
+Subtotal: $113.62
+Tax: $20.45
+Amount Due: $134.07
+
+Regards,
+Billing Team

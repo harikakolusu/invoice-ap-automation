@@ -1,0 +1,23 @@
+From: billing@crescent.example
+To: ap-inbox@buyer.example
+Subject: Invoice CRES-49189 from Crescent Distribution Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Crescent Distribution Ltd
+Vendor Tax ID: 12-9335717
+Invoice #: CRES-49189
+Invoice Date (DD/MM/YYYY): 05/06/2026
+Purchase Order: PO-2026-000772
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 9 | @ $5.35 | TX05 | $48.15
+
+Subtotal: $48.15
+Tax: $2.41
+Amount Due: $50.56
+
+Regards,
+Billing Team

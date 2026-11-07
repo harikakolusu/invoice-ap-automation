@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice 032621 from Strata Logistics Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Logistics Inc.
+Vendor Tax ID: 24-9746540
+Invoice #: 032621
+Invoice Date (DD/MM/YYYY): 12/03/2026
+Purchase Order: PO-2026-000447
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 961 | @ $2.17 | TX12 | $2,085.37
+
+Subtotal: $2,085.37
+Tax: $250.24
+Amount Due: $2,335.61
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Keystone Logistics GmbH
+Tax ID: 63-5629931
+Remit to: Accounts Receivable, Keystone Logistics GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/27691
+Invoice Date:    2026-02-05
+PO Number:       PO-2026-000001
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0005   Packing Tape 36pk                 1377       46.76  TX12    64,388.52
+
+                                                  Subtotal:        64,388.52
+                                                  Tax:              7,726.62
+                                                  TOTAL DUE:       72,115.14

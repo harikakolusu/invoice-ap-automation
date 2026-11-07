@@ -1,0 +1,23 @@
+From: billing@kestrel.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEST-16753 from Kestrel Metals Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Kestrel Metals Co.
+Vendor Tax ID: 61-2723773
+Invoice #: KEST-16753
+Invoice Date (DD/MM/YYYY): 31/05/2026
+Purchase Order: PO-2026-000930
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 787 | @ $4.28 | TX05 | $3,368.36
+
+Subtotal: $3,368.36
+Tax: $168.42
+Amount Due: $3,536.78
+
+Regards,
+Billing Team

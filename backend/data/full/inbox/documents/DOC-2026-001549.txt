@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice PRAI-28627 from Prairie Facility Services LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Facility Services LLC
+Vendor Tax ID: 39-2274486
+Invoice #: PRAI-28627
+Invoice Date (DD/MM/YYYY): 20/05/2026
+Purchase Order: PO-2026-001149
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0006 | Network Switch 24P | qty 6 | @ $314.72 | TX18 | $1,888.32
+
+Subtotal: $1,888.32
+Tax: $339.90
+Amount Due: $2,228.22
+
+Regards,
+Billing Team

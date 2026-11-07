@@ -1,0 +1,23 @@
+From: billing@orion.example
+To: ap-inbox@buyer.example
+Subject: Invoice ORIO-26600 from Orion Distribution Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Orion Distribution Ltd
+Vendor Tax ID: 16-8926035
+Invoice #: ORIO-26600
+Invoice Date (DD/MM/YYYY): 02/06/2026
+Purchase Order: PO-2026-000988
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0002 | Ballpoint Pens 12pk | qty 38 | @ $34.17 | TX12 | $1,298.46
+
+Subtotal: $1,298.46
+Tax: $155.82
+Amount Due: $1,454.28
+
+Regards,
+Billing Team

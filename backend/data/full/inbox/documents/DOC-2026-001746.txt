@@ -1,0 +1,19 @@
+Crescent Equipment LLC
+Tax ID: 51-3791377
+Remit to: Accounts Receivable, Crescent Equipment LLC
+
+                                INVOICE
+Invoice No:      CRES-56870
+Invoice Date:    July 20, 2026
+PO Number:       PO-2026-001337
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0004   Wireless Keyboard                    5       48.76  TX18       243.80
+
+                                                  Subtotal:           243.80
+                                                  Tax:                 43.88
+                                                  TOTAL DUE:          271.17

@@ -1,0 +1,25 @@
+From: billing@zenith.example
+To: ap-inbox@buyer.example
+Subject: Invoice 015223 from Zenith Office Solutions LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Zenith Office Solutions LLC
+Vendor Tax ID: 19-3261746
+Invoice #: 015223
+Invoice Date (DD/MM/YYYY): 17/03/2026
+Purchase Order: none
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-SRV-0001 | IT Consulting Hour | qty 1 | @ $927.02 | TX18 | $927.02
+- SKU-SRV-0004 | Legal Advisory Hour | qty 6 | @ $934.90 | TX18 | $5,609.40
+- SKU-SRV-0003 | Facility Cleaning Month | qty 2 | @ $137.53 | TX18 | $275.06
+
+Subtotal: $6,811.48
+Tax: $1,226.06
+Amount Due: $8,037.54
+
+Regards,
+Billing Team

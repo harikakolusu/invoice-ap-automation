@@ -1,0 +1,25 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 036929 from Glacier Distribution Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Distribution Co.
+Vendor Tax ID: 87-0023659
+Invoice #: 036929
+Invoice Date (DD/MM/YYYY): 23/01/2026
+Purchase Order: PO-2026-000076
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0006 | Trash Bags 100pk | qty 70 | @ $13.83 | TX05 | $968.10
+- SKU-OFF-0005 | Whiteboard Markers 8pk | qty 7 | @ $3.95 | TX12 | $27.65
+- SKU-FAC-0001 | Drinking Water 20L | qty 27 | @ $3.90 | TX05 | $105.30
+
+Subtotal: $1,101.05
+Tax: $57.00
+Amount Due: $1,158.05
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034612 from Atlas Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Trading GmbH
+Vendor Tax ID: 13-6292349
+Invoice #: 034612
+Invoice Date (DD/MM/YYYY): 19/06/2026
+Purchase Order: PO-2026-000977
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 1388 | @ $8.17 | TX12 | $11,339.96
+
+Subtotal: $11,339.96
+Tax: $1,360.80
+Amount Due: $12,700.76
+
+Regards,
+Billing Team

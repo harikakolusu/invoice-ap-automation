@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-9783 from Horizon Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging Pvt Ltd
+Vendor Tax ID: 37-8463742
+Invoice #: HORI-9783
+Invoice Date (DD/MM/YYYY): 07/03/2026
+Purchase Order: PO-2026-000282
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0004 | Wireless Keyboard | qty 246 | @ $43.91 | TX18 | $10,801.86
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 440 | @ $20.49 | TX12 | $9,015.60
+
+Subtotal: $19,817.46
+Tax: $3,026.20
+Amount Due: $22,843.66
+
+Regards,
+Billing Team

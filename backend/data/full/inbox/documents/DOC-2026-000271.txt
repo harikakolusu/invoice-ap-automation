@@ -1,0 +1,23 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice 041906 from Meridian Materials LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Materials LLC
+Vendor Tax ID: 68-8280626
+Invoice #: 041906
+Invoice Date (DD/MM/YYYY): 22/02/2026
+Purchase Order: PO-2026-000303
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 15 | @ $5.93 | TX05 | $88.95
+
+Subtotal: $88.95
+Tax: $4.45
+Amount Due: $93.40
+
+Regards,
+Billing Team

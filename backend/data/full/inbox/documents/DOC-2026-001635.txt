@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice 013901 from Horizon Materials Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Materials Co.
+Vendor Tax ID: 26-8475866
+Invoice #: 013901
+Invoice Date (DD/MM/YYYY): 11/07/2026
+Purchase Order: PO-2026-001302
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 5 | @ $4.95 | TX18 | $24.75
+
+Subtotal: $24.75
+Tax: $4.46
+Amount Due: $29.21
+
+Regards,
+Billing Team

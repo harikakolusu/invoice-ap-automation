@@ -1,0 +1,24 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56769 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56769
+Invoice Date (DD/MM/YYYY): 19/05/2026
+Purchase Order: PO-2026-000757
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0002 | Ballpoint Pens 12pk | qty 195 | @ $37.18 | TX12 | $7,250.10
+- SKU-OFF-0005 | Whiteboard Markers 8pk | qty 5 | @ $4.26 | TX12 | $21.30
+
+Subtotal: $7,271.40
+Tax: $872.57
+Amount Due: $8,143.97
+
+Regards,
+Billing Team

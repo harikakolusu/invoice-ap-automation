@@ -1,0 +1,23 @@
+From: billing@lakeside.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/45636 from Lakeside Materials LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lakeside Materials LLC
+Vendor Tax ID: 78-3700831
+Invoice #: INV/2026/45636
+Invoice Date (DD/MM/YYYY): 01/08/2026
+Purchase Order: PO-2026-001330
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 19 | @ $60.23 | TX18 | $1,144.37
+
+Subtotal: $1,144.37
+Tax: $205.99
+Amount Due: $1,350.36
+
+Regards,
+Billing Team

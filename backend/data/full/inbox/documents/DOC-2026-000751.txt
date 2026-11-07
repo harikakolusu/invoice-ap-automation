@@ -1,0 +1,24 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/36355 from Atlas Materials Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Materials Inc.
+Vendor Tax ID: 39-9978315
+Invoice #: INV/2026/36355
+Invoice Date (DD/MM/YYYY): 29/03/2026
+Purchase Order: PO-2026-000544
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 5 | @ $56.07 | TX18 | $280.35
+- SKU-ITH-0002 | Docking Station USB-C | qty 1 | @ $99.99 | TX18 | $99.99
+
+Subtotal: $380.34
+Tax: $68.46
+Amount Due: $448.80
+
+Regards,
+Billing Team

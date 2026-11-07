@@ -1,0 +1,24 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice QUAN-22443 from Quanta Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Electronics GmbH
+Vendor Tax ID: 32-1125093
+Invoice #: QUAN-22443
+Invoice Date (DD/MM/YYYY): 17/06/2026
+Purchase Order: PO-2026-001016
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 220 | @ $53.77 | TX18 | $11,829.40
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 8 | @ $20.55 | TX18 | $164.40
+
+Subtotal: $11,993.80
+Tax: $2,158.88
+Amount Due: $14,152.68
+
+Regards,
+Billing Team

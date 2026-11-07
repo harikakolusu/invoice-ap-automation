@@ -1,0 +1,24 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/53731 from Quanta Office Solutions LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Office Solutions LLC
+Vendor Tax ID: 80-8139672
+Invoice #: INV/2026/53731
+Invoice Date (DD/MM/YYYY): 13/07/2026
+Purchase Order: PO-2026-001343
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-OFF-0006 | File Folders 50pk | qty 135 | @ $76.24 | TX12 | $10,292.40
+- SKU-OFF-0007 | Desk Organizer | qty 8 | @ $87.59 | TX12 | $700.72
+
+Subtotal: $10,993.12
+Tax: $1,319.18
+Amount Due: $12,312.30
+
+Regards,
+Billing Team

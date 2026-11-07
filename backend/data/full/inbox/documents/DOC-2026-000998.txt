@@ -1,0 +1,19 @@
+Falcon Metals Ltd
+Tax ID: 93-2147229
+Remit to: Accounts Receivable, Falcon Metals Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/51422
+Invoice Date:    April 29, 2026
+PO Number:       PO-2026-000746
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0004   Paper Towels Case                   21       14.17  TX05       297.57
+
+                                                  Subtotal:           297.57
+                                                  Tax:                 14.88
+                                                  TOTAL DUE:          312.45

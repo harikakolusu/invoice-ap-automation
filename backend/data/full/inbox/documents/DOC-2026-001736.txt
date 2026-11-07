@@ -1,0 +1,19 @@
+Sierra Industrial Supply Ltd
+Tax ID: 12-4023336
+Remit to: Accounts Receivable, Sierra Industrial Supply Ltd
+
+                                INVOICE
+Invoice No:      010282
+Invoice Date:    July 18, 2026
+PO Number:       PO-2026-001205
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0006   File Folders 50pk                    3       72.41  TX12       217.23
+
+                                                  Subtotal:           217.23
+                                                  Tax:                 26.07
+                                                  TOTAL DUE:          243.30

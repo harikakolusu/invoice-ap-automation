@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054382 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054382
+Invoice Date (DD/MM/YYYY): 19/07/2026
+Purchase Order: PO-2026-001342
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 89 | @ $2.61 | TX05 | $232.29
+
+Subtotal: $232.29
+Tax: $11.61
+Amount Due: $243.90
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice MERI-50373 from Meridian Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Electronics GmbH
+Vendor Tax ID: 26-1856640
+Invoice #: MERI-50373
+Invoice Date (DD/MM/YYYY): 12/04/2026
+Purchase Order: PO-2026-000538
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-OFF-0005 | Whiteboard Markers 8pk | qty 5 | @ $4.05 | TX12 | $20.25
+
+Subtotal: $20.25
+Tax: $2.43
+Amount Due: $22.68
+
+Regards,
+Billing Team

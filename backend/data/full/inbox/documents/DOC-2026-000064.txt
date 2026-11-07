@@ -1,0 +1,23 @@
+From: billing@sierra.example
+To: ap-inbox@buyer.example
+Subject: Invoice SIER-20081 from Sierra Office Solutions Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Sierra Office Solutions Inc.
+Vendor Tax ID: 51-8550157
+Invoice #: SIER-20081
+Invoice Date (DD/MM/YYYY): 01/02/2026
+Purchase Order: PO-2026-000035
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0003 | Heavy Duty Stapler | qty 198 | @ $101.91 | TX12 | $20,178.18
+
+Subtotal: $20,178.18
+Tax: $2,421.38
+Amount Due: $22,599.56
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Lakeside Industrial Supply LLC
+Tax ID: 97-3649592
+Remit to: Accounts Receivable, Lakeside Industrial Supply LLC
+
+                                INVOICE
+Invoice No:      LAKE-22803
+Invoice Date:    2026-07-15
+PO Number:       PO-2026-001233
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0006   Welding Rods 5kg                   107        8.34  TX18       892.38
+
+                                                  Subtotal:           892.38
+                                                  Tax:                160.63
+                                                  TOTAL DUE:        1,053.01

@@ -1,0 +1,19 @@
+Pinnacle Office Solutions Inc.
+Tax ID: 46-4970646
+Remit to: Accounts Receivable, Pinnacle Office Solutions Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/05297
+Invoice Date:    May 22, 2026
+PO Number:       PO-2026-000880
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0008   Air Filter Panel                     3        8.30  TX18        24.90
+
+                                                  Subtotal:            24.90
+                                                  Tax:                  4.48
+                                                  TOTAL DUE:           29.38

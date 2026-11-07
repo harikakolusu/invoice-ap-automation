@@ -1,0 +1,19 @@
+Strata Metals Ltd
+Tax ID: 25-4461714
+Remit to: Accounts Receivable, Strata Metals Ltd
+
+                                INVOICE
+Invoice No:      STRA-49028
+Invoice Date:    July 10, 2026
+PO Number:       PO-2026-000113
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0003   Heavy Duty Stapler                  93       89.81  TX12     8,352.33
+
+                                                  Subtotal:         8,352.33
+                                                  Tax:              1,002.28
+                                                  TOTAL DUE:        9,354.61

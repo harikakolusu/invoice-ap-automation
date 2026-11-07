@@ -1,0 +1,19 @@
+Pinnacle Trading Ltd
+Tax ID: 98-5736232
+Remit to: Accounts Receivable, Pinnacle Trading Ltd
+
+                                INVOICE
+Invoice No:      PINN-47381
+Invoice Date:    2026-05-12
+PO Number:       PO-2026-000677
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0001   Safety Gloves Nitrile               19        4.75  TX18        90.25
+
+                                                  Subtotal:            90.25
+                                                  Tax:                 16.25
+                                                  TOTAL DUE:          106.50

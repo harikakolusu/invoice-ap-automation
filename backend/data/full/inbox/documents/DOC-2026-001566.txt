@@ -1,0 +1,23 @@
+From: billing@boreal.example
+To: ap-inbox@buyer.example
+Subject: Invoice BORE-32489 from Boreal Maintenance LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Boreal Maintenance LLC
+Vendor Tax ID: 25-9488838
+Invoice #: BORE-32489
+Invoice Date (DD/MM/YYYY): 06/07/2026
+Purchase Order: PO-2026-001150
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-OFF-0003 | Heavy Duty Stapler | qty 29 | @ $101.25 | TX12 | $2,936.25
+
+Subtotal: $2,936.25
+Tax: $352.35
+Amount Due: $3,288.60
+
+Regards,
+Billing Team

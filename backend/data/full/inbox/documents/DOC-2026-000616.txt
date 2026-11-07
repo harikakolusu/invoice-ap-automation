@@ -1,0 +1,25 @@
+From: billing@kestrel.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEST-16715 from Kestrel Metals Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Kestrel Metals Co.
+Vendor Tax ID: 61-2723773
+Invoice #: KEST-16715
+Invoice Date (DD/MM/YYYY): 27/03/2026
+Purchase Order: PO-2026-000494
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0006 | Network Switch 24P | qty 27 | @ $312.03 | TX18 | $8,424.81
+- SKU-ITH-0004 | Wireless Keyboard | qty 2 | @ $48.81 | TX18 | $97.62
+- SKU-RAW-0005 | Epoxy Resin 5L | qty 254 | @ $9.74 | TX05 | $2,473.96
+
+Subtotal: $10,996.39
+Tax: $1,657.74
+Amount Due: $12,654.13
+
+Regards,
+Billing Team

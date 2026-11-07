@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-43800 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-43800
+Invoice Date (DD/MM/YYYY): 16/02/2026
+Purchase Order: PO-2026-000240
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 62 | @ $4.70 | TX18 | $291.40
+
+Subtotal: $291.40
+Tax: $52.45
+Amount Due: $343.85
+
+Regards,
+Billing Team

@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-9812 from Horizon Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging Pvt Ltd
+Vendor Tax ID: 37-8463742
+Invoice #: HORI-9812
+Invoice Date (DD/MM/YYYY): 13/04/2026
+Purchase Order: PO-2026-000530
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 6 | @ $59.99 | TX18 | $359.94
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 1 | @ $31.64 | TX18 | $31.64
+
+Subtotal: $391.58
+Tax: $70.49
+Amount Due: $462.07
+
+Regards,
+Billing Team

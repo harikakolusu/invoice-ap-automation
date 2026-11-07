@@ -1,0 +1,24 @@
+From: billing@vertex.example
+To: ap-inbox@buyer.example
+Subject: Invoice VERT-35091 from Vertex Facility Services Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Vertex Facility Services Inc.
+Vendor Tax ID: 46-5683378
+Invoice #: VERT-35091
+Invoice Date (DD/MM/YYYY): 04/03/2026
+Purchase Order: PO-2026-000288
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 18 | @ $64.43 | TX05 | $1,159.74
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 25 | @ $5.89 | TX05 | $147.25
+
+Subtotal: $1,306.99
+Tax: $65.35
+Amount Due: $1,372.34
+
+Regards,
+Billing Team

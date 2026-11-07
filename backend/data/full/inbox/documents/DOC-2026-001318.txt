@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/34998 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/34998
+Invoice Date (DD/MM/YYYY): 12/06/2026
+Purchase Order: PO-2026-000879
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 53 | @ $8.93 | TX18 | $473.29
+
+Subtotal: $473.29
+Tax: $85.19
+Amount Due: $558.48
+
+Regards,
+Billing Team

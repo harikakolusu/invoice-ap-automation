@@ -1,0 +1,23 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034681 from Glacier Electronics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Electronics Pvt Ltd
+Vendor Tax ID: 73-1156371
+Invoice #: 034681
+Invoice Date (DD/MM/YYYY): 09/07/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0001 | IT Consulting Hour | qty 10 | @ $858.00 | TX18 | $8,580.00
+
+Subtotal: $8,580.00
+Tax: $1,544.40
+Amount Due: $10,124.40
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Tidewater Facility Services Pvt Ltd
+Tax ID: 61-6190224
+Remit to: Accounts Receivable, Tidewater Facility Services Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/55793
+Invoice Date:    June 30, 2026
+PO Number:       PO-2026-001051
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0002   Ballpoint Pens 12pk                 44       33.36  TX12     1,467.84
+
+                                                  Subtotal:         1,467.84
+                                                  Tax:                176.14
+                                                  TOTAL DUE:        1,643.98

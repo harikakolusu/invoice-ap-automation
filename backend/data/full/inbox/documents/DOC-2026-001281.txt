@@ -1,0 +1,19 @@
+Silver Facility Services Ltd
+Tax ID: 25-8751121
+Remit to: Accounts Receivable, Silver Facility Services Ltd
+
+                                INVOICE
+Invoice No:      035785
+Invoice Date:    2026-06-07
+PO Number:       PO-2026-000901
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0006   Welding Rods 5kg                     7        8.75  TX18        61.25
+
+                                                  Subtotal:            61.25
+                                                  Tax:                 11.03
+                                                  TOTAL DUE:           72.28

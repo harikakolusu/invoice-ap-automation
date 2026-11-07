@@ -1,0 +1,19 @@
+Vertex Systems Ltd
+Tax ID: 36-2282815
+Remit to: Accounts Receivable, Vertex Systems Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/17130
+Invoice Date:    February 16, 2026
+PO Number:       PO-2026-000231
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0005   USB-C Hub 7-port                    11       73.73  TX18       811.03
+
+                                                  Subtotal:           811.03
+                                                  Tax:                145.99
+                                                  TOTAL DUE:          957.02

@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice QUAN-12293 from Quanta Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Equipment Pvt Ltd
+Vendor Tax ID: 53-2936937
+Invoice #: QUAN-12293
+Invoice Date (DD/MM/YYYY): 16/06/2026
+Purchase Order: PO-2026-000079
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0001 | Drinking Water 20L | qty 118 | @ $3.54 | TX05 | $417.72
+
+Subtotal: $417.72
+Tax: $20.89
+Amount Due: $438.61
+
+Regards,
+Billing Team

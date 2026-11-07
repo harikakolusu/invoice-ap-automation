@@ -1,0 +1,20 @@
+Sierra Industrial Supply Ltd
+Tax ID: 12-4023336
+Remit to: Accounts Receivable, Sierra Industrial Supply Ltd
+
+                                INVOICE
+Invoice No:      010274
+Invoice Date:    February 21, 2026
+PO Number:       PO-2026-000114
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0004   Toner Cartridge BK                  26        3.50  TX12        91.00
+ 2  SKU-MRO-0008   Air Filter Panel                   230        8.07  TX18     1,856.10
+
+                                                  Subtotal:         1,947.10
+                                                  Tax:                345.02
+                                                  TOTAL DUE:        2,292.12

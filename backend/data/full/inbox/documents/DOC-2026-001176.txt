@@ -1,0 +1,23 @@
+From: billing@monarch.example
+To: ap-inbox@buyer.example
+Subject: Invoice 009192 from Monarch Equipment GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Monarch Equipment GmbH
+Vendor Tax ID: 76-7485142
+Invoice #: 009192
+Invoice Date (DD/MM/YYYY): 30/05/2026
+Purchase Order: PO-2026-000990
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 8 | @ $255.82 | TX18 | $2,046.56
+
+Subtotal: $2,046.56
+Tax: $368.38
+Amount Due: $2,414.94
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@monarch.example
+To: ap-inbox@buyer.example
+Subject: Invoice 009200 from Monarch Equipment GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Monarch Equipment GmbH
+Vendor Tax ID: 76-7485142
+Invoice #: 009200
+Invoice Date (DD/MM/YYYY): 02/08/2026
+Purchase Order: PO-2026-001410
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 15 | @ $6.19 | TX18 | $92.85
+
+Subtotal: $92.85
+Tax: $16.71
+Amount Due: $109.56
+
+Regards,
+Billing Team

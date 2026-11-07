@@ -1,0 +1,23 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice SUMM-29643 from Summit Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Trading Co.
+Vendor Tax ID: 87-3797160
+Invoice #: SUMM-29643
+Invoice Date (DD/MM/YYYY): 05/08/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0002 | Equipment Maintenance | qty 1 | @ $481.98 | TX18 | $481.98
+
+Subtotal: $481.98
+Tax: $86.76
+Amount Due: $568.74
+
+Regards,
+Billing Team

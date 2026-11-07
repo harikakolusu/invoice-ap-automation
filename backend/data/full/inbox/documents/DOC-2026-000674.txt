@@ -1,0 +1,25 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice 032511 from Nimbus Systems LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Systems LLC
+Vendor Tax ID: 13-7618320
+Invoice #: 032511
+Invoice Date (DD/MM/YYYY): 02/04/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0004 | Legal Advisory Hour | qty 1 | @ $909.60 | TX18 | $909.60
+- SKU-SRV-0001 | IT Consulting Hour | qty 1 | @ $900.27 | TX18 | $900.27
+- SKU-SRV-0006 | Freight Charges | qty 3 | @ $256.05 | TX18 | $768.15
+
+Subtotal: $2,578.02
+Tax: $464.05
+Amount Due: $3,042.07
+
+Regards,
+Billing Team

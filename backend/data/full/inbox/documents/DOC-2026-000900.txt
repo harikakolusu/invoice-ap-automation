@@ -1,0 +1,19 @@
+Delta Polymers Ltd
+Tax ID: 34-5330370
+Remit to: Accounts Receivable, Delta Polymers Ltd
+
+                                INVOICE
+Invoice No:      031187
+Invoice Date:    2026-04-29
+PO Number:       PO-2026-000719
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0006   File Folders 50pk                   43       80.39  TX12     3,456.77
+
+                                                  Subtotal:         3,456.77
+                                                  Tax:                414.81
+                                                  TOTAL DUE:        3,871.58

@@ -1,0 +1,25 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice 050069 from Keystone Polymers Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Polymers Co.
+Vendor Tax ID: 76-5656738
+Invoice #: 050069
+Invoice Date (DD/MM/YYYY): 07/04/2026
+Purchase Order: PO-2026-000613
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 39 | @ $64.12 | TX05 | $2,500.68
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 14 | @ $145.13 | TX05 | $2,031.82
+- SKU-RAW-0006 | PP Granules 25kg | qty 20 | @ $324.91 | TX05 | $6,498.20
+
+Subtotal: $11,030.70
+Tax: $551.53
+Amount Due: $11,582.23
+
+Regards,
+Billing Team

@@ -1,0 +1,24 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice QUAN-12290 from Quanta Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Equipment Pvt Ltd
+Vendor Tax ID: 53-2936937
+Invoice #: QUAN-12290
+Invoice Date (DD/MM/YYYY): 08/06/2026
+Purchase Order: PO-2026-000079
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0001 | Drinking Water 20L | qty 66 | @ $3.54 | TX05 | $233.64
+- SKU-MRO-0006 | Welding Rods 5kg | qty 11 | @ $9.09 | TX18 | $99.99
+
+Subtotal: $333.63
+Tax: $29.68
+Amount Due: $363.31
+
+Regards,
+Billing Team

@@ -1,0 +1,24 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 052026 from Glacier Industrial Supply GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Industrial Supply GmbH
+Vendor Tax ID: 89-9782441
+Invoice #: 052026
+Invoice Date (DD/MM/YYYY): 21/03/2026
+Purchase Order: PO-2026-000025
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 66 | @ $6.04 | TX18 | $398.64
+- SKU-FAC-0006 | Trash Bags 100pk | qty 51 | @ $15.46 | TX05 | $788.46
+
+Subtotal: $1,187.10
+Tax: $111.18
+Amount Due: $1,298.28
+
+Regards,
+Billing Team

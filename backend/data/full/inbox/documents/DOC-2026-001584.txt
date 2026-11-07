@@ -1,0 +1,23 @@
+From: billing@ironwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice IRON-33861 from Ironwood Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Ironwood Equipment Pvt Ltd
+Vendor Tax ID: 85-8745788
+Invoice #: IRON-33861
+Invoice Date (DD/MM/YYYY): 07/07/2026
+Purchase Order: PO-2026-001114
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 19 | @ $52.19 | TX18 | $991.61
+
+Subtotal: $991.61
+Tax: $178.49
+Amount Due: $1,170.10
+
+Regards,
+Billing Team

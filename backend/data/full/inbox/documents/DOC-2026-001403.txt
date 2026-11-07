@@ -1,0 +1,19 @@
+Unity Materials GmbH
+Tax ID: 98-3943621
+Remit to: Accounts Receivable, Unity Materials GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/44555
+Invoice Date:    2026-06-22
+PO Number:       PO-2026-001090
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0003   Copper Wire 2.5mm                   18      155.03  TX05     2,790.54
+
+                                                  Subtotal:         2,790.54
+                                                  Tax:                139.53
+                                                  TOTAL DUE:        2,930.07

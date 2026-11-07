@@ -1,0 +1,20 @@
+Unity Materials GmbH
+Tax ID: 98-3943621
+Remit to: Accounts Receivable, Unity Materials GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/44538
+Invoice Date:    2026-03-18
+PO Number:       PO-2026-000459
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0006   PP Granules 25kg                    52      300.84  TX05    15,643.68
+ 2  SKU-ITH-0005   USB-C Hub 7-port                    18       56.38  TX18     1,014.84
+
+                                                  Subtotal:        16,658.52
+                                                  Tax:                964.85
+                                                  TOTAL DUE:       17,623.37

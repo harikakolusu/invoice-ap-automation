@@ -1,0 +1,26 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017145 from Horizon Tech Components Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Tech Components Co.
+Vendor Tax ID: 82-2670433
+Invoice #: 017145
+Invoice Date (DD/MM/YYYY): 26/07/2026
+Purchase Order: PO-2026-001147
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 4 | @ $52.57 | TX18 | $210.28
+- SKU-ITH-0008 | Server RAM 32GB | qty 1 | @ $69.30 | TX18 | $69.30
+- SKU-ITH-0004 | Wireless Keyboard | qty 3 | @ $48.19 | TX18 | $144.57
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 17 | @ $68.80 | TX18 | $1,169.60
+
+Subtotal: $1,593.75
+Tax: $286.87
+Amount Due: $1,880.62
+
+Regards,
+Billing Team

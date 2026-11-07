@@ -1,0 +1,23 @@
+From: billing@lumen.example
+To: ap-inbox@buyer.example
+Subject: Invoice LUME-58043 from Lumen Logistics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lumen Logistics Pvt Ltd
+Vendor Tax ID: 28-6404535
+Invoice #: LUME-58043
+Invoice Date (DD/MM/YYYY): 10/05/2026
+Purchase Order: PO-2026-000674
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 71 | @ $8.50 | TX12 | $603.50
+
+Subtotal: $603.50
+Tax: $72.42
+Amount Due: $675.92
+
+Regards,
+Billing Team

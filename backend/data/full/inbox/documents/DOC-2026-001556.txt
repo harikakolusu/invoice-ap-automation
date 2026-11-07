@@ -1,0 +1,23 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10213 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10213
+Invoice Date (DD/MM/YYYY): 02/07/2026
+Purchase Order: PO-2026-001231
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 7 | @ $8.38 | TX18 | $58.66
+
+Subtotal: $58.66
+Tax: $10.56
+Amount Due: $69.22
+
+Regards,
+Billing Team

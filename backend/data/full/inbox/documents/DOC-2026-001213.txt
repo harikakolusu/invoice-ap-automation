@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/44186 from Silver Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Industrial Supply Ltd
+Vendor Tax ID: 26-5859665
+Invoice #: INV/2026/44186
+Invoice Date (DD/MM/YYYY): 03/06/2026
+Purchase Order: PO-2026-000898
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0004 | Wireless Keyboard | qty 11 | @ $43.51 | TX18 | $478.61
+
+Subtotal: $478.61
+Tax: $86.15
+Amount Due: $564.76
+
+Regards,
+Billing Team

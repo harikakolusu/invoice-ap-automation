@@ -1,0 +1,19 @@
+Falcon Materials LLC
+Tax ID: 88-1483266
+Remit to: Accounts Receivable, Falcon Materials LLC
+
+                                INVOICE
+Invoice No:      FALC-59328
+Invoice Date:    2026-07-07
+PO Number:       PO-2026-001125
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0001   Steel Sheet 2mm                    230        8.37  TX05     1,925.10
+
+                                                  Subtotal:         1,925.10
+                                                  Tax:                 96.26
+                                                  TOTAL DUE:        2,021.36

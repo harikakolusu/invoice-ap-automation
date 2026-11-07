@@ -1,0 +1,19 @@
+Silver Electronics LLC
+Tax ID: 89-5727189
+Remit to: Accounts Receivable, Silver Electronics LLC
+
+                                INVOICE
+Invoice No:      043028
+Invoice Date:    2026-02-23
+PO Number:       PO-2026-000121
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0007   SSD 1TB NVMe                         2       50.93  TX18       101.86
+
+                                                  Subtotal:           101.86
+                                                  Tax:                 18.33
+                                                  TOTAL DUE:          120.19

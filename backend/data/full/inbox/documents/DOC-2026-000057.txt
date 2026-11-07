@@ -1,0 +1,19 @@
+Kestrel Packaging Co.
+Tax ID: 48-8487768
+Remit to: Accounts Receivable, Kestrel Packaging Co.
+
+                                INVOICE
+Invoice No:      003750
+Invoice Date:    2026-01-31
+PO Number:       PO-2026-000057
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0005   USB-C Hub 7-port                     7       54.43  TX18       381.01
+
+                                                  Subtotal:           381.01
+                                                  Tax:                 68.58
+                                                  TOTAL DUE:          449.59

@@ -1,0 +1,26 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice 050055 from Keystone Polymers Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Polymers Co.
+Vendor Tax ID: 76-5656738
+Invoice #: 050055
+Invoice Date (DD/MM/YYYY): 23/03/2026
+Purchase Order: PO-2026-000405
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0004 | Paper Towels Case | qty 41 | @ $13.83 | TX05 | $567.03
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 54 | @ $5.49 | TX05 | $296.46
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 45 | @ $3.83 | TX05 | $172.35
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 424 | @ $7.95 | TX05 | $3,370.80
+
+Subtotal: $4,406.64
+Tax: $220.33
+Amount Due: $4,626.97
+
+Regards,
+Billing Team

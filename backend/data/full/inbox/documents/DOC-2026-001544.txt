@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054366 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054366
+Invoice Date (DD/MM/YYYY): 29/06/2026
+Purchase Order: PO-2026-001072
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 27 | @ $47.77 | TX18 | $1,289.79
+
+Subtotal: $1,289.79
+Tax: $232.16
+Amount Due: $1,521.95
+
+Regards,
+Billing Team

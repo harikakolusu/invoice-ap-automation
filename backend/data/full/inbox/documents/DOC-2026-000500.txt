@@ -1,0 +1,24 @@
+From: billing@pinnacle.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/20441 from Pinnacle Materials LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Pinnacle Materials LLC
+Vendor Tax ID: 23-4525947
+Invoice #: INV/2026/20441
+Invoice Date (DD/MM/YYYY): 16/03/2026
+Purchase Order: PO-2026-000399
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 13 | @ $4.06 | TX05 | $52.78
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 226 | @ $21.05 | TX12 | $4,757.30
+
+Subtotal: $4,810.08
+Tax: $573.52
+Amount Due: $5,383.60
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Pinnacle Tech Components Pvt Ltd
+Tax ID: 24-4574254
+Remit to: Accounts Receivable, Pinnacle Tech Components Pvt Ltd
+
+                                INVOICE
+Invoice No:      PINN-42699
+Invoice Date:    April 5, 2026
+PO Number:       PO-2026-000463
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0009   Wi-Fi Access Point                  22       30.42  TX18       669.24
+
+                                                  Subtotal:           669.24
+                                                  Tax:                120.46
+                                                  TOTAL DUE:          789.70

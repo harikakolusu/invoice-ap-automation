@@ -1,0 +1,347 @@
+{
+ "acceptance_criteria": [
+  {
+   "criterion": "Extracted fields match source",
+   "status": "PASS",
+   "evidence": "document exact match 100.00%"
+  },
+  {
+   "criterion": "Line arithmetic and tax reconcile (mismatches caught)",
+   "status": "PASS",
+   "evidence": "TOTAL_MISMATCH recall 1.0, TAX_MISMATCH recall 1.0"
+  },
+  {
+   "criterion": "Duplicate detection flags the correct pair",
+   "status": "PASS",
+   "evidence": "pair accuracy 100.00%, precision 100.00%"
+  },
+  {
+   "criterion": "Three-way match and approval outcome agree with policy",
+   "status": "PASS",
+   "evidence": "match 100.00%, exception 100.00%, approval 100.00%"
+  },
+  {
+   "criterion": "No blocked invoice is marked payment-ready",
+   "status": "PASS",
+   "evidence": "unsafe releases = 0"
+  }
+ ],
+ "extraction": {
+  "documents": 200,
+  "document_exact_match_rate": 1.0,
+  "header_field_accuracy": {
+   "invoice_id": 1.0,
+   "vendor": 1.0,
+   "vendor_invoice_number": 1.0,
+   "invoice_date": 1.0,
+   "po_number": 1.0,
+   "currency": 1.0,
+   "payment_terms": 1.0,
+   "subtotal": 1.0,
+   "tax_amount": 1.0,
+   "stated_total": 1.0,
+   "line_count": 1.0
+  },
+  "line_field_accuracy": {
+   "sku": 1.0,
+   "description": 1.0,
+   "quantity": 1.0,
+   "unit_price": 1.0,
+   "tax_code": 1.0,
+   "line_amount": 1.0
+  },
+  "lines_evaluated": 271,
+  "exact_match_by_layout": {
+   "CLASSIC": {
+    "documents": 59,
+    "exact_match_rate": 1.0
+   },
+   "EDI": {
+    "documents": 74,
+    "exact_match_rate": 1.0
+   },
+   "EMAIL": {
+    "documents": 67,
+    "exact_match_rate": 1.0
+   }
+  }
+ },
+ "decisions": {
+  "primary_exception_accuracy": 1.0,
+  "macro_f1": 1.0,
+  "per_exception": {
+   "DATE_BEFORE_PO": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+   },
+   "DUPLICATE_INVOICE": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 10
+   },
+   "MISSING_RECEIPT": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 8
+   },
+   "NONE": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 140
+   },
+   "PRICE_VARIANCE": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 20
+   },
+   "QTY_EXCEEDS_PO": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 8
+   },
+   "QTY_EXCEEDS_RECEIPT": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 8
+   },
+   "TAX_MISMATCH": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 2
+   },
+   "TOTAL_MISMATCH": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 1
+   },
+   "VENDOR_CLOSED": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 2
+   }
+  },
+  "confusion_matrix_gold_to_pred": {
+   "DATE_BEFORE_PO": {
+    "DATE_BEFORE_PO": 1
+   },
+   "DUPLICATE_INVOICE": {
+    "DUPLICATE_INVOICE": 10
+   },
+   "MISSING_RECEIPT": {
+    "MISSING_RECEIPT": 8
+   },
+   "NONE": {
+    "NONE": 140
+   },
+   "PRICE_VARIANCE": {
+    "PRICE_VARIANCE": 20
+   },
+   "QTY_EXCEEDS_PO": {
+    "QTY_EXCEEDS_PO": 8
+   },
+   "QTY_EXCEEDS_RECEIPT": {
+    "QTY_EXCEEDS_RECEIPT": 8
+   },
+   "TAX_MISMATCH": {
+    "TAX_MISMATCH": 2
+   },
+   "TOTAL_MISMATCH": {
+    "TOTAL_MISMATCH": 1
+   },
+   "VENDOR_CLOSED": {
+    "VENDOR_CLOSED": 2
+   }
+  },
+  "match_status_accuracy": 1.0,
+  "final_status_accuracy": 1.0,
+  "route_queue_accuracy": 1.0,
+  "approval_path_accuracy": 1.0,
+  "accuracy_by_scenario": {
+   "CLEAN_FULL": {
+    "invoices": 53,
+    "fully_correct_rate": 1.0
+   },
+   "CLEAN_NON_PO": {
+    "invoices": 6,
+    "fully_correct_rate": 1.0
+   },
+   "CLEAN_OVER_RECEIPT_WITHIN_TOL": {
+    "invoices": 4,
+    "fully_correct_rate": 1.0
+   },
+   "CLEAN_PARTIAL_DELIVERY": {
+    "invoices": 8,
+    "fully_correct_rate": 1.0
+   },
+   "CLEAN_PRICE_WITHIN_TOL": {
+    "invoices": 8,
+    "fully_correct_rate": 1.0
+   },
+   "CLEAN_SPLIT_DELIVERY": {
+    "invoices": 61,
+    "fully_correct_rate": 1.0
+   },
+   "CLOSED_VENDOR": {
+    "invoices": 2,
+    "fully_correct_rate": 1.0
+   },
+   "DATE_BEFORE_PO": {
+    "invoices": 1,
+    "fully_correct_rate": 1.0
+   },
+   "DUPLICATE_NUMBER": {
+    "invoices": 4,
+    "fully_correct_rate": 1.0
+   },
+   "DUPLICATE_RESUBMISSION": {
+    "invoices": 6,
+    "fully_correct_rate": 1.0
+   },
+   "MISSING_RECEIPT": {
+    "invoices": 8,
+    "fully_correct_rate": 1.0
+   },
+   "PRICE_VARIANCE": {
+    "invoices": 20,
+    "fully_correct_rate": 1.0
+   },
+   "QTY_EXCEEDS_PO": {
+    "invoices": 8,
+    "fully_correct_rate": 1.0
+   },
+   "QTY_EXCEEDS_RECEIPT": {
+    "invoices": 8,
+    "fully_correct_rate": 1.0
+   },
+   "TAX_MISMATCH": {
+    "invoices": 2,
+    "fully_correct_rate": 1.0
+   },
+   "TOTAL_MISMATCH": {
+    "invoices": 1,
+    "fully_correct_rate": 1.0
+   }
+  }
+ },
+ "duplicates": {
+  "labelled_duplicates": 10,
+  "flagged": 10,
+  "precision": 1.0,
+  "recall": 1.0,
+  "correct_pair_rate": 1.0,
+  "by_variant": {
+   "DUPLICATE_RESUBMISSION": 6,
+   "DUPLICATE_NUMBER": 4
+  }
+ },
+ "payment_safety": {
+  "unsafe_releases_blocked_but_payment_ready": 0,
+  "false_holds_clean_but_blocked": 0,
+  "sample_unsafe": [],
+  "sample_false_holds": []
+ },
+ "kpis": {
+  "invoices_processed": 200,
+  "payment_ready": 140,
+  "on_hold": 60,
+  "payment_ready_rate": 0.7,
+  "touchless_rate_auto_approved": 0.51,
+  "exception_rate": 0.3,
+  "value_payment_ready_usd": 1042117.71,
+  "value_on_hold_usd": 1092760.49,
+  "exceptions_raised_total": 60,
+  "exceptions_by_code": {
+   "DATE_BEFORE_PO": 1,
+   "PRICE_VARIANCE": 20,
+   "MISSING_RECEIPT": 8,
+   "DUPLICATE_INVOICE": 10,
+   "QTY_EXCEEDS_RECEIPT": 8,
+   "TAX_MISMATCH": 2,
+   "QTY_EXCEEDS_PO": 8,
+   "TOTAL_MISMATCH": 1,
+   "VENDOR_CLOSED": 2
+  },
+  "primary_exceptions_by_code": {
+   "DATE_BEFORE_PO": 1,
+   "PRICE_VARIANCE": 20,
+   "MISSING_RECEIPT": 8,
+   "DUPLICATE_INVOICE": 10,
+   "QTY_EXCEEDS_RECEIPT": 8,
+   "TAX_MISMATCH": 2,
+   "QTY_EXCEEDS_PO": 8,
+   "TOTAL_MISMATCH": 1,
+   "VENDOR_CLOSED": 2
+  },
+  "queue_workload": {
+   "AP_OPERATIONS": {
+    "invoices": 12,
+    "value_usd": 69358.51
+   },
+   "PROCUREMENT_REVIEW": {
+    "invoices": 28,
+    "value_usd": 246791.28
+   },
+   "RECEIVING_CONFIRMATION": {
+    "invoices": 16,
+    "value_usd": 774762.97
+   },
+   "TAX_REVIEW": {
+    "invoices": 2,
+    "value_usd": 1278.62
+   },
+   "VENDOR_MASTER": {
+    "invoices": 2,
+    "value_usd": 569.11
+   }
+  },
+  "approval_path_mix": {
+   "AUTO": 102,
+   "L1": 26,
+   "L1>L2": 12
+  },
+  "cycle_time_hours_to_payment_ready": {
+   "mean": 3.27,
+   "median": 0.1,
+   "p95": 24.12
+  },
+  "invoice_value_usd": {
+   "min": 21.7,
+   "p05": 79.6,
+   "median": 1297.16,
+   "p95": 58934.67,
+   "max": 194100.82
+  },
+  "channel_mix": {
+   "PDF_UPLOAD": 59,
+   "EMAIL": 67,
+   "EDI": 74
+  },
+  "issue_mix_actual": {
+   "TAX_VENDOR_ERROR": 0.03,
+   "CLEAN": 0.7,
+   "PRICE_VARIANCE": 0.1,
+   "MISSING_RECEIPT": 0.04,
+   "DUPLICATE": 0.05,
+   "QTY_MISMATCH": 0.08
+  },
+  "issue_mix_target": {
+   "CLEAN": 0.7,
+   "PRICE_VARIANCE": 0.1,
+   "QTY_MISMATCH": 0.08,
+   "DUPLICATE": 0.05,
+   "MISSING_RECEIPT": 0.04,
+   "TAX_VENDOR_ERROR": 0.03
+  }
+ }
+}

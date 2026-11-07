@@ -1,0 +1,23 @@
+From: billing@westbrook.example
+To: ap-inbox@buyer.example
+Subject: Invoice 002026 from Westbrook Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Westbrook Electronics GmbH
+Vendor Tax ID: 37-3300059
+Invoice #: 002026
+Invoice Date (DD/MM/YYYY): 30/04/2026
+Purchase Order: PO-2026-000734
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 104 | @ $7.85 | TX12 | $816.40
+
+Subtotal: $816.40
+Tax: $97.97
+Amount Due: $914.37
+
+Regards,
+Billing Team

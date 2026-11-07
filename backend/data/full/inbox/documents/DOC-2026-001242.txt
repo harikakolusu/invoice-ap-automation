@@ -1,0 +1,24 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/44191 from Silver Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Industrial Supply Ltd
+Vendor Tax ID: 26-5859665
+Invoice #: INV/2026/44191
+Invoice Date (DD/MM/YYYY): 03/06/2026
+Purchase Order: PO-2026-001012
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0006 | Network Switch 24P | qty 4 | @ $345.97 | TX18 | $1,383.88
+- SKU-ITH-0001 | Laptop 14in i7 | qty 5 | @ $59.47 | TX18 | $297.35
+
+Subtotal: $1,681.23
+Tax: $302.62
+Amount Due: $1,983.85
+
+Regards,
+Billing Team

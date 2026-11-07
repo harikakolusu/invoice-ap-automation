@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/55037 from Helios Materials Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Materials Pvt Ltd
+Vendor Tax ID: 18-1136223
+Invoice #: INV/2026/55037
+Invoice Date (DD/MM/YYYY): 11/07/2026
+Purchase Order: PO-2026-001003
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0004 | Wireless Keyboard | qty 6 | @ $49.10 | TX18 | $294.60
+
+Subtotal: $294.60
+Tax: $53.03
+Amount Due: $347.63
+
+Regards,
+Billing Team

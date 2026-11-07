@@ -1,0 +1,19 @@
+Unity Equipment Inc.
+Tax ID: 97-1490580
+Remit to: Accounts Receivable, Unity Equipment Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/59372
+Invoice Date:    August 7, 2026
+PO Number:       PO-2026-001347
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0004   V-Belt A42                          43       48.80  TX18     2,098.40
+
+                                                  Subtotal:         2,098.40
+                                                  Tax:                377.71
+                                                  TOTAL DUE:        2,476.11

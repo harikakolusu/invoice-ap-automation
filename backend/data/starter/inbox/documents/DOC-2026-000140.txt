@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice STRA-49924 from Strata Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Packaging Pvt Ltd
+Vendor Tax ID: 81-6152392
+Invoice #: STRA-49924
+Invoice Date (DD/MM/YYYY): 28/06/2026
+Purchase Order: PO-2026-000086
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 1020 | @ $1.33 | TX12 | $1,356.60
+
+Subtotal: $1,356.60
+Tax: $162.79
+Amount Due: $1,519.39
+
+Regards,
+Billing Team

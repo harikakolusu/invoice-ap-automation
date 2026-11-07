@@ -1,0 +1,23 @@
+From: billing@frontier.example
+To: ap-inbox@buyer.example
+Subject: Invoice FRON-28344 from Frontier Metals GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Frontier Metals GmbH
+Vendor Tax ID: 50-2879942
+Invoice #: FRON-28344
+Invoice Date (DD/MM/YYYY): 17/02/2026
+Purchase Order: PO-2026-000066
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 433 | @ $8.56 | TX12 | $3,706.48
+
+Subtotal: $3,706.48
+Tax: $444.78
+Amount Due: $4,151.26
+
+Regards,
+Billing Team

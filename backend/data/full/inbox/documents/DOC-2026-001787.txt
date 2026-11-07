@@ -1,0 +1,25 @@
+From: billing@harbor.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/26498 from Harbor Office Solutions Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Harbor Office Solutions Inc.
+Vendor Tax ID: 80-1964520
+Invoice #: INV/2026/26498
+Invoice Date (DD/MM/YYYY): 26/07/2026
+Purchase Order: PO-2026-001229
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 83 | @ $9.00 | TX18 | $747.00
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 8 | @ $4.94 | TX18 | $39.52
+- SKU-MRO-0008 | Air Filter Panel | qty 5 | @ $8.14 | TX18 | $40.70
+
+Subtotal: $827.22
+Tax: $148.90
+Amount Due: $976.12
+
+Regards,
+Billing Team

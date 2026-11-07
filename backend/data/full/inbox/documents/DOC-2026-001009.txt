@@ -1,0 +1,23 @@
+From: billing@ironwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice IRON-33822 from Ironwood Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Ironwood Equipment Pvt Ltd
+Vendor Tax ID: 85-8745788
+Invoice #: IRON-33822
+Invoice Date (DD/MM/YYYY): 11/05/2026
+Purchase Order: PO-2026-000812
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0001 | Drinking Water 20L | qty 22 | @ $3.54 | TX05 | $77.88
+
+Subtotal: $77.88
+Tax: $3.89
+Amount Due: $81.77
+
+Regards,
+Billing Team

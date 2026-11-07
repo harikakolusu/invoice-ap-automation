@@ -1,0 +1,19 @@
+Keystone Logistics GmbH
+Tax ID: 63-5629931
+Remit to: Accounts Receivable, Keystone Logistics GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/27714
+Invoice Date:    2026-06-07
+PO Number:       PO-2026-000843
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0010   Rack UPS 3kVA                        9       29.91  TX18       269.19
+
+                                                  Subtotal:           269.19
+                                                  Tax:                 48.45
+                                                  TOTAL DUE:          317.64

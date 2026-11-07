@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-17221 from Horizon Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Electronics GmbH
+Vendor Tax ID: 54-0965743
+Invoice #: HORI-17221
+Invoice Date (DD/MM/YYYY): 07/04/2026
+Purchase Order: PO-2026-000500
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0007 | Desk Organizer | qty 3 | @ $86.26 | TX18 | $258.78
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 5 | @ $59.97 | TX18 | $299.85
+
+Subtotal: $558.63
+Tax: $100.55
+Amount Due: $659.18
+
+Regards,
+Billing Team

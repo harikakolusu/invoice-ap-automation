@@ -1,0 +1,1262 @@
+[
+ {
+  "grn_id": "GRN-2026-000001",
+  "po_id": "PO-2026-000001",
+  "receipt_date": "2026-01-17",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000002",
+  "po_id": "PO-2026-000003",
+  "receipt_date": "2026-01-30",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000003",
+  "po_id": "PO-2026-000004",
+  "receipt_date": "2026-02-01",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000004",
+  "po_id": "PO-2026-000006",
+  "receipt_date": "2026-02-01",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000005",
+  "po_id": "PO-2026-000013",
+  "receipt_date": "2026-02-01",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000006",
+  "po_id": "PO-2026-000002",
+  "receipt_date": "2026-02-04",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000007",
+  "po_id": "PO-2026-000008",
+  "receipt_date": "2026-02-05",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000008",
+  "po_id": "PO-2026-000010",
+  "receipt_date": "2026-02-05",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000009",
+  "po_id": "PO-2026-000009",
+  "receipt_date": "2026-02-06",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000010",
+  "po_id": "PO-2026-000005",
+  "receipt_date": "2026-02-07",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000011",
+  "po_id": "PO-2026-000006",
+  "receipt_date": "2026-02-08",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000012",
+  "po_id": "PO-2026-000007",
+  "receipt_date": "2026-02-10",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000013",
+  "po_id": "PO-2026-000001",
+  "receipt_date": "2026-02-11",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000014",
+  "po_id": "PO-2026-000011",
+  "receipt_date": "2026-02-15",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000015",
+  "po_id": "PO-2026-000021",
+  "receipt_date": "2026-02-17",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000016",
+  "po_id": "PO-2026-000022",
+  "receipt_date": "2026-02-17",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000017",
+  "po_id": "PO-2026-000005",
+  "receipt_date": "2026-02-19",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000018",
+  "po_id": "PO-2026-000014",
+  "receipt_date": "2026-02-19",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000019",
+  "po_id": "PO-2026-000013",
+  "receipt_date": "2026-02-21",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000020",
+  "po_id": "PO-2026-000020",
+  "receipt_date": "2026-02-21",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000021",
+  "po_id": "PO-2026-000015",
+  "receipt_date": "2026-02-22",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000022",
+  "po_id": "PO-2026-000010",
+  "receipt_date": "2026-02-23",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000023",
+  "po_id": "PO-2026-000019",
+  "receipt_date": "2026-02-23",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000024",
+  "po_id": "PO-2026-000024",
+  "receipt_date": "2026-02-24",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000025",
+  "po_id": "PO-2026-000018",
+  "receipt_date": "2026-02-27",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000026",
+  "po_id": "PO-2026-000031",
+  "receipt_date": "2026-02-27",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000027",
+  "po_id": "PO-2026-000016",
+  "receipt_date": "2026-03-03",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000028",
+  "po_id": "PO-2026-000029",
+  "receipt_date": "2026-03-06",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000029",
+  "po_id": "PO-2026-000019",
+  "receipt_date": "2026-03-07",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000030",
+  "po_id": "PO-2026-000017",
+  "receipt_date": "2026-03-08",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000031",
+  "po_id": "PO-2026-000028",
+  "receipt_date": "2026-03-08",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000032",
+  "po_id": "PO-2026-000036",
+  "receipt_date": "2026-03-08",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000033",
+  "po_id": "PO-2026-000039",
+  "receipt_date": "2026-03-11",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000034",
+  "po_id": "PO-2026-000023",
+  "receipt_date": "2026-03-13",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000035",
+  "po_id": "PO-2026-000027",
+  "receipt_date": "2026-03-13",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000036",
+  "po_id": "PO-2026-000026",
+  "receipt_date": "2026-03-14",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000037",
+  "po_id": "PO-2026-000033",
+  "receipt_date": "2026-03-16",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000038",
+  "po_id": "PO-2026-000046",
+  "receipt_date": "2026-03-16",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000039",
+  "po_id": "PO-2026-000041",
+  "receipt_date": "2026-03-17",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000040",
+  "po_id": "PO-2026-000025",
+  "receipt_date": "2026-03-18",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000041",
+  "po_id": "PO-2026-000030",
+  "receipt_date": "2026-03-18",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000042",
+  "po_id": "PO-2026-000045",
+  "receipt_date": "2026-03-18",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000043",
+  "po_id": "PO-2026-000024",
+  "receipt_date": "2026-03-19",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000044",
+  "po_id": "PO-2026-000034",
+  "receipt_date": "2026-03-19",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000045",
+  "po_id": "PO-2026-000032",
+  "receipt_date": "2026-03-20",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000046",
+  "po_id": "PO-2026-000035",
+  "receipt_date": "2026-03-21",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000047",
+  "po_id": "PO-2026-000029",
+  "receipt_date": "2026-03-24",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000048",
+  "po_id": "PO-2026-000040",
+  "receipt_date": "2026-03-24",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000049",
+  "po_id": "PO-2026-000049",
+  "receipt_date": "2026-03-26",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000050",
+  "po_id": "PO-2026-000028",
+  "receipt_date": "2026-03-27",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000051",
+  "po_id": "PO-2026-000042",
+  "receipt_date": "2026-03-27",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000052",
+  "po_id": "PO-2026-000045",
+  "receipt_date": "2026-03-27",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000053",
+  "po_id": "PO-2026-000037",
+  "receipt_date": "2026-03-28",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000054",
+  "po_id": "PO-2026-000023",
+  "receipt_date": "2026-03-31",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000055",
+  "po_id": "PO-2026-000047",
+  "receipt_date": "2026-03-31",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000056",
+  "po_id": "PO-2026-000038",
+  "receipt_date": "2026-04-02",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000057",
+  "po_id": "PO-2026-000054",
+  "receipt_date": "2026-04-04",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000058",
+  "po_id": "PO-2026-000044",
+  "receipt_date": "2026-04-05",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000059",
+  "po_id": "PO-2026-000053",
+  "receipt_date": "2026-04-07",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000060",
+  "po_id": "PO-2026-000043",
+  "receipt_date": "2026-04-08",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000061",
+  "po_id": "PO-2026-000050",
+  "receipt_date": "2026-04-10",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000062",
+  "po_id": "PO-2026-000035",
+  "receipt_date": "2026-04-11",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000063",
+  "po_id": "PO-2026-000056",
+  "receipt_date": "2026-04-14",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000064",
+  "po_id": "PO-2026-000048",
+  "receipt_date": "2026-04-16",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000065",
+  "po_id": "PO-2026-000052",
+  "receipt_date": "2026-04-17",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000066",
+  "po_id": "PO-2026-000055",
+  "receipt_date": "2026-04-21",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000067",
+  "po_id": "PO-2026-000062",
+  "receipt_date": "2026-04-24",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000068",
+  "po_id": "PO-2026-000057",
+  "receipt_date": "2026-04-26",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000069",
+  "po_id": "PO-2026-000066",
+  "receipt_date": "2026-04-26",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000070",
+  "po_id": "PO-2026-000060",
+  "receipt_date": "2026-04-27",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000071",
+  "po_id": "PO-2026-000050",
+  "receipt_date": "2026-05-01",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000072",
+  "po_id": "PO-2026-000048",
+  "receipt_date": "2026-05-02",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000073",
+  "po_id": "PO-2026-000072",
+  "receipt_date": "2026-05-02",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000074",
+  "po_id": "PO-2026-000071",
+  "receipt_date": "2026-05-03",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000075",
+  "po_id": "PO-2026-000074",
+  "receipt_date": "2026-05-03",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000076",
+  "po_id": "PO-2026-000069",
+  "receipt_date": "2026-05-04",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000077",
+  "po_id": "PO-2026-000059",
+  "receipt_date": "2026-05-07",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000078",
+  "po_id": "PO-2026-000065",
+  "receipt_date": "2026-05-10",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000079",
+  "po_id": "PO-2026-000058",
+  "receipt_date": "2026-05-11",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000080",
+  "po_id": "PO-2026-000059",
+  "receipt_date": "2026-05-15",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000081",
+  "po_id": "PO-2026-000077",
+  "receipt_date": "2026-05-17",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000082",
+  "po_id": "PO-2026-000084",
+  "receipt_date": "2026-05-17",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000083",
+  "po_id": "PO-2026-000073",
+  "receipt_date": "2026-05-18",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000084",
+  "po_id": "PO-2026-000068",
+  "receipt_date": "2026-05-20",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000085",
+  "po_id": "PO-2026-000080",
+  "receipt_date": "2026-05-20",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000086",
+  "po_id": "PO-2026-000083",
+  "receipt_date": "2026-05-21",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000087",
+  "po_id": "PO-2026-000065",
+  "receipt_date": "2026-05-22",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000088",
+  "po_id": "PO-2026-000070",
+  "receipt_date": "2026-05-22",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000089",
+  "po_id": "PO-2026-000067",
+  "receipt_date": "2026-05-23",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000090",
+  "po_id": "PO-2026-000087",
+  "receipt_date": "2026-05-23",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000091",
+  "po_id": "PO-2026-000081",
+  "receipt_date": "2026-05-25",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000092",
+  "po_id": "PO-2026-000078",
+  "receipt_date": "2026-05-26",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000093",
+  "po_id": "PO-2026-000088",
+  "receipt_date": "2026-05-26",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000094",
+  "po_id": "PO-2026-000090",
+  "receipt_date": "2026-05-27",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000095",
+  "po_id": "PO-2026-000076",
+  "receipt_date": "2026-05-29",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000096",
+  "po_id": "PO-2026-000077",
+  "receipt_date": "2026-05-29",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000097",
+  "po_id": "PO-2026-000075",
+  "receipt_date": "2026-05-30",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000098",
+  "po_id": "PO-2026-000096",
+  "receipt_date": "2026-05-30",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000099",
+  "po_id": "PO-2026-000068",
+  "receipt_date": "2026-06-02",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000100",
+  "po_id": "PO-2026-000079",
+  "receipt_date": "2026-06-02",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000101",
+  "po_id": "PO-2026-000086",
+  "receipt_date": "2026-06-03",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000102",
+  "po_id": "PO-2026-000085",
+  "receipt_date": "2026-06-04",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000103",
+  "po_id": "PO-2026-000082",
+  "receipt_date": "2026-06-06",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000104",
+  "po_id": "PO-2026-000095",
+  "receipt_date": "2026-06-10",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000105",
+  "po_id": "PO-2026-000083",
+  "receipt_date": "2026-06-11",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000106",
+  "po_id": "PO-2026-000084",
+  "receipt_date": "2026-06-11",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000107",
+  "po_id": "PO-2026-000099",
+  "receipt_date": "2026-06-11",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000108",
+  "po_id": "PO-2026-000102",
+  "receipt_date": "2026-06-11",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000109",
+  "po_id": "PO-2026-000104",
+  "receipt_date": "2026-06-11",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000110",
+  "po_id": "PO-2026-000107",
+  "receipt_date": "2026-06-12",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000111",
+  "po_id": "PO-2026-000088",
+  "receipt_date": "2026-06-13",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000112",
+  "po_id": "PO-2026-000093",
+  "receipt_date": "2026-06-14",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000113",
+  "po_id": "PO-2026-000079",
+  "receipt_date": "2026-06-15",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000114",
+  "po_id": "PO-2026-000092",
+  "receipt_date": "2026-06-16",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000115",
+  "po_id": "PO-2026-000089",
+  "receipt_date": "2026-06-17",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000116",
+  "po_id": "PO-2026-000094",
+  "receipt_date": "2026-06-17",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000117",
+  "po_id": "PO-2026-000097",
+  "receipt_date": "2026-06-17",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000118",
+  "po_id": "PO-2026-000091",
+  "receipt_date": "2026-06-18",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000119",
+  "po_id": "PO-2026-000098",
+  "receipt_date": "2026-06-19",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000120",
+  "po_id": "PO-2026-000099",
+  "receipt_date": "2026-06-20",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000121",
+  "po_id": "PO-2026-000101",
+  "receipt_date": "2026-06-20",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000122",
+  "po_id": "PO-2026-000109",
+  "receipt_date": "2026-06-21",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000123",
+  "po_id": "PO-2026-000103",
+  "receipt_date": "2026-06-22",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000124",
+  "po_id": "PO-2026-000110",
+  "receipt_date": "2026-06-23",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000125",
+  "po_id": "PO-2026-000086",
+  "receipt_date": "2026-06-25",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000126",
+  "po_id": "PO-2026-000106",
+  "receipt_date": "2026-06-26",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000127",
+  "po_id": "PO-2026-000116",
+  "receipt_date": "2026-06-26",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000128",
+  "po_id": "PO-2026-000126",
+  "receipt_date": "2026-06-28",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000129",
+  "po_id": "PO-2026-000111",
+  "receipt_date": "2026-06-30",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000130",
+  "po_id": "PO-2026-000119",
+  "receipt_date": "2026-06-30",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000131",
+  "po_id": "PO-2026-000120",
+  "receipt_date": "2026-07-01",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000132",
+  "po_id": "PO-2026-000100",
+  "receipt_date": "2026-07-02",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000133",
+  "po_id": "PO-2026-000112",
+  "receipt_date": "2026-07-02",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000134",
+  "po_id": "PO-2026-000095",
+  "receipt_date": "2026-07-04",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000135",
+  "po_id": "PO-2026-000105",
+  "receipt_date": "2026-07-04",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000136",
+  "po_id": "PO-2026-000108",
+  "receipt_date": "2026-07-04",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000137",
+  "po_id": "PO-2026-000116",
+  "receipt_date": "2026-07-05",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000138",
+  "po_id": "PO-2026-000089",
+  "receipt_date": "2026-07-06",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000139",
+  "po_id": "PO-2026-000109",
+  "receipt_date": "2026-07-06",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000140",
+  "po_id": "PO-2026-000113",
+  "receipt_date": "2026-07-07",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000141",
+  "po_id": "PO-2026-000115",
+  "receipt_date": "2026-07-07",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000142",
+  "po_id": "PO-2026-000123",
+  "receipt_date": "2026-07-09",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000143",
+  "po_id": "PO-2026-000127",
+  "receipt_date": "2026-07-09",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000144",
+  "po_id": "PO-2026-000128",
+  "receipt_date": "2026-07-09",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000145",
+  "po_id": "PO-2026-000092",
+  "receipt_date": "2026-07-10",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000146",
+  "po_id": "PO-2026-000106",
+  "receipt_date": "2026-07-10",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000147",
+  "po_id": "PO-2026-000121",
+  "receipt_date": "2026-07-10",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000148",
+  "po_id": "PO-2026-000103",
+  "receipt_date": "2026-07-12",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000149",
+  "po_id": "PO-2026-000105",
+  "receipt_date": "2026-07-13",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000150",
+  "po_id": "PO-2026-000112",
+  "receipt_date": "2026-07-14",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000151",
+  "po_id": "PO-2026-000118",
+  "receipt_date": "2026-07-14",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000152",
+  "po_id": "PO-2026-000128",
+  "receipt_date": "2026-07-14",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000153",
+  "po_id": "PO-2026-000135",
+  "receipt_date": "2026-07-14",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000154",
+  "po_id": "PO-2026-000123",
+  "receipt_date": "2026-07-16",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000155",
+  "po_id": "PO-2026-000124",
+  "receipt_date": "2026-07-16",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000156",
+  "po_id": "PO-2026-000129",
+  "receipt_date": "2026-07-16",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000157",
+  "po_id": "PO-2026-000114",
+  "receipt_date": "2026-07-17",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000158",
+  "po_id": "PO-2026-000130",
+  "receipt_date": "2026-07-17",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000159",
+  "po_id": "PO-2026-000131",
+  "receipt_date": "2026-07-17",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000160",
+  "po_id": "PO-2026-000133",
+  "receipt_date": "2026-07-17",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000161",
+  "po_id": "PO-2026-000110",
+  "receipt_date": "2026-07-18",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000162",
+  "po_id": "PO-2026-000125",
+  "receipt_date": "2026-07-18",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000163",
+  "po_id": "PO-2026-000126",
+  "receipt_date": "2026-07-18",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000164",
+  "po_id": "PO-2026-000136",
+  "receipt_date": "2026-07-21",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000165",
+  "po_id": "PO-2026-000134",
+  "receipt_date": "2026-07-25",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000166",
+  "po_id": "PO-2026-000138",
+  "receipt_date": "2026-07-26",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000167",
+  "po_id": "PO-2026-000127",
+  "receipt_date": "2026-07-29",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000168",
+  "po_id": "PO-2026-000135",
+  "receipt_date": "2026-07-30",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000169",
+  "po_id": "PO-2026-000132",
+  "receipt_date": "2026-08-01",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000170",
+  "po_id": "PO-2026-000137",
+  "receipt_date": "2026-08-02",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000171",
+  "po_id": "PO-2026-000143",
+  "receipt_date": "2026-08-02",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000172",
+  "po_id": "PO-2026-000146",
+  "receipt_date": "2026-08-08",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000173",
+  "po_id": "PO-2026-000140",
+  "receipt_date": "2026-08-11",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000174",
+  "po_id": "PO-2026-000145",
+  "receipt_date": "2026-08-12",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000175",
+  "po_id": "PO-2026-000136",
+  "receipt_date": "2026-08-14",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000176",
+  "po_id": "PO-2026-000144",
+  "receipt_date": "2026-08-15",
+  "warehouse": "WH-WEST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000177",
+  "po_id": "PO-2026-000141",
+  "receipt_date": "2026-08-16",
+  "warehouse": "WH-SOUTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000178",
+  "po_id": "PO-2026-000142",
+  "receipt_date": "2026-08-20",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000179",
+  "po_id": "PO-2026-000147",
+  "receipt_date": "2026-08-22",
+  "warehouse": "WH-NORTH",
+  "status": "POSTED"
+ },
+ {
+  "grn_id": "GRN-2026-000180",
+  "po_id": "PO-2026-000140",
+  "receipt_date": "2026-08-23",
+  "warehouse": "WH-EAST",
+  "status": "POSTED"
+ }
+]

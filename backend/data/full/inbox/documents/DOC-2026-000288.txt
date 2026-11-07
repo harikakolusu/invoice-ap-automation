@@ -1,0 +1,23 @@
+From: billing@falcon.example
+To: ap-inbox@buyer.example
+Subject: Invoice FALC-49149 from Falcon Electronics Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Falcon Electronics Inc.
+Vendor Tax ID: 38-8839895
+Invoice #: FALC-49149
+Invoice Date (DD/MM/YYYY): 22/02/2026
+Purchase Order: none
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-SRV-0003 | Facility Cleaning Month | qty 5 | @ $121.84 | TX18 | $609.20
+
+Subtotal: $609.20
+Tax: $109.66
+Amount Due: $718.86
+
+Regards,
+Billing Team

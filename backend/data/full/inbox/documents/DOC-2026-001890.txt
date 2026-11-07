@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-43873 from Horizon Facility Services Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Facility Services Inc.
+Vendor Tax ID: 19-1965633
+Invoice #: HORI-43873
+Invoice Date (DD/MM/YYYY): 05/08/2026
+Purchase Order: PO-2026-001283
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0005 | Packing Tape 36pk | qty 893 | @ $36.99 | TX12 | $33,032.07
+
+Subtotal: $33,032.07
+Tax: $3,963.85
+Amount Due: $36,995.92
+
+Regards,
+Billing Team

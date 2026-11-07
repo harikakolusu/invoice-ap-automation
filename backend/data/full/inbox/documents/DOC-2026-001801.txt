@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/26038 from Quanta Industrial Supply LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Industrial Supply LLC
+Vendor Tax ID: 84-9038231
+Invoice #: INV/2026/26038
+Invoice Date (DD/MM/YYYY): 28/07/2026
+Purchase Order: PO-2026-001336
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0002 | Docking Station USB-C | qty 8 | @ $99.73 | TX18 | $797.84
+
+Subtotal: $797.84
+Tax: $143.61
+Amount Due: $941.45
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice MERI-50363 from Meridian Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Electronics GmbH
+Vendor Tax ID: 26-1856640
+Invoice #: MERI-50363
+Invoice Date (DD/MM/YYYY): 21/03/2026
+Purchase Order: PO-2026-000492
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 2 | @ $60.90 | TX18 | $121.80
+
+Subtotal: $121.80
+Tax: $21.92
+Amount Due: $143.72
+
+Regards,
+Billing Team

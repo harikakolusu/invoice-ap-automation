@@ -1,0 +1,19 @@
+Silver Electronics LLC
+Tax ID: 89-5727189
+Remit to: Accounts Receivable, Silver Electronics LLC
+
+                                INVOICE
+Invoice No:      043034
+Invoice Date:    2026-03-08
+PO Number:       PO-2026-000029
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0002   Ballpoint Pens 12pk                 23       38.76  TX12       891.48
+
+                                                  Subtotal:           891.48
+                                                  Tax:                106.98
+                                                  TOTAL DUE:          998.46

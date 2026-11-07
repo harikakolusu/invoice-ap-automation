@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/34955 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/34955
+Invoice Date (DD/MM/YYYY): 30/01/2026
+Purchase Order: PO-2026-000075
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 10 | @ $18.74 | TX18 | $187.40
+
+Subtotal: $187.40
+Tax: $33.73
+Amount Due: $221.13
+
+Regards,
+Billing Team

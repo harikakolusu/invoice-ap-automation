@@ -1,0 +1,19 @@
+Monarch Trading Co.
+Tax ID: 63-0057779
+Remit to: Accounts Receivable, Monarch Trading Co.
+
+                                INVOICE
+Invoice No:      INV/2026/21454
+Invoice Date:    2026-03-26
+PO Number:       PO-2026-000382
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0003   Pallet Wrap 500m                    77       15.59  TX12     1,200.43
+
+                                                  Subtotal:         1,200.43
+                                                  Tax:                144.05
+                                                  TOTAL DUE:        1,344.48

@@ -1,0 +1,21 @@
+Westbrook Tech Components Ltd
+Tax ID: 63-3323679
+Remit to: Accounts Receivable, Westbrook Tech Components Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/22982
+Invoice Date:    2026-07-31
+PO Number:       PO-2026-001297
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0003   Ball Bearing 6204                   28       18.05  TX18       505.40
+ 2  SKU-MRO-0007   Cable Ties 1000pk                   42      220.27  TX18     9,251.34
+ 3  SKU-MRO-0002   Hydraulic Oil 20L                   46        5.88  TX18       270.48
+
+                                                  Subtotal:        10,027.22
+                                                  Tax:              1,804.90
+                                                  TOTAL DUE:       11,832.12

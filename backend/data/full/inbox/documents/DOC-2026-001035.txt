@@ -1,0 +1,25 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice QUAN-22425 from Quanta Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Electronics GmbH
+Vendor Tax ID: 32-1125093
+Invoice #: QUAN-22425
+Invoice Date (DD/MM/YYYY): 16/05/2026
+Purchase Order: PO-2026-000726
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 205 | @ $17.85 | TX18 | $3,659.25
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 6 | @ $6.09 | TX18 | $36.54
+- SKU-ITH-0007 | SSD 1TB NVMe | qty 9 | @ $46.64 | TX18 | $419.76
+
+Subtotal: $4,115.55
+Tax: $740.81
+Amount Due: $4,856.36
+
+Regards,
+Billing Team

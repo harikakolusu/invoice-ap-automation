@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/15624 from Strata Office Solutions Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Office Solutions Pvt Ltd
+Vendor Tax ID: 75-4538694
+Invoice #: INV/2026/15624
+Invoice Date (DD/MM/YYYY): 01/05/2026
+Purchase Order: PO-2026-000620
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 9 | @ $6.18 | TX18 | $55.62
+
+Subtotal: $55.62
+Tax: $10.01
+Amount Due: $65.63
+
+Regards,
+Billing Team

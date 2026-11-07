@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-43753 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-43753
+Invoice Date (DD/MM/YYYY): 07/02/2026
+Purchase Order: PO-2026-000071
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 76 | @ $222.66 | TX18 | $16,922.16
+
+Subtotal: $16,922.16
+Tax: $3,045.99
+Amount Due: $19,968.15
+
+Regards,
+Billing Team

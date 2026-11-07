@@ -1,0 +1,24 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44500 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44500
+Invoice Date (DD/MM/YYYY): 15/07/2026
+Purchase Order: PO-2026-001215
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 13 | @ $7.70 | TX05 | $100.10
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 15 | @ $18.05 | TX18 | $270.75
+
+Subtotal: $370.85
+Tax: $53.75
+Amount Due: $424.60
+
+Regards,
+Billing Team

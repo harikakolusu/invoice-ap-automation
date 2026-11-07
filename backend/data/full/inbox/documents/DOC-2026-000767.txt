@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-43860 from Horizon Facility Services Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Facility Services Inc.
+Vendor Tax ID: 19-1965633
+Invoice #: HORI-43860
+Invoice Date (DD/MM/YYYY): 14/04/2026
+Purchase Order: PO-2026-000485
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 75 | @ $22.08 | TX12 | $1,656.00
+
+Subtotal: $1,656.00
+Tax: $198.72
+Amount Due: $1,854.72
+
+Regards,
+Billing Team

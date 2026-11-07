@@ -1,0 +1,23 @@
+From: billing@evergreen.example
+To: ap-inbox@buyer.example
+Subject: Invoice EVER-40692 from Evergreen Polymers GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Evergreen Polymers GmbH
+Vendor Tax ID: 34-6678999
+Invoice #: EVER-40692
+Invoice Date (DD/MM/YYYY): 30/03/2026
+Purchase Order: PO-2026-000328
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 117 | @ $6.28 | TX18 | $734.76
+
+Subtotal: $734.76
+Tax: $132.26
+Amount Due: $867.02
+
+Regards,
+Billing Team

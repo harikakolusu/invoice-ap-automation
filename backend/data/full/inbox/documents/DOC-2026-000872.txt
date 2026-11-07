@@ -1,0 +1,24 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/44129 from Silver Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Industrial Supply Ltd
+Vendor Tax ID: 26-5859665
+Invoice #: INV/2026/44129
+Invoice Date (DD/MM/YYYY): 26/04/2026
+Purchase Order: PO-2026-000596
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 15 | @ $69.20 | TX18 | $1,038.00
+- SKU-MRO-0008 | Air Filter Panel | qty 94 | @ $8.69 | TX18 | $816.86
+
+Subtotal: $1,854.86
+Tax: $333.87
+Amount Due: $2,188.73
+
+Regards,
+Billing Team

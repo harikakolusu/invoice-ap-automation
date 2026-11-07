@@ -1,0 +1,22 @@
+Summit Logistics LLC
+Tax ID: 61-5446928
+Remit to: Accounts Receivable, Summit Logistics LLC
+
+                                INVOICE
+Invoice No:      INV/2026/54143
+Invoice Date:    May 28, 2026
+PO Number:       PO-2026-000817
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0002   Stretch Film Roll                  278        2.21  TX12       614.38
+ 2  SKU-PKG-0003   Pallet Wrap 500m                    51       17.26  TX12       880.26
+ 3  SKU-ITH-0010   Rack UPS 3kVA                       17       27.53  TX18       468.01
+ 4  SKU-ITH-0004   Wireless Keyboard                    6       43.92  TX18       263.52
+
+                                                  Subtotal:         2,226.17
+                                                  Tax:                311.03
+                                                  TOTAL DUE:        2,537.20

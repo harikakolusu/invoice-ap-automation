@@ -1,0 +1,23 @@
+From: billing@northstar.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/56703 from Northstar Metals Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Northstar Metals Inc.
+Vendor Tax ID: 66-6691131
+Invoice #: INV/2026/56703
+Invoice Date (DD/MM/YYYY): 12/07/2026
+Purchase Order: PO-2026-001116
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 343 | @ $1.18 | TX12 | $404.74
+
+Subtotal: $404.74
+Tax: $48.57
+Amount Due: $453.31
+
+Regards,
+Billing Team

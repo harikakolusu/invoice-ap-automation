@@ -1,0 +1,24 @@
+From: billing@lumen.example
+To: ap-inbox@buyer.example
+Subject: Invoice 020954 from Lumen Metals LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lumen Metals LLC
+Vendor Tax ID: 99-4847723
+Invoice #: 020954
+Invoice Date (DD/MM/YYYY): 03/03/2026
+Purchase Order: PO-2026-000331
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 11 | @ $160.96 | TX05 | $1,770.56
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 8 | @ $20.29 | TX18 | $162.32
+
+Subtotal: $1,932.88
+Tax: $117.75
+Amount Due: $2,050.63
+
+Regards,
+Billing Team

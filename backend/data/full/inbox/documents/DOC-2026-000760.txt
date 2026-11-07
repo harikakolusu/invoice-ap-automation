@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice 013891 from Horizon Materials Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Materials Co.
+Vendor Tax ID: 26-8475866
+Invoice #: 013891
+Invoice Date (DD/MM/YYYY): 11/04/2026
+Purchase Order: PO-2026-000515
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 195 | @ $4.42 | TX05 | $861.90
+
+Subtotal: $861.90
+Tax: $43.10
+Amount Due: $905.00
+
+Regards,
+Billing Team

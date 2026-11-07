@@ -1,0 +1,27 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-43723 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-43723
+Invoice Date (DD/MM/YYYY): 01/02/2026
+Purchase Order: PO-2026-000105
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 15 | @ $6.64 | TX18 | $99.60
+- SKU-MRO-0004 | V-Belt A42 | qty 218 | @ $48.75 | TX18 | $10,627.50
+- SKU-MRO-0006 | Welding Rods 5kg | qty 37 | @ $9.61 | TX18 | $355.57
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 146 | @ $20.14 | TX18 | $2,940.44
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 325 | @ $4.32 | TX05 | $1,404.00
+
+Subtotal: $15,427.11
+Tax: $2,594.36
+Amount Due: $18,021.47
+
+Regards,
+Billing Team

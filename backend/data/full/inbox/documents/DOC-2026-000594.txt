@@ -1,0 +1,23 @@
+From: billing@ironwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice IRON-33771 from Ironwood Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Ironwood Equipment Pvt Ltd
+Vendor Tax ID: 85-8745788
+Invoice #: IRON-33771
+Invoice Date (DD/MM/YYYY): 26/03/2026
+Purchase Order: PO-2026-000519
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 12 | @ $8.61 | TX18 | $103.32
+
+Subtotal: $103.32
+Tax: $18.60
+Amount Due: $121.92
+
+Regards,
+Billing Team

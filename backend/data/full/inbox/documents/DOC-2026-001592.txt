@@ -1,0 +1,19 @@
+Pinnacle Trading Ltd
+Tax ID: 98-5736232
+Remit to: Accounts Receivable, Pinnacle Trading Ltd
+
+                                INVOICE
+Invoice No:      PINN-47398
+Invoice Date:    2026-07-08
+PO Number:       PO-2026-001223
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0003   Ball Bearing 6204                   12       17.90  TX18       214.80
+
+                                                  Subtotal:           214.80
+                                                  Tax:                 38.66
+                                                  TOTAL DUE:          253.46

@@ -1,0 +1,23 @@
+From: billing@lumen.example
+To: ap-inbox@buyer.example
+Subject: Invoice LUME-58053 from Lumen Logistics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lumen Logistics Pvt Ltd
+Vendor Tax ID: 28-6404535
+Invoice #: LUME-58053
+Invoice Date (DD/MM/YYYY): 15/06/2026
+Purchase Order: PO-2026-000962
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 16 | @ $18.46 | TX18 | $295.36
+
+Subtotal: $295.36
+Tax: $53.16
+Amount Due: $348.52
+
+Regards,
+Billing Team

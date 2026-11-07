@@ -1,0 +1,23 @@
+From: billing@zenith.example
+To: ap-inbox@buyer.example
+Subject: Invoice 015216 from Zenith Office Solutions LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Zenith Office Solutions LLC
+Vendor Tax ID: 19-3261746
+Invoice #: 015216
+Invoice Date (DD/MM/YYYY): 03/03/2026
+Purchase Order: PO-2026-000197
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 227 | @ $8.17 | TX05 | $1,854.59
+
+Subtotal: $1,854.59
+Tax: $92.73
+Amount Due: $1,947.32
+
+Regards,
+Billing Team

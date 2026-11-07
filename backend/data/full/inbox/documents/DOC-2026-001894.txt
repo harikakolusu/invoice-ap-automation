@@ -1,0 +1,25 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/01880 from Unity Equipment Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Equipment Co.
+Vendor Tax ID: 57-6497719
+Invoice #: INV/2026/01880
+Invoice Date (DD/MM/YYYY): 05/08/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0002 | Equipment Maintenance | qty 6 | @ $433.55 | TX18 | $2,601.30
+- SKU-SRV-0001 | IT Consulting Hour | qty 1 | @ $1,029.46 | TX18 | $1,029.46
+- SKU-SRV-0003 | Facility Cleaning Month | qty 4 | @ $127.70 | TX18 | $510.80
+
+Subtotal: $4,141.56
+Tax: $745.47
+Amount Due: $4,887.03
+
+Regards,
+Billing Team

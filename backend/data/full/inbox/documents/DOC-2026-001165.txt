@@ -1,0 +1,23 @@
+From: billing@monarch.example
+To: ap-inbox@buyer.example
+Subject: Invoice 009186 from Monarch Equipment GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Monarch Equipment GmbH
+Vendor Tax ID: 76-7485142
+Invoice #: 009186
+Invoice Date (DD/MM/YYYY): 30/05/2026
+Purchase Order: PO-2026-000780
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-FAC-0004 | Paper Towels Case | qty 19 | @ $14.31 | TX05 | $271.89
+
+Subtotal: $271.89
+Tax: $13.59
+Amount Due: $285.48
+
+Regards,
+Billing Team

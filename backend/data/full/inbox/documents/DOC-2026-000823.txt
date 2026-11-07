@@ -1,0 +1,23 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice UNIT-3002 from Unity Maintenance LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Maintenance LLC
+Vendor Tax ID: 12-6349454
+Invoice #: UNIT-3002
+Invoice Date (DD/MM/YYYY): 18/04/2026
+Purchase Order: PO-2026-000638
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 211 | @ $24.91 | TX12 | $5,256.01
+
+Subtotal: $5,256.01
+Tax: $630.72
+Amount Due: $5,886.73
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice APEX-53312 from Apex Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Industrial Supply Ltd
+Vendor Tax ID: 28-4401299
+Invoice #: APEX-53312
+Invoice Date (DD/MM/YYYY): 23/05/2026
+Purchase Order: PO-2026-000067
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 1 | @ $29.36 | TX18 | $29.36
+
+Subtotal: $29.36
+Tax: $5.28
+Amount Due: $34.64
+
+Regards,
+Billing Team

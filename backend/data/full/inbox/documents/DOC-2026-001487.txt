@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/55024 from Helios Materials Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Materials Pvt Ltd
+Vendor Tax ID: 18-1136223
+Invoice #: INV/2026/55024
+Invoice Date (DD/MM/YYYY): 25/06/2026
+Purchase Order: PO-2026-001193
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 15 | @ $54.11 | TX18 | $811.65
+
+Subtotal: $811.65
+Tax: $146.10
+Amount Due: $957.75
+
+Regards,
+Billing Team

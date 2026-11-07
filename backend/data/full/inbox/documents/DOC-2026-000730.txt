@@ -1,0 +1,25 @@
+From: billing@lakeside.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/36642 from Lakeside Logistics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lakeside Logistics Pvt Ltd
+Vendor Tax ID: 28-4806367
+Invoice #: INV/2026/36642
+Invoice Date (DD/MM/YYYY): 05/04/2026
+Purchase Order: PO-2026-000566
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-OFF-0004 | Toner Cartridge BK | qty 80 | @ $3.54 | TX12 | $283.20
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 92 | @ $16.62 | TX12 | $1,529.04
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 444 | @ $20.84 | TX12 | $9,252.96
+
+Subtotal: $11,065.20
+Tax: $1,327.82
+Amount Due: $12,393.02
+
+Regards,
+Billing Team

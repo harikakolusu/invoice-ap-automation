@@ -1,0 +1,27 @@
+From: billing@frontier.example
+To: ap-inbox@buyer.example
+Subject: Invoice FRON-28390 from Frontier Metals GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Frontier Metals GmbH
+Vendor Tax ID: 50-2879942
+Invoice #: FRON-28390
+Invoice Date (DD/MM/YYYY): 07/07/2026
+Purchase Order: PO-2026-001262
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 382 | @ $19.57 | TX12 | $7,475.74
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 59 | @ $3.97 | TX05 | $234.23
+- SKU-PKG-0005 | Packing Tape 36pk | qty 400 | @ $37.11 | TX12 | $14,844.00
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 32 | @ $143.54 | TX05 | $4,593.28
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 192 | @ $7.70 | TX05 | $1,478.40
+
+Subtotal: $28,625.65
+Tax: $2,993.66
+Amount Due: $31,619.31
+
+Regards,
+Billing Team

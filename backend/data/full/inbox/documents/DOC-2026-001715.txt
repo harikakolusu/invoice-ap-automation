@@ -1,0 +1,23 @@
+From: billing@cobalt.example
+To: ap-inbox@buyer.example
+Subject: Invoice COBA51145 from Cobalt Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Cobalt Trading GmbH
+Vendor Tax ID: 84-7599039
+Invoice #: COBA51145
+Invoice Date (DD/MM/YYYY): 08/07/2026
+Purchase Order: PO-2026-001133
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 13 | @ $49.10 | TX18 | $638.30
+
+Subtotal: $638.30
+Tax: $114.89
+Amount Due: $753.19
+
+Regards,
+Billing Team

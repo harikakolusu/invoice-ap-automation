@@ -1,0 +1,25 @@
+Unity Trading Pvt Ltd
+Tax ID: 20-9070105
+Remit to: Accounts Receivable, Unity Trading Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV-2026-42396
+Invoice Date:    2026-02-08
+PO Number:       PO-2026-000033
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0006   Wooden Pallet EUR                  318       19.58  TX12     6,226.44
+ 2  SKU-FAC-0006   Trash Bags 100pk                   266       15.80  TX05     4,202.80
+ 3  SKU-FAC-0001   Drinking Water 20L                  19        3.57  TX05        67.83
+ 4  SKU-FAC-0003   Hand Sanitizer 1L                  119       60.08  TX05     7,149.52
+ 5  SKU-FAC-0004   Paper Towels Case                   50       15.60  TX05       780.00
+ 6  SKU-PKG-0003   Pallet Wrap 500m                   103       16.95  TX12     1,745.85
+ 7  SKU-PKG-0001   Corrugated Box Large               222        8.56  TX12     1,900.32
+
+                                                  Subtotal:        22,072.76
+                                                  Tax:              1,794.72
+                                                  TOTAL DUE:       23,867.48

@@ -1,0 +1,19 @@
+Unity Materials GmbH
+Tax ID: 98-3943621
+Remit to: Accounts Receivable, Unity Materials GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/44547
+Invoice Date:    2026-06-12
+PO Number:       PO-2026-000765
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0002   Aluminium Rod 20mm                  11        3.80  TX05        41.80
+
+                                                  Subtotal:            41.80
+                                                  Tax:                  2.09
+                                                  TOTAL DUE:           43.89

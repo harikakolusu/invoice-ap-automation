@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-9834 from Horizon Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging Pvt Ltd
+Vendor Tax ID: 37-8463742
+Invoice #: HORI-9834
+Invoice Date (DD/MM/YYYY): 10/05/2026
+Purchase Order: PO-2026-000771
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 23 | @ $68.03 | TX18 | $1,564.69
+
+Subtotal: $1,564.69
+Tax: $281.64
+Amount Due: $1,846.33
+
+Regards,
+Billing Team

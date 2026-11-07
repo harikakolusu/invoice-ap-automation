@@ -1,0 +1,19 @@
+Falcon Materials LLC
+Tax ID: 88-1483266
+Remit to: Accounts Receivable, Falcon Materials LLC
+
+                                INVOICE
+Invoice No:      FALC-59324
+Invoice Date:    2026-06-25
+PO Number:       PO-2026-001048
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0002   Docking Station USB-C                1      105.66  TX18       105.66
+
+                                                  Subtotal:           105.66
+                                                  Tax:                 19.02
+                                                  TOTAL DUE:          124.68

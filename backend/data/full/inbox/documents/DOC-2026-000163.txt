@@ -1,0 +1,25 @@
+From: billing@northstar.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/56675 from Northstar Metals Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Northstar Metals Inc.
+Vendor Tax ID: 66-6691131
+Invoice #: INV/2026/56675
+Invoice Date (DD/MM/YYYY): 09/02/2026
+Purchase Order: PO-2026-000079
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 74 | @ $142.57 | TX05 | $10,550.18
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 42 | @ $4.38 | TX05 | $183.96
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 629 | @ $15.90 | TX12 | $10,001.10
+
+Subtotal: $20,735.24
+Tax: $1,736.84
+Amount Due: $22,472.08
+
+Regards,
+Billing Team

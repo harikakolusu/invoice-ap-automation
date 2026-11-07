@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/54975 from Helios Materials Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Materials Pvt Ltd
+Vendor Tax ID: 18-1136223
+Invoice #: INV/2026/54975
+Invoice Date (DD/MM/YYYY): 09/03/2026
+Purchase Order: PO-2026-000271
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0003 | Monitor 27in QHD | qty 11 | @ $1,825.08 | TX18 | $20,075.88
+
+Subtotal: $20,075.88
+Tax: $3,613.66
+Amount Due: $23,689.54
+
+Regards,
+Billing Team

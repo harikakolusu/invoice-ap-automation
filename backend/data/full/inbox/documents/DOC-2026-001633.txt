@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/15632 from Strata Office Solutions Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Office Solutions Pvt Ltd
+Vendor Tax ID: 75-4538694
+Invoice #: INV/2026/15632
+Invoice Date (DD/MM/YYYY): 11/07/2026
+Purchase Order: PO-2026-001155
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 28 | @ $17.89 | TX18 | $500.92
+
+Subtotal: $500.92
+Tax: $90.17
+Amount Due: $591.09
+
+Regards,
+Billing Team

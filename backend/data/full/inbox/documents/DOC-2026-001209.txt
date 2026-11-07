@@ -1,0 +1,19 @@
+Frontier Logistics GmbH
+Tax ID: 57-9728928
+Remit to: Accounts Receivable, Frontier Logistics GmbH
+
+                                INVOICE
+Invoice No:      FRON-48560
+Invoice Date:    2026-04-23
+PO Number:       PO-2026-000976
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0003   Pallet Wrap 500m                   480       16.23  TX12     7,790.40
+
+                                                  Subtotal:         7,790.40
+                                                  Tax:                934.85
+                                                  TOTAL DUE:        8,725.25

@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054368 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054368
+Invoice Date (DD/MM/YYYY): 05/07/2026
+Purchase Order: PO-2026-001128
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 207 | @ $19.76 | TX18 | $4,090.32
+
+Subtotal: $4,090.32
+Tax: $736.26
+Amount Due: $4,826.58
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Atlas Materials Inc.
+Tax ID: 39-9978315
+Remit to: Accounts Receivable, Atlas Materials Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/36346
+Invoice Date:    March 15, 2026
+PO Number:       PO-2026-000280
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0005   Epoxy Resin 5L                     108       10.36  TX05     1,118.88
+
+                                                  Subtotal:         1,118.88
+                                                  Tax:                 55.94
+                                                  TOTAL DUE:        1,174.82

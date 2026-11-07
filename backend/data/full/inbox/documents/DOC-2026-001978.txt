@@ -1,0 +1,19 @@
+Lakeside Systems Inc.
+Tax ID: 19-3507758
+Remit to: Accounts Receivable, Lakeside Systems Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/48983
+Invoice Date:    September 1, 2026
+PO Number:       PO-2026-001396
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0003   Heavy Duty Stapler                   6      104.37  TX12       626.22
+
+                                                  Subtotal:           626.22
+                                                  Tax:                 75.15
+                                                  TOTAL DUE:          701.37

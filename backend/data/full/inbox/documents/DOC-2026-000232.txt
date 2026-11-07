@@ -1,0 +1,19 @@
+Lakeside Systems Inc.
+Tax ID: 19-3507758
+Remit to: Accounts Receivable, Lakeside Systems Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/48943
+Invoice Date:    February 17, 2026
+PO Number:       PO-2026-000274
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0003   Monitor 27in QHD                     3    1,727.28  TX18     5,181.84
+
+                                                  Subtotal:         5,181.84
+                                                  Tax:                932.73
+                                                  TOTAL DUE:        6,114.57

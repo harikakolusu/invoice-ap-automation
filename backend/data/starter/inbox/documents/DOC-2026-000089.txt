@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59832 from Prairie Electronics Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Electronics Ltd
+Vendor Tax ID: 74-5486677
+Invoice #: INV/2026/59832
+Invoice Date (DD/MM/YYYY): 14/05/2026
+Purchase Order: PO-2026-000061
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0003 | Monitor 27in QHD | qty 1 | @ $1,629.48 | TX18 | $1,629.48
+
+Subtotal: $1,629.48
+Tax: $293.31
+Amount Due: $1,922.79
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56697 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56697
+Invoice Date (DD/MM/YYYY): 27/02/2026
+Purchase Order: PO-2026-000267
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 85 | @ $237.50 | TX18 | $20,187.50
+
+Subtotal: $20,187.50
+Tax: $3,633.75
+Amount Due: $23,821.25
+
+Regards,
+Billing Team

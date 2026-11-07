@@ -1,0 +1,23 @@
+From: billing@cobalt.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/43789 from Cobalt Logistics LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Cobalt Logistics LLC
+Vendor Tax ID: 44-2263373
+Invoice #: INV/2026/43789
+Invoice Date (DD/MM/YYYY): 04/03/2026
+Purchase Order: PO-2026-000420
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 102 | @ $58.49 | TX05 | $5,965.98
+
+Subtotal: $5,965.98
+Tax: $298.30
+Amount Due: $6,264.28
+
+Regards,
+Billing Team

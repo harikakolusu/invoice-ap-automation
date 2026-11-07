@@ -1,0 +1,19 @@
+Orion Trading Inc.
+Tax ID: 41-5048653
+Remit to: Accounts Receivable, Orion Trading Inc.
+
+                                INVOICE
+Invoice No:      ORIO-2167
+Invoice Date:    2026-07-03
+PO Number:       PO-2026-000119
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0005   Epoxy Resin 5L                      18        9.77  TX05       175.86
+
+                                                  Subtotal:           175.86
+                                                  Tax:                  8.79
+                                                  TOTAL DUE:          184.65

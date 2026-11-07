@@ -1,0 +1,23 @@
+From: billing@oakridge.example
+To: ap-inbox@buyer.example
+Subject: Invoice 042723 from Oakridge Maintenance Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Oakridge Maintenance Ltd
+Vendor Tax ID: 88-9073522
+Invoice #: 042723
+Invoice Date (DD/MM/YYYY): 02/03/2026
+Purchase Order: PO-2026-000278
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0005 | Whiteboard Markers 8pk | qty 14 | @ $4.33 | TX12 | $60.62
+
+Subtotal: $60.62
+Tax: $7.27
+Amount Due: $67.89
+
+Regards,
+Billing Team

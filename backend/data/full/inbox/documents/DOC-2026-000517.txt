@@ -1,0 +1,23 @@
+Unity Systems Pvt Ltd
+Tax ID: 25-4215797
+Remit to: Accounts Receivable, Unity Systems Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/27296
+Invoice Date:    March 17, 2026
+PO Number:       PO-2026-000362
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0002   Stretch Film Roll                  655        2.27  TX12     1,486.85
+ 2  SKU-ITH-0010   Rack UPS 3kVA                       10       27.86  TX18       278.60
+ 3  SKU-ITH-0005   USB-C Hub 7-port                     1       55.58  TX18        55.58
+ 4  SKU-ITH-0001   Laptop 14in i7                       2       54.49  TX18       108.98
+ 5  SKU-ITH-0008   Server RAM 32GB                     20       65.23  TX18     1,304.60
+
+                                                  Subtotal:         3,234.61
+                                                  Tax:                493.02
+                                                  TOTAL DUE:        3,727.63

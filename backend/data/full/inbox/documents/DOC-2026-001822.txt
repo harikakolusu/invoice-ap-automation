@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59628 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59628
+Invoice Date (DD/MM/YYYY): 29/07/2026
+Purchase Order: PO-2026-001379
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 113 | @ $8.44 | TX12 | $953.72
+- SKU-ITH-0002 | Docking Station USB-C | qty 2 | @ $109.62 | TX18 | $219.24
+
+Subtotal: $1,172.96
+Tax: $153.91
+Amount Due: $1,326.87
+
+Regards,
+Billing Team

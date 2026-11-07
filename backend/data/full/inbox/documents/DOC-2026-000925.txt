@@ -1,0 +1,23 @@
+From: billing@delta.example
+To: ap-inbox@buyer.example
+Subject: Invoice 008197 from Delta Logistics LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Delta Logistics LLC
+Vendor Tax ID: 13-7920746
+Invoice #: 008197
+Invoice Date (DD/MM/YYYY): 03/05/2026
+Purchase Order: PO-2026-000737
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 44 | @ $55.04 | TX18 | $2,421.76
+
+Subtotal: $2,421.76
+Tax: $435.92
+Amount Due: $2,857.68
+
+Regards,
+Billing Team

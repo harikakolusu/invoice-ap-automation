@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/54953 from Helios Materials Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Materials Pvt Ltd
+Vendor Tax ID: 18-1136223
+Invoice #: INV/2026/54953
+Invoice Date (DD/MM/YYYY): 23/02/2026
+Purchase Order: PO-2026-000351
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 9 | @ $31.47 | TX18 | $283.23
+
+Subtotal: $283.23
+Tax: $50.98
+Amount Due: $334.21
+
+Regards,
+Billing Team

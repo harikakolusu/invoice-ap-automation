@@ -1,0 +1,19 @@
+Tidewater Packaging Inc.
+Tax ID: 65-6965162
+Remit to: Accounts Receivable, Tidewater Packaging Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/54374
+Invoice Date:    2026-08-02
+PO Number:       PO-2026-001218
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0006   Wooden Pallet EUR                   35       19.58  TX12       685.30
+
+                                                  Subtotal:           685.30
+                                                  Tax:                 82.24
+                                                  TOTAL DUE:          767.54

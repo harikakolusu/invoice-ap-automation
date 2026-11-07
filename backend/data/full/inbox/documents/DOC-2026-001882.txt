@@ -1,0 +1,23 @@
+From: billing@boreal.example
+To: ap-inbox@buyer.example
+Subject: Invoice 037613 from Boreal Distribution LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Boreal Distribution LLC
+Vendor Tax ID: 64-4717804
+Invoice #: 037613
+Invoice Date (DD/MM/YYYY): 05/08/2026
+Purchase Order: PO-2026-001374
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0004 | ABS Pellets 25kg | qty 102 | @ $5.80 | TX05 | $591.60
+
+Subtotal: $591.60
+Tax: $29.58
+Amount Due: $621.18
+
+Regards,
+Billing Team

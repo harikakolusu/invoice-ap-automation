@@ -1,0 +1,23 @@
+From: billing@ironwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice IRON-33778 from Ironwood Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Ironwood Equipment Pvt Ltd
+Vendor Tax ID: 85-8745788
+Invoice #: IRON-33778
+Invoice Date (DD/MM/YYYY): 04/04/2026
+Purchase Order: PO-2026-000713
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 59 | @ $64.84 | TX05 | $3,825.56
+
+Subtotal: $3,825.56
+Tax: $191.28
+Amount Due: $4,016.84
+
+Regards,
+Billing Team

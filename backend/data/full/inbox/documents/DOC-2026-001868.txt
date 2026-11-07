@@ -1,0 +1,19 @@
+Falcon Materials LLC
+Tax ID: 88-1483266
+Remit to: Accounts Receivable, Falcon Materials LLC
+
+                                INVOICE
+Invoice No:      FALC-59354
+Invoice Date:    2026-08-04
+PO Number:       PO-2026-001290
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0006   Network Switch 24P                   7      346.21  TX18     2,423.47
+
+                                                  Subtotal:         2,423.47
+                                                  Tax:                436.22
+                                                  TOTAL DUE:        2,859.69

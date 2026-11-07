@@ -1,0 +1,23 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10168 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10168
+Invoice Date (DD/MM/YYYY): 11/04/2026
+Purchase Order: PO-2026-000529
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 5 | @ $48.08 | TX18 | $240.40
+
+Subtotal: $240.40
+Tax: $43.27
+Amount Due: $283.67
+
+Regards,
+Billing Team

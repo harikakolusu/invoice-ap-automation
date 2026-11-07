@@ -1,0 +1,23 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/55902 from Summit Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Trading Co.
+Vendor Tax ID: 65-8611105
+Invoice #: INV/2026/55902
+Invoice Date (DD/MM/YYYY): 15/04/2026
+Purchase Order: PO-2026-000035
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0006 | PP Granules 25kg | qty 193 | @ $290.82 | TX05 | $56,128.26
+
+Subtotal: $56,128.26
+Tax: $2,806.41
+Amount Due: $58,934.67
+
+Regards,
+Billing Team

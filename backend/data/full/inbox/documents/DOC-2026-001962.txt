@@ -1,0 +1,19 @@
+Keystone Office Solutions Inc.
+Tax ID: 52-8633504
+Remit to: Accounts Receivable, Keystone Office Solutions Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/12241
+Invoice Date:    2026-08-20
+PO Number:       PO-2026-001427
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0007   Desk Organizer                      44       99.17  TX12     4,363.48
+
+                                                  Subtotal:         4,363.48
+                                                  Tax:                523.62
+                                                  TOTAL DUE:        4,887.10

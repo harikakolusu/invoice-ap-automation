@@ -1,0 +1,19 @@
+Unity Metals Ltd
+Tax ID: 64-3272413
+Remit to: Accounts Receivable, Unity Metals Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/01279
+Invoice Date:    April 2, 2026
+PO Number:       PO-2026-000460
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0004   Bubble Wrap Roll                    93        1.18  TX12       109.74
+
+                                                  Subtotal:           109.74
+                                                  Tax:                 13.17
+                                                  TOTAL DUE:          122.91

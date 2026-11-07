@@ -1,0 +1,25 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice STRA-56225 from Strata Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Industrial Supply Pvt Ltd
+Vendor Tax ID: 88-2424791
+Invoice #: STRA-56225
+Invoice Date (DD/MM/YYYY): 23/02/2026
+Purchase Order: PO-2026-000154
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 3 | @ $4.24 | TX18 | $12.72
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 53 | @ $238.23 | TX18 | $12,626.19
+- SKU-PKG-0002 | Stretch Film Roll | qty 102 | @ $2.02 | TX12 | $206.04
+
+Subtotal: $12,844.95
+Tax: $2,299.72
+Amount Due: $15,144.67
+
+Regards,
+Billing Team

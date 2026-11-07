@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56688 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56688
+Invoice Date (DD/MM/YYYY): 22/02/2026
+Purchase Order: PO-2026-000321
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 45 | @ $19.40 | TX18 | $873.00
+
+Subtotal: $873.00
+Tax: $157.14
+Amount Due: $1,030.14
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Pinnacle Logistics Pvt Ltd
+Tax ID: 37-6744274
+Remit to: Accounts Receivable, Pinnacle Logistics Pvt Ltd
+
+                                INVOICE
+Invoice No:      PINN-32820
+Invoice Date:    2026-07-26
+PO Number:       PO-2026-001384
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0001   Steel Sheet 2mm                     15        8.45  TX05       126.75
+
+                                                  Subtotal:           126.75
+                                                  Tax:                  6.34
+                                                  TOTAL DUE:          133.09

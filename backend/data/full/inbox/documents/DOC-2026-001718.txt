@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56855 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56855
+Invoice Date (DD/MM/YYYY): 22/07/2026
+Purchase Order: PO-2026-001298
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 6 | @ $50.89 | TX18 | $305.34
+
+Subtotal: $305.34
+Tax: $54.96
+Amount Due: $360.30
+
+Regards,
+Billing Team

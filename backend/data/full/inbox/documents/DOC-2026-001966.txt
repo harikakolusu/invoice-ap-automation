@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-53412 from Horizon Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Trading GmbH
+Vendor Tax ID: 64-7665627
+Invoice #: HORI-53412
+Invoice Date (DD/MM/YYYY): 23/08/2026
+Purchase Order: PO-2026-001333
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 53 | @ $8.63 | TX12 | $457.39
+
+Subtotal: $457.39
+Tax: $54.89
+Amount Due: $512.28
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59387 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59387
+Invoice Date (DD/MM/YYYY): 12/02/2026
+Purchase Order: PO-2026-000221
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 21 | @ $37.50 | TX18 | $787.50
+
+Subtotal: $787.50
+Tax: $141.75
+Amount Due: $929.25
+
+Regards,
+Billing Team

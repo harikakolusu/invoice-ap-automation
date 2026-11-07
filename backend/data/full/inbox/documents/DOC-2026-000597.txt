@@ -1,0 +1,19 @@
+Meridian Logistics Ltd
+Tax ID: 91-4014739
+Remit to: Accounts Receivable, Meridian Logistics Ltd
+
+                                INVOICE
+Invoice No:      MERI-22505
+Invoice Date:    March 21, 2026
+PO Number:       PO-2026-000357
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0002   Stretch Film Roll                 1542        2.21  TX12     3,407.82
+
+                                                  Subtotal:         3,407.82
+                                                  Tax:                408.94
+                                                  TOTAL DUE:        3,816.76

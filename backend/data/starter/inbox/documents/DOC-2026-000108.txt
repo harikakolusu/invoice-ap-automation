@@ -1,0 +1,27 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 052051 from Glacier Industrial Supply GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Industrial Supply GmbH
+Vendor Tax ID: 89-9782441
+Invoice #: 052051
+Invoice Date (DD/MM/YYYY): 28/05/2026
+Purchase Order: PO-2026-000090
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 225 | @ $4.30 | TX18 | $967.50
+- SKU-FAC-0002 | Floor Detergent 5L | qty 29 | @ $2.58 | TX05 | $74.82
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 8 | @ $232.75 | TX18 | $1,862.00
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 31 | @ $20.60 | TX18 | $638.60
+- SKU-MRO-0004 | V-Belt A42 | qty 226 | @ $52.36 | TX18 | $11,833.36
+
+Subtotal: $15,376.28
+Tax: $2,758.00
+Amount Due: $18,134.28
+
+Regards,
+Billing Team

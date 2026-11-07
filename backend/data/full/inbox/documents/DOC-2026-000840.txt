@@ -1,0 +1,23 @@
+From: billing@crescent.example
+To: ap-inbox@buyer.example
+Subject: Invoice 022070 from Crescent Facility Services Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Crescent Facility Services Ltd
+Vendor Tax ID: 88-1824107
+Invoice #: 022070
+Invoice Date (DD/MM/YYYY): 23/04/2026
+Purchase Order: PO-2026-000611
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0001 | Drinking Water 20L | qty 203 | @ $3.86 | TX05 | $783.58
+
+Subtotal: $783.58
+Tax: $39.18
+Amount Due: $822.76
+
+Regards,
+Billing Team

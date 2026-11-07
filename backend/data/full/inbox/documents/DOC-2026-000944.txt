@@ -1,0 +1,19 @@
+Pinnacle Equipment Pvt Ltd
+Tax ID: 63-0609437
+Remit to: Accounts Receivable, Pinnacle Equipment Pvt Ltd
+
+                                INVOICE
+Invoice No:      PINN-57096
+Invoice Date:    May 4, 2026
+PO Number:       PO-2026-000636
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0004   Bubble Wrap Roll                    53        1.28  TX12        67.84
+
+                                                  Subtotal:            67.84
+                                                  Tax:                  8.14
+                                                  TOTAL DUE:           75.98

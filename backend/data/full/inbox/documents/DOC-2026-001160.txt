@@ -1,0 +1,19 @@
+Kestrel Tech Components Co.
+Tax ID: 18-3173685
+Remit to: Accounts Receivable, Kestrel Tech Components Co.
+
+                                INVOICE
+Invoice No:      KEST-8522
+Invoice Date:    May 25, 2026
+PO Number:       PO-2026-000782
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0006   PP Granules 25kg                    50      322.21  TX05    16,110.50
+
+                                                  Subtotal:        16,110.50
+                                                  Tax:                805.53
+                                                  TOTAL DUE:       16,916.03

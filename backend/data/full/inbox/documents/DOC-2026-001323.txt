@@ -1,0 +1,19 @@
+Silver Facility Services Ltd
+Tax ID: 25-8751121
+Remit to: Accounts Receivable, Silver Facility Services Ltd
+
+                                INVOICE
+Invoice No:      035795
+Invoice Date:    2026-06-12
+PO Number:       PO-2026-000952
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0001   Safety Gloves Nitrile               15        4.85  TX18        72.75
+
+                                                  Subtotal:            72.75
+                                                  Tax:                 13.10
+                                                  TOTAL DUE:           85.85

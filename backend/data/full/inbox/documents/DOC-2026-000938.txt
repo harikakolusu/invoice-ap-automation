@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/52264 from Prairie Distribution Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Distribution Ltd
+Vendor Tax ID: 28-5918169
+Invoice #: INV/2026/52264
+Invoice Date (DD/MM/YYYY): 01/05/2026
+Purchase Order: PO-2026-000722
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0004 | Wireless Keyboard | qty 1 | @ $45.03 | TX18 | $45.03
+
+Subtotal: $45.03
+Tax: $8.11
+Amount Due: $53.14
+
+Regards,
+Billing Team

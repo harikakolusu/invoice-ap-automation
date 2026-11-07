@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59645 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59645
+Invoice Date (DD/MM/YYYY): 04/08/2026
+Purchase Order: PO-2026-001341
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 2 | @ $70.85 | TX18 | $141.70
+
+Subtotal: $141.70
+Tax: $25.51
+Amount Due: $167.21
+
+Regards,
+Billing Team

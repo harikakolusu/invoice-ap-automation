@@ -1,0 +1,19 @@
+Pinnacle Office Solutions Inc.
+Tax ID: 46-4970646
+Remit to: Accounts Receivable, Pinnacle Office Solutions Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/05275
+Invoice Date:    February 22, 2026
+PO Number:       PO-2026-000144
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0001   Safety Gloves Nitrile               52        4.87  TX18       253.24
+
+                                                  Subtotal:           253.24
+                                                  Tax:                 45.58
+                                                  TOTAL DUE:          298.82

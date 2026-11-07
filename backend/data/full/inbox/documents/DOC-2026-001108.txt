@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44302 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44302
+Invoice Date (DD/MM/YYYY): 23/05/2026
+Purchase Order: PO-2026-000789
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 38 | @ $8.31 | TX05 | $315.78
+
+Subtotal: $315.78
+Tax: $15.79
+Amount Due: $331.57
+
+Regards,
+Billing Team

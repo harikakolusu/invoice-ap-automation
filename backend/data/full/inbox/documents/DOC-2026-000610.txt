@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59454 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59454
+Invoice Date (DD/MM/YYYY): 27/03/2026
+Purchase Order: PO-2026-000478
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 115 | @ $2.20 | TX12 | $253.00
+- SKU-ITH-0006 | Network Switch 24P | qty 1 | @ $329.61 | TX18 | $329.61
+
+Subtotal: $582.61
+Tax: $89.69
+Amount Due: $672.30
+
+Regards,
+Billing Team

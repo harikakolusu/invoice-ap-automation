@@ -1,0 +1,26 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-9802 from Horizon Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging Pvt Ltd
+Vendor Tax ID: 37-8463742
+Invoice #: HORI-9802
+Invoice Date (DD/MM/YYYY): 29/03/2026
+Purchase Order: PO-2026-000581
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 66 | @ $8.68 | TX12 | $572.88
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 2 | @ $30.39 | TX18 | $60.78
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 4 | @ $33.71 | TX18 | $134.84
+- SKU-ITH-0001 | Laptop 14in i7 | qty 1 | @ $53.35 | TX18 | $53.35
+
+Subtotal: $821.85
+Tax: $113.56
+Amount Due: $935.41
+
+Regards,
+Billing Team

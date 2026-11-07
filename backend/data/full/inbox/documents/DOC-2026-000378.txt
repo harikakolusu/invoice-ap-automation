@@ -1,0 +1,19 @@
+Oakridge Materials LLC
+Tax ID: 99-2038166
+Remit to: Accounts Receivable, Oakridge Materials LLC
+
+                                INVOICE
+Invoice No:      INV/2026/32357
+Invoice Date:    March 3, 2026
+PO Number:       PO-2026-000266
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0002   Floor Detergent 5L                  38        2.37  TX05        90.06
+
+                                                  Subtotal:            90.06
+                                                  Tax:                  4.50
+                                                  TOTAL DUE:           94.56

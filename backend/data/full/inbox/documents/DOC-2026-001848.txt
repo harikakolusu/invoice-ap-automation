@@ -1,0 +1,19 @@
+Delta Polymers Ltd
+Tax ID: 34-5330370
+Remit to: Accounts Receivable, Delta Polymers Ltd
+
+                                INVOICE
+Invoice No:      031197
+Invoice Date:    2026-07-31
+PO Number:       PO-2026-001318
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0003   Heavy Duty Stapler                 148       93.59  TX12    13,851.32
+
+                                                  Subtotal:        13,851.32
+                                                  Tax:              1,662.16
+                                                  TOTAL DUE:       15,513.48

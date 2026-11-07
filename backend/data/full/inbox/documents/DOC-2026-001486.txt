@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59585 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59585
+Invoice Date (DD/MM/YYYY): 25/06/2026
+Purchase Order: PO-2026-001084
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 66 | @ $1.97 | TX12 | $130.02
+
+Subtotal: $130.02
+Tax: $15.60
+Amount Due: $145.62
+
+Regards,
+Billing Team

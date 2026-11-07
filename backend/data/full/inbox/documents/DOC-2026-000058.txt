@@ -1,0 +1,24 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 059919 from Atlas Industrial Supply GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Industrial Supply GmbH
+Vendor Tax ID: 72-4221383
+Invoice #: 059919
+Invoice Date (DD/MM/YYYY): 29/01/2026
+Purchase Order: PO-2026-000102
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 9 | @ $48.47 | TX18 | $436.23
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 209 | @ $17.61 | TX18 | $3,680.49
+
+Subtotal: $4,116.72
+Tax: $741.01
+Amount Due: $4,857.73
+
+Regards,
+Billing Team

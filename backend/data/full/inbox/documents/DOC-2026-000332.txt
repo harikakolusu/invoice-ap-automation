@@ -1,0 +1,21 @@
+Falcon Materials LLC
+Tax ID: 88-1483266
+Remit to: Accounts Receivable, Falcon Materials LLC
+
+                                INVOICE
+Invoice No:      FALC-59264
+Invoice Date:    2026-02-28
+PO Number:       PO-2026-000212
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0005   Epoxy Resin 5L                     130       12.39  TX05     1,610.70
+ 2  SKU-ITH-0004   Wireless Keyboard                   19       48.65  TX18       924.35
+ 3  SKU-ITH-0009   Wi-Fi Access Point                   9       38.70  TX18       348.30
+
+                                                  Subtotal:         2,883.35
+                                                  Tax:                309.61
+                                                  TOTAL DUE:        3,192.96

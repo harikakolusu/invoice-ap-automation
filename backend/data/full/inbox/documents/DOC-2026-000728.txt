@@ -1,0 +1,23 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice MERI-28266 from Meridian Industrial Supply GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Industrial Supply GmbH
+Vendor Tax ID: 92-5275324
+Invoice #: MERI-28266
+Invoice Date (DD/MM/YYYY): 06/04/2026
+Purchase Order: PO-2026-000565
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 42 | @ $18.05 | TX18 | $758.10
+
+Subtotal: $758.10
+Tax: $136.46
+Amount Due: $894.56
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@boreal.example
+To: ap-inbox@buyer.example
+Subject: Invoice 037612 from Boreal Distribution LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Boreal Distribution LLC
+Vendor Tax ID: 64-4717804
+Invoice #: 037612
+Invoice Date (DD/MM/YYYY): 22/07/2026
+Purchase Order: PO-2026-001261
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-OFF-0005 | Whiteboard Markers 8pk | qty 4 | @ $4.33 | TX12 | $17.32
+
+Subtotal: $17.32
+Tax: $2.08
+Amount Due: $19.40
+
+Regards,
+Billing Team

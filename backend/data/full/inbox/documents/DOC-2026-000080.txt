@@ -1,0 +1,23 @@
+From: billing@lakeside.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/45594 from Lakeside Materials LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lakeside Materials LLC
+Vendor Tax ID: 78-3700831
+Invoice #: INV/2026/45594
+Invoice Date (DD/MM/YYYY): 02/02/2026
+Purchase Order: PO-2026-000106
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0006 | Network Switch 24P | qty 7 | @ $322.43 | TX18 | $2,257.01
+
+Subtotal: $2,257.01
+Tax: $406.26
+Amount Due: $2,663.27
+
+Regards,
+Billing Team

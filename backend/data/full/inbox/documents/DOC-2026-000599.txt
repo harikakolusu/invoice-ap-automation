@@ -1,0 +1,19 @@
+Lakeside Systems Inc.
+Tax ID: 19-3507758
+Remit to: Accounts Receivable, Lakeside Systems Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/48952
+Invoice Date:    March 25, 2026
+PO Number:       PO-2026-000490
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0002   Ballpoint Pens 12pk                 18       36.07  TX12       649.26
+
+                                                  Subtotal:           649.26
+                                                  Tax:                 77.91
+                                                  TOTAL DUE:          727.17

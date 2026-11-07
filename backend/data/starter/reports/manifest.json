@@ -1,0 +1,236 @@
+{
+ "project": "invoice-ap-automation",
+ "version": "1.0.0",
+ "seed": 20261022,
+ "scale": 0.1,
+ "generator_command": "python -m ap_automation run-all --preset starter",
+ "python": "3.12.9",
+ "provenance": {
+  "external_data_used": false,
+  "sources": "100% synthetic. Vendor names, people, SKUs and prices come from hand-authored word lists in src/ap_automation/generator/catalog.py combined by a seeded RNG. No public or personal data was downloaded, scraped or redistributed.",
+  "schema_inspiration": "Generic procure-to-pay concepts (PO, GRN, three-way match); no dataset copied.",
+  "license": "Synthetic data and code authored for this project; no third-party terms apply.",
+  "fields_discarded": "n/a (no external source)"
+ },
+ "files": {
+  "exports/json/approval.json": {
+   "sha256": "9d10df55f57f0d5bb531825189772e8eaf7c9c18fce618632eb07fe200e95cec",
+   "bytes": 41893,
+   "rows": null
+  },
+  "exports/json/employee.json": {
+   "sha256": "9830095fef2a5d30f60b8251d9544863ccf8a94af038e3eac671d7e48f7c7305",
+   "bytes": 5647,
+   "rows": null
+  },
+  "exports/json/extracted_invoice.json": {
+   "sha256": "c57a28678eceb5e49b84383ffd8e92e2f8763082f0b93983be19bd807ba81e92",
+   "bytes": 81710,
+   "rows": null
+  },
+  "exports/json/extracted_invoice_line.json": {
+   "sha256": "2527ef9ebbb429348c02672ea953c95d981895c23745b6f8eef0559f65707c03",
+   "bytes": 69919,
+   "rows": null
+  },
+  "exports/json/goods_receipt.json": {
+   "sha256": "d6d53f5a15a8a7ed4e4848d071ee28b80a1f9a770156308973ccb67f75b0c2cb",
+   "bytes": 26364,
+   "rows": null
+  },
+  "exports/json/goods_receipt_line.json": {
+   "sha256": "b42c67bcca45fe1dbd0f54bc66a797852977320e5e03b50e8f1c33855e5f8adc",
+   "bytes": 47395,
+   "rows": null
+  },
+  "exports/json/invoice.json": {
+   "sha256": "348f1a4fcac0da1415bd8f69b7c1ff85d3a0a46a051607fea09f40fb1e6870e9",
+   "bytes": 94668,
+   "rows": null
+  },
+  "exports/json/invoice_decision.json": {
+   "sha256": "5b432043f9bb0a08c8940ba46b2ea8d656a3b974d019d6c9b094f6970d0abb93",
+   "bytes": 122180,
+   "rows": null
+  },
+  "exports/json/invoice_event.json": {
+   "sha256": "0a63e26aee26671b7d06c7593392b64e6370e99e84571ec8d20a7f1165061b8a",
+   "bytes": 285176,
+   "rows": null
+  },
+  "exports/json/invoice_exception.json": {
+   "sha256": "8271476b60f45bd770f2096106983b1c04692839ea019c7f402c3e2291f40f70",
+   "bytes": 30001,
+   "rows": null
+  },
+  "exports/json/invoice_line.json": {
+   "sha256": "2ef255fadf3751e8a261463dcab3da030bb9f9b48454e9375e1405192890d81d",
+   "bytes": 101672,
+   "rows": null
+  },
+  "exports/json/invoice_match.json": {
+   "sha256": "0f76bc769305eedd645cd3bda06e0f705be2faca920aa90dc52d416c818e8b4a",
+   "bytes": 38109,
+   "rows": null
+  },
+  "exports/json/lifecycle_event.json": {
+   "sha256": "65ee8fc65e010685ee50f358f9de9680d4a38b0bd8724005ae0e9316cbbff759",
+   "bytes": 77032,
+   "rows": null
+  },
+  "exports/json/payment.json": {
+   "sha256": "92a5fef5ed9f8900bccad8afebc161545a0afd3d56d8bb1166c5375215db5a28",
+   "bytes": 37912,
+   "rows": null
+  },
+  "exports/json/purchase_order.json": {
+   "sha256": "9a7621e2723b715c6e356a752ef865ff8e5cf5befbdf065504370127183e07e6",
+   "bytes": 43755,
+   "rows": null
+  },
+  "exports/json/purchase_order_line.json": {
+   "sha256": "5d389def08a9082cbd95e71480a2c006ba2c61792cef8aa9697069f5371e4036",
+   "bytes": 67307,
+   "rows": null
+  },
+  "exports/json/vendor.json": {
+   "sha256": "3a751eda97e7ff9f68e07334f3d873cd9ea24b0431ce179fa1fd65c99b7d8b76",
+   "bytes": 11375,
+   "rows": null
+  },
+  "exports/seed.sql": {
+   "sha256": "17dde96af8cd53b86ad4cec39d631fcc9af28cac662dddc47c30fac382617900",
+   "bytes": 571783,
+   "rows": null
+  },
+  "ground_truth/ground_truth.csv": {
+   "sha256": "2c04c6aa8cde7d7ebd37c546ed148ea29b4b9d4a4acbe8c1278a02d7cdf57353",
+   "bytes": 29032,
+   "rows": 200
+  },
+  "ground_truth/ground_truth.json": {
+   "sha256": "1c10f448296ff28eeade13f6fc6c057cc925c2352613ac3ca30bd9e2e931dcd0",
+   "bytes": 97910,
+   "rows": null
+  },
+  "inbox/intake_manifest.csv": {
+   "sha256": "1edfcf83f4625f2f2212a3d560ada0a96e627adc664adefbf168a09ebc555d1c",
+   "bytes": 26407,
+   "rows": 200
+  },
+  "master/employee.csv": {
+   "sha256": "b4c2c4e5aba866b72594a43ca3d062b2ad5dba9d3496fe81eaba42dc63f487f4",
+   "bytes": 1800,
+   "rows": 34
+  },
+  "master/goods_receipt.csv": {
+   "sha256": "0730158536050dde80594774fc25444a8ed544bce3bbe3fc1debeab0ca6dfbfe",
+   "bytes": 10384,
+   "rows": 180
+  },
+  "master/goods_receipt_line.csv": {
+   "sha256": "a688b762a00a9b98c7f28a7b732d12fc5e3a225db117246f1a292e8b678db645",
+   "bytes": 17699,
+   "rows": 242
+  },
+  "master/lifecycle_event.csv": {
+   "sha256": "15d293b853f84c79a9fb393bca7e0886ab61d733cba32351ba3e6880629b1831",
+   "bytes": 29185,
+   "rows": 363
+  },
+  "master/purchase_order.csv": {
+   "sha256": "ffa0ebece3fa42698f245df7561e2bc9c352595de70300e615197ef94699d390",
+   "bytes": 14826,
+   "rows": 150
+  },
+  "master/purchase_order_line.csv": {
+   "sha256": "b35d3f2947f717c49a2a8788687d4098f6849846b0dfa65f947e1c716bf91ee8",
+   "bytes": 23535,
+   "rows": 220
+  },
+  "master/vendor.csv": {
+   "sha256": "efd7795e0c94cc290ffda3d2e72d4413e7ca7abef2f1f9f2ad1bf9c3d72b8e3d",
+   "bytes": 3465,
+   "rows": 30
+  },
+  "pipeline_output/approval.csv": {
+   "sha256": "b8bada97c4800bc727d19f3582b9557731ac6103067cd4ff40285f324a67e3db",
+   "bytes": 18213,
+   "rows": 152
+  },
+  "pipeline_output/extracted_invoice.csv": {
+   "sha256": "3b73770a8b025585b2406220101a38e813d6e92e602ac2bb71fefa9be5ea7017",
+   "bytes": 26361,
+   "rows": 200
+  },
+  "pipeline_output/extracted_invoice_line.csv": {
+   "sha256": "8ad8c66684de8e41ee3cd9ff94b6cc704417b3717d0903de91743216d7f818ff",
+   "bytes": 24327,
+   "rows": 271
+  },
+  "pipeline_output/invoice_decision.csv": {
+   "sha256": "11414de8ef9f4377682a2e3270761de55e29fb3b4dc9c192970e87e03c0a54af",
+   "bytes": 35245,
+   "rows": 200
+  },
+  "pipeline_output/invoice_event.csv": {
+   "sha256": "43a3d7681699995b87efe1eefca14d9f75447f4af96049c7bec1d51978f6be50",
+   "bytes": 123387,
+   "rows": 1200
+  },
+  "pipeline_output/invoice_exception.csv": {
+   "sha256": "6a08cfb727c7a8ecdede51bc18c825e712f8c64df339f169b53e06dcb957acc1",
+   "bytes": 13703,
+   "rows": 60
+  },
+  "pipeline_output/invoice_match.csv": {
+   "sha256": "efda75fadb945a7d8e6461c6ea9eacf7d8ebe28bd9a52993b1a7253a816e5418",
+   "bytes": 17925,
+   "rows": 238
+  },
+  "pipeline_output/payment.csv": {
+   "sha256": "77340ff790e5b384d3d32d2089587abbd3da4a02fcdcb495ae8337c755920d64",
+   "bytes": 15054,
+   "rows": 140
+  },
+  "reports/evaluation_metrics.json": {
+   "sha256": "c0f88a549343b146603511764af07893780a4ae8d56342fb54d1bb9dd49b2922",
+   "bytes": 7001,
+   "rows": null
+  },
+  "reports/generation_plan.json": {
+   "sha256": "d31563d11bf987b9aad5baf2e40bca9aab18b5b5e4a1563914555015549ed16d",
+   "bytes": 754,
+   "rows": null
+  },
+  "reports/report.html": {
+   "sha256": "1e8071d163519d7695c1166acb318eede9e8470b5f6d604860f7cfbbb347426b",
+   "bytes": 34343,
+   "rows": null
+  },
+  "reports/validation_summary.json": {
+   "sha256": "af2162d54bb8eb1259206645d9dff8dd88a9efb005bbd6ff12598b97207740e2",
+   "bytes": 19312,
+   "rows": null
+  },
+  "reports/validation_summary.md": {
+   "sha256": "2a79b4045e239a61d32e82c9b61f73ec9008f25fef4a33dfb6ee74cbbb69fca0",
+   "bytes": 7499,
+   "rows": null
+  },
+  "source_truth/invoice.csv": {
+   "sha256": "7fc4452344f76e557bbeca01419d0dff57211cfda1396a0de1577d60e12c87a1",
+   "bytes": 33757,
+   "rows": 200
+  },
+  "source_truth/invoice_line.csv": {
+   "sha256": "e1d21aa777d0d1527162c28ed17d7a0b123dc5016cd7533db7a25ad3ab27ed2b",
+   "bytes": 39861,
+   "rows": 271
+  },
+  "inbox/documents/*.txt": {
+   "sha256": "5f0358cccedf22ce8640386d903386dfce01bc29191e66063eeb10411dc93b6c",
+   "files": 200
+  }
+ }
+}

@@ -1,0 +1,23 @@
+From: billing@cobalt.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/43805 from Cobalt Logistics LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Cobalt Logistics LLC
+Vendor Tax ID: 44-2263373
+Invoice #: INV/2026/43805
+Invoice Date (DD/MM/YYYY): 17/08/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0005 | Software Subscription | qty 2 | @ $484.62 | TX18 | $969.24
+
+Subtotal: $969.24
+Tax: $174.46
+Amount Due: $1,143.70
+
+Regards,
+Billing Team

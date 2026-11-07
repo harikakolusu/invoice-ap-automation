@@ -1,0 +1,26 @@
+From: billing@oakridge.example
+To: ap-inbox@buyer.example
+Subject: Invoice 042766 from Oakridge Maintenance Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Oakridge Maintenance Ltd
+Vendor Tax ID: 88-9073522
+Invoice #: 042766
+Invoice Date (DD/MM/YYYY): 12/06/2026
+Purchase Order: PO-2026-000821
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0004 | Toner Cartridge BK | qty 75 | @ $3.39 | TX12 | $254.25
+- SKU-OFF-0006 | File Folders 50pk | qty 89 | @ $79.87 | TX12 | $7,108.43
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 18 | @ $18.70 | TX18 | $336.60
+- SKU-MRO-0006 | Welding Rods 5kg | qty 99 | @ $9.35 | TX18 | $925.65
+
+Subtotal: $8,624.93
+Tax: $1,110.73
+Amount Due: $9,735.66
+
+Regards,
+Billing Team

@@ -1,0 +1,20 @@
+Quanta Equipment LLC
+Tax ID: 43-7543725
+Remit to: Accounts Receivable, Quanta Equipment LLC
+
+                                INVOICE
+Invoice No:      003661
+Invoice Date:    June 10, 2026
+PO Number:       PO-2026-001068
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0004   V-Belt A42                          78       54.79  TX18     4,273.62
+ 2  SKU-FAC-0002   Floor Detergent 5L                  17        2.59  TX05        44.03
+
+                                                  Subtotal:         4,317.65
+                                                  Tax:                771.45
+                                                  TOTAL DUE:        5,089.10

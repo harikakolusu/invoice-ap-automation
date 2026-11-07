@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice 032259 from Quanta Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Equipment Pvt Ltd
+Vendor Tax ID: 28-4020409
+Invoice #: 032259
+Invoice Date (DD/MM/YYYY): 14/02/2026
+Purchase Order: PO-2026-000134
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 8 | @ $18.83 | TX18 | $150.64
+
+Subtotal: $150.64
+Tax: $27.12
+Amount Due: $177.76
+
+Regards,
+Billing Team

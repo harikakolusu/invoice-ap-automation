@@ -1,0 +1,20 @@
+Tidewater Tech Components LLC
+Tax ID: 56-2187504
+Remit to: Accounts Receivable, Tidewater Tech Components LLC
+
+                                INVOICE
+Invoice No:      TIDE-5467
+Invoice Date:    2026-05-10
+PO Number:       PO-2026-000691
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0001   Laptop 14in i7                       2       52.22  TX18       104.44
+ 2  SKU-ITH-0010   Rack UPS 3kVA                        1       31.00  TX18        31.00
+
+                                                  Subtotal:           135.44
+                                                  Tax:                 24.38
+                                                  TOTAL DUE:          159.82

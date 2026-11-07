@@ -1,0 +1,23 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10096 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10096
+Invoice Date (DD/MM/YYYY): 16/02/2026
+Purchase Order: PO-2026-000196
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 203 | @ $8.79 | TX12 | $1,784.37
+
+Subtotal: $1,784.37
+Tax: $214.12
+Amount Due: $1,998.49
+
+Regards,
+Billing Team

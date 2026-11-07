@@ -1,0 +1,19 @@
+Pinnacle Tech Components Pvt Ltd
+Tax ID: 24-4574254
+Remit to: Accounts Receivable, Pinnacle Tech Components Pvt Ltd
+
+                                INVOICE
+Invoice No:      PINN-42674
+Invoice Date:    January 27, 2026
+PO Number:       PO-2026-000069
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0007   SSD 1TB NVMe                         1       51.26  TX18        51.26
+
+                                                  Subtotal:            51.26
+                                                  Tax:                  9.23
+                                                  TOTAL DUE:           60.49

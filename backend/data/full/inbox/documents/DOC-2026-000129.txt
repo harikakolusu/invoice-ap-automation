@@ -1,0 +1,23 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034559 from Atlas Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Trading GmbH
+Vendor Tax ID: 13-6292349
+Invoice #: 034559
+Invoice Date (DD/MM/YYYY): 07/02/2026
+Purchase Order: PO-2026-000077
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 68 | @ $8.60 | TX18 | $584.80
+
+Subtotal: $584.80
+Tax: $105.26
+Amount Due: $690.06
+
+Regards,
+Billing Team

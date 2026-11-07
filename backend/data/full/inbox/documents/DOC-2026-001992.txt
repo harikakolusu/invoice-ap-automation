@@ -1,0 +1,21 @@
+Tidewater Tech Components LLC
+Tax ID: 56-2187504
+Remit to: Accounts Receivable, Tidewater Tech Components LLC
+
+                                INVOICE
+Invoice No:      TIDE-5490
+Invoice Date:    2026-09-28
+PO Number:       N/A
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-SRV-0006   Freight Charges                      1      269.43  TX18       269.43
+ 2  SKU-SRV-0004   Legal Advisory Hour                  1      890.86  TX18       890.86
+ 3  SKU-SRV-0005   Software Subscription                5      494.10  TX18     2,470.50
+
+                                                  Subtotal:         3,630.79
+                                                  Tax:                653.54
+                                                  TOTAL DUE:        4,284.33

@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/28378 from Strata Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Equipment Ltd
+Vendor Tax ID: 72-0960342
+Invoice #: INV/2026/28378
+Invoice Date (DD/MM/YYYY): 25/04/2026
+Purchase Order: PO-2026-000604
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 249 | @ $4.62 | TX18 | $1,150.38
+
+Subtotal: $1,150.38
+Tax: $207.07
+Amount Due: $1,357.45
+
+Regards,
+Billing Team

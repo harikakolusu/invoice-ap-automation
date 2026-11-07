@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/35013 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/35013
+Invoice Date (DD/MM/YYYY): 21/07/2026
+Purchase Order: PO-2026-001394
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0004 | Paper Towels Case | qty 105 | @ $15.03 | TX05 | $1,578.15
+- SKU-MRO-0008 | Air Filter Panel | qty 32 | @ $7.93 | TX18 | $253.76
+
+Subtotal: $1,831.91
+Tax: $124.59
+Amount Due: $1,956.50
+
+Regards,
+Billing Team

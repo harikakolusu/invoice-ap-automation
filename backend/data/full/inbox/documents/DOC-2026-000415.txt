@@ -1,0 +1,19 @@
+Ironwood Trading LLC
+Tax ID: 25-2199183
+Remit to: Accounts Receivable, Ironwood Trading LLC
+
+                                INVOICE
+Invoice No:      045171
+Invoice Date:    2026-03-04
+PO Number:       PO-2026-000216
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0003   Copper Wire 2.5mm                  191      163.82  TX05    31,289.62
+
+                                                  Subtotal:        31,289.62
+                                                  Tax:              1,564.48
+                                                  TOTAL DUE:       32,854.10

@@ -1,0 +1,3 @@
+# Keep LF everywhere: document checksums and reproducibility hashes depend on exact bytes.
+* text=auto eol=lf
+*.db binary

@@ -1,0 +1,20 @@
+Oakridge Materials LLC
+Tax ID: 99-2038166
+Remit to: Accounts Receivable, Oakridge Materials LLC
+
+                                INVOICE
+Invoice No:      INV/2026/32375
+Invoice Date:    April 13, 2026
+PO Number:       PO-2026-000650
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0006   Trash Bags 100pk                   113       14.31  TX05     1,617.03
+ 2  SKU-RAW-0002   Aluminium Rod 20mm                  10        3.97  TX05        39.70
+
+                                                  Subtotal:         1,656.73
+                                                  Tax:                 82.84
+                                                  TOTAL DUE:        1,739.57

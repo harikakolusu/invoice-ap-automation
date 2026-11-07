@@ -1,0 +1,23 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10177 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10177
+Invoice Date (DD/MM/YYYY): 03/05/2026
+Purchase Order: PO-2026-000781
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 26 | @ $19.36 | TX18 | $503.36
+
+Subtotal: $503.36
+Tax: $90.60
+Amount Due: $593.96
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Vertex Systems Ltd
+Tax ID: 36-2282815
+Remit to: Accounts Receivable, Vertex Systems Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/17121
+Invoice Date:    February 15, 2026
+PO Number:       PO-2026-000123
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0008   Air Filter Panel                   156        9.66  TX18     1,506.96
+
+                                                  Subtotal:         1,506.96
+                                                  Tax:                271.25
+                                                  TOTAL DUE:        1,778.21

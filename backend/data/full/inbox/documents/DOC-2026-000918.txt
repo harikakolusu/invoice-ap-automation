@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44207 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44207
+Invoice Date (DD/MM/YYYY): 29/04/2026
+Purchase Order: PO-2026-000595
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 17 | @ $18.11 | TX18 | $307.87
+
+Subtotal: $307.87
+Tax: $55.42
+Amount Due: $363.29
+
+Regards,
+Billing Team

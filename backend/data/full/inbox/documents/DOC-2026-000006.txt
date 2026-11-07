@@ -1,0 +1,19 @@
+Strata Distribution Pvt Ltd
+Tax ID: 10-2071349
+Remit to: Accounts Receivable, Strata Distribution Pvt Ltd
+
+                                INVOICE
+Invoice No:      033013
+Invoice Date:    January 18, 2026
+PO Number:       PO-2026-000028
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0001   Corrugated Box Large               371        8.04  TX12     2,982.84
+
+                                                  Subtotal:         2,982.84
+                                                  Tax:                357.94
+                                                  TOTAL DUE:        3,340.78

@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59662 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59662
+Invoice Date (DD/MM/YYYY): 14/08/2026
+Purchase Order: PO-2026-001345
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 7 | @ $31.98 | TX18 | $223.86
+
+Subtotal: $223.86
+Tax: $40.29
+Amount Due: $264.15
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@northstar.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/43954 from Northstar Tech Components Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Northstar Tech Components Ltd
+Vendor Tax ID: 35-3529502
+Invoice #: INV/2026/43954
+Invoice Date (DD/MM/YYYY): 29/03/2026
+Purchase Order: PO-2026-000302
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0006 | Network Switch 24P | qty 4 | @ $346.63 | TX18 | $1,386.52
+
+Subtotal: $1,386.52
+Tax: $249.57
+Amount Due: $1,636.09
+
+Regards,
+Billing Team

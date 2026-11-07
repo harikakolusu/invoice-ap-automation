@@ -1,0 +1,24 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice UNIT-3022 from Unity Maintenance LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Maintenance LLC
+Vendor Tax ID: 12-6349454
+Invoice #: UNIT-3022
+Invoice Date (DD/MM/YYYY): 22/07/2026
+Purchase Order: PO-2026-001239
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 10 | @ $8.96 | TX18 | $89.60
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 68 | @ $17.68 | TX12 | $1,202.24
+
+Subtotal: $1,291.84
+Tax: $160.40
+Amount Due: $1,452.24
+
+Regards,
+Billing Team

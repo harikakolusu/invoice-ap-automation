@@ -1,0 +1,23 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 036936 from Glacier Distribution Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Distribution Co.
+Vendor Tax ID: 87-0023659
+Invoice #: 036936
+Invoice Date (DD/MM/YYYY): 14/03/2026
+Purchase Order: PO-2026-000469
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0006 | Trash Bags 100pk | qty 78 | @ $16.07 | TX05 | $1,253.46
+
+Subtotal: $1,253.46
+Tax: $62.67
+Amount Due: $1,316.13
+
+Regards,
+Billing Team

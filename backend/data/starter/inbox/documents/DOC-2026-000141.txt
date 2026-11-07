@@ -1,0 +1,19 @@
+Glacier Polymers LLC
+Tax ID: 79-5689971
+Remit to: Accounts Receivable, Glacier Polymers LLC
+
+                                INVOICE
+Invoice No:      INV/2026/48253
+Invoice Date:    2026-06-26
+PO Number:       PO-2026-000110
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0001   Steel Sheet 2mm                     47        7.80  TX05       366.60
+
+                                                  Subtotal:           366.60
+                                                  Tax:                 18.33
+                                                  TOTAL DUE:          384.93

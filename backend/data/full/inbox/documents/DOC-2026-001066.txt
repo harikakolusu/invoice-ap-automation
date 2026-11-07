@@ -1,0 +1,24 @@
+From: billing@kestrel.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEST-16732 from Kestrel Metals Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Kestrel Metals Co.
+Vendor Tax ID: 61-2723773
+Invoice #: KEST-16732
+Invoice Date (DD/MM/YYYY): 14/05/2026
+Purchase Order: PO-2026-000851
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 2 | @ $30.83 | TX18 | $61.66
+- SKU-ITH-0008 | Server RAM 32GB | qty 32 | @ $69.06 | TX18 | $2,209.92
+
+Subtotal: $2,271.58
+Tax: $408.89
+Amount Due: $2,680.47
+
+Regards,
+Billing Team

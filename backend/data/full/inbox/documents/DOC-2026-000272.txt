@@ -1,0 +1,23 @@
+From: billing@lumen.example
+To: ap-inbox@buyer.example
+Subject: Invoice LUME-57999 from Lumen Logistics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lumen Logistics Pvt Ltd
+Vendor Tax ID: 28-6404535
+Invoice #: LUME-57999
+Invoice Date (DD/MM/YYYY): 19/02/2026
+Purchase Order: PO-2026-000148
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 8 | @ $4.96 | TX18 | $39.68
+
+Subtotal: $39.68
+Tax: $7.14
+Amount Due: $46.82
+
+Regards,
+Billing Team

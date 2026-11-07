@@ -1,0 +1,20 @@
+Boreal Metals Inc.
+Tax ID: 82-5662052
+Remit to: Accounts Receivable, Boreal Metals Inc.
+
+                                INVOICE
+Invoice No:      BORE-26854
+Invoice Date:    August 14, 2026
+PO Number:       N/A
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-SRV-0001   IT Consulting Hour                   6      924.45  TX18     5,546.70
+ 2  SKU-SRV-0004   Legal Advisory Hour                  1      933.99  TX18       933.99
+
+                                                  Subtotal:         6,480.69
+                                                  Tax:              1,166.53
+                                                  TOTAL DUE:        7,647.22

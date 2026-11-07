@@ -1,0 +1,23 @@
+From: billing@kestrel.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEST-16758 from Kestrel Metals Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Kestrel Metals Co.
+Vendor Tax ID: 61-2723773
+Invoice #: KEST-16758
+Invoice Date (DD/MM/YYYY): 22/06/2026
+Purchase Order: PO-2026-001030
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 16 | @ $54.65 | TX18 | $874.40
+
+Subtotal: $874.40
+Tax: $157.39
+Amount Due: $1,031.79
+
+Regards,
+Billing Team

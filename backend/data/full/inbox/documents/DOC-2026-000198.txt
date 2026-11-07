@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59394 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59394
+Invoice Date (DD/MM/YYYY): 13/02/2026
+Purchase Order: PO-2026-000164
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 2 | @ $69.29 | TX18 | $138.58
+
+Subtotal: $138.58
+Tax: $24.94
+Amount Due: $163.52
+
+Regards,
+Billing Team

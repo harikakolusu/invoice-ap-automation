@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/28413 from Strata Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Equipment Ltd
+Vendor Tax ID: 72-0960342
+Invoice #: INV/2026/28413
+Invoice Date (DD/MM/YYYY): 09/07/2026
+Purchase Order: PO-2026-001208
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 5 | @ $235.47 | TX18 | $1,177.35
+
+Subtotal: $1,177.35
+Tax: $211.92
+Amount Due: $1,389.27
+
+Regards,
+Billing Team

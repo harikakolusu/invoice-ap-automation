@@ -1,0 +1,19 @@
+Keystone Logistics GmbH
+Tax ID: 63-5629931
+Remit to: Accounts Receivable, Keystone Logistics GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/27734
+Invoice Date:    2026-07-13
+PO Number:       PO-2026-001217
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0002   Docking Station USB-C               37      113.78  TX18     4,209.86
+
+                                                  Subtotal:         4,209.86
+                                                  Tax:                757.77
+                                                  TOTAL DUE:        4,967.63

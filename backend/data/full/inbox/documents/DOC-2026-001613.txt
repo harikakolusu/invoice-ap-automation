@@ -1,0 +1,23 @@
+From: billing@crescent.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017869 from Crescent Industrial Supply Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Crescent Industrial Supply Co.
+Vendor Tax ID: 83-1300706
+Invoice #: 017869
+Invoice Date (DD/MM/YYYY): 10/07/2026
+Purchase Order: PO-2026-001154
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 16 | @ $56.66 | TX18 | $906.56
+
+Subtotal: $906.56
+Tax: $163.18
+Amount Due: $1,069.74
+
+Regards,
+Billing Team

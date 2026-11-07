@@ -1,0 +1,24 @@
+From: billing@kestrel.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEST-16726 from Kestrel Metals Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Kestrel Metals Co.
+Vendor Tax ID: 61-2723773
+Invoice #: KEST-16726
+Invoice Date (DD/MM/YYYY): 21/04/2026
+Purchase Order: PO-2026-000632
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 21 | @ $56.15 | TX18 | $1,179.15
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 1 | @ $28.31 | TX18 | $28.31
+
+Subtotal: $1,207.46
+Tax: $217.35
+Amount Due: $1,424.81
+
+Regards,
+Billing Team

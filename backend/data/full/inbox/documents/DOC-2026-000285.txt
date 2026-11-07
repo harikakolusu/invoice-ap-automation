@@ -1,0 +1,24 @@
+From: billing@ironwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice IRON-33764 from Ironwood Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Ironwood Equipment Pvt Ltd
+Vendor Tax ID: 85-8745788
+Invoice #: IRON-33764
+Invoice Date (DD/MM/YYYY): 24/02/2026
+Purchase Order: PO-2026-000287
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 28 | @ $58.85 | TX05 | $1,647.80
+- SKU-FAC-0006 | Trash Bags 100pk | qty 21 | @ $15.86 | TX05 | $333.06
+
+Subtotal: $1,980.86
+Tax: $99.04
+Amount Due: $2,079.90
+
+Regards,
+Billing Team

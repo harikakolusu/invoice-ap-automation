@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-17230 from Horizon Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Electronics GmbH
+Vendor Tax ID: 54-0965743
+Invoice #: HORI-17230
+Invoice Date (DD/MM/YYYY): 20/06/2026
+Purchase Order: PO-2026-001108
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0003 | Heavy Duty Stapler | qty 8 | @ $92.22 | TX12 | $737.76
+
+Subtotal: $737.76
+Tax: $88.53
+Amount Due: $826.29
+
+Regards,
+Billing Team

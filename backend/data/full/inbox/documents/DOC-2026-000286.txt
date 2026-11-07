@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-43853 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-43853
+Invoice Date (DD/MM/YYYY): 24/02/2026
+Purchase Order: PO-2026-000260
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 13 | @ $4.45 | TX05 | $57.85
+
+Subtotal: $57.85
+Tax: $2.89
+Amount Due: $60.74
+
+Regards,
+Billing Team

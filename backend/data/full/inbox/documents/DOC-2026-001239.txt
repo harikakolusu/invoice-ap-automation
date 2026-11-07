@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/13694 from Nimbus Systems GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Systems GmbH
+Vendor Tax ID: 16-0761654
+Invoice #: INV/2026/13694
+Invoice Date (DD/MM/YYYY): 07/06/2026
+Purchase Order: PO-2026-001007
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 220 | @ $4.78 | TX05 | $1,051.60
+
+Subtotal: $1,051.60
+Tax: $52.58
+Amount Due: $1,104.18
+
+Regards,
+Billing Team

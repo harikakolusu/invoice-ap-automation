@@ -1,0 +1,23 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/38737 from Keystone Materials Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Materials Inc.
+Vendor Tax ID: 91-6633517
+Invoice #: INV/2026/38737
+Invoice Date (DD/MM/YYYY): 15/03/2026
+Purchase Order: PO-2026-000277
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 27 | @ $20.42 | TX18 | $551.34
+
+Subtotal: $551.34
+Tax: $99.24
+Amount Due: $650.58
+
+Regards,
+Billing Team

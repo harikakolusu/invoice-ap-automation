@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/07262 from Horizon Trading Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Trading Inc.
+Vendor Tax ID: 59-4712761
+Invoice #: INV/2026/07262
+Invoice Date (DD/MM/YYYY): 28/07/2026
+Purchase Order: PO-2026-001363
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-OFF-0004 | Toner Cartridge BK | qty 80 | @ $3.81 | TX12 | $304.80
+
+Subtotal: $304.80
+Tax: $36.58
+Amount Due: $341.38
+
+Regards,
+Billing Team

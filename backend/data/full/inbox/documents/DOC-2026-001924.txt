@@ -1,0 +1,24 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054396 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054396
+Invoice Date (DD/MM/YYYY): 12/08/2026
+Purchase Order: PO-2026-001406
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-FAC-0004 | Paper Towels Case | qty 95 | @ $14.44 | TX05 | $1,371.80
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 45 | @ $4.62 | TX18 | $207.90
+
+Subtotal: $1,579.70
+Tax: $106.01
+Amount Due: $1,685.71
+
+Regards,
+Billing Team

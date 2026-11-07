@@ -1,0 +1,23 @@
+From: billing@zenith.example
+To: ap-inbox@buyer.example
+Subject: Invoice 058053 from Zenith Materials LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Zenith Materials LLC
+Vendor Tax ID: 77-8844417
+Invoice #: 058053
+Invoice Date (DD/MM/YYYY): 20/06/2026
+Purchase Order: PO-2026-001087
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0003 | Heavy Duty Stapler | qty 290 | @ $100.28 | TX12 | $29,081.20
+
+Subtotal: $29,081.20
+Tax: $3,489.74
+Amount Due: $32,570.94
+
+Regards,
+Billing Team

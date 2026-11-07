@@ -1,0 +1,20 @@
+Oakridge Facility Services Co.
+Tax ID: 19-0599738
+Remit to: Accounts Receivable, Oakridge Facility Services Co.
+
+                                INVOICE
+Invoice No:      057630
+Invoice Date:    March 16, 2026
+PO Number:       PO-2026-000027
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0002   Aluminium Rod 20mm                 385        3.89  TX05     1,497.65
+ 2  SKU-FAC-0006   Trash Bags 100pk                    23       15.93  TX05       366.39
+
+                                                  Subtotal:         1,864.04
+                                                  Tax:                 93.20
+                                                  TOTAL DUE:        1,957.24

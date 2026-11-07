@@ -1,0 +1,19 @@
+Monarch Distribution LLC
+Tax ID: 74-3357016
+Remit to: Accounts Receivable, Monarch Distribution LLC
+
+                                INVOICE
+Invoice No:      005956
+Invoice Date:    2026-07-13
+PO Number:       PO-2026-001173
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0004   Wireless Keyboard                    5       44.30  TX18       221.50
+
+                                                  Subtotal:           221.50
+                                                  Tax:                 39.87
+                                                  TOTAL DUE:          261.37

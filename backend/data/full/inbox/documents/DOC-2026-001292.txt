@@ -1,0 +1,19 @@
+Strata Metals Ltd
+Tax ID: 41-1155471
+Remit to: Accounts Receivable, Strata Metals Ltd
+
+                                INVOICE
+Invoice No:      STRA-46135
+Invoice Date:    June 10, 2026
+PO Number:       PO-2026-000885
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0005   Whiteboard Markers 8pk              46        4.08  TX12       187.68
+
+                                                  Subtotal:           187.68
+                                                  Tax:                 22.52
+                                                  TOTAL DUE:          210.20

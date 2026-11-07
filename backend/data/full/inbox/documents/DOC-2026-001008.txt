@@ -1,0 +1,23 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice MERI-50380 from Meridian Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Electronics GmbH
+Vendor Tax ID: 26-1856640
+Invoice #: MERI-50380
+Invoice Date (DD/MM/YYYY): 12/05/2026
+Purchase Order: PO-2026-000652
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 13 | @ $36.10 | TX18 | $469.30
+
+Subtotal: $469.30
+Tax: $84.47
+Amount Due: $553.77
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Apex Equipment Pvt Ltd
+Tax ID: 99-7388382
+Remit to: Accounts Receivable, Apex Equipment Pvt Ltd
+
+                                INVOICE
+Invoice No:      054380
+Invoice Date:    July 19, 2026
+PO Number:       PO-2026-001234
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0006   Trash Bags 100pk                    10       15.95  TX05       159.50
+
+                                                  Subtotal:           159.50
+                                                  Tax:                  7.98
+                                                  TOTAL DUE:          167.48

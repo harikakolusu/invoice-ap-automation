@@ -1,0 +1,25 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034646 from Atlas Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Trading GmbH
+Vendor Tax ID: 13-6292349
+Invoice #: 034646
+Invoice Date (DD/MM/YYYY): 18/09/2026
+Purchase Order: none
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-SRV-0002 | Equipment Maintenance | qty 4 | @ $503.60 | TX18 | $2,014.40
+- SKU-SRV-0004 | Legal Advisory Hour | qty 1 | @ $987.60 | TX18 | $987.60
+- SKU-SRV-0003 | Facility Cleaning Month | qty 4 | @ $134.22 | TX18 | $536.88
+
+Subtotal: $3,538.88
+Tax: $637.00
+Amount Due: $4,175.88
+
+Regards,
+Billing Team

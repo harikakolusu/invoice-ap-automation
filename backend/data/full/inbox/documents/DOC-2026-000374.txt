@@ -1,0 +1,30 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/42400 from Unity Trading Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Trading Pvt Ltd
+Vendor Tax ID: 20-9070105
+Invoice #: INV/2026/42400
+Invoice Date (DD/MM/YYYY): 04/03/2026
+Purchase Order: PO-2026-000377
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 312 | @ $7.96 | TX12 | $2,483.52
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 393 | @ $21.07 | TX12 | $8,280.51
+- SKU-FAC-0001 | Drinking Water 20L | qty 10 | @ $3.87 | TX05 | $38.70
+- SKU-FAC-0004 | Paper Towels Case | qty 13 | @ $16.01 | TX05 | $208.13
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 149 | @ $5.63 | TX05 | $838.87
+- SKU-FAC-0002 | Floor Detergent 5L | qty 147 | @ $2.51 | TX05 | $368.97
+- SKU-PKG-0002 | Stretch Film Roll | qty 73 | @ $1.98 | TX12 | $144.54
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 55 | @ $1.19 | TX12 | $65.45
+
+Subtotal: $12,428.69
+Tax: $1,389.61
+Amount Due: $13,818.30
+
+Regards,
+Billing Team

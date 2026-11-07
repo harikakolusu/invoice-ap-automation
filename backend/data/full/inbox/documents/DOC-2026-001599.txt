@@ -1,0 +1,24 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/52280 from Prairie Distribution Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Distribution Ltd
+Vendor Tax ID: 28-5918169
+Invoice #: INV/2026/52280
+Invoice Date (DD/MM/YYYY): 09/07/2026
+Purchase Order: PO-2026-001153
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0007 | SSD 1TB NVMe | qty 1 | @ $49.74 | TX18 | $49.74
+- SKU-ITH-0002 | Docking Station USB-C | qty 2 | @ $111.08 | TX18 | $222.16
+
+Subtotal: $271.90
+Tax: $48.94
+Amount Due: $320.84
+
+Regards,
+Billing Team

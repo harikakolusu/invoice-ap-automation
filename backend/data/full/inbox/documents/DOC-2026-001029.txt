@@ -1,0 +1,23 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 036952 from Glacier Distribution Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Distribution Co.
+Vendor Tax ID: 87-0023659
+Invoice #: 036952
+Invoice Date (DD/MM/YYYY): 15/05/2026
+Purchase Order: PO-2026-000702
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0004 | Toner Cartridge BK | qty 29 | @ $3.63 | TX12 | $105.27
+
+Subtotal: $105.27
+Tax: $12.63
+Amount Due: $117.90
+
+Regards,
+Billing Team

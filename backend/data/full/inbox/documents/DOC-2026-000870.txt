@@ -1,0 +1,19 @@
+Lumen Metals GmbH
+Tax ID: 82-7379081
+Remit to: Accounts Receivable, Lumen Metals GmbH
+
+                                INVOICE
+Invoice No:      022956
+Invoice Date:    2026-04-23
+PO Number:       PO-2026-000617
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0005   Epoxy Resin 5L                       3       10.55  TX05        31.65
+
+                                                  Subtotal:            31.65
+                                                  Tax:                  1.58
+                                                  TOTAL DUE:           33.23

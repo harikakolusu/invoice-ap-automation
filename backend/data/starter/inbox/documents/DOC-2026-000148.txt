@@ -1,0 +1,22 @@
+Orion Trading Inc.
+Tax ID: 41-5048653
+Remit to: Accounts Receivable, Orion Trading Inc.
+
+                                INVOICE
+Invoice No:      ORIO-2163
+Invoice Date:    2026-07-01
+PO Number:       PO-2026-000117
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0003   Copper Wire 2.5mm                   18      151.25  TX05     2,722.50
+ 2  SKU-RAW-0005   Epoxy Resin 5L                     545       10.94  TX05     5,962.30
+ 3  SKU-PKG-0004   Bubble Wrap Roll                    74        1.16  TX12        85.84
+ 4  SKU-PKG-0003   Pallet Wrap 500m                    58       16.81  TX12       974.98
+
+                                                  Subtotal:         9,745.62
+                                                  Tax:                561.55
+                                                  TOTAL DUE:       10,307.17

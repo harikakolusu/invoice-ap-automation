@@ -1,0 +1,24 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054285 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054285
+Invoice Date (DD/MM/YYYY): 20/03/2026
+Purchase Order: PO-2026-000341
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 182 | @ $19.80 | TX18 | $3,603.60
+- SKU-FAC-0004 | Paper Towels Case | qty 208 | @ $14.65 | TX05 | $3,047.20
+
+Subtotal: $6,650.80
+Tax: $801.01
+Amount Due: $7,451.81
+
+Regards,
+Billing Team

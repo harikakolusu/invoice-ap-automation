@@ -1,0 +1,26 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017191 from Prairie Electronics Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Electronics Ltd
+Vendor Tax ID: 69-3025060
+Invoice #: 017191
+Invoice Date (DD/MM/YYYY): 23/02/2026
+Purchase Order: PO-2026-000234
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0006 | Network Switch 24P | qty 11 | @ $351.94 | TX18 | $3,871.34
+- SKU-ITH-0001 | Laptop 14in i7 | qty 3 | @ $59.67 | TX18 | $179.01
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 19 | @ $34.83 | TX18 | $661.77
+- SKU-ITH-0002 | Docking Station USB-C | qty 16 | @ $100.05 | TX18 | $1,600.80
+
+Subtotal: $6,312.92
+Tax: $1,136.32
+Amount Due: $7,449.24
+
+Regards,
+Billing Team

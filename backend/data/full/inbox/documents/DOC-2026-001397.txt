@@ -1,0 +1,27 @@
+From: billing@ironwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice IRON-33841 from Ironwood Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Ironwood Equipment Pvt Ltd
+Vendor Tax ID: 85-8745788
+Invoice #: IRON-33841
+Invoice Date (DD/MM/YYYY): 17/06/2026
+Purchase Order: PO-2026-000828
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0004 | Paper Towels Case | qty 124 | @ $13.74 | TX05 | $1,703.76
+- SKU-FAC-0001 | Drinking Water 20L | qty 158 | @ $3.40 | TX05 | $537.20
+- SKU-FAC-0006 | Trash Bags 100pk | qty 56 | @ $15.04 | TX05 | $842.24
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 277 | @ $4.92 | TX18 | $1,362.84
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 208 | @ $5.28 | TX05 | $1,098.24
+
+Subtotal: $5,544.28
+Tax: $454.38
+Amount Due: $5,998.66
+
+Regards,
+Billing Team

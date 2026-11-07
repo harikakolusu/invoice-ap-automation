@@ -1,0 +1,23 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 059940 from Atlas Industrial Supply GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Industrial Supply GmbH
+Vendor Tax ID: 72-4221383
+Invoice #: 059940
+Invoice Date (DD/MM/YYYY): 11/06/2026
+Purchase Order: none
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-SRV-0003 | Facility Cleaning Month | qty 9 | @ $131.11 | TX18 | $1,179.99
+
+Subtotal: $1,179.99
+Tax: $212.40
+Amount Due: $1,392.39
+
+Regards,
+Billing Team

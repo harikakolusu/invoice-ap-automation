@@ -1,0 +1,20 @@
+Granite Logistics LLC
+Tax ID: 93-1746516
+Remit to: Accounts Receivable, Granite Logistics LLC
+
+                                INVOICE
+Invoice No:      GRAN-7786
+Invoice Date:    2026-06-26
+PO Number:       N/A
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-SRV-0002   Equipment Maintenance                1      426.81  TX18       426.81
+ 2  SKU-SRV-0005   Software Subscription                7      551.74  TX18     3,862.18
+
+                                                  Subtotal:         4,288.99
+                                                  Tax:                772.02
+                                                  TOTAL DUE:        5,061.01

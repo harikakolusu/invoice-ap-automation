@@ -1,0 +1,26 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56890 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56890
+Invoice Date (DD/MM/YYYY): 07/08/2026
+Purchase Order: PO-2026-001353
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0004 | Toner Cartridge BK | qty 20 | @ $3.31 | TX12 | $66.20
+- SKU-OFF-0006 | File Folders 50pk | qty 14 | @ $78.36 | TX12 | $1,097.04
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 146 | @ $4.53 | TX18 | $661.38
+- SKU-OFF-0002 | Ballpoint Pens 12pk | qty 7 | @ $33.87 | TX12 | $237.09
+
+Subtotal: $2,061.71
+Tax: $287.08
+Amount Due: $2,348.79
+
+Regards,
+Billing Team

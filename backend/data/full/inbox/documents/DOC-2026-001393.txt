@@ -1,0 +1,23 @@
+From: billing@lakeside.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/36645 from Lakeside Logistics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lakeside Logistics Pvt Ltd
+Vendor Tax ID: 28-4806367
+Invoice #: INV/2026/36645
+Invoice Date (DD/MM/YYYY): 21/06/2026
+Purchase Order: PO-2026-001023
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-OFF-0007 | Desk Organizer | qty 25 | @ $92.63 | TX12 | $2,315.75
+
+Subtotal: $2,315.75
+Tax: $277.89
+Amount Due: $2,593.64
+
+Regards,
+Billing Team

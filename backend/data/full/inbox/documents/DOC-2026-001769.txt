@@ -1,0 +1,19 @@
+Lumen Office Solutions LLC
+Tax ID: 25-8963637
+Remit to: Accounts Receivable, Lumen Office Solutions LLC
+
+                                INVOICE
+Invoice No:      001987
+Invoice Date:    2026-07-21
+PO Number:       N/A
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-SRV-0003   Facility Cleaning Month             11      129.79  TX18     1,427.69
+
+                                                  Subtotal:         1,427.69
+                                                  Tax:                256.98
+                                                  TOTAL DUE:        1,684.67

@@ -1,0 +1,19 @@
+Keystone Industrial Supply Inc.
+Tax ID: 29-5148838
+Remit to: Accounts Receivable, Keystone Industrial Supply Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/43627
+Invoice Date:    May 7, 2026
+PO Number:       PO-2026-000776
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0002   Stretch Film Roll                  137        2.19  TX12       300.03
+
+                                                  Subtotal:           300.03
+                                                  Tax:                 36.00
+                                                  TOTAL DUE:          336.03

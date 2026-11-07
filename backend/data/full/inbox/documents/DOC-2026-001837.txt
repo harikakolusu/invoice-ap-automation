@@ -1,0 +1,20 @@
+Falcon Metals Inc.
+Tax ID: 61-1118766
+Remit to: Accounts Receivable, Falcon Metals Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/04566
+Invoice Date:    2026-07-30
+PO Number:       PO-2026-001303
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0006   Wooden Pallet EUR                  424       21.04  TX12     8,920.96
+ 2  SKU-RAW-0004   ABS Pellets 25kg                    26        6.13  TX05       159.38
+
+                                                  Subtotal:         9,080.34
+                                                  Tax:              1,078.49
+                                                  TOTAL DUE:       10,158.83

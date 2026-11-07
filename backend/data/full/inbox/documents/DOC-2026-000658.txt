@@ -1,0 +1,19 @@
+Tidewater Facility Services Pvt Ltd
+Tax ID: 61-6190224
+Remit to: Accounts Receivable, Tidewater Facility Services Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/55786
+Invoice Date:    March 27, 2026
+PO Number:       PO-2026-000421
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0003   Heavy Duty Stapler                  36       99.74  TX12     3,590.64
+
+                                                  Subtotal:         3,590.64
+                                                  Tax:                430.88
+                                                  TOTAL DUE:        4,021.52

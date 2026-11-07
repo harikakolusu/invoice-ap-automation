@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/58651 from Prairie Facility Services Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Facility Services Co.
+Vendor Tax ID: 16-6959276
+Invoice #: INV/2026/58651
+Invoice Date (DD/MM/YYYY): 24/06/2026
+Purchase Order: PO-2026-001006
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 20 | @ $65.27 | TX18 | $1,305.40
+
+Subtotal: $1,305.40
+Tax: $234.97
+Amount Due: $1,540.37
+
+Regards,
+Billing Team

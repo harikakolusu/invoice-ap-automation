@@ -1,0 +1,23 @@
+From: billing@crescent.example
+To: ap-inbox@buyer.example
+Subject: Invoice 024075 from Crescent Materials Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Crescent Materials Inc.
+Vendor Tax ID: 88-5871226
+Invoice #: 024075
+Invoice Date (DD/MM/YYYY): 28/01/2026
+Purchase Order: PO-2026-000037
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 30 | @ $9.51 | TX05 | $285.30
+
+Subtotal: $285.30
+Tax: $14.27
+Amount Due: $299.57
+
+Regards,
+Billing Team

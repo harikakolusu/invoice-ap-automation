@@ -1,0 +1,19 @@
+Unity Systems Pvt Ltd
+Tax ID: 25-4215797
+Remit to: Accounts Receivable, Unity Systems Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/27303
+Invoice Date:    March 18, 2026
+PO Number:       PO-2026-000346
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0005   Packing Tape 36pk                 1698       45.21  TX12    76,766.58
+
+                                                  Subtotal:        76,766.58
+                                                  Tax:              9,211.99
+                                                  TOTAL DUE:       85,978.57

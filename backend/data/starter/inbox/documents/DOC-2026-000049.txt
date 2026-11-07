@@ -1,0 +1,23 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 052024 from Glacier Industrial Supply GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Industrial Supply GmbH
+Vendor Tax ID: 89-9782441
+Invoice #: 052024
+Invoice Date (DD/MM/YYYY): 20/03/2026
+Purchase Order: PO-2026-000023
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 7 | @ $5.61 | TX12 | $39.27
+
+Subtotal: $39.27
+Tax: $4.71
+Amount Due: $43.98
+
+Regards,
+Billing Team

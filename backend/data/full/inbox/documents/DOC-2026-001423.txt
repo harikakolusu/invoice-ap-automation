@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/44214 from Silver Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Industrial Supply Ltd
+Vendor Tax ID: 26-5859665
+Invoice #: INV/2026/44214
+Invoice Date (DD/MM/YYYY): 21/06/2026
+Purchase Order: PO-2026-000944
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0003 | Monitor 27in QHD | qty 3 | @ $1,669.53 | TX18 | $5,008.59
+
+Subtotal: $5,008.59
+Tax: $901.55
+Amount Due: $5,910.14
+
+Regards,
+Billing Team

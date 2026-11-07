@@ -1,0 +1,19 @@
+Strata Metals Ltd
+Tax ID: 25-4461714
+Remit to: Accounts Receivable, Strata Metals Ltd
+
+                                INVOICE
+Invoice No:      STRA-49016
+Invoice Date:    March 8, 2026
+PO Number:       PO-2026-000017
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0004   ABS Pellets 25kg                   547        6.42  TX05     3,511.74
+
+                                                  Subtotal:         3,511.74
+                                                  Tax:                175.59
+                                                  TOTAL DUE:        3,687.33

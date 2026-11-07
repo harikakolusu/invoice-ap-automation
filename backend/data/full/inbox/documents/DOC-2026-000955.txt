@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/28380 from Strata Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Equipment Ltd
+Vendor Tax ID: 72-0960342
+Invoice #: INV/2026/28380
+Invoice Date (DD/MM/YYYY): 04/05/2026
+Purchase Order: PO-2026-000659
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 231 | @ $52.74 | TX18 | $12,182.94
+
+Subtotal: $12,182.94
+Tax: $2,192.93
+Amount Due: $14,375.87
+
+Regards,
+Billing Team

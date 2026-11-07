@@ -1,0 +1,23 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10179 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10179
+Invoice Date (DD/MM/YYYY): 11/05/2026
+Purchase Order: PO-2026-000749
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 169 | @ $237.29 | TX18 | $40,102.01
+
+Subtotal: $40,102.01
+Tax: $7,218.36
+Amount Due: $47,320.37
+
+Regards,
+Billing Team

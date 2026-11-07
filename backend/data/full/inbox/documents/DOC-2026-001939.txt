@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-43879 from Horizon Facility Services Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Facility Services Inc.
+Vendor Tax ID: 19-1965633
+Invoice #: HORI-43879
+Invoice Date (DD/MM/YYYY): 12/08/2026
+Purchase Order: PO-2026-001397
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 52 | @ $2.67 | TX05 | $138.84
+
+Subtotal: $138.84
+Tax: $6.94
+Amount Due: $145.78
+
+Regards,
+Billing Team

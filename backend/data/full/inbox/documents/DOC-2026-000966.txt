@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-32774 from Nimbus Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Trading Co.
+Vendor Tax ID: 48-4630922
+Invoice #: NIMB-32774
+Invoice Date (DD/MM/YYYY): 06/05/2026
+Purchase Order: PO-2026-000577
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 3 | @ $60.51 | TX18 | $181.53
+
+Subtotal: $181.53
+Tax: $32.68
+Amount Due: $214.21
+
+Regards,
+Billing Team

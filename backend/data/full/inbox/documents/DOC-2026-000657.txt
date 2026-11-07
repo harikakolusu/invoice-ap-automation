@@ -1,0 +1,23 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034661 from Glacier Electronics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Electronics Pvt Ltd
+Vendor Tax ID: 73-1156371
+Invoice #: 034661
+Invoice Date (DD/MM/YYYY): 28/03/2026
+Purchase Order: PO-2026-000416
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 22 | @ $22.72 | TX18 | $499.84
+
+Subtotal: $499.84
+Tax: $89.97
+Amount Due: $589.81
+
+Regards,
+Billing Team

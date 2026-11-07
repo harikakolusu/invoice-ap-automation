@@ -1,0 +1,23 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice MERI-17040 from Meridian Logistics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Logistics Pvt Ltd
+Vendor Tax ID: 53-6427075
+Invoice #: MERI-17040
+Invoice Date (DD/MM/YYYY): 24/07/2026
+Purchase Order: PO-2026-001367
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 12 | @ $19.10 | TX18 | $229.20
+
+Subtotal: $229.20
+Tax: $41.26
+Amount Due: $270.46
+
+Regards,
+Billing Team

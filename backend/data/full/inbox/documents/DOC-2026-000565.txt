@@ -1,0 +1,24 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-43990 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-43990
+Invoice Date (DD/MM/YYYY): 21/03/2026
+Purchase Order: PO-2026-000361
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 66 | @ $9.60 | TX18 | $633.60
+- SKU-MRO-0008 | Air Filter Panel | qty 37 | @ $7.62 | TX18 | $281.94
+
+Subtotal: $915.54
+Tax: $164.80
+Amount Due: $1,080.34
+
+Regards,
+Billing Team

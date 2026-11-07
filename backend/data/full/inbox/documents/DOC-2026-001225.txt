@@ -1,0 +1,24 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56783 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56783
+Invoice Date (DD/MM/YYYY): 02/06/2026
+Purchase Order: PO-2026-000872
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0003 | Heavy Duty Stapler | qty 31 | @ $90.26 | TX12 | $2,798.06
+- SKU-OFF-0008 | Sticky Notes 24pk | qty 100 | @ $72.41 | TX12 | $7,241.00
+
+Subtotal: $10,039.06
+Tax: $1,204.69
+Amount Due: $11,243.75
+
+Regards,
+Billing Team

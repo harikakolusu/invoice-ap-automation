@@ -1,0 +1,25 @@
+From: billing@sierra.example
+To: ap-inbox@buyer.example
+Subject: Invoice SIER-20127 from Sierra Office Solutions Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Sierra Office Solutions Inc.
+Vendor Tax ID: 51-8550157
+Invoice #: SIER-20127
+Invoice Date (DD/MM/YYYY): 03/06/2026
+Purchase Order: PO-2026-000846
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0002 | Ballpoint Pens 12pk | qty 2 | @ $37.64 | TX12 | $75.28
+- SKU-OFF-0007 | Desk Organizer | qty 8 | @ $89.71 | TX12 | $717.68
+- SKU-OFF-0004 | Toner Cartridge BK | qty 24 | @ $3.40 | TX12 | $81.60
+
+Subtotal: $874.56
+Tax: $104.94
+Amount Due: $979.50
+
+Regards,
+Billing Team

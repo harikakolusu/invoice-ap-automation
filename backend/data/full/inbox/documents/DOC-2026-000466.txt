@@ -1,0 +1,25 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice MERI-50360 from Meridian Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Electronics GmbH
+Vendor Tax ID: 26-1856640
+Invoice #: MERI-50360
+Invoice Date (DD/MM/YYYY): 14/03/2026
+Purchase Order: PO-2026-000327
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-OFF-0004 | Toner Cartridge BK | qty 161 | @ $3.80 | TX12 | $611.80
+- SKU-OFF-0005 | Whiteboard Markers 8pk | qty 5 | @ $4.26 | TX12 | $21.30
+- SKU-ITH-0002 | Docking Station USB-C | qty 11 | @ $106.71 | TX18 | $1,173.81
+
+Subtotal: $1,806.91
+Tax: $287.27
+Amount Due: $2,094.18
+
+Regards,
+Billing Team

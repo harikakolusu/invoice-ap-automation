@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 047140 from Apex Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Industrial Supply Ltd
+Vendor Tax ID: 24-5199195
+Invoice #: 047140
+Invoice Date (DD/MM/YYYY): 08/03/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0005 | Software Subscription | qty 8 | @ $523.82 | TX18 | $4,190.56
+
+Subtotal: $4,190.56
+Tax: $754.30
+Amount Due: $4,944.86
+
+Regards,
+Billing Team

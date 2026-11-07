@@ -1,0 +1,19 @@
+Pinnacle Trading Ltd
+Tax ID: 98-5736232
+Remit to: Accounts Receivable, Pinnacle Trading Ltd
+
+                                INVOICE
+Invoice No:      PINN-47370
+Invoice Date:    2026-03-09
+PO Number:       PO-2026-000193
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0006   Welding Rods 5kg                     4       11.61  TX18        46.44
+
+                                                  Subtotal:            46.44
+                                                  Tax:                  8.36
+                                                  TOTAL DUE:           54.80

@@ -1,0 +1,24 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/15620 from Strata Office Solutions Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Office Solutions Pvt Ltd
+Vendor Tax ID: 75-4538694
+Invoice #: INV/2026/15620
+Invoice Date (DD/MM/YYYY): 12/03/2026
+Purchase Order: PO-2026-000268
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0005 | Whiteboard Markers 8pk | qty 27 | @ $3.83 | TX12 | $103.41
+- SKU-OFF-0004 | Toner Cartridge BK | qty 193 | @ $3.44 | TX12 | $663.92
+
+Subtotal: $767.33
+Tax: $92.08
+Amount Due: $859.41
+
+Regards,
+Billing Team

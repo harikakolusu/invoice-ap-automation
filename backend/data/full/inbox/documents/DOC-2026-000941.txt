@@ -1,0 +1,19 @@
+Glacier Distribution Pvt Ltd
+Tax ID: 67-1680206
+Remit to: Accounts Receivable, Glacier Distribution Pvt Ltd
+
+                                INVOICE
+Invoice No:      GLAC-33344
+Invoice Date:    2026-05-01
+PO Number:       PO-2026-000717
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0004   Paper Towels Case                   82       13.75  TX05     1,127.50
+
+                                                  Subtotal:         1,127.50
+                                                  Tax:                 56.38
+                                                  TOTAL DUE:        1,183.88

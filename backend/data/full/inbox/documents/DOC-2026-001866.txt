@@ -1,0 +1,23 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034642 from Atlas Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Trading GmbH
+Vendor Tax ID: 13-6292349
+Invoice #: 034642
+Invoice Date (DD/MM/YYYY): 02/08/2026
+Purchase Order: PO-2026-001250
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 130 | @ $17.25 | TX12 | $2,242.50
+
+Subtotal: $2,242.50
+Tax: $269.10
+Amount Due: $2,511.60
+
+Regards,
+Billing Team

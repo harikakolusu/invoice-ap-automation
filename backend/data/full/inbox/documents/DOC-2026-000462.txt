@@ -1,0 +1,20 @@
+Lumen Metals LLC
+Tax ID: 99-4847723
+Remit to: Accounts Receivable, Lumen Metals LLC
+
+                                INVOICE
+Invoice No:      #020954
+Invoice Date:    2026-03-03
+PO Number:       PO-2026-000331
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0003   Copper Wire 2.5mm                   11      160.96  TX05     1,770.56
+ 2  SKU-MRO-0003   Ball Bearing 6204                    8       20.29  TX18       162.32
+
+                                                  Subtotal:         1,932.88
+                                                  Tax:                117.75
+                                                  TOTAL DUE:        2,050.63

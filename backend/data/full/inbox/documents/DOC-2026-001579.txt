@@ -1,0 +1,20 @@
+Keystone Logistics GmbH
+Tax ID: 63-5629931
+Remit to: Accounts Receivable, Keystone Logistics GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/27727
+Invoice Date:    2026-07-07
+PO Number:       PO-2026-001202
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0001   Laptop 14in i7                       8       53.95  TX18       431.60
+ 2  SKU-PKG-0004   Bubble Wrap Roll                    16        1.33  TX12        21.28
+
+                                                  Subtotal:           452.88
+                                                  Tax:                 80.24
+                                                  TOTAL DUE:          533.12

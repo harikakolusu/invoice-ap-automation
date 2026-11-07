@@ -1,0 +1,19 @@
+Orion Office Solutions LLC
+Tax ID: 30-0991923
+Remit to: Accounts Receivable, Orion Office Solutions LLC
+
+                                INVOICE
+Invoice No:      INV/2026/31149
+Invoice Date:    2026-06-07
+PO Number:       PO-2026-000855
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0005   USB-C Hub 7-port                     2       61.68  TX18       123.36
+
+                                                  Subtotal:           123.36
+                                                  Tax:                 22.20
+                                                  TOTAL DUE:          145.56

@@ -1,0 +1,20 @@
+Keystone Logistics GmbH
+Tax ID: 63-5629931
+Remit to: Accounts Receivable, Keystone Logistics GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/27699
+Invoice Date:    2026-02-12
+PO Number:       PO-2026-000036
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0003   Pallet Wrap 500m                    92       15.30  TX12     1,407.60
+ 2  SKU-ITH-0008   Server RAM 32GB                     27       65.68  TX18     1,773.36
+
+                                                  Subtotal:         3,180.96
+                                                  Tax:                488.11
+                                                  TOTAL DUE:        3,669.07

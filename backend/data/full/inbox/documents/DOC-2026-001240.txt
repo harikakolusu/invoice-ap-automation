@@ -1,0 +1,23 @@
+Unity Tech Components Pvt Ltd
+Tax ID: 10-4924132
+Remit to: Accounts Receivable, Unity Tech Components Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/43171
+Invoice Date:    2026-06-04
+PO Number:       PO-2026-000830
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0005   Epoxy Resin 5L                     139       10.38  TX05     1,442.82
+ 2  SKU-ITH-0005   USB-C Hub 7-port                     2       55.42  TX18       110.84
+ 3  SKU-RAW-0003   Copper Wire 2.5mm                   33      148.88  TX05     4,913.04
+ 4  SKU-ITH-0009   Wi-Fi Access Point                   3       32.33  TX18        96.99
+ 5  SKU-ITH-0010   Rack UPS 3kVA                        3       31.63  TX18        94.89
+
+                                                  Subtotal:         6,658.58
+                                                  Tax:                372.28
+                                                  TOTAL DUE:        7,030.86

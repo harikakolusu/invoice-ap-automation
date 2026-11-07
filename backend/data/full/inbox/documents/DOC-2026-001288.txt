@@ -1,0 +1,24 @@
+From: billing@cobalt.example
+To: ap-inbox@buyer.example
+Subject: Invoice COBA-29161 from Cobalt Facility Services LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Cobalt Facility Services LLC
+Vendor Tax ID: 75-5620518
+Invoice #: COBA-29161
+Invoice Date (DD/MM/YYYY): 11/06/2026
+Purchase Order: PO-2026-000975
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 100 | @ $2.51 | TX05 | $251.00
+- SKU-PKG-0002 | Stretch Film Roll | qty 1569 | @ $2.12 | TX12 | $3,326.28
+
+Subtotal: $3,577.28
+Tax: $411.70
+Amount Due: $3,988.98
+
+Regards,
+Billing Team

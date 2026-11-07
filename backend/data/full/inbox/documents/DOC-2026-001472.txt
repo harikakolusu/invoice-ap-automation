@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/55020 from Helios Materials Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Materials Pvt Ltd
+Vendor Tax ID: 18-1136223
+Invoice #: INV/2026/55020
+Invoice Date (DD/MM/YYYY): 25/06/2026
+Purchase Order: PO-2026-001136
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0005 | Epoxy Resin 5L | qty 468 | @ $10.89 | TX05 | $5,096.52
+
+Subtotal: $5,096.52
+Tax: $254.83
+Amount Due: $5,351.35
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Unity Logistics Pvt Ltd
+Tax ID: 28-4987414
+Remit to: Accounts Receivable, Unity Logistics Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV-2026-56247
+Invoice Date:    January 26, 2026
+PO Number:       PO-2026-000013
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0002   Stretch Film Roll                  454        2.23  TX12     1,012.42
+
+                                                  Subtotal:         1,012.42
+                                                  Tax:                121.49
+                                                  TOTAL DUE:        1,133.91

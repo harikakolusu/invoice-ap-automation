@@ -1,0 +1,23 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10152 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10152
+Invoice Date (DD/MM/YYYY): 27/03/2026
+Purchase Order: PO-2026-000483
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 85 | @ $16.99 | TX12 | $1,444.15
+
+Subtotal: $1,444.15
+Tax: $173.30
+Amount Due: $1,617.45
+
+Regards,
+Billing Team

@@ -1,0 +1,26 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice 002300 from Unity Office Solutions Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Office Solutions Pvt Ltd
+Vendor Tax ID: 24-7171376
+Invoice #: 002300
+Invoice Date (DD/MM/YYYY): 01/03/2026
+Purchase Order: PO-2026-000202
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-ITH-0007 | SSD 1TB NVMe | qty 4 | @ $52.80 | TX18 | $211.20
+- SKU-OFF-0007 | Desk Organizer | qty 22 | @ $97.59 | TX12 | $2,146.98
+- SKU-OFF-0001 | A4 Copy Paper 5 reams | qty 20 | @ $80.00 | TX12 | $1,600.00
+- SKU-ITH-0004 | Wireless Keyboard | qty 5 | @ $55.97 | TX18 | $279.85
+
+Subtotal: $4,238.03
+Tax: $538.03
+Amount Due: $4,776.06
+
+Regards,
+Billing Team

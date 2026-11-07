@@ -1,0 +1,23 @@
+From: billing@monarch.example
+To: ap-inbox@buyer.example
+Subject: Invoice 009174 from Monarch Equipment GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Monarch Equipment GmbH
+Vendor Tax ID: 76-7485142
+Invoice #: 009174
+Invoice Date (DD/MM/YYYY): 15/03/2026
+Purchase Order: PO-2026-000412
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 8 | @ $17.85 | TX18 | $142.80
+
+Subtotal: $142.80
+Tax: $25.70
+Amount Due: $168.50
+
+Regards,
+Billing Team

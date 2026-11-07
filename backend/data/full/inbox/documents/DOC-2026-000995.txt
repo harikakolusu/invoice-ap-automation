@@ -1,0 +1,26 @@
+From: billing@cobalt.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/43793 from Cobalt Logistics LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Cobalt Logistics LLC
+Vendor Tax ID: 44-2263373
+Invoice #: INV/2026/43793
+Invoice Date (DD/MM/YYYY): 08/05/2026
+Purchase Order: PO-2026-000714
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 292 | @ $2.18 | TX12 | $636.56
+- SKU-PKG-0005 | Packing Tape 36pk | qty 839 | @ $38.34 | TX12 | $32,167.26
+- SKU-FAC-0004 | Paper Towels Case | qty 138 | @ $15.00 | TX05 | $2,070.00
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 50 | @ $15.46 | TX12 | $773.00
+
+Subtotal: $35,646.82
+Tax: $4,132.72
+Amount Due: $39,779.54
+
+Regards,
+Billing Team

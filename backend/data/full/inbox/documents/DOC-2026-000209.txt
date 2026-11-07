@@ -1,0 +1,19 @@
+Strata Polymers Pvt Ltd
+Tax ID: 73-7580006
+Remit to: Accounts Receivable, Strata Polymers Pvt Ltd
+
+                                INVOICE
+Invoice No:      STRA-22953
+Invoice Date:    February 19, 2026
+PO Number:       PO-2026-000178
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0002   Floor Detergent 5L                 184        2.39  TX05       439.76
+
+                                                  Subtotal:           439.76
+                                                  Tax:                 21.99
+                                                  TOTAL DUE:          461.75

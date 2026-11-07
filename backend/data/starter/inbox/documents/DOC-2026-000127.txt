@@ -1,0 +1,19 @@
+Glacier Polymers LLC
+Tax ID: 79-5689971
+Remit to: Accounts Receivable, Glacier Polymers LLC
+
+                                INVOICE
+Invoice No:      INV/2026/48244
+Invoice Date:    2026-06-20
+PO Number:       PO-2026-000097
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0003   Copper Wire 2.5mm                  182      157.85  TX05    28,728.70
+
+                                                  Subtotal:        28,728.70
+                                                  Tax:              1,436.44
+                                                  TOTAL DUE:       30,165.14

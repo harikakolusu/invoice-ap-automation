@@ -1,0 +1,21 @@
+Falcon Materials LLC
+Tax ID: 88-1483266
+Remit to: Accounts Receivable, Falcon Materials LLC
+
+                                INVOICE
+Invoice No:      FALC-59317
+Invoice Date:    2026-06-18
+PO Number:       PO-2026-000947
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0002   Aluminium Rod 20mm                  47        4.21  TX05       197.87
+ 2  SKU-RAW-0003   Copper Wire 2.5mm                  124      156.28  TX05    19,378.72
+ 3  SKU-RAW-0004   ABS Pellets 25kg                   184        5.52  TX05     1,015.68
+
+                                                  Subtotal:        20,592.27
+                                                  Tax:              1,029.61
+                                                  TOTAL DUE:       21,621.88

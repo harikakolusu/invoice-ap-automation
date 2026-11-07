@@ -1,0 +1,19 @@
+Falcon Materials LLC
+Tax ID: 88-1483266
+Remit to: Accounts Receivable, Falcon Materials LLC
+
+                                INVOICE
+Invoice No:      FALC-59313
+Invoice Date:    2026-06-16
+PO Number:       PO-2026-000924
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0002   Aluminium Rod 20mm                   6        4.45  TX05        26.70
+
+                                                  Subtotal:            26.70
+                                                  Tax:                  1.34
+                                                  TOTAL DUE:           28.04

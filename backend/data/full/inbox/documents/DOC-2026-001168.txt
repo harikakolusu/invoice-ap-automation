@@ -1,0 +1,23 @@
+From: billing@crescent.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017847 from Crescent Industrial Supply Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Crescent Industrial Supply Co.
+Vendor Tax ID: 83-1300706
+Invoice #: 017847
+Invoice Date (DD/MM/YYYY): 26/05/2026
+Purchase Order: PO-2026-000899
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 15 | @ $32.31 | TX18 | $484.65
+
+Subtotal: $484.65
+Tax: $87.24
+Amount Due: $571.89
+
+Regards,
+Billing Team

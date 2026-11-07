@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44304 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44304
+Invoice Date (DD/MM/YYYY): 26/05/2026
+Purchase Order: PO-2026-000800
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 5 | @ $10.29 | TX18 | $51.45
+
+Subtotal: $51.45
+Tax: $9.26
+Amount Due: $60.71
+
+Regards,
+Billing Team

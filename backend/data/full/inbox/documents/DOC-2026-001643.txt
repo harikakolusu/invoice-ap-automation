@@ -1,0 +1,24 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10221 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10221
+Invoice Date (DD/MM/YYYY): 12/07/2026
+Purchase Order: PO-2026-001259
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 1 | @ $6.67 | TX18 | $6.67
+- SKU-PKG-0005 | Packing Tape 36pk | qty 152 | @ $46.28 | TX12 | $7,034.56
+
+Subtotal: $7,041.23
+Tax: $845.35
+Amount Due: $7,886.58
+
+Regards,
+Billing Team

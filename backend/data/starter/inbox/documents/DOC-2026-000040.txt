@@ -1,0 +1,19 @@
+Atlas Packaging LLC
+Tax ID: 39-7612613
+Remit to: Accounts Receivable, Atlas Packaging LLC
+
+                                INVOICE
+Invoice No:      ATLA-55780
+Invoice Date:    2026-03-19
+PO Number:       PO-2026-000030
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0001   Corrugated Box Large                56        9.14  TX12       511.84
+
+                                                  Subtotal:           511.84
+                                                  Tax:                 61.42
+                                                  TOTAL DUE:          573.26

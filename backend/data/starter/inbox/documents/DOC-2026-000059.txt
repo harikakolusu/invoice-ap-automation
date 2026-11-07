@@ -1,0 +1,23 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/55901 from Summit Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Trading Co.
+Vendor Tax ID: 65-8611105
+Invoice #: INV/2026/55901
+Invoice Date (DD/MM/YYYY): 01/04/2026
+Purchase Order: PO-2026-000042
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 244 | @ $18.58 | TX18 | $4,533.52
+
+Subtotal: $4,533.52
+Tax: $816.03
+Amount Due: $5,349.55
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054380 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054380
+Invoice Date (DD/MM/YYYY): 19/07/2026
+Purchase Order: PO-2026-001234
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-FAC-0006 | Trash Bags 100pk | qty 10 | @ $15.95 | TX05 | $159.50
+
+Subtotal: $159.50
+Tax: $7.98
+Amount Due: $167.48
+
+Regards,
+Billing Team

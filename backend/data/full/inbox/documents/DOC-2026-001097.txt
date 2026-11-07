@@ -1,0 +1,19 @@
+Northstar Metals Inc.
+Tax ID: 66-6691131
+Remit to: Accounts Receivable, Northstar Metals Inc.
+
+                                INVOICE
+Invoice No:      INV-2026-56690
+Invoice Date:    May 8, 2026
+PO Number:       PO-2026-000680
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0006   Wooden Pallet EUR                   53       21.95  TX12     1,163.35
+
+                                                  Subtotal:         1,163.35
+                                                  Tax:                139.60
+                                                  TOTAL DUE:        1,302.95

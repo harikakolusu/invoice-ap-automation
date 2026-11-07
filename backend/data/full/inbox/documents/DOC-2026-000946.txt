@@ -1,0 +1,23 @@
+From: billing@beacon.example
+To: ap-inbox@buyer.example
+Subject: Invoice 047273 from Beacon Metals GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Beacon Metals GmbH
+Vendor Tax ID: 16-8687274
+Invoice #: 047273
+Invoice Date (DD/MM/YYYY): 03/05/2026
+Purchase Order: PO-2026-000727
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 119 | @ $62.81 | TX05 | $7,474.39
+
+Subtotal: $7,474.39
+Tax: $373.72
+Amount Due: $7,848.11
+
+Regards,
+Billing Team

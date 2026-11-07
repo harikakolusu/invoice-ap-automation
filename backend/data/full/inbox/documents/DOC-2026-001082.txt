@@ -1,0 +1,23 @@
+From: billing@pinnacle.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/20455 from Pinnacle Materials LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Pinnacle Materials LLC
+Vendor Tax ID: 23-4525947
+Invoice #: INV/2026/20455
+Invoice Date (DD/MM/YYYY): 19/05/2026
+Purchase Order: PO-2026-000857
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 938 | @ $7.88 | TX12 | $7,391.44
+
+Subtotal: $7,391.44
+Tax: $886.97
+Amount Due: $8,278.41
+
+Regards,
+Billing Team

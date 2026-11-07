@@ -1,0 +1,20 @@
+Horizon Equipment Inc.
+Tax ID: 72-3171927
+Remit to: Accounts Receivable, Horizon Equipment Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/06277
+Invoice Date:    2026-04-02
+PO Number:       PO-2026-000609
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0008   Air Filter Panel                   145        7.76  TX18     1,125.20
+ 2  SKU-RAW-0003   Copper Wire 2.5mm                   43      141.72  TX05     6,093.96
+
+                                                  Subtotal:         7,219.16
+                                                  Tax:                507.24
+                                                  TOTAL DUE:        7,726.40

@@ -1,0 +1,19 @@
+Cobalt Trading GmbH
+Tax ID: 84-7599039
+Remit to: Accounts Receivable, Cobalt Trading GmbH
+
+                                INVOICE
+Invoice No:      COBA-51116
+Invoice Date:    2026-05-04
+PO Number:       PO-2026-000631
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0004   Paper Towels Case                   81       14.35  TX05     1,162.35
+
+                                                  Subtotal:         1,162.35
+                                                  Tax:                 58.12
+                                                  TOTAL DUE:        1,220.47

@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice APEX-53316 from Apex Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Industrial Supply Ltd
+Vendor Tax ID: 28-4401299
+Invoice #: APEX-53316
+Invoice Date (DD/MM/YYYY): 16/06/2026
+Purchase Order: PO-2026-000093
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 161 | @ $4.81 | TX18 | $774.41
+
+Subtotal: $774.41
+Tax: $139.39
+Amount Due: $913.80
+
+Regards,
+Billing Team

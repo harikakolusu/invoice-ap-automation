@@ -1,0 +1,23 @@
+From: billing@frontier.example
+To: ap-inbox@buyer.example
+Subject: Invoice FRON-28352 from Frontier Metals GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Frontier Metals GmbH
+Vendor Tax ID: 50-2879942
+Invoice #: FRON-28352
+Invoice Date (DD/MM/YYYY): 08/03/2026
+Purchase Order: PO-2026-000218
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 480 | @ $2.29 | TX12 | $1,099.20
+
+Subtotal: $1,099.20
+Tax: $131.90
+Amount Due: $1,231.10
+
+Regards,
+Billing Team

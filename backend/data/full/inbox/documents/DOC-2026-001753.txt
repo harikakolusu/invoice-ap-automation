@@ -1,0 +1,23 @@
+Westbrook Tech Components Ltd
+Tax ID: 63-3323679
+Remit to: Accounts Receivable, Westbrook Tech Components Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/22978
+Invoice Date:    2026-07-23
+PO Number:       PO-2026-001266
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0006   Network Switch 24P                  10      351.07  TX18     3,510.70
+ 2  SKU-ITH-0009   Wi-Fi Access Point                  26       33.94  TX18       882.44
+ 3  SKU-MRO-0001   Safety Gloves Nitrile                9        4.32  TX18        38.88
+ 4  SKU-ITH-0008   Server RAM 32GB                      1       62.51  TX18        62.51
+ 5  SKU-MRO-0005   Hex Bolts M10 100pk                297       18.35  TX18     5,449.95
+
+                                                  Subtotal:         9,944.48
+                                                  Tax:              1,790.01
+                                                  TOTAL DUE:       11,734.49

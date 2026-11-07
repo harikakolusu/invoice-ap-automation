@@ -1,0 +1,19 @@
+Beacon Electronics Ltd
+Tax ID: 14-0488787
+Remit to: Accounts Receivable, Beacon Electronics Ltd
+
+                                INVOICE
+Invoice No:      BEAC-39320
+Invoice Date:    2026-02-09
+PO Number:       PO-2026-000199
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0008   Server RAM 32GB                     12       63.42  TX18       761.04
+
+                                                  Subtotal:           761.04
+                                                  Tax:                136.99
+                                                  TOTAL DUE:          898.03

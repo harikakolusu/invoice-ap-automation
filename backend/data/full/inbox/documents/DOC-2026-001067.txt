@@ -1,0 +1,25 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44272 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44272
+Invoice Date (DD/MM/YYYY): 16/05/2026
+Purchase Order: PO-2026-000729
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 451 | @ $8.52 | TX05 | $3,842.52
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 4 | @ $18.96 | TX18 | $75.84
+- SKU-RAW-0004 | ABS Pellets 25kg | qty 20 | @ $6.20 | TX05 | $124.00
+
+Subtotal: $4,042.36
+Tax: $211.98
+Amount Due: $4,254.34
+
+Regards,
+Billing Team

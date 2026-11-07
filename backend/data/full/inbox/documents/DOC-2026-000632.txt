@@ -1,0 +1,19 @@
+Pinnacle Equipment Pvt Ltd
+Tax ID: 63-0609437
+Remit to: Accounts Receivable, Pinnacle Equipment Pvt Ltd
+
+                                INVOICE
+Invoice No:      PINN-57075
+Invoice Date:    March 25, 2026
+PO Number:       PO-2026-000472
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0005   Hex Bolts M10 100pk                297       19.23  TX18     5,711.31
+
+                                                  Subtotal:         5,711.31
+                                                  Tax:              1,028.04
+                                                  TOTAL DUE:        6,739.35

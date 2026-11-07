@@ -1,0 +1,23 @@
+From: billing@falcon.example
+To: ap-inbox@buyer.example
+Subject: Invoice FALC-49155 from Falcon Electronics Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Falcon Electronics Inc.
+Vendor Tax ID: 38-8839895
+Invoice #: FALC-49155
+Invoice Date (DD/MM/YYYY): 23/02/2026
+Purchase Order: PO-2026-000175
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0005 | Packing Tape 36pk | qty 84 | @ $38.24 | TX12 | $3,212.16
+
+Subtotal: $3,212.16
+Tax: $385.46
+Amount Due: $3,597.62
+
+Regards,
+Billing Team

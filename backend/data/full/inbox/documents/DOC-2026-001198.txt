@@ -1,0 +1,19 @@
+Horizon Logistics Pvt Ltd
+Tax ID: 61-1076078
+Remit to: Accounts Receivable, Horizon Logistics Pvt Ltd
+
+                                INVOICE
+Invoice No:      HORI-28138
+Invoice Date:    2026-06-01
+PO Number:       PO-2026-000878
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0008   Sticky Notes 24pk                    9       68.77  TX12       618.93
+
+                                                  Subtotal:           618.93
+                                                  Tax:                 74.27
+                                                  TOTAL DUE:          693.20

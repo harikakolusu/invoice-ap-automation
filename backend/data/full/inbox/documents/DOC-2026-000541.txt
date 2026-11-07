@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59450 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59450
+Invoice Date (DD/MM/YYYY): 21/03/2026
+Purchase Order: PO-2026-000348
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 212 | @ $8.75 | TX12 | $1,855.00
+
+Subtotal: $1,855.00
+Tax: $222.60
+Amount Due: $2,077.60
+
+Regards,
+Billing Team

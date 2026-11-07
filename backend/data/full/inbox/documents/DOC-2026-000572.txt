@@ -1,0 +1,19 @@
+Unity Tech Components Pvt Ltd
+Tax ID: 10-4924132
+Remit to: Accounts Receivable, Unity Tech Components Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/43161
+Invoice Date:    2026-03-24
+PO Number:       PO-2026-000434
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0009   Wi-Fi Access Point                  12       35.11  TX18       421.32
+
+                                                  Subtotal:           421.32
+                                                  Tax:                 75.84
+                                                  TOTAL DUE:          497.16

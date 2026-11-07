@@ -1,0 +1,23 @@
+From: billing@sierra.example
+To: ap-inbox@buyer.example
+Subject: Invoice 028474 from Sierra Maintenance Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Sierra Maintenance Ltd
+Vendor Tax ID: 12-2692634
+Invoice #: 028474
+Invoice Date (DD/MM/YYYY): 12/05/2026
+Purchase Order: PO-2026-000796
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 13 | @ $8.14 | TX18 | $105.82
+
+Subtotal: $105.82
+Tax: $19.05
+Amount Due: $124.87
+
+Regards,
+Billing Team

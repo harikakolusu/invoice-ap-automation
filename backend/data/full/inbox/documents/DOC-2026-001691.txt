@@ -1,0 +1,23 @@
+From: billing@oakridge.example
+To: ap-inbox@buyer.example
+Subject: Invoice 042779 from Oakridge Maintenance Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Oakridge Maintenance Ltd
+Vendor Tax ID: 88-9073522
+Invoice #: 042779
+Invoice Date (DD/MM/YYYY): 15/07/2026
+Purchase Order: PO-2026-001332
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0007 | Desk Organizer | qty 20 | @ $101.10 | TX12 | $2,022.00
+
+Subtotal: $2,022.00
+Tax: $242.64
+Amount Due: $2,264.64
+
+Regards,
+Billing Team

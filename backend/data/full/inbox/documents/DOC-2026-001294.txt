@@ -1,0 +1,22 @@
+Keystone Logistics GmbH
+Tax ID: 63-5629931
+Remit to: Accounts Receivable, Keystone Logistics GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/27723
+Invoice Date:    2026-06-11
+PO Number:       PO-2026-001057
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0001   Laptop 14in i7                      17       60.38  TX18     1,026.46
+ 2  SKU-ITH-0007   SSD 1TB NVMe                        28       52.36  TX18     1,466.08
+ 3  SKU-ITH-0010   Rack UPS 3kVA                        1       28.34  TX18        28.34
+ 4  SKU-ITH-0003   Monitor 27in QHD                     8    1,755.89  TX18    14,047.12
+
+                                                  Subtotal:        16,568.00
+                                                  Tax:              2,982.23
+                                                  TOTAL DUE:       19,550.23

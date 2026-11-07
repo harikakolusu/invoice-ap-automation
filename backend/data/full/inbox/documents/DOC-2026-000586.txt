@@ -1,0 +1,19 @@
+Falcon Materials LLC
+Tax ID: 88-1483266
+Remit to: Accounts Receivable, Falcon Materials LLC
+
+                                INVOICE
+Invoice No:      FALC-59272
+Invoice Date:    2026-03-21
+PO Number:       PO-2026-000404
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0010   Rack UPS 3kVA                        5       28.05  TX18       140.25
+
+                                                  Subtotal:           140.25
+                                                  Tax:                 25.25
+                                                  TOTAL DUE:          165.50

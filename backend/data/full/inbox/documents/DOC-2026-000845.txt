@@ -1,0 +1,19 @@
+Orion Trading Inc.
+Tax ID: 92-6716082
+Remit to: Accounts Receivable, Orion Trading Inc.
+
+                                INVOICE
+Invoice No:      012015
+Invoice Date:    2026-04-24
+PO Number:       PO-2026-000664
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0003   Heavy Duty Stapler                  16       89.94  TX12     1,439.04
+
+                                                  Subtotal:         1,439.04
+                                                  Tax:                172.68
+                                                  TOTAL DUE:        1,611.72

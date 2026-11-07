@@ -1,0 +1,23 @@
+From: billing@cobalt.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/01220 from Cobalt Trading LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Cobalt Trading LLC
+Vendor Tax ID: 11-1434613
+Invoice #: INV/2026/01220
+Invoice Date (DD/MM/YYYY): 27/06/2026
+Purchase Order: PO-2026-001029
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 392 | @ $8.53 | TX12 | $3,343.76
+
+Subtotal: $3,343.76
+Tax: $401.25
+Amount Due: $3,745.01
+
+Regards,
+Billing Team

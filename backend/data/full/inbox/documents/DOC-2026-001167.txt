@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/44180 from Silver Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Industrial Supply Ltd
+Vendor Tax ID: 26-5859665
+Invoice #: INV/2026/44180
+Invoice Date (DD/MM/YYYY): 28/05/2026
+Purchase Order: PO-2026-000896
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0007 | SSD 1TB NVMe | qty 2 | @ $51.85 | TX18 | $103.70
+
+Subtotal: $103.70
+Tax: $18.67
+Amount Due: $122.37
+
+Regards,
+Billing Team

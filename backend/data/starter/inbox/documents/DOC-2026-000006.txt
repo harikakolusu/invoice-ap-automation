@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice STRA-23996 from Strata Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Industrial Supply Pvt Ltd
+Vendor Tax ID: 70-9924066
+Invoice #: STRA-23996
+Invoice Date (DD/MM/YYYY): 06/02/2026
+Purchase Order: PO-2026-000008
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 17 | @ $241.66 | TX18 | $4,108.22
+
+Subtotal: $4,108.22
+Tax: $739.48
+Amount Due: $4,847.70
+
+Regards,
+Billing Team

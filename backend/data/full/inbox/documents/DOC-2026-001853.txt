@@ -1,0 +1,24 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56882 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56882
+Invoice Date (DD/MM/YYYY): 29/07/2026
+Purchase Order: PO-2026-001390
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 17 | @ $48.65 | TX18 | $827.05
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 30 | @ $18.39 | TX18 | $551.70
+
+Subtotal: $1,378.75
+Tax: $248.18
+Amount Due: $1,626.93
+
+Regards,
+Billing Team

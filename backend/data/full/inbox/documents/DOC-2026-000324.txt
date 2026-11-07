@@ -1,0 +1,24 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEYS-34322 from Keystone Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Packaging Pvt Ltd
+Vendor Tax ID: 98-2460041
+Invoice #: KEYS-34322
+Invoice Date (DD/MM/YYYY): 14/02/2026
+Purchase Order: PO-2026-000198
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 33 | @ $2.24 | TX12 | $73.92
+- SKU-PKG-0005 | Packing Tape 36pk | qty 1092 | @ $38.61 | TX12 | $42,162.12
+
+Subtotal: $42,236.04
+Tax: $5,068.32
+Amount Due: $47,304.36
+
+Regards,
+Billing Team

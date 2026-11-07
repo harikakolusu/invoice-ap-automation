@@ -1,0 +1,23 @@
+From: billing@northstar.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/56687 from Northstar Metals Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Northstar Metals Inc.
+Vendor Tax ID: 66-6691131
+Invoice #: INV/2026/56687
+Invoice Date (DD/MM/YYYY): 15/02/2026
+Purchase Order: PO-2026-000153
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 6 | @ $149.07 | TX05 | $894.42
+
+Subtotal: $894.42
+Tax: $44.72
+Amount Due: $939.14
+
+Regards,
+Billing Team

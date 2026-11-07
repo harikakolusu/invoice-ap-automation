@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice 037539 from Horizon Materials Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Materials Inc.
+Vendor Tax ID: 20-4998994
+Invoice #: 037539
+Invoice Date (DD/MM/YYYY): 08/07/2026
+Purchase Order: PO-2026-001219
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 67 | @ $2.10 | TX12 | $140.70
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 123 | @ $19.50 | TX12 | $2,398.50
+
+Subtotal: $2,539.20
+Tax: $304.70
+Amount Due: $2,843.90
+
+Regards,
+Billing Team

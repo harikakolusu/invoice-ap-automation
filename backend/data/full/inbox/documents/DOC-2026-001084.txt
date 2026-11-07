@@ -1,0 +1,23 @@
+From: billing@sierra.example
+To: ap-inbox@buyer.example
+Subject: Invoice SIER-20116 from Sierra Office Solutions Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Sierra Office Solutions Inc.
+Vendor Tax ID: 51-8550157
+Invoice #: SIER-20116
+Invoice Date (DD/MM/YYYY): 21/05/2026
+Purchase Order: PO-2026-000846
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0002 | Ballpoint Pens 12pk | qty 3 | @ $37.80 | TX12 | $113.40
+
+Subtotal: $113.40
+Tax: $13.61
+Amount Due: $127.01
+
+Regards,
+Billing Team

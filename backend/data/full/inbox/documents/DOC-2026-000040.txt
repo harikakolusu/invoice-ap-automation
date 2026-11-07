@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice 050643 from Prairie Metals Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Metals Pvt Ltd
+Vendor Tax ID: 30-3545236
+Invoice #: 050643
+Invoice Date (DD/MM/YYYY): 29/01/2026
+Purchase Order: PO-2026-000087
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 9 | @ $30.74 | TX18 | $276.66
+
+Subtotal: $276.66
+Tax: $49.80
+Amount Due: $326.46
+
+Regards,
+Billing Team

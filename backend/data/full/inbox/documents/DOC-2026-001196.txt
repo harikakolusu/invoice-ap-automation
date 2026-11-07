@@ -1,0 +1,19 @@
+Silver Electronics LLC
+Tax ID: 89-5727189
+Remit to: Accounts Receivable, Silver Electronics LLC
+
+                                INVOICE
+Invoice No:      043036
+Invoice Date:    2026-05-30
+PO Number:       PO-2026-000950
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0006   Network Switch 24P                   2      313.04  TX18       626.08
+
+                                                  Subtotal:           626.08
+                                                  Tax:                112.69
+                                                  TOTAL DUE:          738.77

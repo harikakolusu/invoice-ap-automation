@@ -1,0 +1,19 @@
+Delta Polymers Ltd
+Tax ID: 34-5330370
+Remit to: Accounts Receivable, Delta Polymers Ltd
+
+                                INVOICE
+Invoice No:      031181
+Invoice Date:    2026-03-19
+PO Number:       PO-2026-000254
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0004   ABS Pellets 25kg                    12        6.10  TX05        73.20
+
+                                                  Subtotal:            73.20
+                                                  Tax:                  3.66
+                                                  TOTAL DUE:           76.86

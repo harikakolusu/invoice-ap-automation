@@ -1,0 +1,25 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59368 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59368
+Invoice Date (DD/MM/YYYY): 25/01/2026
+Purchase Order: PO-2026-000129
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 1 | @ $67.41 | TX18 | $67.41
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 2 | @ $31.27 | TX18 | $62.54
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 630 | @ $1.30 | TX12 | $819.00
+
+Subtotal: $948.95
+Tax: $121.67
+Amount Due: $1,070.62
+
+Regards,
+Billing Team

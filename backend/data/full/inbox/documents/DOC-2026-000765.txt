@@ -1,0 +1,21 @@
+Delta Materials Inc.
+Tax ID: 95-6793859
+Remit to: Accounts Receivable, Delta Materials Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/43868
+Invoice Date:    April 13, 2026
+PO Number:       PO-2026-000522
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0006   Wooden Pallet EUR                  213       21.70  TX12     4,622.10
+ 2  SKU-PKG-0001   Corrugated Box Large              1615        8.98  TX12    14,502.70
+ 3  SKU-PKG-0003   Pallet Wrap 500m                   681       19.28  TX12    13,129.68
+
+                                                  Subtotal:        32,254.48
+                                                  Tax:              3,870.53
+                                                  TOTAL DUE:       36,125.01

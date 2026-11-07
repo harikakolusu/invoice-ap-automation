@@ -1,0 +1,25 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/15646 from Strata Office Solutions Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Office Solutions Pvt Ltd
+Vendor Tax ID: 75-4538694
+Invoice #: INV/2026/15646
+Invoice Date (DD/MM/YYYY): 02/08/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0002 | Equipment Maintenance | qty 1 | @ $447.35 | TX18 | $447.35
+- SKU-SRV-0003 | Facility Cleaning Month | qty 8 | @ $142.74 | TX18 | $1,141.92
+- SKU-SRV-0001 | IT Consulting Hour | qty 1 | @ $990.33 | TX18 | $990.33
+
+Subtotal: $2,579.60
+Tax: $464.33
+Amount Due: $3,043.93
+
+Regards,
+Billing Team

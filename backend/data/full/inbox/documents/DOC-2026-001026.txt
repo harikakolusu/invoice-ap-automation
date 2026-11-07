@@ -1,0 +1,26 @@
+From: billing@ironwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice IRON-33828 from Ironwood Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Ironwood Equipment Pvt Ltd
+Vendor Tax ID: 85-8745788
+Invoice #: IRON-33828
+Invoice Date (DD/MM/YYYY): 12/05/2026
+Purchase Order: PO-2026-000815
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0001 | Drinking Water 20L | qty 25 | @ $3.42 | TX05 | $85.50
+- SKU-FAC-0004 | Paper Towels Case | qty 40 | @ $15.34 | TX05 | $613.60
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 141 | @ $60.77 | TX05 | $8,568.57
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 9 | @ $18.31 | TX18 | $164.79
+
+Subtotal: $9,432.46
+Tax: $493.05
+Amount Due: $9,925.51
+
+Regards,
+Billing Team

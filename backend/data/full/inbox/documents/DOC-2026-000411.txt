@@ -1,0 +1,23 @@
+From: billing@oakridge.example
+To: ap-inbox@buyer.example
+Subject: Invoice OAKR59763 from Oakridge Tech Components Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Oakridge Tech Components Pvt Ltd
+Vendor Tax ID: 19-2490442
+Invoice #: OAKR59763
+Invoice Date (DD/MM/YYYY): 24/02/2026
+Purchase Order: PO-2026-000345
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0003 | Monitor 27in QHD | qty 8 | @ $1,833.23 | TX18 | $14,665.84
+
+Subtotal: $14,665.84
+Tax: $2,639.85
+Amount Due: $17,305.69
+
+Regards,
+Billing Team

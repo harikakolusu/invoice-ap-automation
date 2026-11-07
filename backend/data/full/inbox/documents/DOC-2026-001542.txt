@@ -1,0 +1,19 @@
+Pinnacle Equipment Pvt Ltd
+Tax ID: 63-0609437
+Remit to: Accounts Receivable, Pinnacle Equipment Pvt Ltd
+
+                                INVOICE
+Invoice No:      PINN-57115
+Invoice Date:    June 29, 2026
+PO Number:       PO-2026-001104
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0002   Stretch Film Roll                  125        2.00  TX12       250.00
+
+                                                  Subtotal:           250.00
+                                                  Tax:                 30.00
+                                                  TOTAL DUE:          280.00

@@ -1,0 +1,23 @@
+From: billing@kestrel.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEST-16771 from Kestrel Metals Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Kestrel Metals Co.
+Vendor Tax ID: 61-2723773
+Invoice #: KEST-16771
+Invoice Date (DD/MM/YYYY): 13/07/2026
+Purchase Order: PO-2026-001161
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0006 | PP Granules 25kg | qty 114 | @ $316.76 | TX05 | $36,110.64
+
+Subtotal: $36,110.64
+Tax: $1,805.53
+Amount Due: $37,916.17
+
+Regards,
+Billing Team

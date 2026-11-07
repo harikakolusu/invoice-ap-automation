@@ -1,0 +1,19 @@
+Prairie Equipment Co.
+Tax ID: 37-8527614
+Remit to: Accounts Receivable, Prairie Equipment Co.
+
+                                INVOICE
+Invoice No:      008505
+Invoice Date:    2026-06-30
+PO Number:       PO-2026-001060
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0001   Safety Gloves Nitrile                3        4.67  TX18        14.01
+
+                                                  Subtotal:            14.01
+                                                  Tax:                  2.52
+                                                  TOTAL DUE:           16.53

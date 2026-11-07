@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/54928 from Helios Materials Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Materials Pvt Ltd
+Vendor Tax ID: 18-1136223
+Invoice #: INV/2026/54928
+Invoice Date (DD/MM/YYYY): 17/01/2026
+Purchase Order: PO-2026-000014
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 451 | @ $144.31 | TX05 | $65,083.81
+
+Subtotal: $65,083.81
+Tax: $3,254.19
+Amount Due: $68,338.00
+
+Regards,
+Billing Team

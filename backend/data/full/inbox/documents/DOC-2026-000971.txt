@@ -1,0 +1,25 @@
+From: billing@northstar.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/48806 from Northstar Tech Components Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Northstar Tech Components Pvt Ltd
+Vendor Tax ID: 12-4495388
+Invoice #: INV/2026/48806
+Invoice Date (DD/MM/YYYY): 06/05/2026
+Purchase Order: PO-2026-000724
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 4 | @ $59.48 | TX18 | $237.92
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 5 | @ $35.04 | TX18 | $175.20
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 3 | @ $33.95 | TX18 | $101.85
+
+Subtotal: $514.97
+Tax: $92.70
+Amount Due: $607.67
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Boreal Metals Inc.
+Tax ID: 82-5662052
+Remit to: Accounts Receivable, Boreal Metals Inc.
+
+                                INVOICE
+Invoice No:      BORE-26845
+Invoice Date:    July 24, 2026
+PO Number:       PO-2026-001265
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0006   Welding Rods 5kg                   259        8.82  TX18     2,284.38
+
+                                                  Subtotal:         2,284.38
+                                                  Tax:                411.19
+                                                  TOTAL DUE:        2,695.57

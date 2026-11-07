@@ -1,0 +1,20 @@
+Unity Equipment Inc.
+Tax ID: 97-1490580
+Remit to: Accounts Receivable, Unity Equipment Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/59361
+Invoice Date:    March 14, 2026
+PO Number:       N/A
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-SRV-0001   IT Consulting Hour                   1      949.97  TX18       949.97
+ 2  SKU-SRV-0005   Software Subscription                2      493.64  TX18       987.28
+
+                                                  Subtotal:         1,937.25
+                                                  Tax:                348.70
+                                                  TOTAL DUE:        2,285.95

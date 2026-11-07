@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054268 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054268
+Invoice Date (DD/MM/YYYY): 26/02/2026
+Purchase Order: PO-2026-000247
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-FAC-0004 | Paper Towels Case | qty 79 | @ $15.16 | TX05 | $1,197.64
+
+Subtotal: $1,197.64
+Tax: $59.88
+Amount Due: $1,257.52
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-32770 from Nimbus Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Trading Co.
+Vendor Tax ID: 48-4630922
+Invoice #: NIMB-32770
+Invoice Date (DD/MM/YYYY): 19/04/2026
+Purchase Order: PO-2026-000602
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 4 | @ $6.60 | TX18 | $26.40
+
+Subtotal: $26.40
+Tax: $4.75
+Amount Due: $31.15
+
+Regards,
+Billing Team

@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ap-automation"
+version = "1.0.0"
+description = "Invoice-to-pay automation: synthetic data generator, AP pipeline (extraction, 3-way match, exception routing, approval, payment readiness), validation and evaluation."
+requires-python = ">=3.10"
+dependencies = []          # engine (generator, pipeline, validation) = standard library only
+
+[project.optional-dependencies]
+api = ["fastapi>=0.110", "uvicorn>=0.29"]
+llm = ["anthropic>=2.0"]
+dev = ["pytest>=7", "httpx>=0.27"]
+
+[project.scripts]
+ap-automation = "ap_automation.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

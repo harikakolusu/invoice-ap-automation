@@ -1,0 +1,23 @@
+From: billing@evergreen.example
+To: ap-inbox@buyer.example
+Subject: Invoice 032388 from Evergreen Maintenance LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Evergreen Maintenance LLC
+Vendor Tax ID: 78-8321371
+Invoice #: 032388
+Invoice Date (DD/MM/YYYY): 01/05/2026
+Purchase Order: PO-2026-000687
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 69 | @ $5.36 | TX05 | $369.84
+
+Subtotal: $369.84
+Tax: $18.49
+Amount Due: $388.33
+
+Regards,
+Billing Team

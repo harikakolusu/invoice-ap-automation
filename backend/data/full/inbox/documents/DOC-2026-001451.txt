@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59579 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59579
+Invoice Date (DD/MM/YYYY): 24/06/2026
+Purchase Order: PO-2026-001163
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0007 | SSD 1TB NVMe | qty 1 | @ $46.43 | TX18 | $46.43
+
+Subtotal: $46.43
+Tax: $8.36
+Amount Due: $54.79
+
+Regards,
+Billing Team

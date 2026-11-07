@@ -1,0 +1,24 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-43813 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-43813
+Invoice Date (DD/MM/YYYY): 19/02/2026
+Purchase Order: PO-2026-000260
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 12 | @ $4.45 | TX00 | $53.40
+- SKU-RAW-0006 | PP Granules 25kg | qty 298 | @ $301.09 | TX05 | $89,724.82
+
+Subtotal: $89,778.22
+Tax: $4,486.24
+Amount Due: $94,264.46
+
+Regards,
+Billing Team

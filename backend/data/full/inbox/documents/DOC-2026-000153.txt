@@ -1,0 +1,26 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-43769 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-43769
+Invoice Date (DD/MM/YYYY): 11/02/2026
+Purchase Order: PO-2026-000145
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 707 | @ $159.10 | TX05 | $112,483.70
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 33 | @ $248.16 | TX18 | $8,189.28
+- SKU-RAW-0006 | PP Granules 25kg | qty 65 | @ $316.60 | TX05 | $20,579.00
+- SKU-MRO-0004 | V-Belt A42 | qty 110 | @ $54.11 | TX18 | $5,952.10
+
+Subtotal: $147,204.08
+Tax: $9,198.59
+Amount Due: $156,402.67
+
+Regards,
+Billing Team

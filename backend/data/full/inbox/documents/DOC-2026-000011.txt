@@ -1,0 +1,19 @@
+Strata Polymers Pvt Ltd
+Tax ID: 73-7580006
+Remit to: Accounts Receivable, Strata Polymers Pvt Ltd
+
+                                INVOICE
+Invoice No:      STRA-22940
+Invoice Date:    January 18, 2026
+PO Number:       PO-2026-000032
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0003   Hand Sanitizer 1L                   41       63.88  TX05     2,619.08
+
+                                                  Subtotal:         2,619.08
+                                                  Tax:                130.95
+                                                  TOTAL DUE:        2,750.03

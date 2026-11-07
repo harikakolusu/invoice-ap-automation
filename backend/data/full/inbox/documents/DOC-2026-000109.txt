@@ -1,0 +1,23 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/38730 from Keystone Materials Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Materials Inc.
+Vendor Tax ID: 91-6633517
+Invoice #: INV/2026/38730
+Invoice Date (DD/MM/YYYY): 10/02/2026
+Purchase Order: PO-2026-000103
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 7 | @ $8.35 | TX18 | $58.45
+
+Subtotal: $58.45
+Tax: $10.52
+Amount Due: $68.97
+
+Regards,
+Billing Team

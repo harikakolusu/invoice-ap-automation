@@ -1,0 +1,25 @@
+Tidewater Systems Ltd
+Tax ID: 76-7633712
+Remit to: Accounts Receivable, Tidewater Systems Ltd
+
+                                INVOICE
+Invoice No:      014375
+Invoice Date:    January 27, 2026
+PO Number:       PO-2026-000016
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0001   Drinking Water 20L                 160        3.86  TX05       617.60
+ 2  SKU-ITH-0002   Docking Station USB-C               13      109.78  TX18     1,427.14
+ 3  SKU-ITH-0005   USB-C Hub 7-port                     1       60.68  TX18        60.68
+ 4  SKU-ITH-0001   Laptop 14in i7                      10       60.53  TX18       605.30
+ 5  SKU-ITH-0007   SSD 1TB NVMe                         1       50.14  TX18        50.14
+ 6  SKU-ITH-0009   Wi-Fi Access Point                   2       32.44  TX18        64.88
+ 7  SKU-FAC-0003   Hand Sanitizer 1L                  160       62.23  TX05     9,956.80
+
+                                                  Subtotal:        12,782.54
+                                                  Tax:                926.19
+                                                  TOTAL DUE:       13,708.73

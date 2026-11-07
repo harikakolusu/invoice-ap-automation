@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/44116 from Silver Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Industrial Supply Ltd
+Vendor Tax ID: 26-5859665
+Invoice #: INV/2026/44116
+Invoice Date (DD/MM/YYYY): 12/03/2026
+Purchase Order: PO-2026-000085
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 39 | @ $237.52 | TX18 | $9,263.28
+
+Subtotal: $9,263.28
+Tax: $1,667.39
+Amount Due: $10,930.67
+
+Regards,
+Billing Team

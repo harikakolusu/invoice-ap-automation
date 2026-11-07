@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice STRA-24090 from Strata Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Industrial Supply Pvt Ltd
+Vendor Tax ID: 70-9924066
+Invoice #: STRA-24090
+Invoice Date (DD/MM/YYYY): 17/07/2026
+Purchase Order: PO-2026-000106
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0004 | Paper Towels Case | qty 160 | @ $14.82 | TX05 | $2,371.20
+
+Subtotal: $2,371.20
+Tax: $118.56
+Amount Due: $2,489.76
+
+Regards,
+Billing Team

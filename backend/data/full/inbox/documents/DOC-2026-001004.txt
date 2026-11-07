@@ -1,0 +1,23 @@
+From: billing@northstar.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/56690 from Northstar Metals Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Northstar Metals Inc.
+Vendor Tax ID: 66-6691131
+Invoice #: INV/2026/56690
+Invoice Date (DD/MM/YYYY): 08/05/2026
+Purchase Order: PO-2026-000680
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 53 | @ $21.95 | TX12 | $1,163.35
+
+Subtotal: $1,163.35
+Tax: $139.60
+Amount Due: $1,302.95
+
+Regards,
+Billing Team

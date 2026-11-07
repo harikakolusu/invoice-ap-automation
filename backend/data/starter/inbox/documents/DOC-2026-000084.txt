@@ -1,0 +1,20 @@
+Glacier Polymers LLC
+Tax ID: 79-5689971
+Remit to: Accounts Receivable, Glacier Polymers LLC
+
+                                INVOICE
+Invoice No:      INV/2026/48241
+Invoice Date:    2026-05-04
+PO Number:       PO-2026-000074
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0007   Desk Organizer                      32       85.19  TX12     2,726.08
+ 2  SKU-OFF-0003   Heavy Duty Stapler                  10      102.39  TX12     1,023.90
+
+                                                  Subtotal:         3,749.98
+                                                  Tax:                450.00
+                                                  TOTAL DUE:        4,199.98

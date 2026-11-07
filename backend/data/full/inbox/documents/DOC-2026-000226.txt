@@ -1,0 +1,19 @@
+Silver Systems Inc.
+Tax ID: 40-7574051
+Remit to: Accounts Receivable, Silver Systems Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/11443
+Invoice Date:    February 15, 2026
+PO Number:       PO-2026-000279
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0001   Laptop 14in i7                      22       57.31  TX18     1,260.82
+
+                                                  Subtotal:         1,260.82
+                                                  Tax:                226.95
+                                                  TOTAL DUE:        1,487.77

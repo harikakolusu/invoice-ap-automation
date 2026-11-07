@@ -1,0 +1,19 @@
+Oakridge Materials LLC
+Tax ID: 99-2038166
+Remit to: Accounts Receivable, Oakridge Materials LLC
+
+                                INVOICE
+Invoice No:      INV/2026/32400
+Invoice Date:    June 4, 2026
+PO Number:       PO-2026-000948
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0001   Steel Sheet 2mm                     40        8.74  TX05       349.60
+
+                                                  Subtotal:           349.60
+                                                  Tax:                 17.48
+                                                  TOTAL DUE:          367.08

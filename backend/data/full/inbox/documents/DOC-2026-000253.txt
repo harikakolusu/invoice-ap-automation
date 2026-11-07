@@ -1,0 +1,23 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice 028236 from Meridian Office Solutions Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Office Solutions Inc.
+Vendor Tax ID: 58-9994334
+Invoice #: 028236
+Invoice Date (DD/MM/YYYY): 20/02/2026
+Purchase Order: PO-2026-000334
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 400 | @ $8.25 | TX12 | $3,300.00
+
+Subtotal: $3,300.00
+Tax: $396.00
+Amount Due: $3,696.00
+
+Regards,
+Billing Team

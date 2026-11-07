@@ -1,0 +1,23 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice 045972 from Unity Electronics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Electronics Pvt Ltd
+Vendor Tax ID: 98-7473864
+Invoice #: 045972
+Invoice Date (DD/MM/YYYY): 19/06/2026
+Purchase Order: PO-2026-001135
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 11 | @ $57.35 | TX18 | $630.85
+
+Subtotal: $630.85
+Tax: $113.55
+Amount Due: $744.40
+
+Regards,
+Billing Team

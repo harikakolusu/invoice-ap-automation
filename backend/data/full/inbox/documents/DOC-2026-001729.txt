@@ -1,0 +1,23 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/44960 from Unity Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Equipment Pvt Ltd
+Vendor Tax ID: 35-4375227
+Invoice #: INV/2026/44960
+Invoice Date (DD/MM/YYYY): 18/07/2026
+Purchase Order: PO-2026-001203
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 235 | @ $19.11 | TX18 | $4,490.85
+
+Subtotal: $4,490.85
+Tax: $808.35
+Amount Due: $5,299.20
+
+Regards,
+Billing Team

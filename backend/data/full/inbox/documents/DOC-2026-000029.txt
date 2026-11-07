@@ -1,0 +1,23 @@
+From: billing@frontier.example
+To: ap-inbox@buyer.example
+Subject: Invoice FRON-1837 from Frontier Metals LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Frontier Metals LLC
+Vendor Tax ID: 57-9008691
+Invoice #: FRON-1837
+Invoice Date (DD/MM/YYYY): 26/01/2026
+Purchase Order: PO-2026-000025
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0005 | Packing Tape 36pk | qty 1085 | @ $39.56 | TX12 | $42,922.60
+
+Subtotal: $42,922.60
+Tax: $5,150.71
+Amount Due: $48,073.31
+
+Regards,
+Billing Team

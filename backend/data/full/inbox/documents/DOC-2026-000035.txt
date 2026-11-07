@@ -1,0 +1,19 @@
+Helios Logistics Co.
+Tax ID: 91-2007511
+Remit to: Accounts Receivable, Helios Logistics Co.
+
+                                INVOICE
+Invoice No:      HELI53432
+Invoice Date:    2026-01-23
+PO Number:       PO-2026-000019
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0009   Wi-Fi Access Point                  11       31.67  TX18       348.37
+
+                                                  Subtotal:           348.37
+                                                  Tax:                 62.71
+                                                  TOTAL DUE:          411.08

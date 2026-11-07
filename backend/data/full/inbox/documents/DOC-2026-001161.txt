@@ -1,0 +1,23 @@
+From: billing@lumen.example
+To: ap-inbox@buyer.example
+Subject: Invoice LUME-58050 from Lumen Logistics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lumen Logistics Pvt Ltd
+Vendor Tax ID: 28-6404535
+Invoice #: LUME-58050
+Invoice Date (DD/MM/YYYY): 29/05/2026
+Purchase Order: PO-2026-000999
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 421 | @ $2.19 | TX12 | $921.99
+
+Subtotal: $921.99
+Tax: $110.64
+Amount Due: $1,032.63
+
+Regards,
+Billing Team

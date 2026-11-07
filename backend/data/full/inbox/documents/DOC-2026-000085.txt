@@ -1,0 +1,23 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice REDW3410 from Redwood Electronics Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Electronics Ltd
+Vendor Tax ID: 76-5195325
+Invoice #: REDW3410
+Invoice Date (DD/MM/YYYY): 30/01/2026
+Purchase Order: PO-2026-000130
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 11 | @ $28.67 | TX18 | $315.37
+
+Subtotal: $315.37
+Tax: $56.77
+Amount Due: $372.14
+
+Regards,
+Billing Team

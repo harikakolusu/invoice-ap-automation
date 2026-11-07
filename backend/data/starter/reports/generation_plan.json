@@ -1,0 +1,39 @@
+{
+ "seed": 20261022,
+ "scale": 0.1,
+ "volumes": {
+  "vendors": 30,
+  "purchase_orders": 150,
+  "po_lines": 220,
+  "goods_receipts": 180,
+  "invoices": 200
+ },
+ "scenario_counts": {
+  "PRICE_VARIANCE": 20,
+  "MISSING_RECEIPT": 8,
+  "TAX_MISMATCH": 2,
+  "CLOSED_VENDOR": 2,
+  "TOTAL_MISMATCH": 1,
+  "DATE_BEFORE_PO": 1,
+  "QTY_EXCEEDS_RECEIPT": 8,
+  "QTY_EXCEEDS_PO": 8,
+  "DUPLICATE_RESUBMISSION": 6,
+  "DUPLICATE_NUMBER": 4,
+  "CLEAN_NON_PO": 6,
+  "CLEAN_PARTIAL_DELIVERY": 8,
+  "CLEAN_OVER_RECEIPT_WITHIN_TOL": 4,
+  "CLEAN_PRICE_WITHIN_TOL": 8
+ },
+ "po_fulfilment_plan": {
+  "MISSING": 8,
+  "CLOSED": 2,
+  "PARTIAL_CLEAN": 8,
+  "PARTIAL_EXCEED": 8,
+  "OVER_CLEAN": 4,
+  "OVER_EXCEED": 8,
+  "FULL": 64,
+  "SPLIT": 41,
+  "UNINVOICED": 4,
+  "OPEN": 3
+ }
+}

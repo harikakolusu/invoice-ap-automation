@@ -1,0 +1,23 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice 050052 from Keystone Polymers Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Polymers Co.
+Vendor Tax ID: 76-5656738
+Invoice #: 050052
+Invoice Date (DD/MM/YYYY): 20/02/2026
+Purchase Order: PO-2026-000516
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 765 | @ $149.39 | TX05 | $114,283.35
+
+Subtotal: $114,283.35
+Tax: $5,714.17
+Amount Due: $119,997.52
+
+Regards,
+Billing Team

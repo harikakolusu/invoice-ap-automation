@@ -1,0 +1,23 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034671 from Glacier Electronics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Electronics Pvt Ltd
+Vendor Tax ID: 73-1156371
+Invoice #: 034671
+Invoice Date (DD/MM/YYYY): 04/05/2026
+Purchase Order: PO-2026-000619
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 3 | @ $67.27 | TX18 | $201.81
+
+Subtotal: $201.81
+Tax: $36.33
+Amount Due: $238.14
+
+Regards,
+Billing Team

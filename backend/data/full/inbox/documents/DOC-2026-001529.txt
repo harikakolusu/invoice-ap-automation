@@ -1,0 +1,20 @@
+Oakridge Tech Components Pvt Ltd
+Tax ID: 19-2490442
+Remit to: Accounts Receivable, Oakridge Tech Components Pvt Ltd
+
+                                INVOICE
+Invoice No:      OAKR-59772
+Invoice Date:    July 3, 2026
+PO Number:       PO-2026-001120
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0002   Docking Station USB-C               79      107.87  TX18     8,521.73
+ 2  SKU-PKG-0002   Stretch Film Roll                  273        2.03  TX12       554.19
+
+                                                  Subtotal:         9,075.92
+                                                  Tax:              1,600.41
+                                                  TOTAL DUE:       10,676.33

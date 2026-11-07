@@ -1,0 +1,23 @@
+From: billing@ironwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice IRON-33761 from Ironwood Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Ironwood Equipment Pvt Ltd
+Vendor Tax ID: 85-8745788
+Invoice #: IRON-33761
+Invoice Date (DD/MM/YYYY): 03/02/2026
+Purchase Order: PO-2026-000050
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 24 | @ $6.64 | TX18 | $159.36
+
+Subtotal: $159.36
+Tax: $28.68
+Amount Due: $188.04
+
+Regards,
+Billing Team

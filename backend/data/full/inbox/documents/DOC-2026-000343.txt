@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/34969 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/34969
+Invoice Date (DD/MM/YYYY): 02/03/2026
+Purchase Order: PO-2026-000208
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 112 | @ $2.36 | TX05 | $264.32
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 49 | @ $5.78 | TX18 | $283.22
+
+Subtotal: $547.54
+Tax: $64.20
+Amount Due: $611.74
+
+Regards,
+Billing Team

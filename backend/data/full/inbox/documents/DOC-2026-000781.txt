@@ -1,0 +1,21 @@
+Lakeside Logistics Pvt Ltd
+Tax ID: 28-4806367
+Remit to: Accounts Receivable, Lakeside Logistics Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV-2026-36642
+Invoice Date:    2026-04-05
+PO Number:       PO-2026-000566
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0004   Toner Cartridge BK                  80        3.54  TX12       283.20
+ 2  SKU-PKG-0003   Pallet Wrap 500m                    92       16.62  TX12     1,529.04
+ 3  SKU-PKG-0006   Wooden Pallet EUR                  444       20.84  TX12     9,252.96
+
+                                                  Subtotal:        11,065.20
+                                                  Tax:              1,327.82
+                                                  TOTAL DUE:       12,393.02

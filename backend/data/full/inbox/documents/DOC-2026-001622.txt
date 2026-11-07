@@ -1,0 +1,24 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/44234 from Silver Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Industrial Supply Ltd
+Vendor Tax ID: 26-5859665
+Invoice #: INV/2026/44234
+Invoice Date (DD/MM/YYYY): 09/07/2026
+Purchase Order: PO-2026-001241
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 147 | @ $19.97 | TX18 | $2,935.59
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 24 | @ $62.11 | TX18 | $1,490.64
+
+Subtotal: $4,426.23
+Tax: $796.73
+Amount Due: $5,222.96
+
+Regards,
+Billing Team

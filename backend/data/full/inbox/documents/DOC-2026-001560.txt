@@ -1,0 +1,24 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44459 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44459
+Invoice Date (DD/MM/YYYY): 03/07/2026
+Purchase Order: PO-2026-001073
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0006 | PP Granules 25kg | qty 7 | @ $321.72 | TX05 | $2,252.04
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 46 | @ $4.86 | TX18 | $223.56
+
+Subtotal: $2,475.60
+Tax: $152.84
+Amount Due: $2,628.44
+
+Regards,
+Billing Team

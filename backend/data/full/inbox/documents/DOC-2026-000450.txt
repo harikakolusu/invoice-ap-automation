@@ -1,0 +1,19 @@
+Pinnacle Polymers GmbH
+Tax ID: 97-9523785
+Remit to: Accounts Receivable, Pinnacle Polymers GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/47577
+Invoice Date:    2026-03-11
+PO Number:       PO-2026-000257
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0001   Safety Gloves Nitrile               22        5.32  TX18       117.04
+
+                                                  Subtotal:           117.04
+                                                  Tax:                 21.07
+                                                  TOTAL DUE:          138.11

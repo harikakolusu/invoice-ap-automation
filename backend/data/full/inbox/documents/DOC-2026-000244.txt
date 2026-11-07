@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/34964 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/34964
+Invoice Date (DD/MM/YYYY): 18/02/2026
+Purchase Order: PO-2026-000149
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 66 | @ $2.44 | TX05 | $161.04
+
+Subtotal: $161.04
+Tax: $8.05
+Amount Due: $169.09
+
+Regards,
+Billing Team

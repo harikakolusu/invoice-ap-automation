@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/54945 from Helios Materials Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Materials Pvt Ltd
+Vendor Tax ID: 18-1136223
+Invoice #: INV/2026/54945
+Invoice Date (DD/MM/YYYY): 20/02/2026
+Purchase Order: PO-2026-000324
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0006 | Network Switch 24P | qty 7 | @ $411.79 | TX18 | $2,882.53
+
+Subtotal: $2,882.53
+Tax: $518.86
+Amount Due: $3,401.39
+
+Regards,
+Billing Team

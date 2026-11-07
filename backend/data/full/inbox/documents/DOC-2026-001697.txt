@@ -1,0 +1,23 @@
+From: billing@frontier.example
+To: ap-inbox@buyer.example
+Subject: Invoice FRON-28393 from Frontier Metals GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Frontier Metals GmbH
+Vendor Tax ID: 50-2879942
+Invoice #: FRON-28393
+Invoice Date (DD/MM/YYYY): 15/07/2026
+Purchase Order: PO-2026-001044
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 184 | @ $154.53 | TX05 | $28,433.52
+
+Subtotal: $28,433.52
+Tax: $1,421.68
+Amount Due: $29,855.20
+
+Regards,
+Billing Team

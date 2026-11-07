@@ -1,0 +1,23 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10104 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10104
+Invoice Date (DD/MM/YYYY): 17/02/2026
+Purchase Order: PO-2026-000162
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 749 | @ $1.27 | TX12 | $951.23
+
+Subtotal: $951.23
+Tax: $114.15
+Amount Due: $1,065.38
+
+Regards,
+Billing Team

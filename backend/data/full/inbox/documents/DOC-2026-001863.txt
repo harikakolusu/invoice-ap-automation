@@ -1,0 +1,23 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034645 from Atlas Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Trading GmbH
+Vendor Tax ID: 13-6292349
+Invoice #: 034645
+Invoice Date (DD/MM/YYYY): 02/08/2026
+Purchase Order: PO-2026-001284
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 19 | @ $2.40 | TX12 | $45.60
+
+Subtotal: $45.60
+Tax: $5.47
+Amount Due: $51.07
+
+Regards,
+Billing Team

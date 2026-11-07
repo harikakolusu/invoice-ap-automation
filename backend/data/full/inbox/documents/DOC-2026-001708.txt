@@ -1,0 +1,23 @@
+From: billing@delta.example
+To: ap-inbox@buyer.example
+Subject: Invoice 024373 from Delta Maintenance Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Delta Maintenance Ltd
+Vendor Tax ID: 73-1739188
+Invoice #: 024373
+Invoice Date (DD/MM/YYYY): 19/07/2026
+Purchase Order: PO-2026-001186
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 7 | @ $5.84 | TX18 | $40.88
+
+Subtotal: $40.88
+Tax: $7.36
+Amount Due: $48.24
+
+Regards,
+Billing Team

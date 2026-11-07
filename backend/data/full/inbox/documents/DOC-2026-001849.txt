@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice STRA-56241 from Strata Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Industrial Supply Pvt Ltd
+Vendor Tax ID: 88-2424791
+Invoice #: STRA-56241
+Invoice Date (DD/MM/YYYY): 02/08/2026
+Purchase Order: PO-2026-001365
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 8 | @ $20.08 | TX18 | $160.64
+
+Subtotal: $160.64
+Tax: $28.92
+Amount Due: $189.56
+
+Regards,
+Billing Team

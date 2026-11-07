@@ -1,0 +1,19 @@
+Atlas Packaging LLC
+Tax ID: 39-7612613
+Remit to: Accounts Receivable, Atlas Packaging LLC
+
+                                INVOICE
+Invoice No:      ATLA-55796
+Invoice Date:    2026-07-10
+PO Number:       PO-2026-000109
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0009   Wi-Fi Access Point                  17       32.36  TX18       550.12
+
+                                                  Subtotal:           550.12
+                                                  Tax:                 99.02
+                                                  TOTAL DUE:          649.14

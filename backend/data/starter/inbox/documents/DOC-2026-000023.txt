@@ -1,0 +1,20 @@
+Silver Polymers Ltd
+Tax ID: 99-2578190
+Remit to: Accounts Receivable, Silver Polymers Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/41748
+Invoice Date:    2026-02-25
+PO Number:       PO-2026-000010
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0002   Aluminium Rod 20mm                  47        4.03  TX05       189.41
+ 2  SKU-ITH-0004   Wireless Keyboard                   20       46.49  TX18       929.80
+
+                                                  Subtotal:         1,119.21
+                                                  Tax:                176.83
+                                                  TOTAL DUE:        1,296.04

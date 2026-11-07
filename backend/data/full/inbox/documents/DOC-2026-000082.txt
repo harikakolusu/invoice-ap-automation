@@ -1,0 +1,23 @@
+From: billing@oakridge.example
+To: ap-inbox@buyer.example
+Subject: Invoice 042710 from Oakridge Maintenance Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Oakridge Maintenance Ltd
+Vendor Tax ID: 88-9073522
+Invoice #: 042710
+Invoice Date (DD/MM/YYYY): 03/02/2026
+Purchase Order: PO-2026-000190
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 14 | @ $20.35 | TX18 | $284.90
+
+Subtotal: $284.90
+Tax: $51.28
+Amount Due: $336.18
+
+Regards,
+Billing Team

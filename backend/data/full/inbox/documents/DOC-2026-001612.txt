@@ -1,0 +1,25 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56822 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56822
+Invoice Date (DD/MM/YYYY): 07/07/2026
+Purchase Order: PO-2026-001244
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 8 | @ $49.72 | TX18 | $397.76
+- SKU-OFF-0004 | Toner Cartridge BK | qty 16 | @ $3.78 | TX12 | $60.48
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 77 | @ $5.99 | TX18 | $461.23
+
+Subtotal: $919.47
+Tax: $161.88
+Amount Due: $1,081.35
+
+Regards,
+Billing Team

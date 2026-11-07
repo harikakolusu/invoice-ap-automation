@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/44207 from Silver Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Industrial Supply Ltd
+Vendor Tax ID: 26-5859665
+Invoice #: INV/2026/44207
+Invoice Date (DD/MM/YYYY): 16/06/2026
+Purchase Order: PO-2026-000773
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 4 | @ $63.06 | TX18 | $252.24
+
+Subtotal: $252.24
+Tax: $45.40
+Amount Due: $297.64
+
+Regards,
+Billing Team

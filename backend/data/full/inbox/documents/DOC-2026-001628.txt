@@ -1,0 +1,23 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice 045980 from Unity Electronics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Electronics Pvt Ltd
+Vendor Tax ID: 98-7473864
+Invoice #: 045980
+Invoice Date (DD/MM/YYYY): 12/07/2026
+Purchase Order: PO-2026-001304
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 59 | @ $16.96 | TX12 | $1,000.64
+
+Subtotal: $1,000.64
+Tax: $120.08
+Amount Due: $1,120.72
+
+Regards,
+Billing Team

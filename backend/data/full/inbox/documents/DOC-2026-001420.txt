@@ -1,0 +1,19 @@
+Pinnacle Trading Ltd
+Tax ID: 98-5736232
+Remit to: Accounts Receivable, Pinnacle Trading Ltd
+
+                                INVOICE
+Invoice No:      PINN-47384
+Invoice Date:    2026-05-12
+PO Number:       PO-2026-001041
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0008   Air Filter Panel                     7        7.77  TX18        54.39
+
+                                                  Subtotal:            54.39
+                                                  Tax:                  9.79
+                                                  TOTAL DUE:           64.18

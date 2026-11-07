@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59497 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59497
+Invoice Date (DD/MM/YYYY): 03/05/2026
+Purchase Order: PO-2026-000679
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0007 | SSD 1TB NVMe | qty 8 | @ $48.13 | TX18 | $385.04
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 55 | @ $16.29 | TX12 | $895.95
+
+Subtotal: $1,280.99
+Tax: $176.82
+Amount Due: $1,457.81
+
+Regards,
+Billing Team

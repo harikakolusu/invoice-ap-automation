@@ -1,0 +1,23 @@
+From: billing@cobalt.example
+To: ap-inbox@buyer.example
+Subject: Invoice COBA-50317 from Cobalt Metals LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Cobalt Metals LLC
+Vendor Tax ID: 31-0995879
+Invoice #: COBA-50317
+Invoice Date (DD/MM/YYYY): 11/06/2026
+Purchase Order: PO-2026-000938
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 752 | @ $4.08 | TX05 | $3,068.16
+
+Subtotal: $3,068.16
+Tax: $153.41
+Amount Due: $3,221.57
+
+Regards,
+Billing Team

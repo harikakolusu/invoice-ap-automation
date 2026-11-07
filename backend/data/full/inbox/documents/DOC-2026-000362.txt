@@ -1,0 +1,24 @@
+From: billing@frontier.example
+To: ap-inbox@buyer.example
+Subject: Invoice FRON-28348 from Frontier Metals GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Frontier Metals GmbH
+Vendor Tax ID: 50-2879942
+Invoice #: FRON-28348
+Invoice Date (DD/MM/YYYY): 03/03/2026
+Purchase Order: PO-2026-000224
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0006 | PP Granules 25kg | qty 13 | @ $291.01 | TX05 | $3,783.13
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 54 | @ $4.27 | TX05 | $230.58
+
+Subtotal: $4,013.71
+Tax: $200.69
+Amount Due: $4,214.40
+
+Regards,
+Billing Team

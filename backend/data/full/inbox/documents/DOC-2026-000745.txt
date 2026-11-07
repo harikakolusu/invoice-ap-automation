@@ -1,0 +1,19 @@
+Westbrook Materials GmbH
+Tax ID: 55-5821806
+Remit to: Accounts Receivable, Westbrook Materials GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/49722
+Invoice Date:    April 12, 2026
+PO Number:       PO-2026-000648
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0006   PP Granules 25kg                    11      357.86  TX05     3,936.46
+
+                                                  Subtotal:         3,936.46
+                                                  Tax:                196.82
+                                                  TOTAL DUE:        4,133.28

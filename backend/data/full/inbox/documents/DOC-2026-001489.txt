@@ -1,0 +1,19 @@
+Delta Logistics Pvt Ltd
+Tax ID: 85-1149041
+Remit to: Accounts Receivable, Delta Logistics Pvt Ltd
+
+                                INVOICE
+Invoice No:      DELT-36734
+Invoice Date:    2026-06-25
+PO Number:       N/A
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-SRV-0005   Software Subscription                2      506.96  TX18     1,013.92
+
+                                                  Subtotal:         1,013.92
+                                                  Tax:                182.51
+                                                  TOTAL DUE:        1,196.43

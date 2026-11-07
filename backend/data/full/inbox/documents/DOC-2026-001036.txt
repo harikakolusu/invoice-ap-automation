@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59520 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59520
+Invoice Date (DD/MM/YYYY): 17/05/2026
+Purchase Order: PO-2026-000670
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0005 | Packing Tape 36pk | qty 17 | @ $37.58 | TX12 | $638.86
+
+Subtotal: $638.86
+Tax: $76.66
+Amount Due: $715.52
+
+Regards,
+Billing Team

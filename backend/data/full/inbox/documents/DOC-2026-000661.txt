@@ -1,0 +1,26 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44077 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44077
+Invoice Date (DD/MM/YYYY): 02/04/2026
+Purchase Order: PO-2026-000442
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0005 | Epoxy Resin 5L | qty 278 | @ $10.91 | TX05 | $3,032.98
+- SKU-RAW-0004 | ABS Pellets 25kg | qty 604 | @ $6.18 | TX05 | $3,732.72
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 44 | @ $18.96 | TX18 | $834.24
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 6 | @ $4.97 | TX18 | $29.82
+
+Subtotal: $7,629.76
+Tax: $493.82
+Amount Due: $8,123.58
+
+Regards,
+Billing Team

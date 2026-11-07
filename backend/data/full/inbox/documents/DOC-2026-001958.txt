@@ -1,0 +1,20 @@
+Falcon Metals Inc.
+Tax ID: 61-1118766
+Remit to: Accounts Receivable, Falcon Metals Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/04573
+Invoice Date:    2026-08-17
+PO Number:       PO-2026-001303
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0006   Wooden Pallet EUR                  249       21.04  TX12     5,238.96
+ 2  SKU-RAW-0006   PP Granules 25kg                    36      288.88  TX05    10,399.68
+
+                                                  Subtotal:        15,638.64
+                                                  Tax:              1,148.66
+                                                  TOTAL DUE:       16,787.30

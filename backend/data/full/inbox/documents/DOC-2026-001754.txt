@@ -1,0 +1,25 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-9874 from Horizon Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging Pvt Ltd
+Vendor Tax ID: 37-8463742
+Invoice #: HORI-9874
+Invoice Date (DD/MM/YYYY): 24/07/2026
+Purchase Order: PO-2026-001276
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 342 | @ $1.18 | TX12 | $403.56
+- SKU-ITH-0004 | Wireless Keyboard | qty 8 | @ $47.07 | TX18 | $376.56
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 30 | @ $28.82 | TX18 | $864.60
+
+Subtotal: $1,644.72
+Tax: $271.84
+Amount Due: $1,916.56
+
+Regards,
+Billing Team

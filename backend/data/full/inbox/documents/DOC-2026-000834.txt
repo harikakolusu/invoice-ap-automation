@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice 032624 from Strata Logistics Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Logistics Inc.
+Vendor Tax ID: 24-9746540
+Invoice #: 032624
+Invoice Date (DD/MM/YYYY): 19/04/2026
+Purchase Order: PO-2026-000462
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 7 | @ $2.68 | TX05 | $18.76
+
+Subtotal: $18.76
+Tax: $0.94
+Amount Due: $19.70
+
+Regards,
+Billing Team

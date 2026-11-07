@@ -1,0 +1,24 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-32753 from Nimbus Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Trading Co.
+Vendor Tax ID: 48-4630922
+Invoice #: NIMB-32753
+Invoice Date (DD/MM/YYYY): 12/02/2026
+Purchase Order: PO-2026-000099
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 71 | @ $18.21 | TX18 | $1,292.91
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 1 | @ $61.92 | TX18 | $61.92
+
+Subtotal: $1,354.83
+Tax: $243.87
+Amount Due: $1,598.70
+
+Regards,
+Billing Team

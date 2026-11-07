@@ -1,0 +1,19 @@
+Zenith Polymers Co.
+Tax ID: 39-1723360
+Remit to: Accounts Receivable, Zenith Polymers Co.
+
+                                INVOICE
+Invoice No:      028635
+Invoice Date:    2026-07-30
+PO Number:       PO-2026-001274
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0001   Safety Gloves Nitrile                7        4.70  TX18        32.90
+
+                                                  Subtotal:            32.90
+                                                  Tax:                  5.92
+                                                  TOTAL DUE:           38.82

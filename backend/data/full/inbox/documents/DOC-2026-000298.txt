@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/54959 from Helios Materials Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Materials Pvt Ltd
+Vendor Tax ID: 18-1136223
+Invoice #: INV/2026/54959
+Invoice Date (DD/MM/YYYY): 27/02/2026
+Purchase Order: PO-2026-000307
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0002 | Docking Station USB-C | qty 10 | @ $101.52 | TX18 | $1,015.20
+
+Subtotal: $1,015.20
+Tax: $182.74
+Amount Due: $1,197.94
+
+Regards,
+Billing Team

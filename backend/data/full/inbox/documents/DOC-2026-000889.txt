@@ -1,0 +1,27 @@
+From: billing@ironwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice IRON-33813 from Ironwood Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Ironwood Equipment Pvt Ltd
+Vendor Tax ID: 85-8745788
+Invoice #: IRON-33813
+Invoice Date (DD/MM/YYYY): 29/04/2026
+Purchase Order: PO-2026-000706
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 254 | @ $2.39 | TX05 | $607.06
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 15 | @ $58.70 | TX05 | $880.50
+- SKU-FAC-0006 | Trash Bags 100pk | qty 65 | @ $15.57 | TX05 | $1,012.05
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 273 | @ $18.38 | TX18 | $5,017.74
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 7 | @ $213.24 | TX18 | $1,492.68
+
+Subtotal: $9,010.03
+Tax: $1,296.85
+Amount Due: $10,306.88
+
+Regards,
+Billing Team

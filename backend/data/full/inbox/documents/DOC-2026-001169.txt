@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice QUAN-22434 from Quanta Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Electronics GmbH
+Vendor Tax ID: 32-1125093
+Invoice #: QUAN-22434
+Invoice Date (DD/MM/YYYY): 26/05/2026
+Purchase Order: PO-2026-000858
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 56 | @ $63.06 | TX18 | $3,531.36
+
+Subtotal: $3,531.36
+Tax: $635.64
+Amount Due: $4,167.00
+
+Regards,
+Billing Team

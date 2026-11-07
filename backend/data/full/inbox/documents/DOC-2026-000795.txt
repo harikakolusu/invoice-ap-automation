@@ -1,0 +1,25 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-9814 from Horizon Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging Pvt Ltd
+Vendor Tax ID: 37-8463742
+Invoice #: HORI-9814
+Invoice Date (DD/MM/YYYY): 17/04/2026
+Purchase Order: PO-2026-000560
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0007 | SSD 1TB NVMe | qty 8 | @ $52.24 | TX18 | $417.92
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 59 | @ $20.37 | TX12 | $1,201.83
+- SKU-PKG-0001 | Corrugated Box Large | qty 337 | @ $8.12 | TX12 | $2,736.44
+
+Subtotal: $4,356.19
+Tax: $547.82
+Amount Due: $4,904.01
+
+Regards,
+Billing Team

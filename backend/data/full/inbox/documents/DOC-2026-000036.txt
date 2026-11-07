@@ -1,0 +1,19 @@
+Frontier Polymers LLC
+Tax ID: 21-3488925
+Remit to: Accounts Receivable, Frontier Polymers LLC
+
+                                INVOICE
+Invoice No:      FRON-35205
+Invoice Date:    2026-01-31
+PO Number:       PO-2026-000059
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0001   Steel Sheet 2mm                    207        8.66  TX05     1,792.62
+
+                                                  Subtotal:         1,792.62
+                                                  Tax:                 89.63
+                                                  TOTAL DUE:        1,882.25

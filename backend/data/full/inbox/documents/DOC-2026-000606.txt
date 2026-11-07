@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59376 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59376
+Invoice Date (DD/MM/YYYY): 25/01/2026
+Purchase Order: PO-2026-000373
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0006 | Network Switch 24P | qty 9 | @ $348.49 | TX18 | $3,136.41
+
+Subtotal: $3,136.41
+Tax: $564.55
+Amount Due: $3,700.96
+
+Regards,
+Billing Team

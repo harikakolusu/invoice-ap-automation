@@ -1,0 +1,25 @@
+From: billing@crescent.example
+To: ap-inbox@buyer.example
+Subject: Invoice CRES-49185 from Crescent Distribution Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Crescent Distribution Ltd
+Vendor Tax ID: 12-9335717
+Invoice #: CRES-49185
+Invoice Date (DD/MM/YYYY): 20/05/2026
+Purchase Order: PO-2026-000772
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 10 | @ $5.35 | TX05 | $53.50
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 49 | @ $147.22 | TX05 | $7,213.78
+- SKU-RAW-0006 | PP Granules 25kg | qty 10 | @ $298.61 | TX05 | $2,986.10
+
+Subtotal: $10,253.38
+Tax: $512.68
+Amount Due: $10,766.06
+
+Regards,
+Billing Team

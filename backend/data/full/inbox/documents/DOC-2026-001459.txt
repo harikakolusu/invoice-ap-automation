@@ -1,0 +1,24 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice MERI-50391 from Meridian Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Electronics GmbH
+Vendor Tax ID: 26-1856640
+Invoice #: MERI-50391
+Invoice Date (DD/MM/YYYY): 22/06/2026
+Purchase Order: PO-2026-001059
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-OFF-0008 | Sticky Notes 24pk | qty 13 | @ $66.36 | TX12 | $862.68
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 1 | @ $30.17 | TX18 | $30.17
+
+Subtotal: $892.85
+Tax: $108.95
+Amount Due: $1,001.80
+
+Regards,
+Billing Team

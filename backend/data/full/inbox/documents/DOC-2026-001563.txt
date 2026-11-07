@@ -1,0 +1,19 @@
+Silver Facility Services Ltd
+Tax ID: 25-8751121
+Remit to: Accounts Receivable, Silver Facility Services Ltd
+
+                                INVOICE
+Invoice No:      035806
+Invoice Date:    2026-07-04
+PO Number:       PO-2026-000946
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0001   Drinking Water 20L                  43        3.82  TX05       164.26
+
+                                                  Subtotal:           164.26
+                                                  Tax:                  8.21
+                                                  TOTAL DUE:          172.47

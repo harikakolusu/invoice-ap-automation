@@ -1,0 +1,23 @@
+From: billing@zenith.example
+To: ap-inbox@buyer.example
+Subject: Invoice 058039 from Zenith Materials LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Zenith Materials LLC
+Vendor Tax ID: 77-8844417
+Invoice #: 058039
+Invoice Date (DD/MM/YYYY): 12/06/2026
+Purchase Order: PO-2026-000986
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0004 | Toner Cartridge BK | qty 66 | @ $3.80 | TX12 | $250.80
+
+Subtotal: $250.80
+Tax: $30.10
+Amount Due: $280.90
+
+Regards,
+Billing Team

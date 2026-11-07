@@ -1,0 +1,24 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10268 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10268
+Invoice Date (DD/MM/YYYY): 18/08/2026
+Purchase Order: PO-2026-001368
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 7 | @ $17.80 | TX18 | $124.60
+- SKU-MRO-0008 | Air Filter Panel | qty 232 | @ $7.72 | TX18 | $1,791.04
+
+Subtotal: $1,915.64
+Tax: $344.82
+Amount Due: $2,260.46
+
+Regards,
+Billing Team

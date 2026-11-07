@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/45804 from Helios Office Solutions Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Office Solutions Ltd
+Vendor Tax ID: 14-4453195
+Invoice #: INV/2026/45804
+Invoice Date (DD/MM/YYYY): 16/02/2026
+Purchase Order: PO-2026-000083
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 6 | @ $56.53 | TX18 | $339.18
+
+Subtotal: $339.18
+Tax: $61.05
+Amount Due: $400.23
+
+Regards,
+Billing Team

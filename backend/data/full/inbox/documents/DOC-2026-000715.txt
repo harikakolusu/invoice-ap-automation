@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-17214 from Horizon Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Electronics GmbH
+Vendor Tax ID: 54-0965743
+Invoice #: HORI-17214
+Invoice Date (DD/MM/YYYY): 03/04/2026
+Purchase Order: PO-2026-000555
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0001 | A4 Copy Paper 5 reams | qty 24 | @ $78.08 | TX12 | $1,873.92
+
+Subtotal: $1,873.92
+Tax: $224.87
+Amount Due: $2,098.79
+
+Regards,
+Billing Team

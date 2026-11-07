@@ -1,0 +1,19 @@
+Glacier Distribution Pvt Ltd
+Tax ID: 67-1680206
+Remit to: Accounts Receivable, Glacier Distribution Pvt Ltd
+
+                                INVOICE
+Invoice No:      GLAC-33332
+Invoice Date:    2026-02-18
+PO Number:       PO-2026-000201
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0001   Steel Sheet 2mm                    597        9.71  TX05     5,796.87
+
+                                                  Subtotal:         5,796.87
+                                                  Tax:                289.84
+                                                  TOTAL DUE:        6,086.71

@@ -1,0 +1,23 @@
+From: billing@delta.example
+To: ap-inbox@buyer.example
+Subject: Invoice DELT-35607 from Delta Systems LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Delta Systems LLC
+Vendor Tax ID: 87-5083825
+Invoice #: DELT-35607
+Invoice Date (DD/MM/YYYY): 25/03/2026
+Purchase Order: PO-2026-000468
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 5 | @ $30.86 | TX18 | $154.30
+
+Subtotal: $154.30
+Tax: $27.77
+Amount Due: $182.07
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Granite Metals Ltd
+Tax ID: 38-7474869
+Remit to: Accounts Receivable, Granite Metals Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/53066
+Invoice Date:    May 25, 2026
+PO Number:       PO-2026-000080
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0001   A4 Copy Paper 5 reams                8       75.81  TX12       606.48
+
+                                                  Subtotal:           606.48
+                                                  Tax:                 72.78
+                                                  TOTAL DUE:          679.26

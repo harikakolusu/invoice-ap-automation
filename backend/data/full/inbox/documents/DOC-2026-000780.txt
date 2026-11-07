@@ -1,0 +1,24 @@
+From: billing@oakridge.example
+To: ap-inbox@buyer.example
+Subject: Invoice 042738 from Oakridge Maintenance Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Oakridge Maintenance Ltd
+Vendor Tax ID: 88-9073522
+Invoice #: 042738
+Invoice Date (DD/MM/YYYY): 13/04/2026
+Purchase Order: PO-2026-000574
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 17 | @ $9.27 | TX18 | $157.59
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 33 | @ $6.62 | TX18 | $218.46
+
+Subtotal: $376.05
+Tax: $67.69
+Amount Due: $443.74
+
+Regards,
+Billing Team

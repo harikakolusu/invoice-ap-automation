@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-43785 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-43785
+Invoice Date (DD/MM/YYYY): 11/02/2026
+Purchase Order: PO-2026-000209
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 273 | @ $145.97 | TX05 | $39,849.81
+
+Subtotal: $39,849.81
+Tax: $1,992.49
+Amount Due: $41,842.30
+
+Regards,
+Billing Team

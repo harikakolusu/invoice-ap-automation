@@ -1,0 +1,23 @@
+From: billing@evergreen.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/39487 from Evergreen Tech Components Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Evergreen Tech Components Pvt Ltd
+Vendor Tax ID: 62-2332540
+Invoice #: INV/2026/39487
+Invoice Date (DD/MM/YYYY): 07/02/2026
+Purchase Order: PO-2026-000119
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 78 | @ $4.50 | TX18 | $351.00
+
+Subtotal: $351.00
+Tax: $63.18
+Amount Due: $414.18
+
+Regards,
+Billing Team

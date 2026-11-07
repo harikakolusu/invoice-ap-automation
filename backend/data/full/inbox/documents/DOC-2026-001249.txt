@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/58636 from Prairie Facility Services Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Facility Services Co.
+Vendor Tax ID: 16-6959276
+Invoice #: INV/2026/58636
+Invoice Date (DD/MM/YYYY): 04/06/2026
+Purchase Order: PO-2026-000890
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 8 | @ $29.87 | TX18 | $238.96
+
+Subtotal: $238.96
+Tax: $43.01
+Amount Due: $281.97
+
+Regards,
+Billing Team

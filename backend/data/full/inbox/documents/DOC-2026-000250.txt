@@ -1,0 +1,24 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-43821 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-43821
+Invoice Date (DD/MM/YYYY): 20/02/2026
+Purchase Order: PO-2026-000248
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 35 | @ $51.12 | TX18 | $1,789.20
+- SKU-MRO-0008 | Air Filter Panel | qty 174 | @ $8.67 | TX18 | $1,508.58
+
+Subtotal: $3,297.78
+Tax: $593.60
+Amount Due: $3,891.38
+
+Regards,
+Billing Team

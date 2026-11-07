@@ -1,0 +1,19 @@
+Pinnacle Office Solutions Inc.
+Tax ID: 46-4970646
+Remit to: Accounts Receivable, Pinnacle Office Solutions Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/05290
+Invoice Date:    April 14, 2026
+PO Number:       PO-2026-000517
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0004   Toner Cartridge BK                  30        3.33  TX12        99.90
+
+                                                  Subtotal:            99.90
+                                                  Tax:                 11.99
+                                                  TOTAL DUE:          111.89

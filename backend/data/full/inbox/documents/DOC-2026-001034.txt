@@ -1,0 +1,23 @@
+From: billing@northstar.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/48810 from Northstar Tech Components Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Northstar Tech Components Pvt Ltd
+Vendor Tax ID: 12-4495388
+Invoice #: INV/2026/48810
+Invoice Date (DD/MM/YYYY): 11/05/2026
+Purchase Order: PO-2026-000768
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-ITH-0002 | Docking Station USB-C | qty 10 | @ $101.79 | TX18 | $1,017.90
+
+Subtotal: $1,017.90
+Tax: $183.22
+Amount Due: $1,201.12
+
+Regards,
+Billing Team

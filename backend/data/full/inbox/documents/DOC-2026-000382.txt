@@ -1,0 +1,25 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice QUAN-22419 from Quanta Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Electronics GmbH
+Vendor Tax ID: 32-1125093
+Invoice #: QUAN-22419
+Invoice Date (DD/MM/YYYY): 05/03/2026
+Purchase Order: PO-2026-000358
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-ITH-0002 | Docking Station USB-C | qty 5 | @ $104.54 | TX18 | $522.70
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 17 | @ $28.98 | TX18 | $492.66
+- SKU-ITH-0004 | Wireless Keyboard | qty 3 | @ $45.51 | TX18 | $136.53
+
+Subtotal: $1,151.89
+Tax: $207.35
+Amount Due: $1,359.24
+
+Regards,
+Billing Team

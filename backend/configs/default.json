@@ -1,0 +1,164 @@
+{
+  "seed": 20261022,
+  "fiscal_year": 2026,
+  "buyer_name": "Orbit Manufacturing Inc. (fictional buyer)",
+  "scale_presets": {
+    "starter": 0.1,
+    "full": 1.0
+  },
+  "base_volumes": {
+    "vendors": 300,
+    "purchase_orders": 1500,
+    "po_lines": 2200,
+    "goods_receipts": 1800,
+    "invoices": 2000
+  },
+  "issue_mix": {
+    "CLEAN": 0.7,
+    "PRICE_VARIANCE": 0.1,
+    "QTY_MISMATCH": 0.08,
+    "DUPLICATE": 0.05,
+    "MISSING_RECEIPT": 0.04,
+    "TAX_VENDOR_ERROR": 0.03
+  },
+  "clean_subtypes_share_of_all_invoices": {
+    "CLEAN_NON_PO": 0.03,
+    "CLEAN_PARTIAL_DELIVERY": 0.04,
+    "CLEAN_OVER_RECEIPT_WITHIN_TOL": 0.02,
+    "CLEAN_PRICE_WITHIN_TOL": 0.04
+  },
+  "open_po_share": 0.02,
+  "inactive_closed_vendor_share": 0.02,
+  "dates": {
+    "po_start": "2026-01-05",
+    "po_end": "2026-07-31",
+    "run_date": "2026-10-31"
+  },
+  "tax_codes": {
+    "TX00": "0.00",
+    "TX05": "0.05",
+    "TX12": "0.12",
+    "TX18": "0.18"
+  },
+  "payment_terms_days": {
+    "NET15": 15,
+    "NET30": 30,
+    "NET45": 45,
+    "NET60": 60
+  },
+  "tolerances": {
+    "price_pct": "2.0",
+    "qty_pct": "5.0",
+    "amount_abs": "0.05",
+    "line_amount_abs": "0.01"
+  },
+  "approval_policy": {
+    "auto_approve_max": "5000.00",
+    "l1_max": "25000.00",
+    "non_po_min_level": 1
+  },
+  "exception_precedence": [
+    "EXTRACTION_INCOMPLETE",
+    "VENDOR_UNKNOWN",
+    "DUPLICATE_INVOICE",
+    "VENDOR_CLOSED",
+    "VENDOR_MISMATCH",
+    "PO_NOT_FOUND",
+    "TOTAL_MISMATCH",
+    "DATE_BEFORE_PO",
+    "MISSING_RECEIPT",
+    "TAX_MISMATCH",
+    "QTY_EXCEEDS_PO",
+    "QTY_EXCEEDS_RECEIPT",
+    "PRICE_VARIANCE"
+  ],
+  "routing": {
+    "EXTRACTION_INCOMPLETE": {
+      "queue": "AP_OPERATIONS",
+      "role": "AP_ANALYST",
+      "sla_hours": 24,
+      "severity": "HIGH"
+    },
+    "VENDOR_UNKNOWN": {
+      "queue": "VENDOR_MASTER",
+      "role": "SYSTEM_ADMIN",
+      "sla_hours": 48,
+      "severity": "HIGH"
+    },
+    "DUPLICATE_INVOICE": {
+      "queue": "AP_OPERATIONS",
+      "role": "AP_ANALYST",
+      "sla_hours": 24,
+      "severity": "HIGH"
+    },
+    "VENDOR_CLOSED": {
+      "queue": "VENDOR_MASTER",
+      "role": "SYSTEM_ADMIN",
+      "sla_hours": 48,
+      "severity": "HIGH"
+    },
+    "VENDOR_MISMATCH": {
+      "queue": "VENDOR_MASTER",
+      "role": "SYSTEM_ADMIN",
+      "sla_hours": 48,
+      "severity": "HIGH"
+    },
+    "PO_NOT_FOUND": {
+      "queue": "AP_OPERATIONS",
+      "role": "AP_ANALYST",
+      "sla_hours": 24,
+      "severity": "HIGH"
+    },
+    "TOTAL_MISMATCH": {
+      "queue": "AP_OPERATIONS",
+      "role": "AP_ANALYST",
+      "sla_hours": 24,
+      "severity": "HIGH"
+    },
+    "DATE_BEFORE_PO": {
+      "queue": "AP_OPERATIONS",
+      "role": "AP_ANALYST",
+      "sla_hours": 24,
+      "severity": "MEDIUM"
+    },
+    "MISSING_RECEIPT": {
+      "queue": "RECEIVING_CONFIRMATION",
+      "role": "REQUESTER",
+      "sla_hours": 72,
+      "severity": "MEDIUM"
+    },
+    "TAX_MISMATCH": {
+      "queue": "TAX_REVIEW",
+      "role": "PROCESS_OWNER",
+      "sla_hours": 48,
+      "severity": "MEDIUM"
+    },
+    "QTY_EXCEEDS_PO": {
+      "queue": "PROCUREMENT_REVIEW",
+      "role": "PROCESS_OWNER",
+      "sla_hours": 48,
+      "severity": "MEDIUM"
+    },
+    "QTY_EXCEEDS_RECEIPT": {
+      "queue": "RECEIVING_CONFIRMATION",
+      "role": "REQUESTER",
+      "sla_hours": 72,
+      "severity": "MEDIUM"
+    },
+    "PRICE_VARIANCE": {
+      "queue": "PROCUREMENT_REVIEW",
+      "role": "PROCESS_OWNER",
+      "sla_hours": 48,
+      "severity": "MEDIUM"
+    }
+  },
+  "llm": {
+    "provider": "anthropic",
+    "model": "claude-opus-5-5",
+    "extraction_effort": "medium",
+    "copilot_effort": "medium",
+    "max_tokens": 16000,
+    "refusal_fallbacks": "default",
+    "benchmark_documents": 20
+  }
+}

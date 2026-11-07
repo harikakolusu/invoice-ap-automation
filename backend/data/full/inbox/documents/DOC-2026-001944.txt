@@ -1,0 +1,19 @@
+Atlas Materials Inc.
+Tax ID: 39-9978315
+Remit to: Accounts Receivable, Atlas Materials Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/36374
+Invoice Date:    August 17, 2026
+PO Number:       PO-2026-001401
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0007   SSD 1TB NVMe                         2       47.93  TX12        95.86
+
+                                                  Subtotal:            95.86
+                                                  Tax:                 11.50
+                                                  TOTAL DUE:          107.36

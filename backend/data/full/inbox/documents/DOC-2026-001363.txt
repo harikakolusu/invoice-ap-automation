@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice 032627 from Strata Logistics Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Logistics Inc.
+Vendor Tax ID: 24-9746540
+Invoice #: 032627
+Invoice Date (DD/MM/YYYY): 15/06/2026
+Purchase Order: PO-2026-000945
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0005 | Packing Tape 36pk | qty 427 | @ $36.00 | TX12 | $15,372.00
+
+Subtotal: $15,372.00
+Tax: $1,844.64
+Amount Due: $17,216.64
+
+Regards,
+Billing Team

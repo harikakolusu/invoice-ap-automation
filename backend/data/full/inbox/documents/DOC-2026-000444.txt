@@ -1,0 +1,19 @@
+Pinnacle Trading Ltd
+Tax ID: 98-5736232
+Remit to: Accounts Receivable, Pinnacle Trading Ltd
+
+                                INVOICE
+Invoice No:      PINN-47364
+Invoice Date:    2026-03-09
+PO Number:       PO-2026-000157
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0005   Hex Bolts M10 100pk                  4       18.11  TX18        72.44
+
+                                                  Subtotal:            72.44
+                                                  Tax:                 13.04
+                                                  TOTAL DUE:           85.48

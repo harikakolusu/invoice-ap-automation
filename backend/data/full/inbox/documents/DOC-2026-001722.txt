@@ -1,0 +1,19 @@
+Meridian Logistics Ltd
+Tax ID: 91-4014739
+Remit to: Accounts Receivable, Meridian Logistics Ltd
+
+                                INVOICE
+Invoice No:      MERI-22518
+Invoice Date:    July 22, 2026
+PO Number:       PO-2026-001172
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0005   Packing Tape 36pk                  311       40.03  TX12    12,449.33
+
+                                                  Subtotal:        12,449.33
+                                                  Tax:              1,493.92
+                                                  TOTAL DUE:       13,943.25

@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/53719 from Quanta Office Solutions LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Office Solutions LLC
+Vendor Tax ID: 80-8139672
+Invoice #: INV/2026/53719
+Invoice Date (DD/MM/YYYY): 13/03/2026
+Purchase Order: PO-2026-000386
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 31 | @ $62.63 | TX18 | $1,941.53
+
+Subtotal: $1,941.53
+Tax: $349.48
+Amount Due: $2,291.01
+
+Regards,
+Billing Team

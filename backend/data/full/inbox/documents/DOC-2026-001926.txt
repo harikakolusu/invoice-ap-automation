@@ -1,0 +1,25 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44576 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44576
+Invoice Date (DD/MM/YYYY): 10/08/2026
+Purchase Order: PO-2026-001257
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 49 | @ $19.81 | TX05 | $970.69
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 38 | @ $20.10 | TX18 | $763.80
+- SKU-MRO-0006 | Welding Rods 5kg | qty 4 | @ $8.96 | TX18 | $35.84
+
+Subtotal: $1,770.33
+Tax: $192.46
+Amount Due: $1,962.79
+
+Regards,
+Billing Team

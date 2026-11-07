@@ -1,0 +1,19 @@
+Summit Logistics LLC
+Tax ID: 61-5446928
+Remit to: Accounts Receivable, Summit Logistics LLC
+
+                                INVOICE
+Invoice No:      INV/2026/54135
+Invoice Date:    May 5, 2026
+PO Number:       PO-2026-000762
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0002   Stretch Film Roll                 1487        2.09  TX12     3,107.83
+
+                                                  Subtotal:         3,107.83
+                                                  Tax:                372.94
+                                                  TOTAL DUE:        3,480.77

@@ -1,0 +1,23 @@
+From: billing@cobalt.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/43800 from Cobalt Logistics LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Cobalt Logistics LLC
+Vendor Tax ID: 44-2263373
+Invoice #: INV/2026/43800
+Invoice Date (DD/MM/YYYY): 05/07/2026
+Purchase Order: PO-2026-001070
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 43 | @ $5.65 | TX05 | $242.95
+
+Subtotal: $242.95
+Tax: $12.15
+Amount Due: $255.10
+
+Regards,
+Billing Team

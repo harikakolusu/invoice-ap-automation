@@ -1,0 +1,24 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice 008125 from Quanta Trading Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Trading Pvt Ltd
+Vendor Tax ID: 56-7054910
+Invoice #: 008125
+Invoice Date (DD/MM/YYYY): 03/03/2026
+Purchase Order: PO-2026-000370
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0004 | Paper Towels Case | qty 117 | @ $16.22 | TX05 | $1,897.74
+- SKU-MRO-0006 | Welding Rods 5kg | qty 13 | @ $9.93 | TX18 | $129.09
+
+Subtotal: $2,026.83
+Tax: $118.13
+Amount Due: $2,144.96
+
+Regards,
+Billing Team

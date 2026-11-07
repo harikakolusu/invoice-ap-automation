@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/34997 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/34997
+Invoice Date (DD/MM/YYYY): 08/06/2026
+Purchase Order: PO-2026-000911
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 165 | @ $54.44 | TX18 | $8,982.60
+
+Subtotal: $8,982.60
+Tax: $1,616.87
+Amount Due: $10,599.47
+
+Regards,
+Billing Team

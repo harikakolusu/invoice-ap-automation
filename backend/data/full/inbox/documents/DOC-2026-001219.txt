@@ -1,0 +1,23 @@
+From: billing@vertex.example
+To: ap-inbox@buyer.example
+Subject: Invoice VERT-35117 from Vertex Facility Services Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Vertex Facility Services Inc.
+Vendor Tax ID: 46-5683378
+Invoice #: VERT-35117
+Invoice Date (DD/MM/YYYY): 31/05/2026
+Purchase Order: PO-2026-000868
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 96 | @ $18.43 | TX18 | $1,769.28
+
+Subtotal: $1,769.28
+Tax: $318.47
+Amount Due: $2,087.75
+
+Regards,
+Billing Team

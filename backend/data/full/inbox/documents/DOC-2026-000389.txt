@@ -1,0 +1,19 @@
+Silver Industrial Supply GmbH
+Tax ID: 11-2526608
+Remit to: Accounts Receivable, Silver Industrial Supply GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/52978
+Invoice Date:    2026-03-05
+PO Number:       PO-2026-000368
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0004   V-Belt A42                           5       48.32  TX18       241.60
+
+                                                  Subtotal:           241.60
+                                                  Tax:                 43.49
+                                                  TOTAL DUE:          285.09

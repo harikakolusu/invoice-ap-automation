@@ -1,0 +1,23 @@
+From: billing@lakeside.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/45599 from Lakeside Materials LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lakeside Materials LLC
+Vendor Tax ID: 78-3700831
+Invoice #: INV/2026/45599
+Invoice Date (DD/MM/YYYY): 25/05/2026
+Purchase Order: PO-2026-000755
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0006 | PP Granules 25kg | qty 69 | @ $315.36 | TX05 | $21,759.84
+
+Subtotal: $21,759.84
+Tax: $1,087.99
+Amount Due: $22,847.83
+
+Regards,
+Billing Team

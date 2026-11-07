@@ -1,0 +1,23 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice 050073 from Keystone Polymers Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Polymers Co.
+Vendor Tax ID: 76-5656738
+Invoice #: 050073
+Invoice Date (DD/MM/YYYY): 28/04/2026
+Purchase Order: PO-2026-000688
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0001 | Drinking Water 20L | qty 200 | @ $3.88 | TX05 | $776.00
+
+Subtotal: $776.00
+Tax: $38.80
+Amount Due: $814.80
+
+Regards,
+Billing Team

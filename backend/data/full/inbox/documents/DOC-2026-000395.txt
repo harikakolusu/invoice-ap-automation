@@ -1,0 +1,19 @@
+Falcon Materials LLC
+Tax ID: 88-1483266
+Remit to: Accounts Receivable, Falcon Materials LLC
+
+                                INVOICE
+Invoice No:      FALC-59270
+Invoice Date:    2026-03-05
+PO Number:       PO-2026-000205
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0003   Copper Wire 2.5mm                    7      146.55  TX05     1,025.85
+
+                                                  Subtotal:         1,025.85
+                                                  Tax:                 51.29
+                                                  TOTAL DUE:        1,077.14

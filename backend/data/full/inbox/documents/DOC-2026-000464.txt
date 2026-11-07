@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-43853 from Horizon Facility Services Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Facility Services Inc.
+Vendor Tax ID: 19-1965633
+Invoice #: HORI-43853
+Invoice Date (DD/MM/YYYY): 13/03/2026
+Purchase Order: PO-2026-000438
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 126 | @ $2.31 | TX12 | $291.06
+
+Subtotal: $291.06
+Tax: $34.93
+Amount Due: $325.99
+
+Regards,
+Billing Team

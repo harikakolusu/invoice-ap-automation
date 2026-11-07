@@ -1,0 +1,19 @@
+Silver Facility Services Ltd
+Tax ID: 25-8751121
+Remit to: Accounts Receivable, Silver Facility Services Ltd
+
+                                INVOICE
+Invoice No:      035809
+Invoice Date:    2026-07-31
+PO Number:       PO-2026-001235
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0005   Hex Bolts M10 100pk                 37       18.19  TX18       673.03
+
+                                                  Subtotal:           673.03
+                                                  Tax:                121.15
+                                                  TOTAL DUE:          794.18

@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice 032480 from Nimbus Systems LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Systems LLC
+Vendor Tax ID: 13-7618320
+Invoice #: 032480
+Invoice Date (DD/MM/YYYY): 31/01/2026
+Purchase Order: PO-2026-000046
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 1 | @ $34.86 | TX18 | $34.86
+
+Subtotal: $34.86
+Tax: $6.27
+Amount Due: $41.13
+
+Regards,
+Billing Team

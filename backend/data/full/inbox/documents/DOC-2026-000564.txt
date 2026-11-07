@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/53724 from Quanta Office Solutions LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Office Solutions LLC
+Vendor Tax ID: 80-8139672
+Invoice #: INV/2026/53724
+Invoice Date (DD/MM/YYYY): 22/03/2026
+Purchase Order: PO-2026-000366
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 3 | @ $64.82 | TX18 | $194.46
+
+Subtotal: $194.46
+Tax: $35.00
+Amount Due: $229.46
+
+Regards,
+Billing Team

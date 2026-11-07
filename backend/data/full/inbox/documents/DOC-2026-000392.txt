@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/52255 from Prairie Distribution Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Distribution Ltd
+Vendor Tax ID: 28-5918169
+Invoice #: INV/2026/52255
+Invoice Date (DD/MM/YYYY): 08/03/2026
+Purchase Order: PO-2026-000122
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-OFF-0001 | A4 Copy Paper 5 reams | qty 11 | @ $81.19 | TX12 | $893.09
+
+Subtotal: $893.09
+Tax: $107.17
+Amount Due: $1,000.26
+
+Regards,
+Billing Team

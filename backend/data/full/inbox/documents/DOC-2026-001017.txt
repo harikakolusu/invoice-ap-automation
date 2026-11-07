@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56767 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56767
+Invoice Date (DD/MM/YYYY): 10/05/2026
+Purchase Order: PO-2026-000662
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0003 | Heavy Duty Stapler | qty 11 | @ $97.45 | TX12 | $1,071.95
+
+Subtotal: $1,071.95
+Tax: $128.63
+Amount Due: $1,200.58
+
+Regards,
+Billing Team

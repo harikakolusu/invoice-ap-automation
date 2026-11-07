@@ -1,0 +1,23 @@
+From: billing@cobalt.example
+To: ap-inbox@buyer.example
+Subject: Invoice COBA-50300 from Cobalt Metals LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Cobalt Metals LLC
+Vendor Tax ID: 31-0995879
+Invoice #: COBA-50300
+Invoice Date (DD/MM/YYYY): 07/05/2026
+Purchase Order: PO-2026-000675
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 60 | @ $7.55 | TX05 | $453.00
+
+Subtotal: $453.00
+Tax: $22.65
+Amount Due: $475.65
+
+Regards,
+Billing Team

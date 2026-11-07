@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-32750 from Nimbus Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Trading Co.
+Vendor Tax ID: 48-4630922
+Invoice #: NIMB-32750
+Invoice Date (DD/MM/YYYY): 11/02/2026
+Purchase Order: PO-2026-000136
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0002 | Docking Station USB-C | qty 11 | @ $103.84 | TX18 | $1,142.24
+
+Subtotal: $1,142.24
+Tax: $205.60
+Amount Due: $1,347.84
+
+Regards,
+Billing Team

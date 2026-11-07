@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44101 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44101
+Invoice Date (DD/MM/YYYY): 05/04/2026
+Purchase Order: PO-2026-000456
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 26 | @ $7.88 | TX18 | $204.88
+
+Subtotal: $204.88
+Tax: $36.88
+Amount Due: $241.76
+
+Regards,
+Billing Team

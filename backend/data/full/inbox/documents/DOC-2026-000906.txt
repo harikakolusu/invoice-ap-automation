@@ -1,0 +1,21 @@
+Pinnacle Tech Components Pvt Ltd
+Tax ID: 24-4574254
+Remit to: Accounts Receivable, Pinnacle Tech Components Pvt Ltd
+
+                                INVOICE
+Invoice No:      PINN-42736
+Invoice Date:    April 29, 2026
+PO Number:       PO-2026-000633
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0003   Hand Sanitizer 1L                   98       59.33  TX05     5,814.34
+ 2  SKU-ITH-0004   Wireless Keyboard                    8       45.69  TX18       365.52
+ 3  SKU-ITH-0005   USB-C Hub 7-port                    34       56.97  TX18     1,936.98
+
+                                                  Subtotal:         8,116.84
+                                                  Tax:                705.17
+                                                  TOTAL DUE:        8,822.01

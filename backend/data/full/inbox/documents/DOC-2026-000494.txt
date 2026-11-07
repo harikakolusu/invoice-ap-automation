@@ -1,0 +1,20 @@
+Evergreen Electronics GmbH
+Tax ID: 83-9735455
+Remit to: Accounts Receivable, Evergreen Electronics GmbH
+
+                                INVOICE
+Invoice No:      EVER-58587
+Invoice Date:    2026-03-15
+PO Number:       PO-2026-000290
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0010   Rack UPS 3kVA                       28       31.48  TX18       881.44
+ 2  SKU-PKG-0001   Corrugated Box Large              1398        8.06  TX12    11,267.88
+
+                                                  Subtotal:        12,149.32
+                                                  Tax:              1,510.81
+                                                  TOTAL DUE:       13,660.13

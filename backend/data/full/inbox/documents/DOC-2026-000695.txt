@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44062 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44062
+Invoice Date (DD/MM/YYYY): 01/04/2026
+Purchase Order: PO-2026-000444
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 3 | @ $20.67 | TX18 | $62.01
+
+Subtotal: $62.01
+Tax: $11.16
+Amount Due: $73.17
+
+Regards,
+Billing Team

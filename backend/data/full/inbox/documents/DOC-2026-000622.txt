@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/34972 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/34972
+Invoice Date (DD/MM/YYYY): 29/03/2026
+Purchase Order: PO-2026-000535
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 19 | @ $8.38 | TX18 | $159.22
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 7 | @ $241.94 | TX18 | $1,693.58
+
+Subtotal: $1,852.80
+Tax: $333.50
+Amount Due: $2,186.30
+
+Regards,
+Billing Team

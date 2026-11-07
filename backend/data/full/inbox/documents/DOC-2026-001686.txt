@@ -1,0 +1,19 @@
+Vertex Polymers Co.
+Tax ID: 46-5885695
+Remit to: Accounts Receivable, Vertex Polymers Co.
+
+                                INVOICE
+Invoice No:      VERT-17595
+Invoice Date:    2026-07-16
+PO Number:       PO-2026-001157
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0008   Server RAM 32GB                     31       69.41  TX18     2,151.71
+
+                                                  Subtotal:         2,151.71
+                                                  Tax:                387.31
+                                                  TOTAL DUE:        2,539.02

@@ -1,0 +1,24 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/38753 from Keystone Materials Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Materials Inc.
+Vendor Tax ID: 91-6633517
+Invoice #: INV/2026/38753
+Invoice Date (DD/MM/YYYY): 26/03/2026
+Purchase Order: PO-2026-000499
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 174 | @ $6.57 | TX18 | $1,143.18
+- SKU-MRO-0004 | V-Belt A42 | qty 6 | @ $52.17 | TX18 | $313.02
+
+Subtotal: $1,456.20
+Tax: $262.11
+Amount Due: $1,718.31
+
+Regards,
+Billing Team

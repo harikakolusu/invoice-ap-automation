@@ -1,0 +1,23 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice 002317 from Unity Office Solutions Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Office Solutions Pvt Ltd
+Vendor Tax ID: 24-7171376
+Invoice #: 002317
+Invoice Date (DD/MM/YYYY): 26/07/2026
+Purchase Order: PO-2026-001413
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-OFF-0008 | Sticky Notes 24pk | qty 22 | @ $79.77 | TX12 | $1,754.94
+
+Subtotal: $1,754.94
+Tax: $210.59
+Amount Due: $1,965.53
+
+Regards,
+Billing Team

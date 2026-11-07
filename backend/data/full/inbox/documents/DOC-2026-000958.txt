@@ -1,0 +1,23 @@
+From: billing@boreal.example
+To: ap-inbox@buyer.example
+Subject: Invoice BORE-38943 from Boreal Tech Components Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Boreal Tech Components Ltd
+Vendor Tax ID: 46-3161234
+Invoice #: BORE-38943
+Invoice Date (DD/MM/YYYY): 20/03/2026
+Purchase Order: PO-2026-000647
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 49 | @ $54.36 | TX18 | $2,663.64
+
+Subtotal: $2,663.64
+Tax: $479.46
+Amount Due: $3,143.10
+
+Regards,
+Billing Team

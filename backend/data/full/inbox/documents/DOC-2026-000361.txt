@@ -1,0 +1,20 @@
+Keystone Packaging Pvt Ltd
+Tax ID: 98-2460041
+Remit to: Accounts Receivable, Keystone Packaging Pvt Ltd
+
+                                INVOICE
+Invoice No:      KEYS-34337
+Invoice Date:    March 5, 2026
+PO Number:       PO-2026-000306
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0005   Packing Tape 36pk                  720       35.14  TX12    25,300.80
+ 2  SKU-PKG-0001   Corrugated Box Large               111        8.62  TX12       956.82
+
+                                                  Subtotal:        26,257.62
+                                                  Tax:              3,150.92
+                                                  TOTAL DUE:       29,408.54

@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56837 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56837
+Invoice Date (DD/MM/YYYY): 31/07/2026
+Purchase Order: PO-2026-001232
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0008 | Sticky Notes 24pk | qty 34 | @ $71.84 | TX12 | $2,442.56
+
+Subtotal: $2,442.56
+Tax: $293.11
+Amount Due: $2,735.67
+
+Regards,
+Billing Team

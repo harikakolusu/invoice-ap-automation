@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/28362 from Strata Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Equipment Ltd
+Vendor Tax ID: 72-0960342
+Invoice #: INV/2026/28362
+Invoice Date (DD/MM/YYYY): 04/03/2026
+Purchase Order: PO-2026-000312
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0003 | Monitor 27in QHD | qty 35 | @ $1,928.95 | TX18 | $67,513.25
+
+Subtotal: $67,513.25
+Tax: $12,152.39
+Amount Due: $79,665.64
+
+Regards,
+Billing Team

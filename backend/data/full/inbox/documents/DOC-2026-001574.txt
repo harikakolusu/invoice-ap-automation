@@ -1,0 +1,26 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44457 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44457
+Invoice Date (DD/MM/YYYY): 02/07/2026
+Purchase Order: PO-2026-001046
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 34 | @ $212.53 | TX18 | $7,226.02
+- SKU-MRO-0004 | V-Belt A42 | qty 15 | @ $50.91 | TX18 | $763.65
+- SKU-MRO-0008 | Air Filter Panel | qty 12 | @ $7.56 | TX18 | $90.72
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 235 | @ $6.57 | TX18 | $1,543.95
+
+Subtotal: $9,624.34
+Tax: $1,732.38
+Amount Due: $11,356.72
+
+Regards,
+Billing Team

@@ -1,0 +1,24 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034633 from Atlas Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Trading GmbH
+Vendor Tax ID: 13-6292349
+Invoice #: 034633
+Invoice Date (DD/MM/YYYY): 27/07/2026
+Purchase Order: PO-2026-001126
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 853 | @ $1.98 | TX12 | $1,688.94
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 9 | @ $18.75 | TX18 | $168.75
+
+Subtotal: $1,857.69
+Tax: $233.05
+Amount Due: $2,090.74
+
+Regards,
+Billing Team

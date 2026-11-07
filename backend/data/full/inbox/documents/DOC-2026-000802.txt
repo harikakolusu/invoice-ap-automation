@@ -1,0 +1,23 @@
+From: billing@beacon.example
+To: ap-inbox@buyer.example
+Subject: Invoice BEAC39346 from Beacon Electronics Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Beacon Electronics Ltd
+Vendor Tax ID: 14-0488787
+Invoice #: BEAC39346
+Invoice Date (DD/MM/YYYY): 03/04/2026
+Purchase Order: PO-2026-000550
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 2 | @ $31.09 | TX18 | $62.18
+
+Subtotal: $62.18
+Tax: $11.19
+Amount Due: $73.37
+
+Regards,
+Billing Team

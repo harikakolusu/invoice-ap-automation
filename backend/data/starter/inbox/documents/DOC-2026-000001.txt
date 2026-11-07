@@ -1,0 +1,19 @@
+Atlas Packaging LLC
+Tax ID: 39-7612613
+Remit to: Accounts Receivable, Atlas Packaging LLC
+
+                                INVOICE
+Invoice No:      ATLA-55772
+Invoice Date:    2025-12-16
+PO Number:       PO-2026-000001
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0002   Docking Station USB-C                1      102.54  TX18       102.54
+
+                                                  Subtotal:           102.54
+                                                  Tax:                 18.46
+                                                  TOTAL DUE:          121.00

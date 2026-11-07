@@ -1,0 +1,25 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/52254 from Prairie Distribution Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Distribution Ltd
+Vendor Tax ID: 28-5918169
+Invoice #: INV/2026/52254
+Invoice Date (DD/MM/YYYY): 17/02/2026
+Purchase Order: PO-2026-000115
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 21 | @ $66.89 | TX18 | $1,404.69
+- SKU-ITH-0002 | Docking Station USB-C | qty 2 | @ $106.83 | TX18 | $213.66
+- SKU-ITH-0003 | Monitor 27in QHD | qty 31 | @ $1,713.06 | TX18 | $53,104.86
+
+Subtotal: $54,723.21
+Tax: $9,850.17
+Amount Due: $64,573.38
+
+Regards,
+Billing Team

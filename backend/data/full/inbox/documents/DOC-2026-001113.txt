@@ -1,0 +1,19 @@
+Falcon Materials Inc.
+Tax ID: 75-8711652
+Remit to: Accounts Receivable, Falcon Materials Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/41974
+Invoice Date:    2026-05-20
+PO Number:       PO-2026-000834
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0006   PP Granules 25kg                    26      293.49  TX05     7,630.74
+
+                                                  Subtotal:         7,630.74
+                                                  Tax:                381.54
+                                                  TOTAL DUE:        8,012.28

@@ -1,0 +1,26 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59489 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59489
+Invoice Date (DD/MM/YYYY): 29/04/2026
+Purchase Order: PO-2026-000657
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0001 | Corrugated Box Large | qty 517 | @ $8.26 | TX12 | $4,270.42
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 6 | @ $29.45 | TX18 | $176.70
+- SKU-ITH-0007 | SSD 1TB NVMe | qty 17 | @ $53.02 | TX18 | $901.34
+- SKU-ITH-0002 | Docking Station USB-C | qty 7 | @ $112.79 | TX18 | $789.53
+
+Subtotal: $6,137.99
+Tax: $848.62
+Amount Due: $6,986.61
+
+Regards,
+Billing Team

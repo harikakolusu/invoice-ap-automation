@@ -1,0 +1,23 @@
+From: billing@oakridge.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59094 from Oakridge Facility Services Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Oakridge Facility Services Co.
+Vendor Tax ID: 62-8663889
+Invoice #: INV/2026/59094
+Invoice Date (DD/MM/YYYY): 20/05/2026
+Purchase Order: PO-2026-000806
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-OFF-0002 | Ballpoint Pens 12pk | qty 89 | @ $37.00 | TX12 | $3,293.00
+
+Subtotal: $3,293.00
+Tax: $395.16
+Amount Due: $3,688.16
+
+Regards,
+Billing Team

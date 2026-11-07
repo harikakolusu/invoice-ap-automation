@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017300 from Helios Packaging Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Packaging Inc.
+Vendor Tax ID: 52-9097237
+Invoice #: 017300
+Invoice Date (DD/MM/YYYY): 10/10/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0004 | Legal Advisory Hour | qty 4 | @ $993.60 | TX18 | $3,974.40
+
+Subtotal: $3,974.40
+Tax: $715.39
+Amount Due: $4,689.79
+
+Regards,
+Billing Team

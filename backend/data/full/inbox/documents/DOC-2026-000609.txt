@@ -1,0 +1,25 @@
+From: billing@vertex.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV-2026-38247 from Vertex Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Vertex Industrial Supply Pvt Ltd
+Vendor Tax ID: 82-9642479
+Invoice #: INV-2026-38247
+Invoice Date (DD/MM/YYYY): 26/03/2026
+Purchase Order: PO-2026-000540
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 22 | @ $8.85 | TX18 | $194.70
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 140 | @ $20.31 | TX18 | $2,843.40
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 5 | @ $20.09 | TX18 | $100.45
+
+Subtotal: $3,138.55
+Tax: $564.94
+Amount Due: $3,703.49
+
+Regards,
+Billing Team

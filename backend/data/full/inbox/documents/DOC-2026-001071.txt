@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054319 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054319
+Invoice Date (DD/MM/YYYY): 17/05/2026
+Purchase Order: PO-2026-000763
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 180 | @ $58.92 | TX05 | $10,605.60
+
+Subtotal: $10,605.60
+Tax: $530.28
+Amount Due: $11,135.88
+
+Regards,
+Billing Team

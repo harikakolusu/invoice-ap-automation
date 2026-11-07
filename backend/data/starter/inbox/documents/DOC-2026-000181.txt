@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice QUAN-12304 from Quanta Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Equipment Pvt Ltd
+Vendor Tax ID: 53-2936937
+Invoice #: QUAN-12304
+Invoice Date (DD/MM/YYYY): 21/07/2026
+Purchase Order: PO-2026-000126
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 87 | @ $9.35 | TX18 | $813.45
+
+Subtotal: $813.45
+Tax: $146.42
+Amount Due: $959.87
+
+Regards,
+Billing Team

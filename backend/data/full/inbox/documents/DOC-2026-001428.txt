@@ -1,0 +1,23 @@
+From: billing@kestrel.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEST-16762 from Kestrel Metals Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Kestrel Metals Co.
+Vendor Tax ID: 61-2723773
+Invoice #: KEST-16762
+Invoice Date (DD/MM/YYYY): 23/06/2026
+Purchase Order: PO-2026-001162
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0004 | Wireless Keyboard | qty 16 | @ $49.57 | TX18 | $793.12
+
+Subtotal: $793.12
+Tax: $142.76
+Amount Due: $935.88
+
+Regards,
+Billing Team

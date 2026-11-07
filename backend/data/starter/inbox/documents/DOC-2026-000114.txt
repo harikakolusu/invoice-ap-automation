@@ -1,0 +1,19 @@
+Juniper Polymers Ltd
+Tax ID: 22-0157026
+Remit to: Accounts Receivable, Juniper Polymers Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/06635
+Invoice Date:    June 3, 2026
+PO Number:       PO-2026-000068
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0002   Docking Station USB-C                6      106.08  TX18       636.48
+
+                                                  Subtotal:           636.48
+                                                  Tax:                114.57
+                                                  TOTAL DUE:          751.05

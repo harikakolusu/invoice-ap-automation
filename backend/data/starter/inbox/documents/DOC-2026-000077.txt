@@ -1,0 +1,19 @@
+Juniper Polymers Ltd
+Tax ID: 22-0157026
+Remit to: Accounts Receivable, Juniper Polymers Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/06618
+Invoice Date:    April 27, 2026
+PO Number:       PO-2026-000051
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0006   Network Switch 24P                   6      357.30  TX18     2,143.80
+
+                                                  Subtotal:         2,143.80
+                                                  Tax:                385.88
+                                                  TOTAL DUE:        2,529.68

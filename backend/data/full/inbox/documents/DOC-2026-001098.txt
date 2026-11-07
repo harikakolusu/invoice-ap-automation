@@ -1,0 +1,19 @@
+Westbrook Tech Components Ltd
+Tax ID: 63-3323679
+Remit to: Accounts Receivable, Westbrook Tech Components Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/22959
+Invoice Date:    2026-05-19
+PO Number:       PO-2026-000775
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0009   Wi-Fi Access Point                   5       34.99  TX18       174.95
+
+                                                  Subtotal:           174.95
+                                                  Tax:                 31.49
+                                                  TOTAL DUE:          206.44

@@ -1,0 +1,19 @@
+Monarch Trading Inc.
+Tax ID: 76-2046223
+Remit to: Accounts Receivable, Monarch Trading Inc.
+
+                                INVOICE
+Invoice No:      034411
+Invoice Date:    May 12, 2026
+PO Number:       PO-2026-000819
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0001   Corrugated Box Large               897        8.90  TX12     7,983.30
+
+                                                  Subtotal:         7,983.30
+                                                  Tax:                958.00
+                                                  TOTAL DUE:        8,941.30

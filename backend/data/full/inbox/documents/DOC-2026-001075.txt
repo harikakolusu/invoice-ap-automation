@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/44166 from Silver Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Industrial Supply Ltd
+Vendor Tax ID: 26-5859665
+Invoice #: INV/2026/44166
+Invoice Date (DD/MM/YYYY): 19/05/2026
+Purchase Order: PO-2026-000709
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 12 | @ $19.37 | TX18 | $232.44
+
+Subtotal: $232.44
+Tax: $41.84
+Amount Due: $274.28
+
+Regards,
+Billing Team

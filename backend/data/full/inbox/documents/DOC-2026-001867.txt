@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/35030 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/35030
+Invoice Date (DD/MM/YYYY): 02/08/2026
+Purchase Order: PO-2026-001382
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 9 | @ $6.14 | TX18 | $55.26
+
+Subtotal: $55.26
+Tax: $9.95
+Amount Due: $65.21
+
+Regards,
+Billing Team

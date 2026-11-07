@@ -1,0 +1,19 @@
+Delta Logistics Pvt Ltd
+Tax ID: 85-1149041
+Remit to: Accounts Receivable, Delta Logistics Pvt Ltd
+
+                                INVOICE
+Invoice No:      DELT-36735
+Invoice Date:    2026-07-13
+PO Number:       PO-2026-001256
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0001   Corrugated Box Large               662        9.58  TX12     6,341.96
+
+                                                  Subtotal:         6,341.96
+                                                  Tax:                761.04
+                                                  TOTAL DUE:        7,103.00

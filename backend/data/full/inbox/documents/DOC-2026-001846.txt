@@ -1,0 +1,26 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59621 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59621
+Invoice Date (DD/MM/YYYY): 28/07/2026
+Purchase Order: PO-2026-001326
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0002 | Docking Station USB-C | qty 2 | @ $111.63 | TX18 | $223.26
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 1351 | @ $17.00 | TX12 | $22,967.00
+- SKU-ITH-0004 | Wireless Keyboard | qty 1 | @ $49.29 | TX18 | $49.29
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 53 | @ $1.28 | TX12 | $67.84
+
+Subtotal: $23,307.39
+Tax: $2,813.24
+Amount Due: $26,120.63
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice STRA-56232 from Strata Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Industrial Supply Pvt Ltd
+Vendor Tax ID: 88-2424791
+Invoice #: STRA-56232
+Invoice Date (DD/MM/YYYY): 05/03/2026
+Purchase Order: PO-2026-000154
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 5 | @ $4.24 | TX18 | $21.20
+
+Subtotal: $21.20
+Tax: $3.82
+Amount Due: $25.02
+
+Regards,
+Billing Team

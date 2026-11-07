@@ -1,0 +1,23 @@
+From: billing@ironwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice IRON36214 from Ironwood Polymers Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Ironwood Polymers Co.
+Vendor Tax ID: 30-5198521
+Invoice #: IRON36214
+Invoice Date (DD/MM/YYYY): 16/04/2026
+Purchase Order: PO-2026-000588
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 638 | @ $8.30 | TX05 | $5,295.40
+
+Subtotal: $5,295.40
+Tax: $264.77
+Amount Due: $5,560.17
+
+Regards,
+Billing Team

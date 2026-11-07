@@ -1,0 +1,19 @@
+Redwood Polymers Ltd
+Tax ID: 66-1332610
+Remit to: Accounts Receivable, Redwood Polymers Ltd
+
+                                INVOICE
+Invoice No:      018956
+Invoice Date:    April 30, 2026
+PO Number:       PO-2026-000667
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0002   Aluminium Rod 20mm                  12        4.86  TX05        58.32
+
+                                                  Subtotal:            58.32
+                                                  Tax:                  2.92
+                                                  TOTAL DUE:           61.24

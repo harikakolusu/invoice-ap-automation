@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59447 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59447
+Invoice Date (DD/MM/YYYY): 17/03/2026
+Purchase Order: PO-2026-000349
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0002 | Docking Station USB-C | qty 220 | @ $114.69 | TX18 | $25,231.80
+
+Subtotal: $25,231.80
+Tax: $4,541.72
+Amount Due: $29,773.52
+
+Regards,
+Billing Team

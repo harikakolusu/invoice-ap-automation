@@ -1,0 +1,25 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 047151 from Apex Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Industrial Supply Ltd
+Vendor Tax ID: 24-5199195
+Invoice #: 047151
+Invoice Date (DD/MM/YYYY): 15/04/2026
+Purchase Order: PO-2026-000629
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 6 | @ $4.29 | TX18 | $25.74
+- SKU-OFF-0002 | Ballpoint Pens 12pk | qty 44 | @ $33.45 | TX12 | $1,471.80
+- SKU-MRO-0004 | V-Belt A42 | qty 29 | @ $53.98 | TX18 | $1,565.42
+
+Subtotal: $3,062.96
+Tax: $463.03
+Amount Due: $3,525.99
+
+Regards,
+Billing Team

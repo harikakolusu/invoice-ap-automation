@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice 032626 from Strata Logistics Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Logistics Inc.
+Vendor Tax ID: 24-9746540
+Invoice #: 032626
+Invoice Date (DD/MM/YYYY): 27/05/2026
+Purchase Order: PO-2026-000953
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 492 | @ $20.84 | TX12 | $10,253.28
+
+Subtotal: $10,253.28
+Tax: $1,230.39
+Amount Due: $11,483.67
+
+Regards,
+Billing Team

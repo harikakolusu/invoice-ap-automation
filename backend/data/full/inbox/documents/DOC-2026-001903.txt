@@ -1,0 +1,23 @@
+From: billing@sierra.example
+To: ap-inbox@buyer.example
+Subject: Invoice SIER-20137 from Sierra Office Solutions Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Sierra Office Solutions Inc.
+Vendor Tax ID: 51-8550157
+Invoice #: SIER-20137
+Invoice Date (DD/MM/YYYY): 06/08/2026
+Purchase Order: PO-2026-001323
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0008 | Sticky Notes 24pk | qty 6 | @ $71.03 | TX12 | $426.18
+
+Subtotal: $426.18
+Tax: $51.14
+Amount Due: $477.32
+
+Regards,
+Billing Team

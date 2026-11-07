@@ -1,0 +1,23 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 059937 from Atlas Industrial Supply GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Industrial Supply GmbH
+Vendor Tax ID: 72-4221383
+Invoice #: 059937
+Invoice Date (DD/MM/YYYY): 26/04/2026
+Purchase Order: PO-2026-000696
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 21 | @ $8.48 | TX05 | $178.08
+
+Subtotal: $178.08
+Tax: $8.90
+Amount Due: $186.98
+
+Regards,
+Billing Team

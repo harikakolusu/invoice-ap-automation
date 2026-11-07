@@ -1,0 +1,27 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017140 from Horizon Tech Components Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Tech Components Co.
+Vendor Tax ID: 82-2670433
+Invoice #: 017140
+Invoice Date (DD/MM/YYYY): 21/07/2026
+Purchase Order: PO-2026-001248
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 3 | @ $56.71 | TX18 | $170.13
+- SKU-ITH-0006 | Network Switch 24P | qty 1 | @ $352.81 | TX18 | $352.81
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 12 | @ $3.91 | TX05 | $46.92
+- SKU-ITH-0003 | Monitor 27in QHD | qty 1 | @ $1,815.37 | TX18 | $1,815.37
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 622 | @ $8.08 | TX05 | $5,025.76
+
+Subtotal: $7,410.99
+Tax: $674.54
+Amount Due: $8,085.53
+
+Regards,
+Billing Team

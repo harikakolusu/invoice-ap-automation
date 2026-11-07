@@ -1,0 +1,23 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice 002315 from Unity Office Solutions Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Office Solutions Pvt Ltd
+Vendor Tax ID: 24-7171376
+Invoice #: 002315
+Invoice Date (DD/MM/YYYY): 13/06/2026
+Purchase Order: PO-2026-000935
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-ITH-0004 | Wireless Keyboard | qty 1 | @ $48.05 | TX18 | $48.05
+
+Subtotal: $48.05
+Tax: $8.65
+Amount Due: $56.70
+
+Regards,
+Billing Team

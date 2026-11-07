@@ -1,0 +1,23 @@
+From: billing@lumen.example
+To: ap-inbox@buyer.example
+Subject: Invoice #022949 from Lumen Metals GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Lumen Metals GmbH
+Vendor Tax ID: 82-7379081
+Invoice #: #022949
+Invoice Date (DD/MM/YYYY): 11/04/2026
+Purchase Order: PO-2026-000617
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0005 | Epoxy Resin 5L | qty 11 | @ $10.55 | TX05 | $116.05
+
+Subtotal: $116.05
+Tax: $5.80
+Amount Due: $121.85
+
+Regards,
+Billing Team

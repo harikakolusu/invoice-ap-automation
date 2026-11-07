@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/44124 from Silver Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Industrial Supply Ltd
+Vendor Tax ID: 26-5859665
+Invoice #: INV/2026/44124
+Invoice Date (DD/MM/YYYY): 14/03/2026
+Purchase Order: PO-2026-000325
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 10 | @ $62.80 | TX18 | $628.00
+
+Subtotal: $628.00
+Tax: $113.04
+Amount Due: $741.04
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice 015634 from Helios Packaging Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Packaging Inc.
+Vendor Tax ID: 34-0722572
+Invoice #: 015634
+Invoice Date (DD/MM/YYYY): 21/06/2026
+Purchase Order: PO-2026-000974
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0005 | Packing Tape 36pk | qty 166 | @ $39.82 | TX12 | $6,610.12
+
+Subtotal: $6,610.12
+Tax: $793.21
+Amount Due: $7,403.33
+
+Regards,
+Billing Team

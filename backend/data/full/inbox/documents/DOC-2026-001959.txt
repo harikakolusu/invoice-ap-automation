@@ -1,0 +1,19 @@
+Monarch Trading Inc.
+Tax ID: 76-2046223
+Remit to: Accounts Receivable, Monarch Trading Inc.
+
+                                INVOICE
+Invoice No:      034439
+Invoice Date:    August 16, 2026
+PO Number:       PO-2026-001378
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0006   Wooden Pallet EUR                  340       19.99  TX12     6,796.60
+
+                                                  Subtotal:         6,796.60
+                                                  Tax:                815.59
+                                                  TOTAL DUE:        7,612.19

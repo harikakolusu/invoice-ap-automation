@@ -1,0 +1,23 @@
+From: billing@evergreen.example
+To: ap-inbox@buyer.example
+Subject: Invoice EVER-40703 from Evergreen Polymers GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Evergreen Polymers GmbH
+Vendor Tax ID: 34-6678999
+Invoice #: EVER-40703
+Invoice Date (DD/MM/YYYY): 26/07/2026
+Purchase Order: PO-2026-001238
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 131 | @ $8.49 | TX18 | $1,112.19
+
+Subtotal: $1,112.19
+Tax: $200.19
+Amount Due: $1,312.38
+
+Regards,
+Billing Team

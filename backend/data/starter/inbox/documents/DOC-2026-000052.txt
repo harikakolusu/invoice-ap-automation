@@ -1,0 +1,20 @@
+Atlas Packaging LLC
+Tax ID: 39-7612613
+Remit to: Accounts Receivable, Atlas Packaging LLC
+
+                                INVOICE
+Invoice No:      ATLA-55784
+Invoice Date:    2026-03-26
+PO Number:       PO-2026-000034
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0010   Rack UPS 3kVA                       13       28.79  TX18       374.27
+ 2  SKU-ITH-0005   USB-C Hub 7-port                     2       61.73  TX18       123.46
+
+                                                  Subtotal:           497.73
+                                                  Tax:                 89.59
+                                                  TOTAL DUE:          587.32

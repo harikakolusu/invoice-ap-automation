@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-17235 from Horizon Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Electronics GmbH
+Vendor Tax ID: 54-0965743
+Invoice #: HORI-17235
+Invoice Date (DD/MM/YYYY): 28/06/2026
+Purchase Order: PO-2026-000949
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0003 | Monitor 27in QHD | qty 4 | @ $1,708.72 | TX18 | $6,834.88
+
+Subtotal: $6,834.88
+Tax: $1,230.28
+Amount Due: $8,065.16
+
+Regards,
+Billing Team

@@ -1,0 +1,21 @@
+Strata Distribution Pvt Ltd
+Tax ID: 10-2071349
+Remit to: Accounts Receivable, Strata Distribution Pvt Ltd
+
+                                INVOICE
+Invoice No:      033024
+Invoice Date:    March 22, 2026
+PO Number:       N/A
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-SRV-0006   Freight Charges                      7      260.93  TX18     1,826.51
+ 2  SKU-SRV-0001   IT Consulting Hour                   5    1,004.61  TX18     5,023.05
+ 3  SKU-SRV-0003   Facility Cleaning Month              4      128.66  TX18       514.64
+
+                                                  Subtotal:         7,364.20
+                                                  Tax:              1,325.56
+                                                  TOTAL DUE:        8,689.76

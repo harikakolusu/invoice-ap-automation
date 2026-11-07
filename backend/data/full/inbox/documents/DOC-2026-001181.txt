@@ -1,0 +1,19 @@
+Falcon Metals Inc.
+Tax ID: 61-1118766
+Remit to: Accounts Receivable, Falcon Metals Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/04542
+Invoice Date:    2026-05-30
+PO Number:       PO-2026-000904
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0001   Steel Sheet 2mm                    278        7.51  TX05     2,087.78
+
+                                                  Subtotal:         2,087.78
+                                                  Tax:                104.39
+                                                  TOTAL DUE:        2,192.17

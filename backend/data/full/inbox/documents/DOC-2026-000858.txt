@@ -1,0 +1,24 @@
+Westbrook Materials Ltd
+Tax ID: 93-5988103
+Remit to: Accounts Receivable, Westbrook Materials Ltd
+
+                                INVOICE
+Invoice No:      052356
+Invoice Date:    2026-04-23
+PO Number:       PO-2026-000568
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0006   Network Switch 24P                   1      351.24  TX18       351.24
+ 2  SKU-ITH-0002   Docking Station USB-C                5      110.62  TX18       553.10
+ 3  SKU-ITH-0007   SSD 1TB NVMe                         3       50.86  TX18       152.58
+ 4  SKU-RAW-0004   ABS Pellets 25kg                    96        5.82  TX05       558.72
+ 5  SKU-ITH-0008   Server RAM 32GB                      4       63.52  TX18       254.08
+ 6  SKU-RAW-0006   PP Granules 25kg                    14      317.03  TX05     4,438.42
+
+                                                  Subtotal:         6,308.14
+                                                  Tax:                485.83
+                                                  TOTAL DUE:        6,793.97

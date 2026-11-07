@@ -1,0 +1,19 @@
+Boreal Metals Inc.
+Tax ID: 82-5662052
+Remit to: Accounts Receivable, Boreal Metals Inc.
+
+                                INVOICE
+Invoice No:      BORE-26830
+Invoice Date:    July 11, 2026
+PO Number:       PO-2026-001164
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0004   V-Belt A42                          54       55.21  TX18     2,981.34
+
+                                                  Subtotal:         2,981.34
+                                                  Tax:                536.64
+                                                  TOTAL DUE:        3,517.98

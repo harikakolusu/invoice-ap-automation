@@ -1,0 +1,19 @@
+Meridian Logistics Ltd
+Tax ID: 91-4014739
+Remit to: Accounts Receivable, Meridian Logistics Ltd
+
+                                INVOICE
+Invoice No:      MERI-22514
+Invoice Date:    June 5, 2026
+PO Number:       PO-2026-000853
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0001   Corrugated Box Large                92        9.03  TX12       830.76
+
+                                                  Subtotal:           830.76
+                                                  Tax:                 99.69
+                                                  TOTAL DUE:          930.45

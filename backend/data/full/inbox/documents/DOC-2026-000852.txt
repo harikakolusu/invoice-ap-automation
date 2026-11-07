@@ -1,0 +1,23 @@
+Pinnacle Tech Components Pvt Ltd
+Tax ID: 24-4574254
+Remit to: Accounts Receivable, Pinnacle Tech Components Pvt Ltd
+
+                                INVOICE
+Invoice No:      PINN-42723
+Invoice Date:    April 20, 2026
+PO Number:       PO-2026-000633
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0003   Hand Sanitizer 1L                   66       59.33  TX05     3,915.78
+ 2  SKU-ITH-0008   Server RAM 32GB                      1       67.06  TX18        67.06
+ 3  SKU-ITH-0004   Wireless Keyboard                   13       45.69  TX18       593.97
+ 4  SKU-FAC-0005   Coffee Beans 1kg                   111        5.12  TX05       568.32
+ 5  SKU-ITH-0007   SSD 1TB NVMe                        27       48.88  TX18     1,319.76
+
+                                                  Subtotal:         6,464.89
+                                                  Tax:                580.75
+                                                  TOTAL DUE:        7,045.64

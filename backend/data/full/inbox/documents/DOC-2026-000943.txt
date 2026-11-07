@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/34978 from Horizon Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Equipment Ltd
+Vendor Tax ID: 52-2516055
+Invoice #: INV/2026/34978
+Invoice Date (DD/MM/YYYY): 04/05/2026
+Purchase Order: PO-2026-000731
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0001 | Drinking Water 20L | qty 8 | @ $3.44 | TX05 | $27.52
+
+Subtotal: $27.52
+Tax: $1.38
+Amount Due: $28.90
+
+Regards,
+Billing Team

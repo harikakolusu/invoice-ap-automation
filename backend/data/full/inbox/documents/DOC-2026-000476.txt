@@ -1,0 +1,27 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/54984 from Helios Materials Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Materials Pvt Ltd
+Vendor Tax ID: 18-1136223
+Invoice #: INV/2026/54984
+Invoice Date (DD/MM/YYYY): 13/03/2026
+Purchase Order: PO-2026-000299
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 9 | @ $29.69 | TX18 | $267.21
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 12 | @ $154.16 | TX05 | $1,849.92
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 5 | @ $31.31 | TX18 | $156.55
+- SKU-RAW-0006 | PP Granules 25kg | qty 150 | @ $299.82 | TX05 | $44,973.00
+- SKU-RAW-0004 | ABS Pellets 25kg | qty 21 | @ $6.07 | TX05 | $127.47
+
+Subtotal: $47,374.15
+Tax: $2,423.80
+Amount Due: $49,797.95
+
+Regards,
+Billing Team

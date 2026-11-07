@@ -1,0 +1,25 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-32749 from Nimbus Trading Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Trading Co.
+Vendor Tax ID: 48-4630922
+Invoice #: NIMB-32749
+Invoice Date (DD/MM/YYYY): 31/01/2026
+Purchase Order: PO-2026-000136
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0002 | Docking Station USB-C | qty 28 | @ $103.84 | TX18 | $2,907.52
+- SKU-ITH-0006 | Network Switch 24P | qty 2 | @ $326.82 | TX18 | $653.64
+- SKU-MRO-0004 | V-Belt A42 | qty 25 | @ $55.11 | TX18 | $1,377.75
+
+Subtotal: $4,938.91
+Tax: $889.01
+Amount Due: $5,827.92
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@northstar.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/48818 from Northstar Tech Components Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Northstar Tech Components Pvt Ltd
+Vendor Tax ID: 12-4495388
+Invoice #: INV/2026/48818
+Invoice Date (DD/MM/YYYY): 16/05/2026
+Purchase Order: PO-2026-000724
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 4 | @ $59.48 | TX18 | $237.92
+
+Subtotal: $237.92
+Tax: $42.83
+Amount Due: $280.75
+
+Regards,
+Billing Team

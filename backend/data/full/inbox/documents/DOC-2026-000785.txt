@@ -1,0 +1,20 @@
+Westbrook Materials Ltd
+Tax ID: 93-5988103
+Remit to: Accounts Receivable, Westbrook Materials Ltd
+
+                                INVOICE
+Invoice No:      052351
+Invoice Date:    2026-04-16
+PO Number:       N/A
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-SRV-0006   Freight Charges                      7      245.18  TX18     1,716.26
+ 2  SKU-SRV-0002   Equipment Maintenance                1      437.15  TX18       437.15
+
+                                                  Subtotal:         2,153.41
+                                                  Tax:                387.62
+                                                  TOTAL DUE:        2,541.03

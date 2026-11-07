@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice QUAN-36702 from Quanta Distribution GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Distribution GmbH
+Vendor Tax ID: 24-5922824
+Invoice #: QUAN-36702
+Invoice Date (DD/MM/YYYY): 12/02/2026
+Purchase Order: PO-2026-000073
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0004 | Wireless Keyboard | qty 1 | @ $44.14 | TX18 | $44.14
+
+Subtotal: $44.14
+Tax: $7.95
+Amount Due: $52.09
+
+Regards,
+Billing Team

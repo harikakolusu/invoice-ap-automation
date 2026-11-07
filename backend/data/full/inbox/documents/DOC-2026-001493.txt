@@ -1,0 +1,23 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/27608 from Meridian Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Trading GmbH
+Vendor Tax ID: 90-1934468
+Invoice #: INV/2026/27608
+Invoice Date (DD/MM/YYYY): 26/06/2026
+Purchase Order: PO-2026-001056
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 22 | @ $10.41 | TX18 | $229.02
+
+Subtotal: $229.02
+Tax: $41.22
+Amount Due: $270.24
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@westbrook.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/54026 from Westbrook Materials Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Westbrook Materials Ltd
+Vendor Tax ID: 42-9992909
+Invoice #: INV/2026/54026
+Invoice Date (DD/MM/YYYY): 07/04/2026
+Purchase Order: PO-2026-000047
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 143 | @ $4.90 | TX18 | $700.70
+
+Subtotal: $700.70
+Tax: $126.13
+Amount Due: $826.83
+
+Regards,
+Billing Team

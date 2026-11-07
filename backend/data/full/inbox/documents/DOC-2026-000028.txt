@@ -1,0 +1,23 @@
+From: billing@kestrel.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEST-13390 from Kestrel Office Solutions Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Kestrel Office Solutions Ltd
+Vendor Tax ID: 26-0309910
+Invoice #: KEST-13390
+Invoice Date (DD/MM/YYYY): 29/01/2026
+Purchase Order: PO-2026-000047
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 10 | @ $2.70 | TX00 | $27.00
+
+Subtotal: $27.00
+Tax: $0.00
+Amount Due: $27.00
+
+Regards,
+Billing Team

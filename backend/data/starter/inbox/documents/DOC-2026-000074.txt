@@ -1,0 +1,21 @@
+Silver Polymers Ltd
+Tax ID: 99-2578190
+Remit to: Accounts Receivable, Silver Polymers Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/41757
+Invoice Date:    2026-04-25
+PO Number:       PO-2026-000064
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0001   Laptop 14in i7                      26       55.09  TX18     1,432.34
+ 2  SKU-ITH-0003   Monitor 27in QHD                     5    1,650.98  TX18     8,254.90
+ 3  SKU-ITH-0010   Rack UPS 3kVA                        3       28.53  TX18        85.59
+
+                                                  Subtotal:         9,772.83
+                                                  Tax:              1,759.11
+                                                  TOTAL DUE:       11,531.94

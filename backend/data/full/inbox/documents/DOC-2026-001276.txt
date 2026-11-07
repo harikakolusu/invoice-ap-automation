@@ -1,0 +1,24 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/58642 from Prairie Facility Services Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Facility Services Co.
+Vendor Tax ID: 16-6959276
+Invoice #: INV/2026/58642
+Invoice Date (DD/MM/YYYY): 09/06/2026
+Purchase Order: PO-2026-000987
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-FAC-0002 | Floor Detergent 5L | qty 47 | @ $2.87 | TX05 | $134.89
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 11 | @ $76.33 | TX05 | $839.63
+
+Subtotal: $974.52
+Tax: $48.72
+Amount Due: $1,023.24
+
+Regards,
+Billing Team

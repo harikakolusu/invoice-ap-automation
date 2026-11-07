@@ -1,0 +1,19 @@
+Ironwood Polymers Co.
+Tax ID: 30-5198521
+Remit to: Accounts Receivable, Ironwood Polymers Co.
+
+                                INVOICE
+Invoice No:      IRON-36206
+Invoice Date:    January 10, 2026
+PO Number:       PO-2026-000011
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0004   ABS Pellets 25kg                   448        5.82  TX05     2,607.36
+
+                                                  Subtotal:         2,607.36
+                                                  Tax:                130.37
+                                                  TOTAL DUE:        2,737.73

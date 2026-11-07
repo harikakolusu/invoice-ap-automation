@@ -1,0 +1,24 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 036942 from Glacier Distribution Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Distribution Co.
+Vendor Tax ID: 87-0023659
+Invoice #: 036942
+Invoice Date (DD/MM/YYYY): 15/03/2026
+Purchase Order: PO-2026-000297
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-FAC-0003 | Hand Sanitizer 1L | qty 163 | @ $60.82 | TX05 | $9,913.66
+- SKU-OFF-0007 | Desk Organizer | qty 55 | @ $91.05 | TX12 | $5,007.75
+
+Subtotal: $14,921.41
+Tax: $1,096.61
+Amount Due: $16,018.02
+
+Regards,
+Billing Team

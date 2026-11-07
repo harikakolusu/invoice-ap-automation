@@ -1,0 +1,19 @@
+Sierra Industrial Supply Pvt Ltd
+Tax ID: 32-8469228
+Remit to: Accounts Receivable, Sierra Industrial Supply Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/32908
+Invoice Date:    March 17, 2026
+PO Number:       PO-2026-000480
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0003   Copper Wire 2.5mm                  260      164.48  TX05    42,764.80
+
+                                                  Subtotal:        42,764.80
+                                                  Tax:              2,138.24
+                                                  TOTAL DUE:       44,903.04

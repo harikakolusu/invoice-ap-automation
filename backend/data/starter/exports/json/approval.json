@@ -1,0 +1,1522 @@
+[
+ {
+  "approval_id": "APR-2026-000001",
+  "invoice_id": "INV-STRA019-2026-000002",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-02-02T15:06:00"
+ },
+ {
+  "approval_id": "APR-2026-000002",
+  "invoice_id": "INV-GRAN008-2026-000003",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0023",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-02-02T22:52:00"
+ },
+ {
+  "approval_id": "APR-2026-000003",
+  "invoice_id": "INV-GRAN008-2026-000005",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-02-08T09:52:00"
+ },
+ {
+  "approval_id": "APR-2026-000004",
+  "invoice_id": "INV-STRA019-2026-000006",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-02-08T11:18:00"
+ },
+ {
+  "approval_id": "APR-2026-000005",
+  "invoice_id": "INV-ATLA025-2026-000010",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-02-13T12:41:00"
+ },
+ {
+  "approval_id": "APR-2026-000006",
+  "invoice_id": "INV-SILV026-2026-000011",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-02-14T13:03:00"
+ },
+ {
+  "approval_id": "APR-2026-000007",
+  "invoice_id": "INV-CRES007-2026-000012",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0022",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-02-14T22:58:00"
+ },
+ {
+  "approval_id": "APR-2026-000008",
+  "invoice_id": "INV-STRA019-2026-000013",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-02-14T17:59:00"
+ },
+ {
+  "approval_id": "APR-2026-000009",
+  "invoice_id": "INV-CRES007-2026-000014",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0023",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-02-15T14:31:00"
+ },
+ {
+  "approval_id": "APR-2026-000010",
+  "invoice_id": "INV-CRES007-2026-000014",
+  "level": 2,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0025",
+  "decision": "APPROVED",
+  "policy_rule": "total > 25000.00: finance director",
+  "decided_at": "2026-02-16T08:32:00"
+ },
+ {
+  "approval_id": "APR-2026-000011",
+  "invoice_id": "INV-CRES007-2026-000015",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0024",
+  "decision": "APPROVED",
+  "policy_rule": "non-PO invoice requires manager approval",
+  "decided_at": "2026-02-19T00:47:00"
+ },
+ {
+  "approval_id": "APR-2026-000012",
+  "invoice_id": "INV-GRAN008-2026-000016",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-02-20T08:09:00"
+ },
+ {
+  "approval_id": "APR-2026-000013",
+  "invoice_id": "INV-GRAN008-2026-000018",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-02-24T07:22:00"
+ },
+ {
+  "approval_id": "APR-2026-000014",
+  "invoice_id": "INV-GRAN008-2026-000019",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-02-24T13:47:00"
+ },
+ {
+  "approval_id": "APR-2026-000015",
+  "invoice_id": "INV-JUNI014-2026-000021",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-02-26T13:21:00"
+ },
+ {
+  "approval_id": "APR-2026-000016",
+  "invoice_id": "INV-SILV026-2026-000023",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-02-27T08:47:00"
+ },
+ {
+  "approval_id": "APR-2026-000017",
+  "invoice_id": "INV-SUMM006-2026-000024",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-02-27T15:09:00"
+ },
+ {
+  "approval_id": "APR-2026-000018",
+  "invoice_id": "INV-STRA019-2026-000025",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-03T10:57:00"
+ },
+ {
+  "approval_id": "APR-2026-000019",
+  "invoice_id": "INV-GLAC020-2026-000026",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-04T07:24:00"
+ },
+ {
+  "approval_id": "APR-2026-000020",
+  "invoice_id": "INV-APEX027-2026-000028",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0022",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-03-06T19:28:00"
+ },
+ {
+  "approval_id": "APR-2026-000021",
+  "invoice_id": "INV-GRAN008-2026-000029",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0022",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-03-08T16:05:00"
+ },
+ {
+  "approval_id": "APR-2026-000022",
+  "invoice_id": "INV-GRAN008-2026-000029",
+  "level": 2,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0026",
+  "decision": "APPROVED",
+  "policy_rule": "total > 25000.00: finance director",
+  "decided_at": "2026-03-09T10:06:00"
+ },
+ {
+  "approval_id": "APR-2026-000023",
+  "invoice_id": "INV-GRAN008-2026-000030",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0020",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-03-08T19:52:00"
+ },
+ {
+  "approval_id": "APR-2026-000024",
+  "invoice_id": "INV-GRAN008-2026-000031",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-09T15:14:00"
+ },
+ {
+  "approval_id": "APR-2026-000025",
+  "invoice_id": "INV-GRAN008-2026-000032",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-11T07:19:00"
+ },
+ {
+  "approval_id": "APR-2026-000026",
+  "invoice_id": "INV-STRA022-2026-000033",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0024",
+  "decision": "APPROVED",
+  "policy_rule": "non-PO invoice requires manager approval",
+  "decided_at": "2026-03-11T16:52:00"
+ },
+ {
+  "approval_id": "APR-2026-000027",
+  "invoice_id": "INV-GRAN008-2026-000034",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-11T19:27:00"
+ },
+ {
+  "approval_id": "APR-2026-000028",
+  "invoice_id": "INV-APEX027-2026-000036",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-12T12:01:00"
+ },
+ {
+  "approval_id": "APR-2026-000029",
+  "invoice_id": "INV-SILV026-2026-000037",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0021",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-03-14T22:36:00"
+ },
+ {
+  "approval_id": "APR-2026-000030",
+  "invoice_id": "INV-BORE030-2026-000038",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-18T16:06:00"
+ },
+ {
+  "approval_id": "APR-2026-000031",
+  "invoice_id": "INV-JUNI014-2026-000039",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-19T07:53:00"
+ },
+ {
+  "approval_id": "APR-2026-000032",
+  "invoice_id": "INV-STRA022-2026-000041",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-20T13:54:00"
+ },
+ {
+  "approval_id": "APR-2026-000033",
+  "invoice_id": "INV-GRAN008-2026-000042",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0024",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-03-20T20:42:00"
+ },
+ {
+  "approval_id": "APR-2026-000034",
+  "invoice_id": "INV-STRA015-2026-000043",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-21T11:31:00"
+ },
+ {
+  "approval_id": "APR-2026-000035",
+  "invoice_id": "INV-OAKR009-2026-000045",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-21T16:45:00"
+ },
+ {
+  "approval_id": "APR-2026-000036",
+  "invoice_id": "INV-SUMM006-2026-000046",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0021",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-03-23T19:23:00"
+ },
+ {
+  "approval_id": "APR-2026-000037",
+  "invoice_id": "INV-SUMM006-2026-000046",
+  "level": 2,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0025",
+  "decision": "APPROVED",
+  "policy_rule": "total > 25000.00: finance director",
+  "decided_at": "2026-03-24T13:24:00"
+ },
+ {
+  "approval_id": "APR-2026-000038",
+  "invoice_id": "INV-GLAC021-2026-000047",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-25T13:14:00"
+ },
+ {
+  "approval_id": "APR-2026-000039",
+  "invoice_id": "INV-STRA019-2026-000048",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-25T17:24:00"
+ },
+ {
+  "approval_id": "APR-2026-000040",
+  "invoice_id": "INV-STRA019-2026-000050",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-26T08:25:00"
+ },
+ {
+  "approval_id": "APR-2026-000041",
+  "invoice_id": "INV-STRA019-2026-000051",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-26T10:41:00"
+ },
+ {
+  "approval_id": "APR-2026-000042",
+  "invoice_id": "INV-ATLA025-2026-000052",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-26T19:43:00"
+ },
+ {
+  "approval_id": "APR-2026-000043",
+  "invoice_id": "INV-GRAN008-2026-000054",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-29T14:20:00"
+ },
+ {
+  "approval_id": "APR-2026-000044",
+  "invoice_id": "INV-GRAN008-2026-000055",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0022",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-03-30T00:29:00"
+ },
+ {
+  "approval_id": "APR-2026-000045",
+  "invoice_id": "INV-GLAC021-2026-000056",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-03-31T09:26:00"
+ },
+ {
+  "approval_id": "APR-2026-000046",
+  "invoice_id": "INV-GLAC020-2026-000060",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0023",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-04-08T16:54:00"
+ },
+ {
+  "approval_id": "APR-2026-000047",
+  "invoice_id": "INV-GLAC020-2026-000060",
+  "level": 2,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0026",
+  "decision": "APPROVED",
+  "policy_rule": "total > 25000.00: finance director",
+  "decided_at": "2026-04-09T10:55:00"
+ },
+ {
+  "approval_id": "APR-2026-000048",
+  "invoice_id": "INV-STRA019-2026-000061",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-04-08T13:02:00"
+ },
+ {
+  "approval_id": "APR-2026-000049",
+  "invoice_id": "INV-GRAN008-2026-000062",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-04-08T17:06:00"
+ },
+ {
+  "approval_id": "APR-2026-000050",
+  "invoice_id": "INV-STRA019-2026-000063",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-04-10T10:12:00"
+ },
+ {
+  "approval_id": "APR-2026-000051",
+  "invoice_id": "INV-WEST016-2026-000064",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-04-11T07:41:00"
+ },
+ {
+  "approval_id": "APR-2026-000052",
+  "invoice_id": "INV-BORE030-2026-000067",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0019",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-04-15T13:50:00"
+ },
+ {
+  "approval_id": "APR-2026-000053",
+  "invoice_id": "INV-BORE030-2026-000067",
+  "level": 2,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0025",
+  "decision": "APPROVED",
+  "policy_rule": "total > 25000.00: finance director",
+  "decided_at": "2026-04-16T07:51:00"
+ },
+ {
+  "approval_id": "APR-2026-000054",
+  "invoice_id": "INV-GRAN008-2026-000068",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-04-16T11:35:00"
+ },
+ {
+  "approval_id": "APR-2026-000055",
+  "invoice_id": "INV-GRAN008-2026-000069",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-04-19T17:09:00"
+ },
+ {
+  "approval_id": "APR-2026-000056",
+  "invoice_id": "INV-SUMM006-2026-000070",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0021",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-04-20T20:51:00"
+ },
+ {
+  "approval_id": "APR-2026-000057",
+  "invoice_id": "INV-SUMM006-2026-000070",
+  "level": 2,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0026",
+  "decision": "APPROVED",
+  "policy_rule": "total > 25000.00: finance director",
+  "decided_at": "2026-04-21T14:52:00"
+ },
+ {
+  "approval_id": "APR-2026-000058",
+  "invoice_id": "INV-GRAN008-2026-000072",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0022",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-04-23T17:47:00"
+ },
+ {
+  "approval_id": "APR-2026-000059",
+  "invoice_id": "INV-GRAN008-2026-000072",
+  "level": 2,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0025",
+  "decision": "APPROVED",
+  "policy_rule": "total > 25000.00: finance director",
+  "decided_at": "2026-04-24T11:48:00"
+ },
+ {
+  "approval_id": "APR-2026-000060",
+  "invoice_id": "INV-GRAN008-2026-000073",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-04-26T08:41:00"
+ },
+ {
+  "approval_id": "APR-2026-000061",
+  "invoice_id": "INV-GRAN008-2026-000075",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-04-28T18:27:00"
+ },
+ {
+  "approval_id": "APR-2026-000062",
+  "invoice_id": "INV-BORE030-2026-000076",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0021",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-04-29T16:05:00"
+ },
+ {
+  "approval_id": "APR-2026-000063",
+  "invoice_id": "INV-GRAN008-2026-000078",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-04-30T14:28:00"
+ },
+ {
+  "approval_id": "APR-2026-000064",
+  "invoice_id": "INV-GLAC021-2026-000081",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-03T16:39:00"
+ },
+ {
+  "approval_id": "APR-2026-000065",
+  "invoice_id": "INV-GRAN008-2026-000082",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-05T13:44:00"
+ },
+ {
+  "approval_id": "APR-2026-000066",
+  "invoice_id": "INV-GLAC020-2026-000084",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-07T13:05:00"
+ },
+ {
+  "approval_id": "APR-2026-000067",
+  "invoice_id": "INV-GRAN008-2026-000085",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0024",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-05-09T14:16:00"
+ },
+ {
+  "approval_id": "APR-2026-000068",
+  "invoice_id": "INV-GRAN008-2026-000086",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-10T18:22:00"
+ },
+ {
+  "approval_id": "APR-2026-000069",
+  "invoice_id": "INV-GRAN008-2026-000087",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-13T13:16:00"
+ },
+ {
+  "approval_id": "APR-2026-000070",
+  "invoice_id": "INV-GRAN008-2026-000088",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-13T18:36:00"
+ },
+ {
+  "approval_id": "APR-2026-000071",
+  "invoice_id": "INV-GRAN008-2026-000090",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-16T16:16:00"
+ },
+ {
+  "approval_id": "APR-2026-000072",
+  "invoice_id": "INV-IRON023-2026-000091",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0022",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-05-19T22:03:00"
+ },
+ {
+  "approval_id": "APR-2026-000073",
+  "invoice_id": "INV-IRON023-2026-000091",
+  "level": 2,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0026",
+  "decision": "APPROVED",
+  "policy_rule": "total > 25000.00: finance director",
+  "decided_at": "2026-05-20T16:04:00"
+ },
+ {
+  "approval_id": "APR-2026-000074",
+  "invoice_id": "INV-GRAN008-2026-000092",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-20T09:36:00"
+ },
+ {
+  "approval_id": "APR-2026-000075",
+  "invoice_id": "INV-SILV026-2026-000093",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-21T11:05:00"
+ },
+ {
+  "approval_id": "APR-2026-000076",
+  "invoice_id": "INV-GLAC021-2026-000094",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-22T14:06:00"
+ },
+ {
+  "approval_id": "APR-2026-000077",
+  "invoice_id": "INV-SUMM006-2026-000095",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-22T14:48:00"
+ },
+ {
+  "approval_id": "APR-2026-000078",
+  "invoice_id": "INV-STRA019-2026-000097",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0021",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-05-26T14:16:00"
+ },
+ {
+  "approval_id": "APR-2026-000079",
+  "invoice_id": "INV-STRA019-2026-000097",
+  "level": 2,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0025",
+  "decision": "APPROVED",
+  "policy_rule": "total > 25000.00: finance director",
+  "decided_at": "2026-05-27T08:17:00"
+ },
+ {
+  "approval_id": "APR-2026-000080",
+  "invoice_id": "INV-APEX027-2026-000098",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-28T10:18:00"
+ },
+ {
+  "approval_id": "APR-2026-000081",
+  "invoice_id": "INV-GRAN008-2026-000099",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-28T15:30:00"
+ },
+ {
+  "approval_id": "APR-2026-000082",
+  "invoice_id": "INV-GRAN008-2026-000100",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-29T07:40:00"
+ },
+ {
+  "approval_id": "APR-2026-000083",
+  "invoice_id": "INV-JUNI014-2026-000101",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-05-29T11:20:00"
+ },
+ {
+  "approval_id": "APR-2026-000084",
+  "invoice_id": "INV-GRAN008-2026-000102",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0020",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-05-29T23:32:00"
+ },
+ {
+  "approval_id": "APR-2026-000085",
+  "invoice_id": "INV-GRAN008-2026-000106",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0024",
+  "decision": "APPROVED",
+  "policy_rule": "non-PO invoice requires manager approval",
+  "decided_at": "2026-06-01T13:45:00"
+ },
+ {
+  "approval_id": "APR-2026-000086",
+  "invoice_id": "INV-GRAN008-2026-000107",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-02T14:01:00"
+ },
+ {
+  "approval_id": "APR-2026-000087",
+  "invoice_id": "INV-GLAC021-2026-000108",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0020",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-06-03T01:42:00"
+ },
+ {
+  "approval_id": "APR-2026-000088",
+  "invoice_id": "INV-GRAN008-2026-000109",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0023",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-06-03T13:09:00"
+ },
+ {
+  "approval_id": "APR-2026-000089",
+  "invoice_id": "INV-GRAN008-2026-000110",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0019",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-06-03T22:49:00"
+ },
+ {
+  "approval_id": "APR-2026-000090",
+  "invoice_id": "INV-JUNI014-2026-000114",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-08T11:31:00"
+ },
+ {
+  "approval_id": "APR-2026-000091",
+  "invoice_id": "INV-QUAN029-2026-000115",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-10T18:52:00"
+ },
+ {
+  "approval_id": "APR-2026-000092",
+  "invoice_id": "INV-JUNI014-2026-000117",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-12T17:59:00"
+ },
+ {
+  "approval_id": "APR-2026-000093",
+  "invoice_id": "INV-GRAN008-2026-000118",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-14T19:42:00"
+ },
+ {
+  "approval_id": "APR-2026-000094",
+  "invoice_id": "INV-SILV026-2026-000119",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-15T09:42:00"
+ },
+ {
+  "approval_id": "APR-2026-000095",
+  "invoice_id": "INV-NIMB028-2026-000120",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-15T19:40:00"
+ },
+ {
+  "approval_id": "APR-2026-000096",
+  "invoice_id": "INV-WEST016-2026-000122",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-17T09:03:00"
+ },
+ {
+  "approval_id": "APR-2026-000097",
+  "invoice_id": "INV-APEX027-2026-000124",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-20T13:22:00"
+ },
+ {
+  "approval_id": "APR-2026-000098",
+  "invoice_id": "INV-STRA019-2026-000125",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-20T14:33:00"
+ },
+ {
+  "approval_id": "APR-2026-000099",
+  "invoice_id": "INV-QUAN029-2026-000126",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-20T19:45:00"
+ },
+ {
+  "approval_id": "APR-2026-000100",
+  "invoice_id": "INV-GLAC020-2026-000127",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0021",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-06-21T23:01:00"
+ },
+ {
+  "approval_id": "APR-2026-000101",
+  "invoice_id": "INV-GLAC020-2026-000127",
+  "level": 2,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0026",
+  "decision": "APPROVED",
+  "policy_rule": "total > 25000.00: finance director",
+  "decided_at": "2026-06-22T17:02:00"
+ },
+ {
+  "approval_id": "APR-2026-000102",
+  "invoice_id": "INV-STRA019-2026-000128",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-22T09:03:00"
+ },
+ {
+  "approval_id": "APR-2026-000103",
+  "invoice_id": "INV-DELT001-2026-000129",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-22T16:33:00"
+ },
+ {
+  "approval_id": "APR-2026-000104",
+  "invoice_id": "INV-SUMM006-2026-000130",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0024",
+  "decision": "APPROVED",
+  "policy_rule": "non-PO invoice requires manager approval",
+  "decided_at": "2026-06-23T14:20:00"
+ },
+ {
+  "approval_id": "APR-2026-000105",
+  "invoice_id": "INV-ATLA025-2026-000131",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-23T12:39:00"
+ },
+ {
+  "approval_id": "APR-2026-000106",
+  "invoice_id": "INV-STRA019-2026-000132",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0021",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-06-23T23:43:00"
+ },
+ {
+  "approval_id": "APR-2026-000107",
+  "invoice_id": "INV-IRON023-2026-000133",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-23T18:16:00"
+ },
+ {
+  "approval_id": "APR-2026-000108",
+  "invoice_id": "INV-GRAN008-2026-000135",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0021",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-06-25T20:05:00"
+ },
+ {
+  "approval_id": "APR-2026-000109",
+  "invoice_id": "INV-GRAN008-2026-000135",
+  "level": 2,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0025",
+  "decision": "APPROVED",
+  "policy_rule": "total > 25000.00: finance director",
+  "decided_at": "2026-06-26T14:06:00"
+ },
+ {
+  "approval_id": "APR-2026-000110",
+  "invoice_id": "INV-STRA019-2026-000136",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-25T14:25:00"
+ },
+ {
+  "approval_id": "APR-2026-000111",
+  "invoice_id": "INV-OAKR009-2026-000137",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-25T15:26:00"
+ },
+ {
+  "approval_id": "APR-2026-000112",
+  "invoice_id": "INV-JUNI014-2026-000139",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-29T08:16:00"
+ },
+ {
+  "approval_id": "APR-2026-000113",
+  "invoice_id": "INV-STRA022-2026-000140",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-29T09:07:00"
+ },
+ {
+  "approval_id": "APR-2026-000114",
+  "invoice_id": "INV-GLAC020-2026-000141",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-30T07:16:00"
+ },
+ {
+  "approval_id": "APR-2026-000115",
+  "invoice_id": "INV-QUAN029-2026-000142",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-06-30T11:08:00"
+ },
+ {
+  "approval_id": "APR-2026-000116",
+  "invoice_id": "INV-GLAC020-2026-000143",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0023",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-07-01T21:58:00"
+ },
+ {
+  "approval_id": "APR-2026-000117",
+  "invoice_id": "INV-GRAN008-2026-000145",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-04T13:08:00"
+ },
+ {
+  "approval_id": "APR-2026-000118",
+  "invoice_id": "INV-GRAN008-2026-000147",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-06T08:04:00"
+ },
+ {
+  "approval_id": "APR-2026-000119",
+  "invoice_id": "INV-STRA019-2026-000149",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-06T19:46:00"
+ },
+ {
+  "approval_id": "APR-2026-000120",
+  "invoice_id": "INV-GRAN008-2026-000150",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0022",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-07-08T16:30:00"
+ },
+ {
+  "approval_id": "APR-2026-000121",
+  "invoice_id": "INV-GRAN008-2026-000151",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-08T10:58:00"
+ },
+ {
+  "approval_id": "APR-2026-000122",
+  "invoice_id": "INV-ATLA025-2026-000153",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-10T12:59:00"
+ },
+ {
+  "approval_id": "APR-2026-000123",
+  "invoice_id": "INV-WEST016-2026-000155",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-11T14:31:00"
+ },
+ {
+  "approval_id": "APR-2026-000124",
+  "invoice_id": "INV-SILV026-2026-000156",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-13T08:18:00"
+ },
+ {
+  "approval_id": "APR-2026-000125",
+  "invoice_id": "INV-STRA015-2026-000158",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0022",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-07-14T13:15:00"
+ },
+ {
+  "approval_id": "APR-2026-000126",
+  "invoice_id": "INV-SILV026-2026-000161",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-16T09:23:00"
+ },
+ {
+  "approval_id": "APR-2026-000127",
+  "invoice_id": "INV-DELT001-2026-000165",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-17T13:40:00"
+ },
+ {
+  "approval_id": "APR-2026-000128",
+  "invoice_id": "INV-STRA019-2026-000167",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-18T10:16:00"
+ },
+ {
+  "approval_id": "APR-2026-000129",
+  "invoice_id": "INV-STRA019-2026-000171",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-19T07:45:00"
+ },
+ {
+  "approval_id": "APR-2026-000130",
+  "invoice_id": "INV-CRES007-2026-000172",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-20T11:37:00"
+ },
+ {
+  "approval_id": "APR-2026-000131",
+  "invoice_id": "INV-JUNI014-2026-000174",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0021",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-07-21T17:12:00"
+ },
+ {
+  "approval_id": "APR-2026-000132",
+  "invoice_id": "INV-STRA019-2026-000175",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-21T15:00:00"
+ },
+ {
+  "approval_id": "APR-2026-000133",
+  "invoice_id": "INV-GRAN008-2026-000177",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-22T16:40:00"
+ },
+ {
+  "approval_id": "APR-2026-000134",
+  "invoice_id": "INV-GRAN008-2026-000180",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-23T17:09:00"
+ },
+ {
+  "approval_id": "APR-2026-000135",
+  "invoice_id": "INV-QUAN029-2026-000181",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-24T07:07:00"
+ },
+ {
+  "approval_id": "APR-2026-000136",
+  "invoice_id": "INV-GRAN008-2026-000182",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-24T13:01:00"
+ },
+ {
+  "approval_id": "APR-2026-000137",
+  "invoice_id": "INV-STRA019-2026-000183",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-24T14:34:00"
+ },
+ {
+  "approval_id": "APR-2026-000138",
+  "invoice_id": "INV-GLAC020-2026-000184",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-27T07:37:00"
+ },
+ {
+  "approval_id": "APR-2026-000139",
+  "invoice_id": "INV-DELT001-2026-000185",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-07-29T14:59:00"
+ },
+ {
+  "approval_id": "APR-2026-000140",
+  "invoice_id": "INV-CRES007-2026-000186",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0024",
+  "decision": "APPROVED",
+  "policy_rule": "non-PO invoice requires manager approval",
+  "decided_at": "2026-08-01T19:58:00"
+ },
+ {
+  "approval_id": "APR-2026-000141",
+  "invoice_id": "INV-SILV026-2026-000187",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0023",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-08-03T15:42:00"
+ },
+ {
+  "approval_id": "APR-2026-000142",
+  "invoice_id": "INV-CRES007-2026-000188",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-08-04T09:34:00"
+ },
+ {
+  "approval_id": "APR-2026-000143",
+  "invoice_id": "INV-STRA019-2026-000189",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-08-04T16:48:00"
+ },
+ {
+  "approval_id": "APR-2026-000144",
+  "invoice_id": "INV-STRA019-2026-000190",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-08-04T19:37:00"
+ },
+ {
+  "approval_id": "APR-2026-000145",
+  "invoice_id": "INV-QUAN029-2026-000191",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-08-07T10:15:00"
+ },
+ {
+  "approval_id": "APR-2026-000146",
+  "invoice_id": "INV-CRES007-2026-000192",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-08-09T12:22:00"
+ },
+ {
+  "approval_id": "APR-2026-000147",
+  "invoice_id": "INV-DELT001-2026-000194",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0019",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-08-12T13:22:00"
+ },
+ {
+  "approval_id": "APR-2026-000148",
+  "invoice_id": "INV-STRA019-2026-000195",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-08-16T19:32:00"
+ },
+ {
+  "approval_id": "APR-2026-000149",
+  "invoice_id": "INV-SUMM006-2026-000196",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0021",
+  "decision": "APPROVED",
+  "policy_rule": "total > 5000.00",
+  "decided_at": "2026-08-20T17:05:00"
+ },
+ {
+  "approval_id": "APR-2026-000150",
+  "invoice_id": "INV-SUMM006-2026-000196",
+  "level": 2,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0026",
+  "decision": "APPROVED",
+  "policy_rule": "total > 25000.00: finance director",
+  "decided_at": "2026-08-21T11:06:00"
+ },
+ {
+  "approval_id": "APR-2026-000151",
+  "invoice_id": "INV-STRA019-2026-000198",
+  "level": 0,
+  "approver_type": "SYSTEM",
+  "approver_id": null,
+  "decision": "APPROVED",
+  "policy_rule": "PO-backed and total <= 5000.00: auto-approve",
+  "decided_at": "2026-08-26T11:07:00"
+ },
+ {
+  "approval_id": "APR-2026-000152",
+  "invoice_id": "INV-HELI002-2026-000200",
+  "level": 1,
+  "approver_type": "HUMAN",
+  "approver_id": "EMP-0024",
+  "decision": "APPROVED",
+  "policy_rule": "non-PO invoice requires manager approval",
+  "decided_at": "2026-10-12T22:35:00"
+ }
+]

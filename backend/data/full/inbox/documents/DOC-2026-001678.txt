@@ -1,0 +1,20 @@
+Keystone Maintenance GmbH
+Tax ID: 90-5629787
+Remit to: Accounts Receivable, Keystone Maintenance GmbH
+
+                                INVOICE
+Invoice No:      KEYS-4372
+Invoice Date:    July 14, 2026
+PO Number:       PO-2026-001321
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0003   Heavy Duty Stapler                 179       99.43  TX12    17,797.97
+ 2  SKU-OFF-0008   Sticky Notes 24pk                   15       66.51  TX12       997.65
+
+                                                  Subtotal:        18,795.62
+                                                  Tax:              2,255.48
+                                                  TOTAL DUE:       21,051.10

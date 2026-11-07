@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56694 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56694
+Invoice Date (DD/MM/YYYY): 25/02/2026
+Purchase Order: PO-2026-000338
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 13 | @ $4.31 | TX18 | $56.03
+
+Subtotal: $56.03
+Tax: $10.09
+Amount Due: $66.12
+
+Regards,
+Billing Team

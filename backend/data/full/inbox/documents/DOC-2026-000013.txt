@@ -1,0 +1,29 @@
+From: billing@evergreen.example
+To: ap-inbox@buyer.example
+Subject: Invoice 032377 from Evergreen Maintenance LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Evergreen Maintenance LLC
+Vendor Tax ID: 78-8321371
+Invoice #: 032377
+Invoice Date (DD/MM/YYYY): 20/01/2026
+Purchase Order: PO-2026-000070
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 63 | @ $7.72 | TX18 | $486.36
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 22 | @ $6.38 | TX18 | $140.36
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 43 | @ $18.93 | TX18 | $813.99
+- SKU-FAC-0002 | Floor Detergent 5L | qty 58 | @ $2.58 | TX05 | $149.64
+- SKU-MRO-0004 | V-Belt A42 | qty 48 | @ $52.80 | TX18 | $2,534.40
+- SKU-FAC-0004 | Paper Towels Case | qty 27 | @ $14.06 | TX05 | $379.62
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 21 | @ $225.68 | TX18 | $4,739.28
+
+Subtotal: $9,243.65
+Tax: $1,595.04
+Amount Due: $10,838.69
+
+Regards,
+Billing Team

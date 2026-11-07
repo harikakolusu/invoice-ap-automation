@@ -1,0 +1,19 @@
+Silver Electronics LLC
+Tax ID: 89-5727189
+Remit to: Accounts Receivable, Silver Electronics LLC
+
+                                INVOICE
+Invoice No:      043021
+Invoice Date:    2026-01-27
+PO Number:       PO-2026-000098
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0008   Server RAM 32GB                      9       70.44  TX18       633.96
+
+                                                  Subtotal:           633.96
+                                                  Tax:                114.11
+                                                  TOTAL DUE:          748.07

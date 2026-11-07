@@ -1,0 +1,23 @@
+From: billing@boreal.example
+To: ap-inbox@buyer.example
+Subject: Invoice BORE-38947 from Boreal Tech Components Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Boreal Tech Components Ltd
+Vendor Tax ID: 46-3161234
+Invoice #: BORE-38947
+Invoice Date (DD/MM/YYYY): 17/04/2026
+Purchase Order: PO-2026-000592
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 11 | @ $34.78 | TX18 | $382.58
+
+Subtotal: $382.58
+Tax: $68.86
+Amount Due: $451.44
+
+Regards,
+Billing Team

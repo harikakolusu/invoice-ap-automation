@@ -1,0 +1,23 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/38758 from Keystone Materials Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Materials Inc.
+Vendor Tax ID: 91-6633517
+Invoice #: INV/2026/38758
+Invoice Date (DD/MM/YYYY): 09/08/2026
+Purchase Order: PO-2026-001409
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 6 | @ $52.65 | TX18 | $315.90
+
+Subtotal: $315.90
+Tax: $56.86
+Amount Due: $372.76
+
+Regards,
+Billing Team

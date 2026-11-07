@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice 050650 from Prairie Metals Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Metals Pvt Ltd
+Vendor Tax ID: 30-3545236
+Invoice #: 050650
+Invoice Date (DD/MM/YYYY): 30/01/2026
+Purchase Order: PO-2026-000023
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 221 | @ $8.75 | TX05 | $1,933.75
+
+Subtotal: $1,933.75
+Tax: $96.69
+Amount Due: $2,030.44
+
+Regards,
+Billing Team

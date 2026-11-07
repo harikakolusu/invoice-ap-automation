@@ -1,0 +1,19 @@
+Strata Metals Ltd
+Tax ID: 41-1155471
+Remit to: Accounts Receivable, Strata Metals Ltd
+
+                                INVOICE
+Invoice No:      STRA-46119
+Invoice Date:    May 2, 2026
+PO Number:       PO-2026-000754
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0001   Steel Sheet 2mm                    153        8.57  TX05     1,311.21
+
+                                                  Subtotal:         1,311.21
+                                                  Tax:                 65.56
+                                                  TOTAL DUE:        1,376.77

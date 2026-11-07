@@ -1,0 +1,25 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/28402 from Strata Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Equipment Ltd
+Vendor Tax ID: 72-0960342
+Invoice #: INV/2026/28402
+Invoice Date (DD/MM/YYYY): 20/06/2026
+Purchase Order: PO-2026-000982
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 4 | @ $32.76 | TX18 | $131.04
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 32 | @ $4.33 | TX18 | $138.56
+- SKU-ITH-0004 | Wireless Keyboard | qty 4 | @ $45.96 | TX18 | $183.84
+
+Subtotal: $453.44
+Tax: $81.62
+Amount Due: $535.06
+
+Regards,
+Billing Team

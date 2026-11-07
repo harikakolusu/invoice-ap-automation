@@ -1,0 +1,24 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44044 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44044
+Invoice Date (DD/MM/YYYY): 27/03/2026
+Purchase Order: PO-2026-000436
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 38 | @ $7.53 | TX18 | $286.14
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 50 | @ $18.05 | TX18 | $902.50
+
+Subtotal: $1,188.64
+Tax: $213.96
+Amount Due: $1,402.60
+
+Regards,
+Billing Team

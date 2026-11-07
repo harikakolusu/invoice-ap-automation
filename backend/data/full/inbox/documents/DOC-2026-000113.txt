@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56660 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56660
+Invoice Date (DD/MM/YYYY): 10/02/2026
+Purchase Order: PO-2026-000124
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 25 | @ $9.56 | TX18 | $239.00
+
+Subtotal: $239.00
+Tax: $43.02
+Amount Due: $282.02
+
+Regards,
+Billing Team

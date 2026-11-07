@@ -1,0 +1,19 @@
+Atlas Materials Inc.
+Tax ID: 39-9978315
+Remit to: Accounts Receivable, Atlas Materials Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/36364
+Invoice Date:    June 12, 2026
+PO Number:       PO-2026-000932
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0004   Wireless Keyboard                    4       48.41  TX18       193.64
+
+                                                  Subtotal:           193.64
+                                                  Tax:                 34.86
+                                                  TOTAL DUE:          228.50

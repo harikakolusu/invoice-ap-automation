@@ -1,0 +1,25 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054373 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054373
+Invoice Date (DD/MM/YYYY): 08/07/2026
+Purchase Order: PO-2026-001169
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 22 | @ $19.29 | TX18 | $424.38
+- SKU-FAC-0004 | Paper Towels Case | qty 35 | @ $14.38 | TX05 | $503.30
+- SKU-FAC-0001 | Drinking Water 20L | qty 30 | @ $3.39 | TX05 | $101.70
+
+Subtotal: $1,029.38
+Tax: $106.65
+Amount Due: $1,136.03
+
+Regards,
+Billing Team

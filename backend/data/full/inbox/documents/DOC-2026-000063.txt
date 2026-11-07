@@ -1,0 +1,19 @@
+Nimbus Equipment Ltd
+Tax ID: 24-2870840
+Remit to: Accounts Receivable, Nimbus Equipment Ltd
+
+                                INVOICE
+Invoice No:      NIMB56643
+Invoice Date:    January 27, 2026
+PO Number:       PO-2026-000038
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-OFF-0002   Ballpoint Pens 12pk                 47       36.74  TX12     1,726.78
+
+                                                  Subtotal:         1,726.78
+                                                  Tax:                207.21
+                                                  TOTAL DUE:        1,933.99

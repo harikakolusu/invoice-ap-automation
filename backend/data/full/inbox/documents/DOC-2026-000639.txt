@@ -1,0 +1,23 @@
+From: billing@beacon.example
+To: ap-inbox@buyer.example
+Subject: Invoice BEAC39335 from Beacon Electronics Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Beacon Electronics Ltd
+Vendor Tax ID: 14-0488787
+Invoice #: BEAC39335
+Invoice Date (DD/MM/YYYY): 16/03/2026
+Purchase Order: PO-2026-000372
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 37 | @ $72.48 | TX18 | $2,681.76
+
+Subtotal: $2,681.76
+Tax: $482.72
+Amount Due: $3,164.48
+
+Regards,
+Billing Team

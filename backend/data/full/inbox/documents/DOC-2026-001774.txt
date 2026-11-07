@@ -1,0 +1,25 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44410 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44410
+Invoice Date (DD/MM/YYYY): 19/06/2026
+Purchase Order: PO-2026-001257
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 73 | @ $19.81 | TX18 | $1,446.13
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 331 | @ $4.17 | TX05 | $1,380.27
+- SKU-MRO-0006 | Welding Rods 5kg | qty 4 | @ $8.96 | TX18 | $35.84
+
+Subtotal: $2,862.24
+Tax: $335.76
+Amount Due: $3,198.00
+
+Regards,
+Billing Team

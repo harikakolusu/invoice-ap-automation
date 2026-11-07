@@ -1,0 +1,23 @@
+From: billing@sierra.example
+To: ap-inbox@buyer.example
+Subject: Invoice 028470 from Sierra Maintenance Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Sierra Maintenance Ltd
+Vendor Tax ID: 12-2692634
+Invoice #: 028470
+Invoice Date (DD/MM/YYYY): 12/04/2026
+Purchase Order: PO-2026-000536
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 42 | @ $8.91 | TX18 | $374.22
+
+Subtotal: $374.22
+Tax: $67.36
+Amount Due: $441.58
+
+Regards,
+Billing Team

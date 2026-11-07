@@ -1,0 +1,23 @@
+From: billing@kestrel.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEST-16720 from Kestrel Metals Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Kestrel Metals Co.
+Vendor Tax ID: 61-2723773
+Invoice #: KEST-16720
+Invoice Date (DD/MM/YYYY): 12/04/2026
+Purchase Order: PO-2026-000486
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 5 | @ $61.94 | TX18 | $309.70
+
+Subtotal: $309.70
+Tax: $55.75
+Amount Due: $365.45
+
+Regards,
+Billing Team

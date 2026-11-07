@@ -1,0 +1,29 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44254 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44254
+Invoice Date (DD/MM/YYYY): 10/05/2026
+Purchase Order: PO-2026-000802
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0004 | ABS Pellets 25kg | qty 590 | @ $5.65 | TX05 | $3,333.50
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 147 | @ $19.69 | TX18 | $2,894.43
+- SKU-MRO-0001 | Safety Gloves Nitrile | qty 26 | @ $4.88 | TX18 | $126.88
+- SKU-MRO-0004 | V-Belt A42 | qty 228 | @ $47.60 | TX18 | $10,852.80
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 79 | @ $18.92 | TX18 | $1,494.68
+- SKU-MRO-0006 | Welding Rods 5kg | qty 269 | @ $9.31 | TX18 | $2,504.39
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 43 | @ $6.34 | TX18 | $272.62
+
+Subtotal: $21,479.30
+Tax: $3,432.92
+Amount Due: $24,912.22
+
+Regards,
+Billing Team

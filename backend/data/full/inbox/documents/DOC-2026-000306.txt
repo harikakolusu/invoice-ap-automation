@@ -1,0 +1,19 @@
+Falcon Metals Inc.
+Tax ID: 61-1118766
+Remit to: Accounts Receivable, Falcon Metals Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/04512
+Invoice Date:    2026-02-25
+PO Number:       PO-2026-000253
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0001   Corrugated Box Large               373       10.42  TX12     3,886.66
+
+                                                  Subtotal:         3,886.66
+                                                  Tax:                466.40
+                                                  TOTAL DUE:        4,353.06

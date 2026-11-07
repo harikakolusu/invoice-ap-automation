@@ -1,0 +1,23 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10145 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10145
+Invoice Date (DD/MM/YYYY): 25/03/2026
+Purchase Order: PO-2026-000313
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 27 | @ $8.56 | TX18 | $231.12
+
+Subtotal: $231.12
+Tax: $41.60
+Amount Due: $272.72
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017133 from Horizon Tech Components Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Tech Components Co.
+Vendor Tax ID: 82-2670433
+Invoice #: 017133
+Invoice Date (DD/MM/YYYY): 14/05/2026
+Purchase Order: PO-2026-000894
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 38 | @ $7.59 | TX05 | $288.42
+
+Subtotal: $288.42
+Tax: $14.42
+Amount Due: $302.84
+
+Regards,
+Billing Team

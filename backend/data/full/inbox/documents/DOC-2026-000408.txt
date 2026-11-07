@@ -1,0 +1,23 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/40756 from Summit Facility Services Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Facility Services Pvt Ltd
+Vendor Tax ID: 35-7534975
+Invoice #: INV/2026/40756
+Invoice Date (DD/MM/YYYY): 07/03/2026
+Purchase Order: PO-2026-000388
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 1 | @ $55.57 | TX18 | $55.57
+
+Subtotal: $55.57
+Tax: $10.00
+Amount Due: $65.57
+
+Regards,
+Billing Team

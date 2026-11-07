@@ -1,0 +1,19 @@
+Sierra Industrial Supply Ltd
+Tax ID: 12-4023336
+Remit to: Accounts Receivable, Sierra Industrial Supply Ltd
+
+                                INVOICE
+Invoice No:      010279
+Invoice Date:    March 5, 2026
+PO Number:       PO-2026-000053
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0001   Safety Gloves Nitrile                9        4.40  TX18        39.60
+
+                                                  Subtotal:            39.60
+                                                  Tax:                  7.13
+                                                  TOTAL DUE:           46.73

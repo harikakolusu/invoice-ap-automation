@@ -1,0 +1,26 @@
+From: billing@harbor.example
+To: ap-inbox@buyer.example
+Subject: Invoice 049892 from Harbor Facility Services Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Harbor Facility Services Inc.
+Vendor Tax ID: 77-0059972
+Invoice #: 049892
+Invoice Date (DD/MM/YYYY): 18/03/2026
+Purchase Order: PO-2026-000347
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0003 | Heavy Duty Stapler | qty 73 | @ $101.92 | TX12 | $7,440.16
+- SKU-FAC-0006 | Trash Bags 100pk | qty 47 | @ $15.98 | TX05 | $751.06
+- SKU-OFF-0008 | Sticky Notes 24pk | qty 8 | @ $70.68 | TX12 | $565.44
+- SKU-FAC-0001 | Drinking Water 20L | qty 11 | @ $3.52 | TX05 | $38.72
+
+Subtotal: $8,795.38
+Tax: $1,000.16
+Amount Due: $9,795.54
+
+Regards,
+Billing Team

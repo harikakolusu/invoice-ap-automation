@@ -1,0 +1,23 @@
+From: billing@frontier.example
+To: ap-inbox@buyer.example
+Subject: Invoice FRON-28371 from Frontier Metals GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Frontier Metals GmbH
+Vendor Tax ID: 50-2879942
+Invoice #: FRON-28371
+Invoice Date (DD/MM/YYYY): 11/06/2026
+Purchase Order: PO-2026-000905
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 41 | @ $1.38 | TX12 | $56.58
+
+Subtotal: $56.58
+Tax: $6.79
+Amount Due: $63.37
+
+Regards,
+Billing Team

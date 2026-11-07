@@ -1,0 +1,22 @@
+Silver Polymers Ltd
+Tax ID: 99-2578190
+Remit to: Accounts Receivable, Silver Polymers Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/41752
+Invoice Date:    2026-03-09
+PO Number:       PO-2026-000016
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0008   Server RAM 32GB                      1       69.76  TX18        69.76
+ 2  SKU-ITH-0009   Wi-Fi Access Point                   3       34.77  TX18       104.31
+ 3  SKU-ITH-0003   Monitor 27in QHD                    10    1,820.74  TX18    18,207.40
+ 4  SKU-RAW-0004   ABS Pellets 25kg                   256        6.09  TX05     1,559.04
+
+                                                  Subtotal:        19,940.51
+                                                  Tax:              3,386.62
+                                                  TOTAL DUE:       23,327.13

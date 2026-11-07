@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/44107 from Silver Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Industrial Supply Ltd
+Vendor Tax ID: 26-5859665
+Invoice #: INV/2026/44107
+Invoice Date (DD/MM/YYYY): 04/03/2026
+Purchase Order: PO-2026-000222
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 13 | @ $7.72 | TX18 | $100.36
+
+Subtotal: $100.36
+Tax: $18.06
+Amount Due: $118.42
+
+Regards,
+Billing Team

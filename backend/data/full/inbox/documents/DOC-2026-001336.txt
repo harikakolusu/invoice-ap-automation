@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59547 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59547
+Invoice Date (DD/MM/YYYY): 14/06/2026
+Purchase Order: PO-2026-000875
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0004 | Bubble Wrap Roll | qty 151 | @ $1.32 | TX12 | $199.32
+
+Subtotal: $199.32
+Tax: $23.92
+Amount Due: $223.24
+
+Regards,
+Billing Team

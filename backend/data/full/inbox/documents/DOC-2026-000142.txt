@@ -1,0 +1,23 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice 045947 from Unity Electronics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Electronics Pvt Ltd
+Vendor Tax ID: 98-7473864
+Invoice #: 045947
+Invoice Date (DD/MM/YYYY): 11/02/2026
+Purchase Order: PO-2026-000161
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0006 | Network Switch 24P | qty 12 | @ $320.99 | TX18 | $3,851.88
+
+Subtotal: $3,851.88
+Tax: $693.34
+Amount Due: $4,545.22
+
+Regards,
+Billing Team

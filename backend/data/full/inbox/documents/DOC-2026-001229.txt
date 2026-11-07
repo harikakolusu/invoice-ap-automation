@@ -1,0 +1,24 @@
+From: billing@oakridge.example
+To: ap-inbox@buyer.example
+Subject: Invoice 042760 from Oakridge Maintenance Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Oakridge Maintenance Ltd
+Vendor Tax ID: 88-9073522
+Invoice #: 042760
+Invoice Date (DD/MM/YYYY): 02/06/2026
+Purchase Order: PO-2026-000821
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0004 | Toner Cartridge BK | qty 58 | @ $3.39 | TX12 | $196.62
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 5 | @ $18.70 | TX18 | $93.50
+
+Subtotal: $290.12
+Tax: $40.42
+Amount Due: $330.54
+
+Regards,
+Billing Team

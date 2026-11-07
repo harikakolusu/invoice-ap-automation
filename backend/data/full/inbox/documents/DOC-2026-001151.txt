@@ -1,0 +1,23 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice SUMM-37192 from Summit Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Packaging LLC
+Vendor Tax ID: 22-5946783
+Invoice #: SUMM-37192
+Invoice Date (DD/MM/YYYY): 29/05/2026
+Purchase Order: PO-2026-000907
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 108 | @ $2.00 | TX12 | $216.00
+
+Subtotal: $216.00
+Tax: $25.92
+Amount Due: $241.92
+
+Regards,
+Billing Team

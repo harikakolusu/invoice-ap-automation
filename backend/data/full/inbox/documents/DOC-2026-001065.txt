@@ -1,0 +1,23 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034594 from Atlas Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Trading GmbH
+Vendor Tax ID: 13-6292349
+Invoice #: 034594
+Invoice Date (DD/MM/YYYY): 18/05/2026
+Purchase Order: PO-2026-000881
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 115 | @ $20.37 | TX18 | $2,342.55
+
+Subtotal: $2,342.55
+Tax: $421.66
+Amount Due: $2,764.21
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@cobalt.example
+To: ap-inbox@buyer.example
+Subject: Invoice COBA-29160 from Cobalt Facility Services LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Cobalt Facility Services LLC
+Vendor Tax ID: 75-5620518
+Invoice #: COBA-29160
+Invoice Date (DD/MM/YYYY): 03/04/2026
+Purchase Order: PO-2026-000477
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 700 | @ $20.00 | TX12 | $14,000.00
+
+Subtotal: $14,000.00
+Tax: $1,680.00
+Amount Due: $15,680.00
+
+Regards,
+Billing Team

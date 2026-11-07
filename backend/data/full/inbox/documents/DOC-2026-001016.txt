@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-53402 from Horizon Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Trading GmbH
+Vendor Tax ID: 64-7665627
+Invoice #: HORI-53402
+Invoice Date (DD/MM/YYYY): 13/05/2026
+Purchase Order: PO-2026-000829
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 1568 | @ $21.26 | TX12 | $33,335.68
+
+Subtotal: $33,335.68
+Tax: $4,000.28
+Amount Due: $37,335.96
+
+Regards,
+Billing Team

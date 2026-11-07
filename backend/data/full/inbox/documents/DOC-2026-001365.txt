@@ -1,0 +1,20 @@
+Tidewater Tech Components LLC
+Tax ID: 56-2187504
+Remit to: Accounts Receivable, Tidewater Tech Components LLC
+
+                                INVOICE
+Invoice No:      TIDE-5476
+Invoice Date:    2026-06-17
+PO Number:       PO-2026-001020
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0009   Wi-Fi Access Point                   2       30.77  TX18        61.54
+ 2  SKU-RAW-0001   Steel Sheet 2mm                    106        8.55  TX05       906.30
+
+                                                  Subtotal:           967.84
+                                                  Tax:                 56.40
+                                                  TOTAL DUE:        1,024.24

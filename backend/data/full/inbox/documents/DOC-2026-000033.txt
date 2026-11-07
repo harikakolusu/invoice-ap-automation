@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-9772 from Horizon Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging Pvt Ltd
+Vendor Tax ID: 37-8463742
+Invoice #: HORI-9772
+Invoice Date (DD/MM/YYYY): 30/01/2026
+Purchase Order: PO-2026-000045
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 12 | @ $54.65 | TX18 | $655.80
+
+Subtotal: $655.80
+Tax: $118.04
+Amount Due: $773.84
+
+Regards,
+Billing Team

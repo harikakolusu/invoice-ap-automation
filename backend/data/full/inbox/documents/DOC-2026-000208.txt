@@ -1,0 +1,19 @@
+Delta Materials Pvt Ltd
+Tax ID: 84-2778118
+Remit to: Accounts Receivable, Delta Materials Pvt Ltd
+
+                                INVOICE
+Invoice No:      009550
+Invoice Date:    February 18, 2026
+PO Number:       PO-2026-000084
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0005   Coffee Beans 1kg                    56        5.76  TX05       322.56
+
+                                                  Subtotal:           322.56
+                                                  Tax:                 16.13
+                                                  TOTAL DUE:          338.69

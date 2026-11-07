@@ -1,0 +1,19 @@
+Oakridge Materials LLC
+Tax ID: 99-2038166
+Remit to: Accounts Receivable, Oakridge Materials LLC
+
+                                INVOICE
+Invoice No:      INV/2026/32353
+Invoice Date:    March 3, 2026
+PO Number:       PO-2026-000054
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0001   Drinking Water 20L                   4        4.32  TX05        17.28
+
+                                                  Subtotal:            17.28
+                                                  Tax:                  0.86
+                                                  TOTAL DUE:           18.14

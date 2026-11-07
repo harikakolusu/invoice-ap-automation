@@ -1,0 +1,25 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice SUMM-12361 from Summit Trading Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Trading Ltd
+Vendor Tax ID: 89-0232753
+Invoice #: SUMM-12361
+Invoice Date (DD/MM/YYYY): 06/10/2026
+Purchase Order: none
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-SRV-0005 | Software Subscription | qty 1 | @ $531.40 | TX18 | $531.40
+- SKU-SRV-0001 | IT Consulting Hour | qty 3 | @ $962.63 | TX18 | $2,887.89
+- SKU-SRV-0003 | Facility Cleaning Month | qty 4 | @ $117.16 | TX18 | $468.64
+
+Subtotal: $3,887.93
+Tax: $699.83
+Amount Due: $4,587.76
+
+Regards,
+Billing Team

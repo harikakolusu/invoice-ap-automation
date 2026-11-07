@@ -1,0 +1,24 @@
+From: billing@oakridge.example
+To: ap-inbox@buyer.example
+Subject: Invoice 042768 from Oakridge Maintenance Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Oakridge Maintenance Ltd
+Vendor Tax ID: 88-9073522
+Invoice #: 042768
+Invoice Date (DD/MM/YYYY): 26/06/2026
+Purchase Order: PO-2026-001134
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 219 | @ $9.44 | TX18 | $2,067.36
+- SKU-MRO-0004 | V-Belt A42 | qty 163 | @ $48.29 | TX18 | $7,871.27
+
+Subtotal: $9,938.63
+Tax: $1,788.95
+Amount Due: $11,727.58
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Vertex Systems Ltd
+Tax ID: 36-2282815
+Remit to: Accounts Receivable, Vertex Systems Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/17149
+Invoice Date:    June 7, 2026
+PO Number:       PO-2026-000793
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0008   Server RAM 32GB                     16       67.47  TX18     1,079.52
+
+                                                  Subtotal:         1,079.52
+                                                  Tax:                194.31
+                                                  TOTAL DUE:        1,273.83

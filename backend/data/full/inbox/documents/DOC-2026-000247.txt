@@ -1,0 +1,19 @@
+Tidewater Facility Services Pvt Ltd
+Tax ID: 61-6190224
+Remit to: Accounts Receivable, Tidewater Facility Services Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/55777
+Invoice Date:    February 19, 2026
+PO Number:       PO-2026-000137
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0005   Coffee Beans 1kg                    24        5.69  TX05       136.56
+
+                                                  Subtotal:           136.56
+                                                  Tax:                  6.83
+                                                  TOTAL DUE:          143.39

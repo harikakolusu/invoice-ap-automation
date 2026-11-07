@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice QUAN-36720 from Quanta Distribution GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Distribution GmbH
+Vendor Tax ID: 24-5922824
+Invoice #: QUAN-36720
+Invoice Date (DD/MM/YYYY): 01/06/2026
+Purchase Order: PO-2026-000745
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0008 | Server RAM 32GB | qty 14 | @ $70.89 | TX18 | $992.46
+
+Subtotal: $992.46
+Tax: $178.64
+Amount Due: $1,171.10
+
+Regards,
+Billing Team

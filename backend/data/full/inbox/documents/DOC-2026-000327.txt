@@ -1,0 +1,24 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice 045956 from Unity Electronics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Electronics Pvt Ltd
+Vendor Tax ID: 98-7473864
+Invoice #: 045956
+Invoice Date (DD/MM/YYYY): 25/02/2026
+Purchase Order: PO-2026-000150
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0001 | Laptop 14in i7 | qty 8 | @ $58.55 | TX18 | $468.40
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 497 | @ $20.04 | TX12 | $9,959.88
+
+Subtotal: $10,428.28
+Tax: $1,279.50
+Amount Due: $11,707.78
+
+Regards,
+Billing Team

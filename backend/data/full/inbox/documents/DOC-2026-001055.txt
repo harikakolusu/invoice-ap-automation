@@ -1,0 +1,23 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034588 from Atlas Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Trading GmbH
+Vendor Tax ID: 13-6292349
+Invoice #: 034588
+Invoice Date (DD/MM/YYYY): 15/05/2026
+Purchase Order: PO-2026-000716
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-PKG-0006 | Wooden Pallet EUR | qty 375 | @ $19.35 | TX12 | $7,256.25
+
+Subtotal: $7,256.25
+Tax: $870.75
+Amount Due: $8,127.00
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Horizon Equipment Inc.
+Tax ID: 72-3171927
+Remit to: Accounts Receivable, Horizon Equipment Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/06292
+Invoice Date:    2026-07-04
+PO Number:       PO-2026-000984
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0005   Hex Bolts M10 100pk                 40       18.71  TX18       748.40
+
+                                                  Subtotal:           748.40
+                                                  Tax:                134.71
+                                                  TOTAL DUE:          883.11

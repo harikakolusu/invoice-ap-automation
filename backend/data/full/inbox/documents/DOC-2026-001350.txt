@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054354 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054354
+Invoice Date (DD/MM/YYYY): 16/06/2026
+Purchase Order: PO-2026-000961
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 88 | @ $6.43 | TX18 | $565.84
+
+Subtotal: $565.84
+Tax: $101.85
+Amount Due: $667.69
+
+Regards,
+Billing Team

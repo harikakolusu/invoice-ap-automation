@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/07243 from Horizon Trading Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Trading Inc.
+Vendor Tax ID: 59-4712761
+Invoice #: INV/2026/07243
+Invoice Date (DD/MM/YYYY): 20/04/2026
+Purchase Order: PO-2026-000597
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 126 | @ $49.12 | TX18 | $6,189.12
+- SKU-OFF-0008 | Sticky Notes 24pk | qty 18 | @ $74.11 | TX12 | $1,333.98
+
+Subtotal: $7,523.10
+Tax: $1,274.12
+Amount Due: $8,797.22
+
+Regards,
+Billing Team

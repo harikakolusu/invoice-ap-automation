@@ -1,0 +1,23 @@
+From: billing@kestrel.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEST25357 from Kestrel Electronics LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Kestrel Electronics LLC
+Vendor Tax ID: 79-6601739
+Invoice #: KEST25357
+Invoice Date (DD/MM/YYYY): 24/04/2026
+Purchase Order: PO-2026-000715
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 35 | @ $8.01 | TX18 | $280.35
+
+Subtotal: $280.35
+Tax: $50.46
+Amount Due: $330.81
+
+Regards,
+Billing Team

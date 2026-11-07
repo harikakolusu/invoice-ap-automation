@@ -1,0 +1,22 @@
+Unity Systems Pvt Ltd
+Tax ID: 25-4215797
+Remit to: Accounts Receivable, Unity Systems Pvt Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/27338
+Invoice Date:    July 3, 2026
+PO Number:       PO-2026-001130
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0001   Corrugated Box Large               568        8.94  TX12     5,077.92
+ 2  SKU-PKG-0005   Packing Tape 36pk                   90       37.71  TX12     3,393.90
+ 3  SKU-ITH-0009   Wi-Fi Access Point                   8       33.93  TX18       271.44
+ 4  SKU-ITH-0010   Rack UPS 3kVA                        4       31.34  TX18       125.36
+
+                                                  Subtotal:         8,868.62
+                                                  Tax:              1,088.04
+                                                  TOTAL DUE:        9,956.66

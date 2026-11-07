@@ -1,0 +1,23 @@
+From: billing@keystone.example
+To: ap-inbox@buyer.example
+Subject: Invoice 050085 from Keystone Polymers Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Keystone Polymers Co.
+Vendor Tax ID: 76-5656738
+Invoice #: 050085
+Invoice Date (DD/MM/YYYY): 08/06/2026
+Purchase Order: PO-2026-000936
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 22 | @ $4.10 | TX05 | $90.20
+
+Subtotal: $90.20
+Tax: $4.51
+Amount Due: $98.38
+
+Regards,
+Billing Team

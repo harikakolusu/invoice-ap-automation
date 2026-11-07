@@ -1,0 +1,23 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice SUMM-12355 from Summit Trading Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Trading Ltd
+Vendor Tax ID: 89-0232753
+Invoice #: SUMM-12355
+Invoice Date (DD/MM/YYYY): 22/01/2026
+Purchase Order: PO-2026-000352
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-OFF-0003 | Heavy Duty Stapler | qty 87 | @ $100.50 | TX12 | $8,743.50
+
+Subtotal: $8,743.50
+Tax: $1,049.22
+Amount Due: $9,792.72
+
+Regards,
+Billing Team

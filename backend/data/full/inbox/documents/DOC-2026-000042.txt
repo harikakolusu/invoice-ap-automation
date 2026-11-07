@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice 008117 from Quanta Trading Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Trading Pvt Ltd
+Vendor Tax ID: 56-7054910
+Invoice #: 008117
+Invoice Date (DD/MM/YYYY): 01/02/2026
+Purchase Order: PO-2026-000062
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 5 | @ $21.96 | TX18 | $109.80
+
+Subtotal: $109.80
+Tax: $19.76
+Amount Due: $129.56
+
+Regards,
+Billing Team

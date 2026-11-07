@@ -1,0 +1,24 @@
+From: billing@meridian.example
+To: ap-inbox@buyer.example
+Subject: Invoice MERI-50354 from Meridian Electronics GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Meridian Electronics GmbH
+Vendor Tax ID: 26-1856640
+Invoice #: MERI-50354
+Invoice Date (DD/MM/YYYY): 27/02/2026
+Purchase Order: PO-2026-000237
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-ITH-0006 | Network Switch 24P | qty 22 | @ $361.23 | TX18 | $7,947.06
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 3 | @ $59.29 | TX18 | $177.87
+
+Subtotal: $8,124.93
+Tax: $1,462.49
+Amount Due: $9,587.42
+
+Regards,
+Billing Team

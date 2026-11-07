@@ -1,0 +1,23 @@
+From: billing@summit.example
+To: ap-inbox@buyer.example
+Subject: Invoice SUMM-12360 from Summit Trading Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Summit Trading Ltd
+Vendor Tax ID: 89-0232753
+Invoice #: SUMM-12360
+Invoice Date (DD/MM/YYYY): 13/02/2026
+Purchase Order: PO-2026-000078
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 76 | @ $5.09 | TX05 | $386.84
+
+Subtotal: $386.84
+Tax: $19.34
+Amount Due: $406.18
+
+Regards,
+Billing Team

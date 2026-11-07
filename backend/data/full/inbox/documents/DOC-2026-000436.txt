@@ -1,0 +1,19 @@
+Cobalt Trading GmbH
+Tax ID: 84-7599039
+Remit to: Accounts Receivable, Cobalt Trading GmbH
+
+                                INVOICE
+Invoice No:      COBA-51109
+Invoice Date:    2026-03-07
+PO Number:       PO-2026-000295
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0003   Hand Sanitizer 1L                  269       62.74  TX05    16,877.06
+
+                                                  Subtotal:        16,877.06
+                                                  Tax:                843.85
+                                                  TOTAL DUE:       17,720.91

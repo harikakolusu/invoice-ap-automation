@@ -1,0 +1,24 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 059949 from Atlas Industrial Supply GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Industrial Supply GmbH
+Vendor Tax ID: 72-4221383
+Invoice #: 059949
+Invoice Date (DD/MM/YYYY): 18/06/2026
+Purchase Order: PO-2026-001137
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0005 | Epoxy Resin 5L | qty 157 | @ $10.36 | TX05 | $1,626.52
+- SKU-MRO-0002 | Hydraulic Oil 20L | qty 295 | @ $6.17 | TX18 | $1,820.15
+
+Subtotal: $3,446.67
+Tax: $408.96
+Amount Due: $3,855.63
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 052027 from Glacier Industrial Supply GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Industrial Supply GmbH
+Vendor Tax ID: 89-9782441
+Invoice #: 052027
+Invoice Date (DD/MM/YYYY): 29/03/2026
+Purchase Order: PO-2026-000037
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0004 | V-Belt A42 | qty 60 | @ $47.81 | TX18 | $2,868.60
+
+Subtotal: $2,868.60
+Tax: $516.35
+Amount Due: $3,384.95
+
+Regards,
+Billing Team

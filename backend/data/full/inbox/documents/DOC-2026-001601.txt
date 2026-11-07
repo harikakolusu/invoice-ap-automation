@@ -1,0 +1,20 @@
+Horizon Equipment Inc.
+Tax ID: 72-3171927
+Remit to: Accounts Receivable, Horizon Equipment Inc.
+
+                                INVOICE
+Invoice No:      INV/2026/06293
+Invoice Date:    2026-07-05
+PO Number:       PO-2026-001079
+Payment Terms:   NET15
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0004   ABS Pellets 25kg                   232        5.70  TX05     1,322.40
+ 2  SKU-MRO-0004   V-Belt A42                           4       52.15  TX18       208.60
+
+                                                  Subtotal:         1,531.00
+                                                  Tax:                103.67
+                                                  TOTAL DUE:        1,634.67

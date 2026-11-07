@@ -1,0 +1,23 @@
+From: billing@northstar.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/48827 from Northstar Tech Components Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Northstar Tech Components Pvt Ltd
+Vendor Tax ID: 12-4495388
+Invoice #: INV/2026/48827
+Invoice Date (DD/MM/YYYY): 29/06/2026
+Purchase Order: PO-2026-001037
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-ITH-0003 | Monitor 27in QHD | qty 2 | @ $1,851.95 | TX18 | $3,703.90
+
+Subtotal: $3,703.90
+Tax: $666.70
+Amount Due: $4,370.60
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@kestrel.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEST-13412 from Kestrel Office Solutions Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Kestrel Office Solutions Ltd
+Vendor Tax ID: 26-0309910
+Invoice #: KEST-13412
+Invoice Date (DD/MM/YYYY): 20/08/2026
+Purchase Order: PO-2026-001422
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 5 | @ $5.50 | TX05 | $27.50
+
+Subtotal: $27.50
+Tax: $1.38
+Amount Due: $28.88
+
+Regards,
+Billing Team

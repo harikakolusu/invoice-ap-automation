@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054402 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054402
+Invoice Date (DD/MM/YYYY): 28/08/2026
+Purchase Order: PO-2026-001421
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-FAC-0001 | Drinking Water 20L | qty 113 | @ $3.51 | TX05 | $396.63
+
+Subtotal: $396.63
+Tax: $19.83
+Amount Due: $416.46
+
+Regards,
+Billing Team

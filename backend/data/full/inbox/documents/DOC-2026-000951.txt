@@ -1,0 +1,23 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice 002308 from Unity Office Solutions Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Office Solutions Pvt Ltd
+Vendor Tax ID: 24-7171376
+Invoice #: 002308
+Invoice Date (DD/MM/YYYY): 07/05/2026
+Purchase Order: PO-2026-000788
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 13 | @ $34.59 | TX18 | $449.67
+
+Subtotal: $449.67
+Tax: $80.94
+Amount Due: $530.61
+
+Regards,
+Billing Team

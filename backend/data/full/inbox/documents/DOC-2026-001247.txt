@@ -1,0 +1,19 @@
+Sierra Distribution Ltd
+Tax ID: 53-3486935
+Remit to: Accounts Receivable, Sierra Distribution Ltd
+
+                                INVOICE
+Invoice No:      INV/2026/03488
+Invoice Date:    June 6, 2026
+PO Number:       PO-2026-000854
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0003   Copper Wire 2.5mm                  295      156.07  TX05    46,040.65
+
+                                                  Subtotal:        46,040.65
+                                                  Tax:              2,302.03
+                                                  TOTAL DUE:       48,342.68

@@ -1,0 +1,24 @@
+Pinnacle Tech Components Pvt Ltd
+Tax ID: 24-4574254
+Remit to: Accounts Receivable, Pinnacle Tech Components Pvt Ltd
+
+                                INVOICE
+Invoice No:      PINN-42752
+Invoice Date:    June 5, 2026
+PO Number:       PO-2026-000887
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-FAC-0002   Floor Detergent 5L                 154        2.59  TX05       398.86
+ 2  SKU-ITH-0001   Laptop 14in i7                      21       55.94  TX18     1,174.74
+ 3  SKU-ITH-0005   USB-C Hub 7-port                     1       54.14  TX18        54.14
+ 4  SKU-FAC-0005   Coffee Beans 1kg                    35        5.00  TX05       175.00
+ 5  SKU-FAC-0001   Drinking Water 20L                  25        3.43  TX05        85.75
+ 6  SKU-FAC-0004   Paper Towels Case                  158       15.36  TX05     2,426.88
+
+                                                  Subtotal:         4,315.37
+                                                  Tax:                375.52
+                                                  TOTAL DUE:        4,690.89

@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice SILV-44242 from Silver Polymers LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Polymers LLC
+Vendor Tax ID: 97-2403119
+Invoice #: SILV-44242
+Invoice Date (DD/MM/YYYY): 09/05/2026
+Purchase Order: PO-2026-000725
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0005 | Epoxy Resin 5L | qty 21 | @ $10.78 | TX05 | $226.38
+
+Subtotal: $226.38
+Tax: $11.32
+Amount Due: $237.70
+
+Regards,
+Billing Team

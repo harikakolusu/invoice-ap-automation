@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/07255 from Horizon Trading Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Trading Inc.
+Vendor Tax ID: 59-4712761
+Invoice #: INV/2026/07255
+Invoice Date (DD/MM/YYYY): 20/07/2026
+Purchase Order: PO-2026-001377
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-OFF-0002 | Ballpoint Pens 12pk | qty 90 | @ $38.73 | TX12 | $3,485.70
+
+Subtotal: $3,485.70
+Tax: $418.28
+Amount Due: $3,903.98
+
+Regards,
+Billing Team

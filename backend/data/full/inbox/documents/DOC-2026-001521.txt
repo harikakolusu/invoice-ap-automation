@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/55028 from Helios Materials Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Materials Pvt Ltd
+Vendor Tax ID: 18-1136223
+Invoice #: INV/2026/55028
+Invoice Date (DD/MM/YYYY): 28/06/2026
+Purchase Order: PO-2026-001138
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 9 | @ $32.83 | TX18 | $295.47
+
+Subtotal: $295.47
+Tax: $53.18
+Amount Due: $348.65
+
+Regards,
+Billing Team

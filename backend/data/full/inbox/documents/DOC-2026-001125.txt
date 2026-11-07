@@ -1,0 +1,19 @@
+Falcon Materials LLC
+Tax ID: 88-1483266
+Remit to: Accounts Receivable, Falcon Materials LLC
+
+                                INVOICE
+Invoice No:      FALC-59295
+Invoice Date:    2026-05-25
+PO Number:       PO-2026-000852
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0003   Monitor 27in QHD                     2    1,745.66  TX18     3,491.32
+
+                                                  Subtotal:         3,491.32
+                                                  Tax:                628.44
+                                                  TOTAL DUE:        4,119.76

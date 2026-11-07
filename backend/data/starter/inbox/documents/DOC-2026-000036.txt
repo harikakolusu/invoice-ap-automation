@@ -1,0 +1,23 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice APEX-53309 from Apex Industrial Supply Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Industrial Supply Ltd
+Vendor Tax ID: 28-4401299
+Invoice #: APEX-53309
+Invoice Date (DD/MM/YYYY): 11/03/2026
+Purchase Order: PO-2026-000019
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0007 | Cable Ties 1000pk | qty 13 | @ $217.99 | TX18 | $2,833.87
+
+Subtotal: $2,833.87
+Tax: $510.10
+Amount Due: $3,343.97
+
+Regards,
+Billing Team

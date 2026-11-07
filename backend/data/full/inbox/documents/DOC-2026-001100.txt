@@ -1,0 +1,22 @@
+Glacier Polymers LLC
+Tax ID: 35-4086729
+Remit to: Accounts Receivable, Glacier Polymers LLC
+
+                                INVOICE
+Invoice No:      GLAC-9821
+Invoice Date:    May 23, 2026
+PO Number:       PO-2026-000838
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0003   Copper Wire 2.5mm                   22      144.37  TX05     3,176.14
+ 2  SKU-RAW-0001   Steel Sheet 2mm                    375        9.55  TX05     3,581.25
+ 3  SKU-RAW-0004   ABS Pellets 25kg                    26        5.50  TX05       143.00
+ 4  SKU-MRO-0003   Ball Bearing 6204                   32       19.32  TX18       618.24
+
+                                                  Subtotal:         7,518.63
+                                                  Tax:                456.30
+                                                  TOTAL DUE:        7,974.93

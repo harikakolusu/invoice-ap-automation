@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/28373 from Strata Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Equipment Ltd
+Vendor Tax ID: 72-0960342
+Invoice #: INV/2026/28373
+Invoice Date (DD/MM/YYYY): 21/04/2026
+Purchase Order: PO-2026-000559
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0010 | Rack UPS 3kVA | qty 1 | @ $29.83 | TX18 | $29.83
+
+Subtotal: $29.83
+Tax: $5.37
+Amount Due: $35.20
+
+Regards,
+Billing Team

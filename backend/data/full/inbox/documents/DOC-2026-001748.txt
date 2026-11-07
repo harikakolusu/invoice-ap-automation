@@ -1,0 +1,24 @@
+From: billing@apex.example
+To: ap-inbox@buyer.example
+Subject: Invoice 054388 from Apex Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Apex Equipment Pvt Ltd
+Vendor Tax ID: 99-7388382
+Invoice #: 054388
+Invoice Date (DD/MM/YYYY): 22/07/2026
+Purchase Order: PO-2026-001361
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 38 | @ $18.59 | TX18 | $706.42
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 8 | @ $18.66 | TX18 | $149.28
+
+Subtotal: $855.70
+Tax: $154.03
+Amount Due: $983.28
+
+Regards,
+Billing Team

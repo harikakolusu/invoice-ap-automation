@@ -1,0 +1,19 @@
+Keystone Distribution LLC
+Tax ID: 50-8523684
+Remit to: Accounts Receivable, Keystone Distribution LLC
+
+                                INVOICE
+Invoice No:      053672
+Invoice Date:    2026-03-20
+PO Number:       PO-2026-000323
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-PKG-0002   Stretch Film Roll                  177        2.22  TX12       392.94
+
+                                                  Subtotal:           392.94
+                                                  Tax:                 47.15
+                                                  TOTAL DUE:          440.09

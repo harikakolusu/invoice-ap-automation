@@ -1,0 +1,23 @@
+From: billing@silver.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017890 from Silver Equipment GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Silver Equipment GmbH
+Vendor Tax ID: 39-0639387
+Invoice #: 017890
+Invoice Date (DD/MM/YYYY): 18/03/2026
+Purchase Order: PO-2026-000391
+Terms: NET15
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 4 | @ $20.13 | TX18 | $80.52
+
+Subtotal: $80.52
+Tax: $14.49
+Amount Due: $95.01
+
+Regards,
+Billing Team

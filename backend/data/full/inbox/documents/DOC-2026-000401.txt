@@ -1,0 +1,19 @@
+Frontier Logistics GmbH
+Tax ID: 57-9728928
+Remit to: Accounts Receivable, Frontier Logistics GmbH
+
+                                INVOICE
+Invoice No:      FRON-48551
+Invoice Date:    2026-03-03
+PO Number:       PO-2026-000167
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0006   Welding Rods 5kg                     3        8.34  TX18        25.02
+
+                                                  Subtotal:            25.02
+                                                  Tax:                  4.50
+                                                  TOTAL DUE:           29.52

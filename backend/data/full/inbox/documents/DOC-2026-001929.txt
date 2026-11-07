@@ -1,0 +1,23 @@
+From: billing@boreal.example
+To: ap-inbox@buyer.example
+Subject: Invoice 037616 from Boreal Distribution LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Boreal Distribution LLC
+Vendor Tax ID: 64-4717804
+Invoice #: 037616
+Invoice Date (DD/MM/YYYY): 11/08/2026
+Purchase Order: PO-2026-001392
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0001 | Steel Sheet 2mm | qty 11 | @ $7.75 | TX05 | $85.25
+
+Subtotal: $85.25
+Tax: $4.26
+Amount Due: $89.51
+
+Regards,
+Billing Team

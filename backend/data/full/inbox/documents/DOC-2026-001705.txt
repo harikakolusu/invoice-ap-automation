@@ -1,0 +1,19 @@
+Orion Office Solutions LLC
+Tax ID: 30-0991923
+Remit to: Accounts Receivable, Orion Office Solutions LLC
+
+                                INVOICE
+Invoice No:      INV/2026/31150
+Invoice Date:    2026-07-15
+PO Number:       PO-2026-001199
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0010   Rack UPS 3kVA                       23       27.49  TX18       632.27
+
+                                                  Subtotal:           632.27
+                                                  Tax:                113.81
+                                                  TOTAL DUE:          746.08

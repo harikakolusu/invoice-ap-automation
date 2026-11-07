@@ -1,0 +1,23 @@
+From: billing@glacier.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034677 from Glacier Electronics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Glacier Electronics Pvt Ltd
+Vendor Tax ID: 73-1156371
+Invoice #: 034677
+Invoice Date (DD/MM/YYYY): 21/06/2026
+Purchase Order: PO-2026-001002
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 18 | @ $9.13 | TX18 | $164.34
+
+Subtotal: $164.34
+Tax: $29.58
+Amount Due: $193.92
+
+Regards,
+Billing Team

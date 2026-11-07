@@ -1,0 +1,23 @@
+From: billing@unity.example
+To: ap-inbox@buyer.example
+Subject: Invoice 045941 from Unity Electronics Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Unity Electronics Pvt Ltd
+Vendor Tax ID: 98-7473864
+Invoice #: 045941
+Invoice Date (DD/MM/YYYY): 03/02/2026
+Purchase Order: PO-2026-000026
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-PKG-0005 | Packing Tape 36pk | qty 140 | @ $39.56 | TX12 | $5,538.40
+
+Subtotal: $5,538.40
+Tax: $664.61
+Amount Due: $6,203.01
+
+Regards,
+Billing Team

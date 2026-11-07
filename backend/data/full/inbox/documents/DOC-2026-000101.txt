@@ -1,0 +1,24 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice 013876 from Horizon Materials Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Materials Co.
+Vendor Tax ID: 26-8475866
+Invoice #: 013876
+Invoice Date (DD/MM/YYYY): 09/02/2026
+Purchase Order: PO-2026-000143
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 8 | @ $19.84 | TX18 | $158.72
+- SKU-MRO-0004 | V-Belt A42 | qty 7 | @ $48.30 | TX18 | $338.10
+
+Subtotal: $496.82
+Tax: $89.43
+Amount Due: $586.25
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@harbor.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/26479 from Harbor Office Solutions Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Harbor Office Solutions Inc.
+Vendor Tax ID: 80-1964520
+Invoice #: INV/2026/26479
+Invoice Date (DD/MM/YYYY): 07/03/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0004 | Legal Advisory Hour | qty 1 | @ $948.19 | TX18 | $948.19
+
+Subtotal: $948.19
+Tax: $170.67
+Amount Due: $1,118.86
+
+Regards,
+Billing Team

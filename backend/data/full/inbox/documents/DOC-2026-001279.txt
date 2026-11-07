@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/28392 from Strata Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Equipment Ltd
+Vendor Tax ID: 72-0960342
+Invoice #: INV/2026/28392
+Invoice Date (DD/MM/YYYY): 08/06/2026
+Purchase Order: PO-2026-000864
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 219 | @ $30.21 | TX18 | $6,615.99
+
+Subtotal: $6,615.99
+Tax: $1,190.88
+Amount Due: $7,806.87
+
+Regards,
+Billing Team

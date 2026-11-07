@@ -1,0 +1,19 @@
+Keystone Polymers GmbH
+Tax ID: 96-4455465
+Remit to: Accounts Receivable, Keystone Polymers GmbH
+
+                                INVOICE
+Invoice No:      037557
+Invoice Date:    July 22, 2026
+PO Number:       PO-2026-001183
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0003   Copper Wire 2.5mm                   11      145.30  TX05     1,598.30
+
+                                                  Subtotal:         1,598.30
+                                                  Tax:                 79.92
+                                                  TOTAL DUE:        1,678.22

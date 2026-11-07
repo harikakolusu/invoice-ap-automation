@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice STRA-49915 from Strata Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Packaging Pvt Ltd
+Vendor Tax ID: 81-6152392
+Invoice #: STRA-49915
+Invoice Date (DD/MM/YYYY): 19/03/2026
+Purchase Order: PO-2026-000033
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0005 | Packing Tape 36pk | qty 94 | @ $37.57 | TX12 | $3,531.58
+
+Subtotal: $3,531.58
+Tax: $423.79
+Amount Due: $3,955.37
+
+Regards,
+Billing Team

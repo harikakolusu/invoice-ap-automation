@@ -1,0 +1,23 @@
+From: billing@crescent.example
+To: ap-inbox@buyer.example
+Subject: Invoice 017862 from Crescent Industrial Supply Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Crescent Industrial Supply Co.
+Vendor Tax ID: 83-1300706
+Invoice #: 017862
+Invoice Date (DD/MM/YYYY): 26/06/2026
+Purchase Order: PO-2026-001166
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0006 | Network Switch 24P | qty 1 | @ $319.24 | TX18 | $319.24
+
+Subtotal: $319.24
+Tax: $57.46
+Amount Due: $376.70
+
+Regards,
+Billing Team

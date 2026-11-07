@@ -1,0 +1,23 @@
+From: billing@strata.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/28427 from Strata Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Strata Equipment Ltd
+Vendor Tax ID: 72-0960342
+Invoice #: INV/2026/28427
+Invoice Date (DD/MM/YYYY): 24/07/2026
+Purchase Order: PO-2026-001395
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-MRO-0006 | Welding Rods 5kg | qty 116 | @ $8.38 | TX18 | $972.08
+
+Subtotal: $972.08
+Tax: $174.97
+Amount Due: $1,147.05
+
+Regards,
+Billing Team

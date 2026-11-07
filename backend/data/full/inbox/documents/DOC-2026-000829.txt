@@ -1,0 +1,23 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice 002302 from Redwood Materials Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Materials Co.
+Vendor Tax ID: 10-8202749
+Invoice #: 002302
+Invoice Date (DD/MM/YYYY): 15/04/2026
+Purchase Order: PO-2026-000587
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 5 | @ $142.83 | TX05 | $714.15
+
+Subtotal: $714.15
+Tax: $35.71
+Amount Due: $749.86
+
+Regards,
+Billing Team

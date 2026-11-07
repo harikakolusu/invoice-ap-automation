@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56669 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56669
+Invoice Date (DD/MM/YYYY): 12/02/2026
+Purchase Order: PO-2026-000081
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 18 | @ $20.49 | TX18 | $368.82
+
+Subtotal: $368.82
+Tax: $66.39
+Amount Due: $435.21
+
+Regards,
+Billing Team

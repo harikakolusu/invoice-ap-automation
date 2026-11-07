@@ -1,0 +1,23 @@
+From: billing@ironwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice IRON-33866 from Ironwood Equipment Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Ironwood Equipment Pvt Ltd
+Vendor Tax ID: 85-8745788
+Invoice #: IRON-33866
+Invoice Date (DD/MM/YYYY): 12/07/2026
+Purchase Order: PO-2026-001043
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 2 | @ $19.67 | TX18 | $39.34
+
+Subtotal: $39.34
+Tax: $7.08
+Amount Due: $46.42
+
+Regards,
+Billing Team

@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/59599 from Horizon Packaging LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging LLC
+Vendor Tax ID: 50-9268917
+Invoice #: INV/2026/59599
+Invoice Date (DD/MM/YYYY): 18/07/2026
+Purchase Order: PO-2026-001207
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0003 | Monitor 27in QHD | qty 9 | @ $2,159.09 | TX18 | $19,431.81
+
+Subtotal: $19,431.81
+Tax: $3,497.73
+Amount Due: $22,929.54
+
+Regards,
+Billing Team

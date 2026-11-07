@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice 050664 from Prairie Metals Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Metals Pvt Ltd
+Vendor Tax ID: 30-3545236
+Invoice #: 050664
+Invoice Date (DD/MM/YYYY): 30/03/2026
+Purchase Order: PO-2026-000400
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0009 | Wi-Fi Access Point | qty 12 | @ $31.96 | TX18 | $383.52
+
+Subtotal: $383.52
+Tax: $69.03
+Amount Due: $452.55
+
+Regards,
+Billing Team

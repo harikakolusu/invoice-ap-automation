@@ -1,0 +1,23 @@
+From: billing@horizon.example
+To: ap-inbox@buyer.example
+Subject: Invoice HORI-9804 from Horizon Packaging Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Horizon Packaging Pvt Ltd
+Vendor Tax ID: 37-8463742
+Invoice #: HORI-9804
+Invoice Date (DD/MM/YYYY): 09/04/2026
+Purchase Order: PO-2026-000640
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0003 | Monitor 27in QHD | qty 11 | @ $1,654.62 | TX18 | $18,200.82
+
+Subtotal: $18,200.82
+Tax: $3,276.15
+Amount Due: $21,476.97
+
+Regards,
+Billing Team

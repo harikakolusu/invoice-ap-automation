@@ -1,0 +1,23 @@
+From: billing@helios.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/55042 from Helios Materials Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Helios Materials Pvt Ltd
+Vendor Tax ID: 18-1136223
+Invoice #: INV/2026/55042
+Invoice Date (DD/MM/YYYY): 23/07/2026
+Purchase Order: PO-2026-001212
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0006 | PP Granules 25kg | qty 119 | @ $313.50 | TX05 | $37,306.50
+
+Subtotal: $37,306.50
+Tax: $1,865.33
+Amount Due: $39,171.83
+
+Regards,
+Billing Team

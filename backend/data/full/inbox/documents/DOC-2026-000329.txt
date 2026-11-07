@@ -1,0 +1,23 @@
+From: billing@nimbus.example
+To: ap-inbox@buyer.example
+Subject: Invoice NIMB-56705 from Nimbus Equipment Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Nimbus Equipment Ltd
+Vendor Tax ID: 24-2870840
+Invoice #: NIMB-56705
+Invoice Date (DD/MM/YYYY): 02/03/2026
+Purchase Order: PO-2026-000281
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0004 | Toner Cartridge BK | qty 129 | @ $3.58 | TX12 | $461.82
+
+Subtotal: $461.82
+Tax: $55.42
+Amount Due: $517.24
+
+Regards,
+Billing Team

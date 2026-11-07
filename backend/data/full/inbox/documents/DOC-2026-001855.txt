@@ -1,0 +1,23 @@
+From: billing@harbor.example
+To: ap-inbox@buyer.example
+Subject: Invoice 049925 from Harbor Facility Services Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Harbor Facility Services Inc.
+Vendor Tax ID: 77-0059972
+Invoice #: 049925
+Invoice Date (DD/MM/YYYY): 03/08/2026
+Purchase Order: PO-2026-001385
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0004 | Toner Cartridge BK | qty 8 | @ $3.74 | TX12 | $29.92
+
+Subtotal: $29.92
+Tax: $3.59
+Amount Due: $33.51
+
+Regards,
+Billing Team

@@ -1,0 +1,19 @@
+Glacier Distribution GmbH
+Tax ID: 11-3917320
+Remit to: Accounts Receivable, Glacier Distribution GmbH
+
+                                INVOICE
+Invoice No:      INV/2026/33122
+Invoice Date:    2026-07-09
+PO Number:       PO-2026-001224
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0009   Wi-Fi Access Point                  61       33.85  TX18     2,064.85
+
+                                                  Subtotal:         2,064.85
+                                                  Tax:                371.67
+                                                  TOTAL DUE:        2,436.52

@@ -1,0 +1,24 @@
+From: billing@redwood.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/10195 from Redwood Industrial Supply Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Redwood Industrial Supply Pvt Ltd
+Vendor Tax ID: 24-3101203
+Invoice #: INV/2026/10195
+Invoice Date (DD/MM/YYYY): 18/06/2026
+Purchase Order: PO-2026-001085
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-PKG-0002 | Stretch Film Roll | qty 113 | @ $2.23 | TX12 | $251.99
+- SKU-PKG-0003 | Pallet Wrap 500m | qty 834 | @ $16.80 | TX12 | $14,011.20
+
+Subtotal: $14,263.19
+Tax: $1,711.58
+Amount Due: $15,974.77
+
+Regards,
+Billing Team

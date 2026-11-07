@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice INV/2026/52265 from Prairie Distribution Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Distribution Ltd
+Vendor Tax ID: 28-5918169
+Invoice #: INV/2026/52265
+Invoice Date (DD/MM/YYYY): 04/07/2026
+Purchase Order: PO-2026-001204
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-ITH-0006 | Network Switch 24P | qty 2 | @ $324.44 | TX18 | $648.88
+
+Subtotal: $648.88
+Tax: $116.80
+Amount Due: $765.68
+
+Regards,
+Billing Team

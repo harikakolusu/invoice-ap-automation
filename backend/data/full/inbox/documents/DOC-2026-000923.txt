@@ -1,0 +1,19 @@
+Boreal Metals Inc.
+Tax ID: 82-5662052
+Remit to: Accounts Receivable, Boreal Metals Inc.
+
+                                INVOICE
+Invoice No:      BORE-26813
+Invoice Date:    May 4, 2026
+PO Number:       PO-2026-000720
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-RAW-0006   PP Granules 25kg                   211      289.46  TX05    61,076.06
+
+                                                  Subtotal:        61,076.06
+                                                  Tax:              3,053.80
+                                                  TOTAL DUE:       64,129.86

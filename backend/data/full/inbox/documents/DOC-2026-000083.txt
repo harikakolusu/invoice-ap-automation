@@ -1,0 +1,23 @@
+From: billing@atlas.example
+To: ap-inbox@buyer.example
+Subject: Invoice 034551 from Atlas Trading GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Atlas Trading GmbH
+Vendor Tax ID: 13-6292349
+Invoice #: 034551
+Invoice Date (DD/MM/YYYY): 05/02/2026
+Purchase Order: PO-2026-000109
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-MRO-0008 | Air Filter Panel | qty 76 | @ $10.14 | TX18 | $770.64
+
+Subtotal: $770.64
+Tax: $138.72
+Amount Due: $909.36
+
+Regards,
+Billing Team

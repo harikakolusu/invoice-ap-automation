@@ -1,0 +1,19 @@
+Beacon Electronics Ltd
+Tax ID: 14-0488787
+Remit to: Accounts Receivable, Beacon Electronics Ltd
+
+                                INVOICE
+Invoice No:      BEAC-39339
+Invoice Date:    2026-03-29
+PO Number:       PO-2026-000550
+Payment Terms:   NET45
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0010   Rack UPS 3kVA                        2       31.09  TX18        62.18
+
+                                                  Subtotal:            62.18
+                                                  Tax:                 11.19
+                                                  TOTAL DUE:           73.37

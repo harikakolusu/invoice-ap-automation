@@ -1,0 +1,25 @@
+From: billing@boreal.example
+To: ap-inbox@buyer.example
+Subject: Invoice BORE26812 from Boreal Metals Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Boreal Metals Inc.
+Vendor Tax ID: 82-5662052
+Invoice #: BORE26812
+Invoice Date (DD/MM/YYYY): 04/03/2026
+Purchase Order: PO-2026-000387
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-RAW-0004 | ABS Pellets 25kg | qty 15 | @ $5.65 | TX05 | $84.75
+- SKU-MRO-0003 | Ball Bearing 6204 | qty 12 | @ $18.49 | TX18 | $221.88
+- SKU-RAW-0002 | Aluminium Rod 20mm | qty 447 | @ $4.33 | TX05 | $1,935.51
+
+Subtotal: $2,242.14
+Tax: $140.96
+Amount Due: $2,383.10
+
+Regards,
+Billing Team

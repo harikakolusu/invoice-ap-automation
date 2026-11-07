@@ -1,0 +1,23 @@
+From: billing@prairie.example
+To: ap-inbox@buyer.example
+Subject: Invoice PRAI-28624 from Prairie Facility Services LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Prairie Facility Services LLC
+Vendor Tax ID: 39-2274486
+Invoice #: PRAI-28624
+Invoice Date (DD/MM/YYYY): 06/03/2026
+Purchase Order: none
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-SRV-0003 | Facility Cleaning Month | qty 2 | @ $137.59 | TX18 | $275.18
+
+Subtotal: $275.18
+Tax: $49.53
+Amount Due: $324.71
+
+Regards,
+Billing Team

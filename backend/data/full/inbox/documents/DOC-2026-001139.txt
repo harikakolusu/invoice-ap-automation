@@ -1,0 +1,19 @@
+Delta Logistics Pvt Ltd
+Tax ID: 85-1149041
+Remit to: Accounts Receivable, Delta Logistics Pvt Ltd
+
+                                INVOICE
+Invoice No:      DELT-36724
+Invoice Date:    2026-05-28
+PO Number:       PO-2026-000917
+Payment Terms:   NET60
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0001   Laptop 14in i7                      21       54.59  TX18     1,146.39
+
+                                                  Subtotal:         1,146.39
+                                                  Tax:                206.35
+                                                  TOTAL DUE:        1,352.74

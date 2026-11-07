@@ -1,0 +1,25 @@
+From: billing@boreal.example
+To: ap-inbox@buyer.example
+Subject: Invoice 037606 from Boreal Distribution LLC
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Boreal Distribution LLC
+Vendor Tax ID: 64-4717804
+Invoice #: 037606
+Invoice Date (DD/MM/YYYY): 30/06/2026
+Purchase Order: PO-2026-001195
+Terms: NET45
+Currency: USD
+
+Items:
+- SKU-OFF-0001 | A4 Copy Paper 5 reams | qty 23 | @ $72.01 | TX12 | $1,656.23
+- SKU-RAW-0003 | Copper Wire 2.5mm | qty 34 | @ $158.08 | TX05 | $5,374.72
+- SKU-RAW-0004 | ABS Pellets 25kg | qty 23 | @ $6.09 | TX05 | $140.07
+
+Subtotal: $7,171.02
+Tax: $474.49
+Amount Due: $7,645.51
+
+Regards,
+Billing Team

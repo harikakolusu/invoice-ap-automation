@@ -1,0 +1,22 @@
+Keystone Maintenance GmbH
+Tax ID: 90-5629787
+Remit to: Accounts Receivable, Keystone Maintenance GmbH
+
+                                INVOICE
+Invoice No:      KEYS-4353
+Invoice Date:    June 23, 2026
+PO Number:       PO-2026-001047
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-MRO-0007   Cable Ties 1000pk                  194      216.77  TX18    42,053.38
+ 2  SKU-MRO-0006   Welding Rods 5kg                    66        8.31  TX18       548.46
+ 3  SKU-MRO-0002   Hydraulic Oil 20L                   14        6.19  TX18        86.66
+ 4  SKU-OFF-0006   File Folders 50pk                    8       71.71  TX12       573.68
+
+                                                  Subtotal:        43,262.18
+                                                  Tax:              7,752.77
+                                                  TOTAL DUE:       51,014.95

@@ -1,0 +1,19 @@
+Kestrel Packaging Co.
+Tax ID: 48-8487768
+Remit to: Accounts Receivable, Kestrel Packaging Co.
+
+                                INVOICE
+Invoice No:      003752
+Invoice Date:    2026-02-06
+PO Number:       PO-2026-000004
+Payment Terms:   NET30
+Currency:        USD
+Bill To:         Orbit Manufacturing Inc. (fictional buyer)
+
+Ln  SKU            Description                        Qty  Unit Price  Tax        Amount
+--  -------------  ------------------------------  ------  ----------  ----  -----------
+ 1  SKU-ITH-0004   Wireless Keyboard                    2       50.19  TX18       100.38
+
+                                                  Subtotal:           100.38
+                                                  Tax:                 18.07
+                                                  TOTAL DUE:          118.45

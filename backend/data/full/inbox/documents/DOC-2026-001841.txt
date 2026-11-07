@@ -1,0 +1,23 @@
+From: billing@monarch.example
+To: ap-inbox@buyer.example
+Subject: Invoice 009199 from Monarch Equipment GmbH
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Monarch Equipment GmbH
+Vendor Tax ID: 76-7485142
+Invoice #: 009199
+Invoice Date (DD/MM/YYYY): 31/07/2026
+Purchase Order: PO-2026-001320
+Terms: NET60
+Currency: USD
+
+Items:
+- SKU-FAC-0005 | Coffee Beans 1kg | qty 25 | @ $5.55 | TX05 | $138.75
+
+Subtotal: $138.75
+Tax: $6.94
+Amount Due: $145.69
+
+Regards,
+Billing Team

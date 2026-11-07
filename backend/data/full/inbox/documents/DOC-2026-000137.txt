@@ -1,0 +1,23 @@
+From: billing@quanta.example
+To: ap-inbox@buyer.example
+Subject: Invoice 008118 from Quanta Trading Pvt Ltd
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Quanta Trading Pvt Ltd
+Vendor Tax ID: 56-7054910
+Invoice #: 008118
+Invoice Date (DD/MM/YYYY): 12/02/2026
+Purchase Order: PO-2026-000256
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-MRO-0005 | Hex Bolts M10 100pk | qty 166 | @ $17.80 | TX18 | $2,954.80
+
+Subtotal: $2,954.80
+Tax: $531.86
+Amount Due: $3,486.66
+
+Regards,
+Billing Team

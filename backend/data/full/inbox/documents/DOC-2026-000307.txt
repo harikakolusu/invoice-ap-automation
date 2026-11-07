@@ -1,0 +1,25 @@
+From: billing@kestrel.example
+To: ap-inbox@buyer.example
+Subject: Invoice KEST-16691 from Kestrel Metals Co.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Kestrel Metals Co.
+Vendor Tax ID: 61-2723773
+Invoice #: KEST-16691
+Invoice Date (DD/MM/YYYY): 28/02/2026
+Purchase Order: PO-2026-000219
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-ITH-0003 | Monitor 27in QHD | qty 2 | @ $1,795.60 | TX18 | $3,591.20
+- SKU-ITH-0004 | Wireless Keyboard | qty 7 | @ $42.87 | TX18 | $300.09
+- SKU-ITH-0005 | USB-C Hub 7-port | qty 9 | @ $61.17 | TX18 | $550.53
+
+Subtotal: $4,441.82
+Tax: $799.54
+Amount Due: $5,241.36
+
+Regards,
+Billing Team

@@ -1,0 +1,24 @@
+From: billing@harbor.example
+To: ap-inbox@buyer.example
+Subject: Invoice 049908 from Harbor Facility Services Inc.
+
+Hello AP team, please find our invoice details below.
+
+Vendor: Harbor Facility Services Inc.
+Vendor Tax ID: 77-0059972
+Invoice #: 049908
+Invoice Date (DD/MM/YYYY): 26/06/2026
+Purchase Order: PO-2026-000906
+Terms: NET30
+Currency: USD
+
+Items:
+- SKU-OFF-0007 | Desk Organizer | qty 42 | @ $94.80 | TX12 | $3,981.60
+- SKU-FAC-0001 | Drinking Water 20L | qty 2 | @ $3.58 | TX05 | $7.16
+
+Subtotal: $3,988.76
+Tax: $478.15
+Amount Due: $4,466.91
+
+Regards,
+Billing Team
